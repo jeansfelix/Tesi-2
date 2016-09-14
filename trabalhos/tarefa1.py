@@ -63,7 +63,14 @@ for pathArq in arquivos:
     for palavra in palavras:
         taggeado = nltk.pos_tag(palavra)
 
-        gramatica = "NNPS: {<NNP>*}"
+        gramatica = """THENNP: {<DT.*>+<NNP.*>+}
+                       NNPS: {<NNP.*>+<NN.*>+}
+                       NNPVERBO: {<NNP.*>+<VBZ.*>+}
+                       NNPIN: {<NNP.*>+<IN.*>+}
+                       INNNP: {<IN.*>+<NNP.*>+<POS.*>+<NNP.*>+}
+                       FALA: {<NNP.*>+<:.*>+}
+                       FALADO: {<:.*>+<NNP.*>+}"""
+
         agrupador = nltk.RegexpParser(gramatica)
         pedregulho = agrupador.parse(taggeado)
 
@@ -73,9 +80,13 @@ for pathArq in arquivos:
                 entidadeNomeada = ''
                 for no in pedra.leaves():
                     if len(entidadeNomeada) > 2:
-                        entidadeNomeada += ' ' + no[0]
+                        if no[1] == "NNP":
+                            entidadeNomeada += ' ' + no[0]
+                        if no[1] == "POS":
+                            entidadeNomeada += no[0]
                     else:
-                        entidadeNomeada = no[0]
+                        if no[1] == "NNP":
+                            entidadeNomeada = no[0]
                 if len(entidadeNomeada) != 0:
                     entidadesNomeadas.append(entidadeNomeada)
 
