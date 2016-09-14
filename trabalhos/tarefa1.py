@@ -39,6 +39,8 @@ for palavra in palavras:
     gramatica = """THENNP: {<DT.*>+<NNP.*>+}
                    NNPS: {<NNP.*>+<NN.*>+}
                    NNPVERBO: {<NNP.*>+<VBZ.*>+}
+                   NNPIN: {<NNP.*>+<IN.*>+}
+                   INNNP: {<IN.*>+<NNP.*>+<POS.*>+<NNP.*>+}
                    FALA: {<NNP.*>+<:.*>+}
                    FALADO: {<:.*>+<NNP.*>+}"""
     agrupador = nltk.RegexpParser(gramatica)
@@ -52,6 +54,8 @@ for palavra in palavras:
                 if len(entidadeNomeada) > 2:
                     if no[1] == "NNP":
                         entidadeNomeada += ' ' + no[0]
+                    if no[1] == "POS":
+                        entidadeNomeada += no[0]
                 else:
                     if no[1] == "NNP":
                         entidadeNomeada = no[0]
