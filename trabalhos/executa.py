@@ -18,7 +18,7 @@ def processaTemporada(temporada):
     if not exists(pathDestino):
         makedirs(pathDestino)
 
-    todasEntidadesNomeadas = []
+    todasEntidadesNomeadas = dict()
 
     for pathArq in arquivos:
         arquivo = open(join(path, pathArq))
@@ -84,11 +84,16 @@ def processaTemporada(temporada):
                     cont += 1
                 saida.write(']\n')
 
-            todasEntidadesNomeadas += entidadesNomeadas
+            #todasEntidadesNomeadas += entidadesNomeadas
+            for entidadeNomeada in entidadesNomeadas:
+                if entidadeNomeada in todasEntidadesNomeadas:
+                    todasEntidadesNomeadas[entidadeNomeada] += 1
+                else:
+                    todasEntidadesNomeadas[entidadeNomeada] = 1
 
         saida.close()
 
-    return  list(set(todasEntidadesNomeadas))
+    return  todasEntidadesNomeadas
 
 def main():
     if len(sys.argv) != 2:
@@ -105,16 +110,21 @@ def main():
 
     temporadas = [a for a in listdir(caminhoEpisodios)]
 
-    todasEntidadesNomeadas = []
+    todasEntidadesNomeadas = dict()
     for temporada in temporadas:
         entidadesNomeadasPorTemporada = processaTemporada(join(caminhoEpisodios, temporada))
-        todasEntidadesNomeadas = list(set(todasEntidadesNomeadas + entidadesNomeadasPorTemporada))
+        #todasEntidadesNomeadas = list(set(todasEntidadesNomeadas + entidadesNomeadasPorTemporada))
+        for chave in entidadesNomeadasPorTemporada.iterkeys():
+            if chave in todasEntidadesNomeadas:
+                todasEntidadesNomeadas[chave] += entidadesNomeadasPorTemporada[chave]
+            else:
+                todasEntidadesNomeadas[chave] = entidadesNomeadasPorTemporada[chave]
 
     pathCsvEntidadesNomeadas = 'entidadesNomeadas.txt'
     csvEntidadesNomeadas = open(pathCsvEntidadesNomeadas, 'w+')
 
-    for entidadeNomeada in todasEntidadesNomeadas:
-        csvEntidadesNomeadas.write(entidadeNomeada + '\n')
+    for entidadeNomeada in todasEntidadesNomeadas.iterkeys():
+        csvEntidadesNomeadas.write(entidadeNomeada + ' ' + str(todasEntidadesNomeadas[entidadeNomeada]) + '\n')
 
     print 'Terminou!!!'
 

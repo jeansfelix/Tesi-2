@@ -57,6 +57,7 @@ def limpaTexto(texto):
 
     trecho = re.sub(r"(\n.*)?([A-Z][a-z]*[ ]?)?Edit\n", r'', trecho)
     trecho = re.sub(r"(\n.*)?([A-Z][a-z]*[ ]?)?([Uu]ncredited\n.*)", r'', trecho)
+    trecho = re.sub(r"(\.[0-9])", r' ', trecho)
     textoProcessado = re.sub(r"(\n.*)?([A-Z][a-z]*[ ]?)?([Ss]tarring\n.*)", r'', trecho)
 
     return textoProcessado
