@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-import sys, nltk, codecs
+import sys, nltk, codecs, re
 from os import listdir, makedirs, pardir
 from os.path import isfile, isdir, join, basename, exists, abspath
 
@@ -46,11 +46,14 @@ def processaTemporada(temporada):
         for sentencaTokenizada in listaDeSentencaTokenizada:
             taggeado = nltk.pos_tag(sentencaTokenizada)
 
-            gramatica = """THENNP: {<DT.*>+<NNP.*>+}
-                           NNPS: {<NNP.*>+<NN.*>+}
+            if(len(taggeado) == 0):
+                continue
+
+            gramatica = """NNPS: {<NNP.*>+}
                            NNPVERBO: {<NNP.*>+<VBZ.*>+}
-                           NNPIN: {<NNP.*>+<IN.*>+}
+                           OFTHE: {<NNP.*>+<IN><DT><NNP.*>+<NNS.*>*}
                            INNNP: {<IN.*>+<NNP.*>+<POS.*>+<NNP.*>+}
+                           NNPOSTROFE: {<NNP.*><POS><NNP.*>}
                            FALA: {<NNP.*>+<:.*>+}
                            FALADO: {<:.*>+<NNP.*>+}"""
 
@@ -63,11 +66,23 @@ def processaTemporada(temporada):
                     entidadeNomeada = ''
                     for no in pedra.leaves():
                         if len(entidadeNomeada) > 2:
+                            #print 'to no if'
+                            #print no
                             if no[1] == "NNP":
+                                entidadeNomeada += ' ' + no[0]
+                            if no[1] == "IN":
+                                if no[0] != "of":
+                                    break
+                                entidadeNomeada += ' ' + no[0]
+                            if no[1] == "DT":
                                 entidadeNomeada += ' ' + no[0]
                             if no[1] == "POS":
                                 entidadeNomeada += no[0]
+                            if no[1] == "NNS":
+                                entidadeNomeada += ' ' + no[0]
                         else:
+                            #print 'to no elze'
+                            #print no
                             if no[1] == "NNP":
                                 entidadeNomeada = no[0]
                     if len(entidadeNomeada) != 0:
@@ -95,19 +110,7 @@ def processaTemporada(temporada):
 
     return  todasEntidadesNomeadas
 
-def main():
-    if len(sys.argv) != 2:
-        print "Deve ser passado o nome do diretorio."
-        exit(1)
-
-    diretorioPai = abspath(join(sys.argv[1], pardir))
-
-    caminhoEpisodios = sys.argv[1]
-    caminhoEpisodiosPreProcessados = join(diretorioPai, "PreProcessado")
-
-    if not (isdir(caminhoEpisodiosPreProcessados)):
-        os.mkdir(caminhoEpisodiosPreProcessados)
-
+def gerarTodasEntidadesNomeadas(caminhoEpisodios):
     temporadas = [a for a in listdir(caminhoEpisodios)]
 
     todasEntidadesNomeadas = dict()
@@ -119,12 +122,40 @@ def main():
                 todasEntidadesNomeadas[chave] += entidadesNomeadasPorTemporada[chave]
             else:
                 todasEntidadesNomeadas[chave] = entidadesNomeadasPorTemporada[chave]
+    return todasEntidadesNomeadas
 
-    pathCsvEntidadesNomeadas = 'entidadesNomeadas.txt'
+def gerarCSV(pathCsvEntidadesNomeadas, todasEntidadesNomeadas):
     csvEntidadesNomeadas = open(pathCsvEntidadesNomeadas, 'w+')
 
     for entidadeNomeada in todasEntidadesNomeadas.iterkeys():
         csvEntidadesNomeadas.write(entidadeNomeada + ' ' + str(todasEntidadesNomeadas[entidadeNomeada]) + '\n')
+    csvEntidadesNomeadas.close()
+
+def gerarCSVFrequenciaMaiorQueUm(entidadesComFrequencia):
+    entidadesNomeadas = re.sub(r".*[ ]1\n", r'', entidadesComFrequencia)
+
+    csvEntidadesNomeadas = open('entidadesNomeadas.txt', 'w+')
+
+    csvEntidadesNomeadas.write(entidadesNomeadas)
+    csvEntidadesNomeadas.close()
+
+def main():
+    if len(sys.argv) != 2:
+        print "Deve ser passado o nome do diretorio."
+        exit(1)
+
+    diretorioPai = abspath(join(sys.argv[1], pardir))
+
+    caminhoEpisodios = sys.argv[1]
+
+    todasEntidadesNomeadas = gerarTodasEntidadesNomeadas(caminhoEpisodios)
+    gerarCSV('entidadesNomeadasComFrequencia.txt', todasEntidadesNomeadas)
+
+    csvEntidadesNomeadasComFrequencia = open('entidadesNomeadasComFrequencia.txt', 'r')
+    entidadesComFrequencia = csvEntidadesNomeadasComFrequencia.read()
+    csvEntidadesNomeadasComFrequencia.close()
+
+    gerarCSVFrequenciaMaiorQueUm(entidadesComFrequencia)
 
     print 'Terminou!!!'
 

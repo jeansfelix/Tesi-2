@@ -1,3641 +1,2135 @@
 Benjen Stark 18
 Catelyn II 3
 Ser Rodrik 12
-Leaf 6
-Greyjoy 19
+Leaf 16
+Greyjoy 22
 Jamie Sives 5
 Rob Roy 3
-Hornwoods 1
+Hornwoods 3
 Maisie Williams 81
-Catelyn IX 1
-Harald 3
-Lannisters 109
-Tywin Ser Meryn 1
-Antler 1
-Boy Stone 1
+Harald 4
+Lannisters 117
 Catelyn IV 6
-Falyse 1
-Lord Bolton's 1
-Kubrick 1
-King's Tommen 1
-Watch 164
+Falyse 4
+Val 2
+Watch 90
 Despondent 2
-Mantari 1
 Prince Bran Stark 16
-King's Landing Ned Stark 1
-Free Folk 14
-King's Landing Tobho Mott 1
-James McKenzie Robinson 1
-Black Cliffs 1
-Eastwatch-by-the-Sea 2
-Tyrell Soldier 1
-Michael Hough 1
-Alerie Tyrell 1
-Michael Condron 11
-Joe Hewetson 1
-Greco-Roman 1
-Whispering Wood 3
-Slaver 4
+Free Folk 13
+Mark Quigley 4
+Eastwatch-by-the-Sea 9
+Michael Condron 12
+Three-eyed 8
+Slaver 2
 Second Sons 6
-Jojen Karl 1
-Dennis McKeever 9
-Ian McElhinney 27
-Elia 4
+Dennis McKeever 6
+Ian McElhinney 26
+Elia 31
 Blackwater Bay 7
-House Gargalen 1
-Dosh 2
-Khalasar 1
-Lorren 1
-Westeros.org 3
-Missandei Daenerys Targaryen 1
-Marko Jelic 1
-Cersei-the-character 1
-Miguel Sapochnik 2
-Sack 11
-Ser Barristan Selmy Daenerys 1
+Khalasar 3
+Lorren 2
+Westeros.org 10
+D.B 87
+Miguel Sapochnik 6
+Sack 8
 House Mazin 3
+Caesar 2
 Sweetrobin Arryn 5
-Paul Kennedy 1
-New Michael Condron 1
-Slavko Juraga 2
+Go 3
+Selyse Baratheon 9
 King Aegon V Targaryen 2
-Baelor 5
-Neil Fingleton 1
-Amy Dawson 1
-Christie 1
-Quaithe Jorah 1
-Rast 13
+Baelor 60
+Christie 5
+Prince Trystane Martell 5
+Rast 45
 Robin Arryn 10
-Lord Petyr 'Littlefinger 3
-Kristján Páll Kristjánsson 1
-Dayne 3
-Arya Needle 1
-Septon 4
+Pypar 28
+Dayne 10
+Septon 3
 Tully Frey 3
 Lord Yohn Royce 16
-Mandon Tyrion 1
 Northern Houses 4
-Samwell Tarly 102
-Davos Salladhor 1
-Sam Jon 3
-Queen Daenerys Targaryen 28
-Tommen Baratheon 15
+Samwell Tarly 104
+Queen Daenerys Targaryen 27
+Tommen Baratheon 14
 Theon VI 3
 Rob Ostlere 2
 Sam Gamgee 2
-Game 53
-House Stark 24
-King's Landing Seasons 1
-Richard Sharpe 1
-Tullys Freys 1
+Game 108
+House Stark 23
 Queen Selyse 3
 Ser Lorimer 2
-Akira Kurosawa 1
-Alice Hewkin 1
-Alexandra Dowling 1
-Budget 1
+Jhiqui 2
 Daenerys III 8
-Jade Sea 1
-Rodger 2
-Sept. Cersei 1
-Faces 2
+Faces 4
 Prince Rhaegar Targaryen 3
 Aimee Richardson 9
-Lady Shella 1
-McElhennon 1
-Slynt Thorne 1
-Eyrie Guard 1
-Queen 31
-Lame Lothar Frey 1
-—who 1
+Malko 8
+Queen 36
 Cersei Lannister 63
 DeObia Oparei 6
 Best Dramatic Presentation 5
-Choosing 1
-Red Priest Pristess 1
-Lannisters – 1
-Dismissive 1
-Isles 1
+Home 2
 Thin 3
 Lord Renly 5
-Wire 2
 Steve Cash 2
 Ser Vance Corbray 3
-Hoster Tully 10
+Huffington Post 2
 Ben Crompton 29
-Barethon 1
-Book 14
-Janos Slynt 23
-Captain Ternesio Terys Arya 1
+Book 4
+Janos Slynt 25
 Dean-Charles Chapman 28
-Oznak zo Pahl 2
 San Diego Comic-Con 2
 House Arryn 7
-Samwell Stone 1
-Star 1
+Star 3
 Arya VIII 3
+June 12
 Manderlys 9
-Seven King Renly 1
-Stag 1
-Ken Fletcher 1
-Seven-in-One God 1
-Kristina Krepela 1
-Owen Teale 23
-Diana Rigg 15
-Podrick Brienne 1
-Nicholas Boulton 1
-Podrick Dalt 1
-Patrick Ryan 1
+Houses 11
+Owen Teale 21
+Lady Sansa Stark 6
 Tudor 8
-Edwards 1
+Oros 3
 Shireen's Greyscale 2
-Aeryn Walker 1
 Lord Janos 2
-TV-title 1
-Tickler–sadistically 1
-Blu-ray 37
-Pentos 7
-Widow 1
-Sean Bean 2
-Jaime Harrenhal 1
-Mance Rayder Jon Snow 1
-Swear 1
+Blu-ray 36
+Pentos 31
 Robert Render 2
-Bay Low Valyrian 1
-Crown 11
-King Joffrey Baratheon 25
-Rhoyne River 4
+Crown 12
+King Joffrey Baratheon 26
+Crows 26
+Rhoyne River 3
 Usurper 2
-Ned Stark's Ice 1
-Mero 4
-Lord Commander 68
-Headey 2
-Ser Marwyn Belmore 1
+Mero 14
+Lord Commander 43
+Headey 33
 Bran II 2
-Littlefinger Sansa Stark Mole's Town 1
-Wolf Bread 1
 Lord Rickard 9
-Grabs Reek 1
-Space Nine 1
-Cersei Robert 1
-Prince Oberyn 5
-Ellaria Myrcella 1
-Jaqen H'ghar 61
+Jaqen H'ghar 64
 Reece Noi 3
-Ser Deziel Dalt 1
-Jer O'Leary 1
-Lore 3
-Lord 122
-Catelyn Stannis 1
-Arryn 5
-Pantheon 1
-Noel Cecil 1
+Lore 18
+Lord 114
+Paths 3
+Arryn 20
 Short Form 3
 Massacre 2
-Negotiate 1
-Quaithe 2
-Sansa Sandor 1
-Joanna Hudson 1
-Water Garden 1
-New Ghis 1
-Sandor Polliver 1
-A 6
-Pycelle 36
-Catelyn Jaime 2
-Oberyn Gregor 1
-Chapman 2
-Dermot Keaney 1
-Will 3
-Outstanding Sound Mixing 1
-Owns 1
-Banners 1
-Arya 244
-Vincent McCabe 1
-Eugene Simon 16
-Prince That Was 1
+Quaithe 11
+Jack 2
+Jessica Henwick 7
+A 8
+Pycelle 88
+Arys 2
+Chapman 11
+Will 14
+Ghita 4
+Owns 3
+Banners 4
+Arya 537
+Eugene Simon 15
 Petyr 'Littlefinger 5
-Nigel O'Neill 2
 Simon Armstrong 4
-Walkers 7
-Jaime Tyrion 2
+Walkers 6
 Ser Gregor 9
-Clegane 13
-Khal Qorro 3
+Clegane 20
+Khal Qorro 2
 Throne Room 2
-Lloyd 1
-Theon.Lord Balon Greyjoy 1
-Northern Bannerman 1
-Gary Oliver 2
-Jory Cassel 11
-Osha Bran 3
+Beyond 3
+Jory Cassel 12
 Andy Beckwith 5
-Karstark 22
-Paul Rattray 2
-Weiss 10
-Laurence Doherty 2
-Mackenzie Dean 1
-Oberyn Olyvar 1
-Yoren 9
-Sharpe 1
-Triarch 1
-Brynden 10
-Rose Leslie 28
-Tommy Dunne 6
-Red Comet 1
-Aegon V Targaryen 2
-Sansa Petyr Baelish 1
-Dragonglass 4
-Bones Jon 1
-Golden Crown 5
-Faceless 11
-Kearns 5
-Glen Barry 1
-Bryan Cogman 38
-Master Torturer 4
-Lord Smalljon Umber 2
-Pate 1
-Oona Chaplin 16
-Lord Balon 1
-Primetime Emmy Awards 1
-Ser Emmon Cuy 1
-Mercy 3
-Paddy Wallace 1
-Copper 1
-Old Man 2
-Norvosi 3
+Karstark 30
 Matteo Elezi 2
-Dim Dalba 1
-Danny O'Connor 1
-Thrones — 1
-New Sun 1
+Paul Rattray 2
+Weiss 126
+Laurence Doherty 2
+Yoren 35
+Sharpe 2
+Rhaenys 3
+Rose Leslie 28
+Tommy Dunne 5
+Red Comet 2
+Conqueror 5
+Dragonglass 5
+Golden Crown 5
+Faceless 10
+Kearns 4
+Bryan Cogman 51
+Lord Smalljon Umber 2
+Master Torturer 3
+Pate 2
+Oona Chaplin 16
+Mercy 8
+Direwolf 3
+Old Man 2
+Greyguard 3
 Jon XI 4
-Fennez 1
-Pat Mooney 1
 Elia Martell 17
-Shadow-creature 1
-Shield 1
-Graeme Peacock 7
+Graeme Peacock 6
 Jefferson Hall 2
-Luke Roberts 1
-Samwell Tarly Gilly 2
 Ramsay Bolton 75
 Lord Greatjon Umber 3
-King’s Landing 6
-Walder 6
-Fighting Pits 2
-Nagga's Bones 1
-TAKE 1
-Fennesz 3
-Wildfire 4
+Walder 13
+Fennesz 10
+Mikken 5
+Wildfire 6
 Clifford Barry 2
-Rob Callender 1
 Croft 2
+Duncan 2
 Stephanie Blacker 2
 Meera Reed 27
-Swords Tywin 1
-Stanley Kubrick 1
-Calchas 1
-Michael Hayes 2
-Viserys Ser Jorah 1
-HBO's Viewer 1
-Old Nan Bran 1
-Jerome Flynn 62
+Black Cells 2
+Greensight 6
+Jerome Flynn 61
 Natalia Tena 20
-Yorks 1
-Holy 1
+Many-Faced God 5
+Robert Baratheon's Kingsguard 2
 Samwell V 2
-Tywin Joffrey 1
-Wars 7
-Alan Taylor 5
-Cersei’s 2
-Braavosi Madam 1
-Davos Stannis 1
-Sands 1
-Lancel Baelish 1
+Wars 6
+Alan Taylor 17
+Son of the Harpy 5
+Sands 2
+Ward 2
+Must 2
 Liam Cunningham 46
 Word 4
-Basilisk Isles 1
 King Stannis Baratheon 30
-Lady Cersei 1
-Was Robb Stark 1
-Lady Lyanna Mormont 1
-Robert Eddard 3
-Gianpiero Cognoli 1
-Harrion 2
-AWOIAF 1
-Belicho Paenymion1 1
-Tormund's 1
-Sunspear 1
-Crossroads 6
-Egg 1
-Pointy 2
-Red Riding TV 1
-Sansa King's Landing 1
+Sapochnik 3
+Harrion 3
+Sunspear 7
+Kerry Ingram 12
+Egg 8
+Pointy 4
 Telltale 2
 Axell Florent 2
-Jack Hickey 1
-National 1
-Argonauts 2
-Cersei 295
-Amanda Marcotte 1
-Horn 1
-King Joffrey's 1
+September 5
+Cersei 735
 Mighty 6
-Vit 1
-Omar Youssef 1
+Costume 4
 Castle Stokeworth 6
 Julius Caesar 3
-Robert greet 1
-Mad King Aerys Targaryen 1
+Please 9
 Lena Headey 77
 Mark Gatiss 2
-Raiders 1
-Irish-accented Jack Gleeson 1
-Aifric O'Donnell 1
-Lisa Walsh 1
-Michael Shaeffer 1
-Karstarks 15
-Andrei Tarkovsky 1
-Third Kind 1
+Karstarks 17
 Harrold Hardyng 4
-Man 1
-Jessica Henwick 7
-Christopher Newman 1
-Jon Mance 1
 Tyrion VIII 6
-Iphigenia 2
-Yuri Kolokolnikov 1
-Xbox One 1
-Ramsay Myranda’s 1
-Descent9 1
-Janos 6
-Brent Hinds 1
-Houses Lannister 1
-Red Keep 71
-Blood Rickard Karstark 1
-Michael Heath 1
+Iphigenia 3
+Uncle 2
+Janos 23
+Red Keep 66
+Jack Bender 2
 First Sword 3
-Ned Stark 52
+Ned Stark 55
 Jon III 7
-Oberyn Martell 32
-Astapor Daenerys 1
-Lysa Tully 3
-Winterfell —All 1
+Aggo 2
+Oberyn Martell 34
 Set 2
-Ser 1
-Conor O'Sullivan 1
-Acting Hand 1
+Ser 3
+Septa Mordane 14
 Maisie Dee 3
 Robert Pugh 5
-King Robert Eddard 1
-Sea 1
-Queen Margaery Tyrell 9
-New Farlen 1
-Market Trader 1
-Anthony Boyle 1
+See 4
+Queen Margaery Tyrell 10
 Lord Eddard 16
-Scouts Robb Stark 1
-Baharov 1
-Pypar 6
-Crag 1
+Fairmarket 3
+Lord Petyr 'Littlefinger 3
 In-Episode Guide 3
-Maidenvault 1
-Fortune 1
-Blackwater Ser Boros Blount 1
-Kirsty Nicholls 1
-Williams 2
-Young Cersei Lannister 1
-Mace Tyrell Joffrey 1
-Arya King's Landing 1
+Titan's Bastard 3
+Fortune 8
+Williams 10
 Greenseer 2
-Catelyn Roose 1
+Andal 2
 POV 21
-Yara Asha 4
-Amory 1
 Sheelba 2
-House Martell Dorne 1
-Eddard Stark 93
-High Priestess 6
-Mockingbird Dying 1
-Tarth Ser Loras Tyrell 1
-First Ranger 4
+Eddard Stark 102
+First Ranger 3
+Frostfangs 3
 Lord Blackmont 4
 Gibbons 2
 Bank 2
-Ryman Frey 1
-Jorah Quaithe 1
-Wise 1
-Gendry 28
-Bran Old Nan 1
-Priestess 2
-Morgan C. Jones 1
+Wise 2
+Gendry 97
+Knight 5
 Aerys II 8
 John Bradley-West 4
-Bastard Letter 1
+Blue Fork of the Trident River 2
 Noah Taylor 8
-Joe Claflin 1
 Gold Dragons 9
-Cersei Shae 1
-Black Rat 1
-Cersei Jaime 4
 Eros Vlahos 4
-Kill meǃ KILL MEǃ KILL MEǃǃǃ 1
 Ser Jaremy Mallister 2
 Crow 2
-Cogman 7
-Longclaw 3
-Ser Alliser Thorne 35
-Septa Unella Queen Margaery Tyrell 1
-Miles 1
-Tansy 1
-Thirteen 8
+Cogman 75
+Protector of the Realm 7
+Ser Alliser Thorne 34
+Tansy 6
+Thirteen 7
 Robert Arryn 2
-Ghiscari 4
+Ghiscari 6
+Book of the Maiden 2
 Trystane Martell 11
-Slaver's Bay TV-Yezzan 1
-Lord Hoster Tully​ 1
-Pypar's 1
-Valyrians 1
-Cinnamon Wind 1
+Valyrians 2
+Newborn Bolton 2
+Podeswa 9
 Lhazareen 2
-Telltale Games Series 1
-Ser Davos Seaworth 31
+Nakloz 10
+Ser Davos Seaworth 32
 Antonia Christophers 2
-Cassie Friel 1
-Jonathan Ryan 1
-Rivermen 1
-Ciaran McMahon 1
-Brendan O'Rourke 1
-Oliver Ford Davies 1
 Ser Willis Wode 4
-Brienne Tarth 7
 Purple Wedding 2
 Free 13
 Dez McMahon 2
-Jaime Ned 1
-Frey 33
-Entertainment Weekly 14
+Frey 35
+Entertainment Weekly 13
 Others 2
-Thrones ​​until 1
-White Sword Tower 3
-Against Cersei 1
+White Sword Tower 2
 King Aerys II Targaryen 2
-Mammoths 1
-Jason Momoa 21
-Whores 1
-Realms 1
+Jason Momoa 11
+George R. R. Martin 2
+Beattie 2
 Crossroads Inn 5
-Turns 1
-Cannae 1
-Roose Ramsay 4
-Mustapha Rachidi 1
-Willem Darry 1
-House Smallwood 1
-Atlantic Ocean 1
+Arys Oakheart 2
 Memorial Day 6
-Sexposition 1
-Sandor Clegane​ 1
+Dongo 2
 Ser Loras 15
-Michelle Costello 1
-Ruairí Heading 1
 Great Ranging 3
 Queen Mother Cersei Lannister 7
+Calgary 2
+Mockingbird 7
 Lyonel Baratheon 2
-Glen 1
-Iron Throne 85
-Northern England 1
+Iron Throne 79
+Sweetling 3
+Canada 3
 Pet 2
-Tallhart 1
-King's Landing Brienne 1
+Rose 12
+Tallhart 2
 Stark Officer 4
 Joe Dempsie 22
-Eddison 1
-Alan McKee 1
-Shaggydog 3
-Dwarf 6
-Samuel Paul Small 1
-Dragons Brusco 1
+Shaggydog 14
+Dwarf 12
 King Maegor 4
-Sandor Arya 1
-Grand Admiral 1
-Charles Jarman 1
 Water 13
-Harpies 1
-Seven A Silent Sister 1
-Nights Watch 1
-Gold Cloak 1
-Annette Hannah 1
-Pit Fighter 2
-Bronn 66
-Unidentified Dothraki 1
+Bronn 203
+Soldier 3
 House Clegane 2
 Lord Harald Karstark 3
 Black Walder Rivers 5
-Tully Riverrun 1
+Annoyed 2
 Skrein 3
-Daenerys’ 2
-Dance 49
-Alik Sakharov 3
-Dohaeris — 1
+Dance 43
+Alik Sakharov 11
+Blessed 2
 Elyes Gabel 7
 Dan Hildebrand 3
 Ser Amory 3
-Morghulis Gelmarr 1
-Ser Jorah 19
-Dawn 1
-True Telling 1
-Lady Olenna 5
-Honors 1
-Drama Series – David Nutter 1
-King Stannis 2
+Ser Jorah 21
+Dawn 7
+Lady Olenna 6
+King Stannis 3
 Closer 2
-Allon Sylvain 1
-Feast Crows 18
 Ali Lyons 2
 Meena Rayann 3
-Deeply 1
-Howland 1
-Fionn Kernan 1
-Snow 4
-Septas 1
+Howland 6
+Snow 20
+Septas 2
 House Glover 3
-Waldra Frey 1
-Forest 34
+Ireland 2
 Rickard Stark 2
-Queen Daenerys 4
-Euron 26
-Drogon 19
-Tycho Nestoris 14
+Queen Daenerys 6
+Sorry 2
+Drogon 53
+Tycho Nestoris 13
 Angelique Fernandez 2
-Winston Davis 1
+Battle of the Trident 5
 Charlotte Hope 8
-Lord Varys Tywin 1
-Southern 1
-Osha 17
+Osha 79
 Lysa Arryn 15
 Queen Talisa 3
-Flowers 1
 Tobias Menzies 6
-Murray McArthur 1
-James Tolcher 1
-Saddle 1
-Doran’s 2
-Maron Greyjoy 1
-CG 1
-Soldier Tom 1
-Iona Clarke 1
-Olyvar 8
-Broken Man 1
-Olenna Cersei 1
-George R. R. Martin 1
-Eddie Elks 1
-Night 277
-Hugh Irvine 1
-Eddard XIII 1
-Cersei Olenna 1
-Red Priestess 14
+Olyvar 25
+Night 21
+Trant 3
+Biter 17
+Viserion 16
+Red Priestess 13
 Ralph Ineson 5
-Jon Melisandre 1
-Smallfolk 1
-Peter Dinklage 75
-Lord Dagos Manwoody 1
-Kingsroad 37
+Peter Dinklage 33
+Kingsroad 39
 John Bradley 53
+Alerie Hightower 2
 Moat Cailin 25
 Harry Lloyd 20
-Alayne III 1
-Lost Lord 1
+Roslin 3
 Princess Myrcella 9
-Catelyn Roose Bolton 1
-Windblown 1
+Oznak 2
+Write 2
 Sapphire Isle 4
-Graham Charles 1
-Sword 2
-Illyrio 3
-Alyssa Rosenberg 1
-Sworn 1
-Tourney Herald 1
-Lancel 23
-Horses 1
-Byron Swann Rhaenyra 1
-Seven Gods 1
-Frakhas 1
+Illyrio 15
+Tell 3
+D 3
+Glory 3
 Stop 2
-Brienne Melisandre 1
 Silver Stags 3
-Tywin Hand 1
 Catelyn Tully 3
-Slavko Sobin 1
-Ser Aliser Thorne 1
-Ser Harys Swyft 1
-Direwolf 3
-President 1
-Farther 1
-Robert king 1
-Honor Torrhen Karstark 1
+Ser Meryn Trant of the Kingsguard 4
+Lord of the Vale 2
+Do 2
 Meereenese 3
-VI 1
 Riverlands 54
-Arya Starkː 1
-David Fennelly 1
-Great Pyramid 9
-Sansa Shae 1
-Royal Steward 6
+Great Pyramid 8
+Royal Steward 5
 Orys Baratheon 3
-Gene Hackman 1
-Linda Antonsson 1
-Roose Bolton Warden 1
 Joel Fry 8
-Nymeria 7
-Martyn 3
-Jackie Gleason 1
-Mine 1
+Nymeria 28
+Martyn 10
+Mine 3
 Lord Bolton 6
 Princess Sansa Stark 26
-Dean S. Jagger 1
-Lordsport 1
-Rome 1
-Memorial Day Weekend 1
-Varys Tyrion 3
-Arryn – 1
-Hairstyling 1
-Maro Drobnic 1
+Lordsport 2
+Daeron 4
+Thank 2
 Lady Joyeuse Erenford 3
-Mhysa 2
-Conor Delaney 1
+Mhysa 12
 Sansa VII 3
-Sparrows Faith Militant 1
+Heward 3
+Littefinger 2
 Raven 2
-Robb Stark Edmure Tully 1
-King's Landing Season 1
-Sam Aemon 1
-Reaver 1
-Trident 22
-Mhaegen 1
-Ella Tweed 1
-Daenerys Grey Worm 1
-Grahame Fox 1
-Prince Tommen Baratheon 14
-Narrow Sea 36
-Castle Black – 1
-Vaes Dothraki 1
-Lyarra Stark 1
-Walder Roose 1
-Dr. Julian Bashir Star Trek 1
-Pat McGrath 1
-House Tarth 2
-Morning 1
-Sir John Standing 1
-Philip Philmar 1
-Freys 19
-Doran Martell 22
-Vhagar 2
-New Zealand 1
-Arya XIII 2
-Jon Karl 1
-Ser Pounce 5
+Director's Guid 2
+Trident 14
+Mhaegen 4
+Xaro 6
 John Stahl 6
-Lords 1
-Mary Sue 1
-Lys 2
-Tristan McConnell 1
-Mortal Kombat 1
-Arya Polliver 1
-George Appleby 1
-King Mance Rayder 1
-Mance Jon 2
-Alcazar 4
-Prince 28
-Lothar Frey 6
-Sick 1
-Mummer 1
-Jon Craster's Keep 1
-Grey Worm 95
+Prince Tommen Baratheon 14
+Narrow Sea 35
+Gerold Hightower 3
+Lancel 62
+House Tarth 2
+Freys 26
+Doran Martell 22
+Vhagar 4
+Ser Pounce 4
+Lords 2
+Lys 7
+Conan 2
+Ser Arthur 12
+Cillean Campbell 2
+Prince 32
+Again 2
+Lothar Frey 5
+Hannah Waddingham 5
+Grey Worm 97
 Lord Yohn 5
 Chuku Modu 2
-Benjen Olly 1
 Luthor Tyrell 2
-Daario 29
-White Walkers’ 1
-Between 1
-Rodrik Greyjoy 1
-Patrick Molloy 1
-Watch Officer 23
+Daario 62
+Genna 3
+Tygett 2
+Watch Officer 8
 Souad Faress 2
-Siege 9
-Queenscrown 1
-Jeor 6
-Melara 1
-Breugel 1
+Siege 8
+Queenscrown 3
+Jeor 8
+Melara 2
 Tish 4
-Dave 1
-Sandor Cleganeː 1
-Facebook 1
-Marin Tudor 1
-ORDER 1
-Ser Arthur 12
+Tobias Winter 4
 Aegon Targaryen 4
-Royce 3
-Othell Yarwyck 22
+Acharia 2
+Europe 3
 Alisdair Simpson 2
-Imperial China 1
 Old Valyria 14
-Tyrion XIII 1
-Queen’s Hand 1
 King-Beyond-the-Wall 3
 Brenock O'Connor 17
-Groot 1
-Daznak 2
-Calla 1
-Daenerys Jorah 2
-Alert Serrett 1
-Ser Alliser 10
-Stannis Baratheon 84
-Ser Rodrik Cassel 27
-Rubi Ali 1
-Eline Powell 1
+Daznak 3
+Ser Alliser 11
+Stannis Baratheon 85
+First 32
 Bronson Webb 2
 Adrack Humble 5
 Reddit AMA 2
-Cape Horn 1
-Jeremy Podeswa 2
+Jeremy Podeswa 10
 Breaking Bad 3
-House Corbray 1
-Punishment Lord Hoster Tully 1
-Targaryen 89
-David Fynn 1
-Gabrielle Dempsey 1
-Icelandic 2
-Meryn 11
-Knowledge 1
-Great Houses 7
-Gary Pillai 1
-Young Bravo 1
-Samwell Tarly Pypar 1
+Guymon 2
+Targaryen 104
+Meryn 31
+Scotland 2
 Lord Edmure Tully 7
-Tell Lord Tywin 1
+Always Winter 2
 Reginald Lannister 2
-Drowned Men 1
-Dan Sackheim 1
 Joanna Lannister 6
 Maester Caleotte 3
-Fire” 1
-Aerys 1
-Andrew Bryan 1
-Further East 1
-Joffrey Ser Meryn Trant 1
-Ellaria 26
-Houses 1
-Raewyn Lippert 1
-Eyrie 58
-Hand 76
-Chosen 1
+Chains 15
+Aerys 19
+Army of the Dead 2
+Ellaria 64
+Eyrie 53
+Hang 2
+Hand 28
 Blackfish 8
 Luke Barnes 7
-Elisa Lasowski 1
 Roslin Frey 6
+Cersei's Kingsguard 5
 Pact 2
-Roose 40
+Roose 113
 ADR 3
-Maege Mormont 5
+Maege Mormont 4
 Smoking Sea 8
-Fat Walda Frey 1
-Mirri Maz Duur 17
+Mirri Maz Duur 18
 Lineages 2
-Ghiscari Empire 3
-N'T YOUR 1
-Ancient Rome 1
-Greizhen 2
-Barristan Daenerys 1
-Renly Barathon 1
-Dragonstone Isle 1
-Lost Ark 1
-Alchemists 2
-Jaime Torrhen 1
-Conquest 2
-Jojen Bran 3
-Jennifer Ehle 1
-Georg Hólm 1
-Phil Dixon 1
-Master Laws 1
+Lord of the Seven Kingdoms 5
+Greizhen 4
+South of the Wall 3
+Conquest 3
+Whoever 2
+C.C 2
 House Targaryen 21
-Twilight Zone 1
 Tales 5
-Laura Bradley 1
-Heart 1
-House Forrester 2
-Lord Commander Alliser Thorne 1
-New York Times 1
-Amira Ghazella 1
-Tristan Heanue 1
-King Robb Stark 22
-Your Grace 1
-Volantis 16
-Night Lands 9
+Malta 8
+Watchman 2
+Joss 2
+King Robb Stark 23
+Munkun 4
+Volantis 63
+Night Lands 11
 Roger Allam 2
 House Reyne 6
-Needle 6
-Dagmer 2
+Needle 23
+Dagmer 13
 Shella Whent 2
-THe Bear 1
-Sarra Frey 1
-Podrick Payne Ser Mandon 1
+Ser Bronn of the Blackwater 3
 Lady Sansa 3
-Paola Dionisotti 1
-Northern Lord 1
-Meereenese Great Masters 1
-Lord Treasurer 1
-Eddard Karstark 1
-Arnolf 1
-Tooth 1
-Angus Wall 1
+Arnolf 2
 Ser Endrew Tarth 2
-North Robb Stark 1
-Victarion Greyjoy 1
-High Hall 2
-Gardens 1
-Prince Joffrey Baratheon 8
-Quentyn 1
-Mother’s Mercy 1
-Little Bird 1
-Beggar 1
+Ilyn Payne 8
+Jon VII 7
+Willas 6
+Madness 2
 Tara Fitzgerald 12
-Color 1
-Tristan Mercieca 1
-Tommen 55
-Loras Tyrell 27
-Christopher Reilly 1
-Fleming 1
+Tommen 158
+Loras Tyrell 28
 Lord Janos Slynt 12
-King-Beyond-the-Wall Joramun 1
 Second 2
-Astapor Slaver's Bay 2
 Samwell III 3
-Andals 6
-New God 1
-Gold Dragon 9
-Daznak’s Pit 1
-Drogon Kraznys 1
-Red Fork 6
-Whilst Lord Janos 1
-Prince Aemon Targaryen 1
-Rat Cook 1
+Andals 5
+Gold Dragon 8
+Red Fork 2
 Iwan Rheon 35
-Barrie Martin 1
-Indiana Jones 1
-Sam V 1
-Republic 1
 Denys Mallister 3
-Trsteno Arboretum 1
 Captain Areo Hotah 2
-Sansa Robb 1
-Bolg 1
-Edd Jon 1
-Samwell Gilly 1
-Dan 1
-Steward Bowen Marsh 1
-Lord Roose Bolton 29
-Neil Jordan’s 1
-Jesse Magee 1
-America Awards 1
-Petyr 11
-Mole's Town Season 1
-Darrell D'Silva 1
-Tobias Winter 5
-Isabelle Jones 1
-House Piper 1
-Lady Dustin 1
-Suspended Congress 1
-Cusack 1
-Ser Jorah Mormont 61
-Davos V 1
-Garden Bones 1
+Currency 2
+Hother 2
+Dan 5
+Lord Roose Bolton 28
+Arya XIII 2
+Sons of the Harpy 33
+Petyr 41
+Queen Regent Cersei 3
+Ser Jorah Mormont 60
+Flea Bottom 10
 Brother Lancel 3
 Harald Karstark 4
-Poppy 1
-Hannibal 1
-Where 1
-Gandalf 1
-House Yronwood 1
-Arnar Rósenkranz Hilmarsson 1
-Deborah Riley 1
-Benjen Stark Jon 1
-HBO Inside 1
-Arys Oakheart 2
+Hannibal 3
+Gandalf 2
 Ser Vardis Egen 7
-Melisandre 92
-Daenerys Ser Barristan 1
-Bobby Marno 4
-Quigley 1
-Roose Bolton Ramsay 1
-Princess Shireen Baratheon 10
+Melisandre 220
+Bobby Marno 3
+Quigley 4
+Snorri Þórisson 2
+Princess Shireen Baratheon 9
 Alexander Siddig 6
-Renly Baratheon 15
-Morghulis 2
-Obara Jaime 1
-Nikola Bace 1
+Renly Baratheon 14
+Morghulis 13
+Royce 7
+Othell Yarwyck 21
 Dagmer Cleftjaw 7
 House Reed 6
-Planky Town 2
-King Robert Jon 1
-Khal Drogo 56
-King ​Joffrey 1
-McCann 1
-Lucy Gallagher 1
-Mustapha Mekanassi 1
-Rides 1
+Khal Drogo 49
+McCann 4
+Shakespeare 3
+Rides 5
 Ser Robert Strong 2
-Painted Table 1
-Fork 3
+Red 3
+King Renly Baratheon 6
+Fork 2
 Bert 2
-Petyr Royce 1
-Champion 1
+Cat of the Canals 2
+Form 2
 Lord Arryn 4
-Townshall 1
 Orson Lannister 3
-Roman Bridge 1
-Struan Rodger 1
-Wardrobe 1
-Sandor Clegane Beric Dondarrion 1
-Umber 10
+Silverhill 2
+Umber 15
 Alliser Thorne 28
-Kraznys Nakloz 10
-Tyrion Daenerys 1
-Queen Regent Queen Mother 1
-Orell Ygritte 1
-Robbʼs 1
-Weeping Water 1
+Crowfood 2
 Wun Wun 18
 Princess Myrcella Baratheon 18
-Reek’s 1
-Breaker 12
+David 3
 Stone Men 16
 Redwyne Fleet 4
-ME 1
 Silk King 3
 Isaac Hempstead Wright 4
-Essence 1
-Orphan 1
 Lord Renly Baratheon 7
-House Wibberley 1
-Rivers 1
-Great Khal 1
-Tyrion Sansa 1
+Rivers 2
+Jon Stark 2
 House Florent 2
-Thrones YouTube 1
-Lord Wyman Manderly 1
 Writer Bryan Cogman 7
-Ser Hugh 13
-Hivju 1
-Jeffrey O'Brien 1
-Maester Cressen 8
-Halfhand 1
-Tom Wlaschiha 24
+Ser Hugh 6
+Maester Cressen 7
+Tom Wlaschiha 25
 Lord Karstark 5
 Sansa VI 3
-Michele Clapton 7
-Long Bridge 5
-Unella 1
-Akho 1
-Melisandre's God 1
+Michele Clapton 11
+Enough 2
+Unella 2
+Akho 3
+Bianca 3
 Septa Unella 14
-Podrick Sansa Stark 1
-Ramsay’s 5
-Lannister Guard 1
-Qyburn Cersei 2
-Craft 1
-King Robert 41
+August 2
+King Robert 42
 Jon VI 5
-Iron Isles 1
-First 31
-Avramidis 3
-York 1
-October 1
-Ben 1
-Sam Jon Snow 1
+Ser Rodrik Cassel 27
+Salt Throne 5
+October 4
 Hugo Award 3
-Pits 1
-Asha 6
+Asha 13
 Northern Lords 2
-Dontos 2
-Talisa 19
-Time 5
-Queensgard 1
-Robert's Small Council 1
-Bran 113
+Dontos 8
+Piggy 4
+Talisa 40
+Time 4
+Bran 350
 Daario Naharis 51
 Bran VII 4
-Ser Onion Knight 1
-Max Laird 1
 Daenerys V 7
-Locke 26
-Enzo Cilenti 3
-Lady Shella Whent 1
+Locke 68
+Long Bridge 6
 Daenerys X 2
-Gared 2
-Walder's 1
-Line Snorri Þórisson 1
-Pyke 10
-AND Wylis 1
+Gared 8
+Pyke 28
 Ray Harryhausen 2
-Vayon Poole 3
-Aron Santagar 1
-Children 45
-Stannis 164
-Jeyne 6
-Daniel Sackheim 3
-Qarth 9
-Shadow Lands 1
-Peter Vaughan 11
-Orri Páll Dýrason 1
-Washington Post 1
+Children 24
+Stannis 473
+Jeyne 16
+Daniel Sackheim 7
+Qarth 31
+Peter Vaughan 9
 Portia Victoria 3
-Ghiscari Low Valyrian 3
-Arya Jaqen 1
+Ghiscari Low Valyrian 4
 House Redwyne 4
-King Torrhen Stark 1
 Great House 3
-Alerie Hightower 2
+Aegon 22
 Ron Donachie 14
 Crownlands 9
-Iron Coin 1
-Noble 1
-Shae Sansa Stark 1
-Oddie Braddell 1
-Joshua Sher 1
-Vanity Fair 1
+Preston Greenfield 5
+Pyp 9
 Black Lorren 4
-Myranda 17
-Pono 1
-Smalljon 6
-Nightfort 3
-Sam Mackay 1
-Danny Flint 1
+Smalljon 9
+Nightfort 4
 Rickon Stark 22
-Lord Hoster 1
-Rowley Irlam 1
-Jill Pantozzi 1
-Hornfoots 2
-Lord Snow Royal Steward 1
+Hornfoots 3
 Ser Barristan Selmy 40
-Tortured 1
-Ser Jaime Lannister 47
-Landing Handmaiden 2
-Martin 40
-Kingsguard 93
-Ser Beric Dondarrion 1
-Actor Ian Beattie 1
-View 2
-Drogo 21
-Captain 6
-Mortemore 1
-House Umber 6
-Great Sept 48
-Fury 1
-Series 3
-Mormont Rast 3
-Tyrion's 1
-Welsh 1
-Best 1
-Aemon 23
-Bolton’s 1
-Actress Margaret John 1
-Pre-season 1
-Pedro Pascal 12
-Stannis’ 2
-Use 1
-Osric Stark 1
-Riverlord 1
-Gustave Doré 1
+Ser Jaime Lannister 45
+Martin 120
+Kingsguard 96
+View 3
+Drogo 81
+Ros 53
+Edd 34
+Great Sept 42
+Fury 2
+Series 2
+Aemon 69
+Pedro Pascal 8
+Dubrovnik 3
+Icelandic 3
 Onion Knight 2
-VFX 1
-White 109
-Robb Talisa 2
+White 120
 Ser Gerold 2
-Braavosi 19
+Braavosi 16
 Melara Hetherspoon 3
-Slaver's Bay Low Valyrian 1
-Great Stallion 1
-Raid 1
-Black Jack Bulwer 3
-King Maekar Targaryen 1
-Brynjar Leifsson 1
-Roxanna Kadyrova 1
-Mya Stone 1
-Rhoynar 35
+Slaver's Bay Low Valyrian 2
+Great Houses 6
+Rhoynar 38
 Ser Axell Florent 3
 Jane McGrath 2
-Waif 56
-Landing 34
-Harold James McMullan 1
-Flea Bottom King's Landing 1
+Waif 49
+Landing 15
 Valar Morghulis 6
-O'Connell 2
-World 12
-Qhorin 7
-Stannis' 1
-Michael Stuart 14
+O'Connell 3
+World 10
+McElhinney 2
+Qhorin 24
+Grace 17
+Michael Stuart 11
 Throne 2
-Tolos 2
-Rayder 1
-House Serrett 1
+Tolos 6
+Rayder 2
 Patrick Malahide 4
 Meryn Trant 16
-Sergio Leone's Once 1
-Tower 23
-Robert discuss Jon Snow 1
-Jory 4
-King's Hand 1
-Infant 1
-Selyse 21
-Viserys Daenerys 1
-Lord Wyman 1
-Magister Illyrio Mopatis Pentos 1
-Dagmer Theon 2
+Tower 9
+Jory 10
+King's Hand 2
+Selyse 43
+Maege 4
+Mother's Mercy 9
+Eddard 227
 Shireen Baratheon 15
-Lysa Tyrion 1
 Sibel Kekilli 36
-Lyrca 1
-Ser Jorah Daenerys 1
-Mormont 26
-Bran Stark's POV 1
-Milk 1
-English 6
-Asshai'i 1
-Horse Gate 1
-Michael Johnston 1
-Eddard Lady 1
-Ashqar 1
-Prince Dorne 1
-George Georgiou 2
+Mormont 59
+English 9
+Rorge 10
+Forsaken 2
+Savo 3
 Sound Editing 3
-Episode Guide 1
-Joy 3
+Joy 7
 Khal Moro 13
-Ancient Greek 1
-Arys 1
+Freehold 2
+Banbridge 2
 House Mormont 8
-TV-Myrcella 1
 Mance Rayder's 2
-Jon 332
-Old Nan 16
-Edmure 2
+Jon 752
+Old Nan 18
+Edmure 16
 Stone 3
-Dondarrion 4
-Jaime Brienne 4
-Littlefinger’s 1
-Maria Sikavica 1
+Mark Addy 20
+Dondarrion 8
 Faye Marsay 8
 Philip McGinley 6
 Houston-Jibo 2
+Door 3
 Viserys Targaryen 4
-Daenerys Irri 1
-Galazza Galare 1
-Lady Crane’s 1
 Ser Justin Massey 2
-Magnar 5
-Cersei VIII 1
-Rhaegar 7
+Magnar 4
+Rhaegar 53
 Cersei III 2
-Princess Daenerys Targaryen 10
+Princess Daenerys Targaryen 11
 Nymeria Sand 11
-Actress Kerry Ingram 1
-Chris Reilly 1
-Eddard VII 1
-Aemon Daenerys 1
-Unsullied 64
-Rhaegal 6
-Galbart Glover 3
+Alchemists' Guild 2
+Rhaegal 16
 Mance Rayder 36
-FOR THIS NIGHT 1
 Margaret John 3
-Tortured Lannister 1
-Chains Jaime-Cersei 1
+Syrio 12
 Royal 4
-Mark Hoffman 1
-Stark 97
-Gilly 32
-Royce Baelish 1
-Black 2
-Stars 1
-Lancasters 1
+Stark 109
+Gilly 149
+Lhara 4
+Black 28
+Lancasters 2
 Elia Sand 3
-Hollywood 1
-Many-Faced God 4
-Davos Thorne 1
-Faceless Men 27
-Jim Stanes 1
+Hollywood 2
+HBO Viewer's Guide 10
+Faceless Men 26
 Diamond 2
-Septa Eglantine 1
-Monday 1
-Cersei Catelyn Stark 1
-Tywin Lannister 95
-Ser Alton Lannister 5
-Domeric 1
+Tywin Lannister 100
+Ser Alton Lannister 4
+Domeric 4
 Gerard Jordan 5
-Golden Tooth 1
 Forbes KB 4
-Oberyn Martell Cersei 1
-Ben Kelly 1
-Lord Walder Frey 11
+Lord Walder Frey 9
 Casterly Rock 39
-Ser Donnel Waynwood 4
-Cersei VII 1
+Ser Donnel Waynwood 3
 Stormcrows 10
 Jeor Mormont 22
-Neck 8
+Neck 7
 Queen Regent 5
-Dornishmen Rhoynar 1
+Rings 2
 Dothraki Sea 3
 Warlocks 3
-Isabella Steinbarth 1
-Michael Power 1
-Simon Lowe 1
-Bathhouse 1
-Oberyn Tyrion 2
-Best Supporting Actor 1
+Borba 2
 Sept 6
-Black Betha 1
+Nikolaj Coster-Waldau 31
 Obara Sand 12
-Seven 38
-Love 1
-Lion Loras Tyrell 1
-Theon’s 2
-Titan 10
-Magda Goebbels 1
-Queen Margaery 5
-Styrofoam 1
-Oldtown 12
+Seven 20
+Love 2
+Drunk 4
+Queen Margaery 6
+Oldtown 25
 Jaime VII 2
-Trystane 8
+Trystane 34
 House Lynderly 2
-Peterson 1
-Lord Stannis Baratheon 1
-Executive David Benioff 1
-Handmaid 1
-House Hightower 1
-North Remembers 1
-Ser Alliser Jon 1
-Marko Juraga 1
-James Doran 1
-Vanessa Taylor 3
-Hopefully 1
-Queen Rhaella 1
-Director's Guid America 2
-Theon's POV 1
-Field 1
+Peterson 13
+North Remembers 2
+Vanessa Taylor 9
+Lord of the Rings 2
+Brothel 3
 House Blackmont 2
-Mormont Sam 1
 Lord Robin Arryn 9
-Lothor Brune 1
-Baratheons 7
+Baratheons 10
 House Tully 9
-Dornishman 12
-Funeral 1
-Money 1
-Highgarden 1
+Ingram 2
+Dornishman 9
+Murphy 3
+Highgarden 18
 Steffon Baratheon 2
-Craster's Keep5 1
-Famous 1
-Bastards 3
-Darren Killeen 1
-First Men 42
-Maltese 1
+Bastards 8
+Off-screen 5
+First Men 28
 Karl Davies 3
-Hall 4
+Hall 3
 Copper King 3
-Hannah Waddingham 5
 Valyrian Freehold 3
-Ser Mandon Moore 14
-Derwa Frey 1
+Ser Mandon Moore 13
 Jafer Flowers 3
 Prince Viserys Targaryen 7
-House Jordayne 1
-Tywin Oberyn Martell 1
-Derek Horsham 1
+Slave 3
+Wyl 3
 Lands 2
 Arya V 5
-Arya X 1
-Brothel Patron 1
-Stuart Martin 1
 Director Jeremy Podeswa 2
-Fuck 2
-Ser Davos Melisandre 1
+Fuck 4
 Brienne VI 2
-Alayne Stone 4
 Tom Brooke 2
-Lysene 2
-Fifth 1
-Lyanna Winterfell 1
-Vladimir Furdik 1
-Sweetrobin 1
-Blount 2
-Assassination 1
-Queen Rhaella Targaryen 1
-Tyrion Varys 3
-Barra 1
-A.V 1
-AND FOR ALL THE NIGHTS TO COME 1
-Cersei’s Kingsguard 3
-White Rat 5
+House Caulfield 2
+Lysene 3
+Brynden 39
+Sweetrobin 3
+Blount 4
+Barra 6
+Pennies 2
+White Rat 4
 Gate 2
-Wylis Hodor 4
-House Yarwyck 2
-James McHale 1
-Sam Pyp 1
-Iron Fleet Targaryen 1
-Parris 1
+Wylis Hodor 3
+Vulture.com 3
 Inside-the-Episode 2
-James Bleakney 8
+James Bleakney 4
 Rebecca Van Cleave 4
-Eddard II 1
-Eddard IV 1
-Jamie Michie 4
 Jaime V 2
-Jaime X 1
-Owen Dickey 1
 Ania Bukstein 2
-Eddard IX 1
-Asha Yara 1
-Yarwyck 3
-Ivan Peric 1
-Hightower 1
+Hand of the King 44
+Yarwyck 5
+Myranda 45
 Prince Doran 9
-Fighting 1
-Aerys's Hand 1
-Aiden Gillen 1
-Olyvar Frey 1
 Cruel 2
 Gods Eye 2
-Baroque 1
 White Walkers 7
-Eddard Jory 1
 Ian Beattie 17
-Maege 1
-Septa Mordane 14
-Tywin 147
+Lord Commander Snow 2
+Tywin 430
 Frank O'Sullivan 3
-Forsaken 2
-Yunkai Citizen 1
-Walda 3
-Lord Yronwood 1
-Mark Addy 20
-Lord Commander Gerold Hightower 1
-Hound 103
-Valyrio mirrī 1
-Fruit Ninja 1
-A.J Kennedy 1
+Walda 16
+Argonauts 2
+Allen 4
+Hound 104
 House Lannister 33
 Arbor 2
-Oberyn 31
-Libyan Muammar Gaddafi 1
-King Renly 1
-Mad King's 1
-Rings 4
-Cormac McDonagh 1
-Ross Anderson-Doherty 1
+Red Fork of the Trident River 2
 Arryns 4
-Eastern Road 3
+Eastern Road 2
 Talisa Stark 6
-Rainer Gombos 1
-Stannis Davos 3
-Liam Neeson 1
-Young Nobleman 1
-David J. Peterson 11
-House Rosby 1
-Houses Hornwood 1
-Obara 3
-Nina Gold 1
-Leo Woodruff 1
+Obara 13
 Low Valyrian 7
-Duur 1
-Wisdom 1
-Berlin 1
 Howland Reed 6
-King's Tyrion 1
 Josef Altin 14
-George R.R 58
+George R.R 65
 Kolokolnikov 4
-Dosh Khaleen 6
-Slynt 8
+Slynt 23
 Prince Theon 2
-Ser Addam Marbrand 1
-White Captain Areo Hotah 1
+Dunsen 3
 Martyn Lannister 10
-Shaun Blaney 1
-Allan Gildea 1
 Magheramorne Quarry 2
-Jorah Daenerys 1
-Neil Baltus 1
 Royal Fleet 7
-High Priest 3
 Lord Tywin Lannister 40
-Uncle Benjen 1
 Lord Jonos Bracken 2
-King-beyond-the-Wall 1
+Nutter 2
 Greatjon Umber 6
-Sorrows 1
+Sorrows 2
 Smalljon Umber 2
-Ser Willas Bracken 1
-Carice Van Houten 1
-Jhaqo 2
-Darius Dar Khan 1
-Screenshots 1
-Jon Snow 267
-Death 4
-Khal Brozho 3
+Jhaqo 3
+Jon Snow 271
+Death 5
+Guest 2
 Sansa III 3
-Michael Slovis 1
-Rodrik 3
+Michael Slovis 5
+Rodrik 6
 Reek II 3
-Meryn Trant Ser Meryn Trant 1
-Pentoshi 5
-Olenna Tyrell 26
+Pentoshi 4
+Arry 3
 New World 2
-Ramsay’s “Stark” 1
-Gerry O'Brien 1
-Broken Things 7
-Beauty 1
+Broken Things 10
 Indira Varma 20
-Graces 3
 Tim Plester 2
+Tyria 3
 Patrick Rocks 2
-Tom Clancy 1
-Septa Scolera 1
 Princess 3
-Dark Wings 8
+Dark Wings 11
 Ian Hanmore 4
-Ghiscari Low Valyrian Meereen 1
-Finbar Lynch 1
-Arianne Martell 1
-Tywin Tyrion 1
-Glovers 2
-Kingslayer 11
+Glovers 5
+Jaehaerys 3
 Ugly Little Girl 3
-Stannis Jon 3
-Seven Kingdoms 105
-Lady Arya Stark 1
-Fingers 2
-Doreah 6
-Cersei Lannister A 1
-Kate Anthony 1
-Laws 13
+Seven Kingdoms 97
+BC 2
+Doreah 29
+Gary Oliver 2
+Laws 20
 Barristan Selmy 28
-Patrick Fitzsymons 1
-Joffrey Sansa 1
-Lady Olenna Tyrell 17
-Robb Tywin Lannister 1
-Skirling Pass 1
+Lady Olenna Tyrell 5
+Marshall 16
 House Greyjoy 21
-Commander 4
-Ellaria Sand 37
-Grenn 8
-Brusco 1
+Talisa Maegyr 8
+Ellaria Sand 39
+Grenn 61
+Brusco 2
 Vinnie McCabe 2
-Thenns 6
-Ouarraq 1
-Twins 29
+Thenns 8
+Twins 26
 Master Mighdal 3
-HBO Viewers 1
 Gwendoline Christie 47
-Old Bear 1
-Ygritte 24
-Mother’s 1
+Ygritte 115
 Alfie Allen 63
-Shirei Frey 1
-Pree 1
 Ti 3
-Shae Sansa 1
-Birgitte Hjort Sørensen 1
+Ashford 3
 Dar Salim 6
-Qohorik Low Valyrian 1
-Brynden Tully Karstark 1
-House Swann 1
-Merry Frey 1
-Town Brothel Patron 1
-Jaime Lannisterː 1
-Podrick 21
+Horn Hill 5
+Podrick 50
+Mirelle 2
 Riot 5
-Sansa Myranda 1
-Witch 1
-Director David Nutter 1
-Brotherhood 23
-Many-Faced God’s 1
+Craster's Wife 2
+Qaggaz 2
+Blood 21
+Brotherhood 21
 Jacob Anderson 21
-Brotherhood Without Banners 13
-Rickard Karstark 15
-Dornish 16
-Southern Marches 1
-IV 1
-Christian Bible 1
+Brotherhood Without Banners 14
+Rickard Karstark 16
+Dornish 15
+Norvosi 3
+Steelshanks 4
 Olenna Redwyne 5
-Targaryens 31
+Targaryens 30
 King Orys 2
 Iron 12
-Arianne 1
+Arianne 2
 Senator Claire McCaskill 2
-Lynesse Hightower 1
 Cersei VI 2
 Lady Melisandre 13
 Kerr Logan 4
-Ellaria Sand Myrcella 1
-David Michael Scott 1
-Jaime Lord Commander 1
-Lord Stout 1
-Houses Umber 1
 House Whent 3
-Kevan Lannister 15
+Kevan Lannister 16
 Silver Stag 4
-HBO 9
+HBO 25
 United 6
-Balon 26
-Robert Baratheon 59
-Undying 7
-Jaime II 1
-Long Lances 1
+Khal Brozho 3
+Balon 71
+Robert Baratheon 61
 Kindly Man 5
-Carice van Houten 1
-Gerald McMullan 1
 Jaime IV 2
 Michelle Fairley 34
-mock Renly 1
-Summer Isles 1
-Robert Strong 1
-Kieran Cunningham 1
-Eddard XI 1
 Jaime IX 3
 Jojen Reed 21
-Jaime Lannister 84
-Nina Shen Rastogi 1
-Tormund 25
-Faceless Man 20
-Othor 1
-Dany’s 1
-Tamzin Merchant 1
-Kingsguard Ser Balon Swann 1
+Jaime Lannister 85
+Tormund 77
+Faceless Man 19
+Othor 7
+Ser Duncan 3
 Junade Khan 3
-Coin 3
-Cersei Margaery 1
-Simon Millar 1
-Baratheon Commander 1
+Coin 13
 Cave 4
-Wight 3
-Prince Joffrey 3
-Sparrow Lord Medger Cerwyn 1
-Houses Jon 1
-Mag 1
-Pointy End 7
-Rhodri Hosking 1
-Wherever 1
-Jonathan Gunning 1
-Littlefinger — 1
+Mag 9
+Pointy End 8
 Tall 3
-Ice Cells 1
-Greatjon 9
-Jorah Mormont Viserys 1
-Samantha McEwan 1
+Shagga 5
+Greatjon 11
 Scribbler 2
-Melissa Reid 1
-Myr 3
-Lottie Steer 1
-Bones Tormund 1
-Robb Roose 1
-Arya Lanna 1
-Cleon 1
-Janeya Frey 1
+High Priest 3
+Myr 25
+London 7
+Eurasia 2
+Cleon 5
 Pit 2
 Dennis Stokes 2
-Stokeworth 1
 Staz Nair 3
-Trevor Allan Davies 1
 Ser Kevan 5
 Richard Madden 37
-Talitha Luke-Eardley 1
-Forlorn 1
-Ned 15
-Nine Kingsguard 1
-Catelyn XI 1
-Ser Balon Swann 1
-Master 32
-Orton Merryweather 1
-Castle Black 194
-Trsteno 1
+Gerald 2
+Ned 65
+Brandon 9
+Ser Balon Swann 2
+Master 35
+New 19
 Berserk 2
-Rob Brockman 1
-Darren Kent 1
-Mance 27
+Chella 4
 Lord Jon Arryn 4
-HBO's Youtube 1
+Fighting Pits 2
 Sacrifice 2
-Gold Honors 3
-Braavos 32
-Rickard 5
+Men 21
+Braavos 126
 Yezzan zo Qaggaz 9
-Steven Blount 1
-Michael Feast 2
-Frozen Shore 1
-Valyrian-sounding 1
-New York Daily News 1
-Jaqen H’ghar 1
-Lord Galbart Glover 1
-Stranger 10
+Olenna Tyrell 27
+Stranger 8
+Sandorː 3
 Bear Island 13
-Emmon Cuy 1
-Book-Missandei 1
 Toby Sebastian 5
-Rock 1
-Dark Words Jojen Reed 1
-Will Simpson 1
+Rock 4
 Paul Bentley 6
-Rhys Howells 1
-Cartman 1
-Joffrey Tyrion 2
-Sophie Reid 1
-Snakes 1
-House Flint 1
-Sarita Piotrowski 1
+Mark Mylod 4
+Hoster 5
+Snakes 2
 Boros Blount 2
-County Donegal 1
 Barbarian 2
 Daenerys VII 2
-Northern European 1
+Joss Stilwood 2
 Thomas Brodie-Sangster 8
-Areo 5
-Riverrun Nobleman 1
-Walda Frey 2
-Houses Targaryen 1
+Areo 8
+Horrified 3
 Ross Mullan 4
-Actor Barry McGovern 1
+No 2
 Karla Lyons 2
-Kit Harington 66
+Kit Harington 65
 Robar Royce 2
-Red Waste 8
-Tyrion King's Landing 1
-Margaery Tommen 1
-Storm 2
-Ilyn Payne 8
-High Sparrow 80
-Franciosi 1
-Black Walder 2
-Jon Freeman 1
+Red Waste 9
+Storm 12
+High Sparrow 69
+Lord Commander of the Kingsguard 7
 Lannister-Tyrell 3
 Khal Rhalko 3
-Tristifer Botley 1
-Water Dancing Syrio Forel 1
-Ramsay Sansa 2
-Maiden 4
-Master Eaton 2
-Bowen 1
+Bowen 2
 Jamie 2
 Mia Soteriou 3
 Blackwater Rush 2
-Peninsula 1
-Moe Dunford 1
-Jon VII 7
-Lalor Roddy 1
-Rose 9
-Rickard Karstark's 1
-Cedric Henderson 1
-Lannisport 1
-Martin’s “Song 1
-Robert Baratheon's Kingsguard 1
+Peninsula 3
+Tower of the Hand 11
+Prince Joffrey Baratheon 8
+Lannisport 5
 Nicholas Blane 3
-Stunt Performer 1
 Jon Umber 5
-Hafþór Júlíus Björnsson 8
 Walker 4
 Art Parkinson 15
 Michael McElhatton 27
-Guide 5
-Seven Heavens 1
-Ben Bones 1
-Ned Stark’s 1
-Wun Weg Wun Dar Wun 1
-Brienne Sansa 1
-Lyanna Stark’s 1
-Century 1
+Guide 2
 Samwell IV 3
-House 56
-Master Coin Mace Tyrell 1
-Elizabeth Barrett 3
-Balon Theon 2
-Ned Jon 1
-Momoa 2
-Joanna 2
+House 63
+Elizabeth Barrett 2
+Momoa 5
+Joanna 6
 Samwell II 5
+Michael Hayes 2
 Sara Dylan 4
 Donagh Deeney 2
 Lord Ramsay Bolton 2
-Boat 1
-Ashford Robert's Rebellion 1
-Gene Wolfe 1
-Hog 1
-Sansa Jon 1
-CGIed 1
-Davos Salladhor Saan 1
 Aiden Condron 2
+Styr 33
 Lady Lysa Arryn 11
 Little Sam 2
-Please DANY PLEASE 1
-Salt Throne 5
-Hadi Kermani 1
 Princess Arya Stark 25
-Caroline Lois Benoist 1
-Roman Beguns 1
-Yahoo News,8 1
+Aegon V Targaryen 2
+Mighdal 4
 Long Farewell 2
-Ramsay Osha 1
-Alexander Mileman 1
 Ser Gregor Clegane 29
-Daenerys’s 2
-Reach 16
-Wlaschiha 1
+Reach 12
 Dark 2
-Actor Iwan Rheon 1
-Wren Ros Elliot-Sloan 1
-Savior 2
-Craster Jeor 1
-Whisperers Grand Maester Pycelle 1
-Grejoys 1
+Barrowton 2
 Margaery Tyrell 59
-Lady 5
-Robert Aramayo 1
-Paint Hall 1
+Lady 10
 Great 14
-Craster's Keep 21
-Jack Gleason 1
-Stephen Spielberg 1
-Tywin Lannister's 1
-Great Khals 1
-Niamh Lennon 2
-Dany Hizdahr 1
+Craster's Keep 31
+Alex 6
 Tormund Giantsbane 34
-King Agamemnon 1
 Hannah John-Kamen 2
-Night’s Watch 8
-Houten 24
-Dragon 2
-Alysane 1
-Salladhor Saan 13
+Houten 50
+Alysane 2
+Salladhor Saan 12
 Martell 2
-Tyrion’s 2
+Diogo 3
 Maester 5
+Tyene 24
 Cotter Pyke 2
-Agamemnon 2
-Mad King Aerys II 1
+Agamemnon 3
 Ian Whyte 13
-Lord Whent 1
-Headey’s 1
+Kingslayer 14
+Khal Forzho 3
 Jeyne Westerling 3
-Fancy 1
 Queen Talisa Stark 6
-Max von Sydow 4
-Jessica Stevenson 2
+Street 2
 King Robb 3
-Sansa Dontos 1
-Castamere 3
-Lady Olenna Margaery 1
+Pahl 3
+Castamere 33
 Joffrey Baratheon 41
-Ser Dontos Hollard King's Landing 1
 Ser Denys Mallister 3
-Winter 26
-Unknown 84
-Davos Jon 1
+Winter 40
+Unknown 80
 Keisha Castle-Hughes 8
-Three-eyed 12
-Moon 1
-Iron Islands 33
-Tullys 11
+Farlen 2
+Essos 47
+Tullys 12
 Mud Gate 3
 Arya III 2
-Snorri Þórisson 1
-Cerwyns 4
 Sorcerer 2
 Aerys Targaryen 7
 Darran Watt 3
-Stokeworths 1
-Raymond Keane 1
-Boltons’ 1
-Tytos Lannister 1
-Jon Sn 1
 Title 4
-Sansa Brienne 1
+Tytos 5
 Jamie Campbell Bower 2
-Lord Orys Baratheon 1
-David Nutter 1
-Red Wedding 49
-Tyrion 258
+David Nutter 12
+Red Wedding 47
+Tyrion 783
 Ser Ilyn 9
-Vince Gerardis 1
-Anguy 1
-Fichas 1
-Peter Silverleaf 1
-Slaver's Bay Sam 1
+Anguy 10
 Lady Margaery Tyrell 15
-Ser Harys 1
 Anthony Morris 2
-Pleaseǃ Pleaseǃ 1
-Moon Door 17
-Torrhen's Square 6
-Wolf 9
+Torrhen's Square 10
+Wolf 12
 Oengus MacNamara 2
 Lord Commanders 2
-Punishment 1
-Matthew Scurfield 1
-Derek Reid 1
-Finest 1
+Salt 2
+Punishment 18
+House Yarwyck 2
 Ridley Scott 2
 King Jaehaerys II 2
 Kristian Nairn 2
-Hardhome 19
-Halse 1
-Maisie 1
-I’m 2
-Yezzan 6
+Hardhome 63
+Maisie 6
+Kill 10
+Yezzan 13
 Lady Catelyn 3
-Whent 2
-Michael Grennell 1
-Michael Yare 1
-Marshall 1
-Daznak's Pit 2
+Whent 3
+Daznak's Pit 4
 Red Priest 4
-Astapori 2
+Dosh 2
 Peter Ballance 2
-Kraznys mo Nakloz 1
-Seven Tyrion Lannister 1
-Irene Kelleher 1
-David Benioff 34
-High Fantasy 1
-Lame Lothar 1
-Watchmen 1
-Easy 1
-Benioff 4
-Fergus 1
+David Benioff 104
+Benioff 90
 East 4
-Robb 111
-Kneel 1
-Tyrion Lannister 97
-Latin 2
-Matt McArdle 1
-Ninepenny Kings 3
-Aeron 4
-Renly Baratheon's Kingsguard 1
-King Tommen 9
-House Locke 1
-Colonel Kurtz 1
-Alan Paris 1
-Axel Baratheon 1
-Lauren Morgan 1
-Gift 21
+Robb 302
+Kneel 4
+Tyrion Lannister 58
+Latin 4
+Aeron 12
+King Tommen 8
+Bloody Hand 5
+Gift 24
 King Aerys 3
-Icelandic Hafþór Júlíus Björnsson 1
-Lord Medger Cerwyn 1
-AWOIAF Stokeworth 1
-Jaime VI 1
-Arthur 7
+Arthur 8
 Hot Pie 40
 Glover 30
-Philip Arditti 1
-Khaleesi 3
-Stephen Grech 1
+Conan Stevens 4
 Barry McGovern 2
+Enraged 3
 Alayne II 4
-Sansa 242
-Baratheon Officer 2
+Sansa 681
 Stevron Frey 2
-Red Temple 1
-Syrio Forel 17
-Laura Hudson 1
-Ciaran O'Grady 1
-Devil 1
+AWOIAF 2
+Syrio Forel 20
 Dontos Hollard 10
 Richard Dormer 4
-S2 1
-Holy Grail 1
-Maegor 1
-Arnolf Karstark 1
-EU 1
+Clarke 3
+Maegor 9
+Qhorin Halfhand 19
 Tears 2
 Khal Jhaqo 4
-Podrick meet Sansa 1
-EW 2
-Davor Jozinovic 1
-Kerry Ingram 12
-Explorer 1
-Belvedere 1
-Archmaester Marwyn 1
-Sandor Clegane 91
-S​tannis's 1
-Walls 1
-Warden 22
-Loras Tyrell’s 1
+Armeca 5
+Sandor Clegane 93
+Warden 3
+Avramidis 3
 Sound Mixing 2
-Ser Robar Royce 1
 Lord Leo Lefford 2
-Anton Lesser 12
-House Martell 28
-Morocco 2
-En 2
-Hizdahr zo Loraq 24
-Cersei Tyrion 2
-Sansa Stark 131
-Lord Varys 25
+Anton Lesser 11
+House Martell 29
+Morocco 6
+Queensguard 3
+Hizdahr zo Loraq 23
+Sansa Stark 134
+Lord Varys 26
 Sophie Turner 72
 Andrew Wilde 2
-Queen Regent Cersei 2
-Lord Commander Jon Snow Sam 1
 Commander Janos Slynt 5
-Joe Cassidy 1
-Terry Pratchett 1
-Gods 10
+Quentyn 2
+Gods 26
 Sam Coleman 2
 Tyrion VI 5
-Whoever 1
-Hamlet 3
+Hamlet 5
 Inn 7
-Shireen Baratheon Gilly 1
-Jon Stark 2
-Bronn Tyrion 1
-North Brienne 1
-Tarth 11
-Tomorrow 1
-Iron Fleet 10
+Fake Arya 2
+Tarth 101
 Nonso Anozie 5
-Princess Elia 1
-Drogo Daenerys 2
-Lancaster Tudor 2
 Samuel Beckett 2
 Ser Kevan Lannister 13
-Braavosi-style 1
-Horn Hill 5
-Maester Aemon 51
+Maester Aemon 50
 Ser Dontos 4
-Orell 10
+Orell 25
 Michiel Huisman 21
-Meereen Gold Honors 1
-Tommen’s 1
-Blackmont 1
 Wendel Manderly 4
-Sackheim 1
-Fall 2
+Sackheim 7
+Kovarro 12
 Reek III 4
-Jon’s Night’s Watch 1
 Shadow 5
-Sam meet Gilly 1
 Commander Mormont 2
-Varys Littlefinger 1
 Tyrion XI 5
 Lady Talisa Maegyr 3
-Kraznys 6
-Lord Varys Lord Petyr Baelish 1
+Kraznys 29
 Eddard XV 3
-Actress Lena Headey 1
-Hodor — 1
-Syrio 3
-Croatia 2
-George Martin 1
-Sophie 1
-Tyrion XV 1
-Myrcella 32
-Queen – 1
-Drama Series – David Benioff 1
-Joss Stilwood 2
-David Coakley 3
+Timett 5
+Daisy 6
+Furious 5
+Sophie 4
+Myrcella 117
+David Coakley 2
 Northern Mountain 2
-Pentoshi Low Valyrian 1
-Alayne 1
-Alton Lannister 6
+Alayne 12
+Alton Lannister 7
 Clive Russell 5
-Qarth Gold Honors 1
-Luwin Osha 1
 Kae Alexander 5
-Jon Snow Ygritte 1
 Lord Rickard Karstark 12
 Targaryen Conquest 6
 Golden Company 2
-Arya XII 1
-Landing City Watch 1
-Scifi Ilana Teitelbaum 1
-Rickon Shaggydog 1
-Sam Stone 1
+House Forrester 2
 Volantene 9
 Prince Doran Martell 11
-City Watch kill Eddard 1
-Maester Colemon 1
-Rhalko 1
 Lady Walda 3
-Unsullied Yunkai 1
-March 2
-Barry O'Connor 1
+March 3
 Ramin Djawadi 2
-Eddard Robert's Rebellion 1
-Tom Fava 1
-Handmaiden 2
-Gummi 1
-Cersei-actress 1
-Conquer 1
-Dean Whatton 1
-Cities 1
-Sarella Sand 1
+Bean 12
 McCusker 2
-Brutus 1
-Mossador 2
-Greizhen Ullhor1 1
-Myrcella’s 1
-Houses Karstark 1
-Actress Maisie Williams 1
-Lord Eon Hunter 3
-Varys 84
-Bay 5
-Marcos James 1
-Prince Rickon Stark 9
-Lord Commander Snow 1
+Brutus 4
+Mossador 8
+Varys 252
+Kurleket 2
+Baelish 59
+Flashback 7
 Lady Stark 8
 Catelyn III 2
-Spain 2
+Spain 7
 King Balon Greyjoy 5
-Gordon Fitzgerald 1
-Basilica Di San Clemente 1
-Edward IV 1
-Golden Crown Osha 1
-Varys Eddard 2
-Random 1
-Emilia Clarke 69
+Known World 3
+Emilia Clarke 68
 Mutiny 4
-Queen Daenerys’ 2
-Nym 1
+Nym 5
 Long Night 6
-Council 4
+Council 5
 Sarine Sofair 3
-Landing Whore 1
-King Tyrion Lannister 1
-Faith Militant 46
-Lord Commander Snow Janos Slynt 1
-Paul Portelli 1
-Details.com 1
+Faith Militant 43
+Septa 2
 Weirwood 3
 Long Form 2
-Shireen’s 1
-Moro 11
-Black Cells 3
-Mord 1
-Thoros 32
-Common Tongue 27
-Meereen – 1
-Nestor 1
-Door 1
-Lord Whent’s 1
+Moro 10
+Crying 2
+Widow's Wail 4
+Mord 9
+Thoros 45
+Common Tongue 25
+Third 9
 Clash 22
-Quickly Tyrion 1
-Alex Graves 2
-Bran Stark 90
-Meereen Daenerys 1
+Alex Graves 8
+Bran Stark 89
 Nell Tiger Free 8
-Robb Stark Rickard Karstark 2
+Moon Door 15
 Doom 12
-Red Woman 2
-Robert's Rebellion Therefore 1
-African-black 1
-BC 1
-Builder 1
+Red Woman 5
+Cerwyns 7
+Builder 2
 Plaza 2
-Great Sept. 1
-Actor Kristian Nairn 1
 Lord Baelish 6
 Michael Hooley 2
 Old Tongue 3
 Single-Camera Series 5
-Qhorin Halfhand 19
-Climb 15
+Climb 18
 Valyrian Peninsula 7
 Jaremy Rykker 2
-Lord Reyne 1
-Steven Attewell 1
-Queensguard 2
-Missandei Daenerys 1
+En 2
 Ralf Kenning 5
 Ian Gelder 9
-Catelyn VIII 1
-Loreza 1
-Jaqen Arya 1
-Aegon II 1
+Loreza 2
+Sothoryos 2
 Black Friday 2
 Watters 2
-Doran 30
-Daenerys Targaryen Jorah Mormont 1
+Doran 65
 Princess Yara Greyjoy 10
-Manticore 1
-Lannister Archer 1
-Zalla 1
-Ygritte Jon Snow 1
-Hugo 1
-Fairley 1
-Gordan Mahon 1
-Imp 2
-Tyrion Joffrey 1
-Runestone 1
-High Red Priestess 1
-Yunkai'i 7
-White Walker 69
-April Ferry 1
-Edric Baratheon 1
+Imp 4
+Runestone 5
+Stiv 3
+Yunkai'i 8
+White Walker 67
 Theon Reek 2
 Tyrion IX 8
-Westeros 59
-• 1
+Westeros 225
+• 2
+Jacks 2
 Lady Anya Waynwood 4
-Guardian 1
-Jorah 73
-Lord Selwyn Tarth 1
-Paul Monahan 1
+Jorah 207
 Tyrion IV 4
 Drowned God 7
-Lore Blu-ray 1
-Little Rose 1
-Selmy 4
-Language David J. Peterson 1
-Ser Meryn Trant 29
-High Septon 35
-Tormund Jon 3
-Night's Watch 1
+Planky Town 2
+Selmy 8
+Ser Meryn Trant 27
+High Septon 25
+TV-Osha 2
+Night's Watch 243
 Jaime III 5
-Robb Rickard 1
-Roose Bolton 59
-Slayer 1
-Brann Dailor 1
+Roose Bolton 62
 Aidan Gillen 57
-Alton Lannister King Robb Stark 1
-Arya Braavos 1
+Knights of the Vale 2
+Dornishman's Wife 3
 Gemma Jackson 5
-Problem 1
-Lyanna Stark 11
+Lyanna Stark 12
 Lord Petyr 3
-Crasters Keep 1
-Dragontamer 1
-Tyrell 32
+Tyrell 37
 Lord Regent 3
-Karlon Stark 1
 Mantle 3
-House Dustin 1
-X-shaped 1
-Though Daenerys 1
-Filip Lozić 1
-Martin Syrio Forel 1
-Samwell Tarly Jon Snow 1
-HBO's Official Viewer 1
-Certainly Theon 1
+Click 2
+Gladiator 2
 Lino Facioli 10
-God 3
-Father 3
-Actor Jacob Anderson 1
-Stormlands 12
-Always Winter 2
-Director Alex Graves 1
-Oxcross 3
-Walking Dead 1
+God 5
+Father 12
+Tony Way 6
+Oxcross 7
 Amory Lorch 8
-Jaime discuss Tyrion 1
-First Steward 2
-Michal Schick 1
 Mandon Moore 2
-Food 1
-Iceland 3
-Escort Lord Rickard 1
-Alliser Thorne Jon 1
-Joffrey 152
+Iceland 14
+King's Guard 2
+Joffrey 481
 Paul Kaye 6
-O'Fuarain 1
-Arya Stark 123
-Jon’s 1
+Arya Stark 126
+Lollys 9
 Aegon V 8
-Shakspeare's Richard III 1
-Council – 1
-Episode 25
-Harpy 59
-Tyrell Wedding Guest 1
-Incest 1
+Episode 26
+Harpy 24
+Incest 2
 Rhaenyra Targaryen 4
-Katie Creaven 1
 Jane Shore 2
-Protector 7
-Lords Walder Frey 1
-Second Son 1
+Ser Hugh of the Vale 6
 Lord Portan 2
-Qohor 1
-Viewer 1
-Maester Aemon Jon Snow 1
-Kingsmoot 17
-Black Wind 1
-Baratheon Fighter 1
+Qohor 2
+Halfman 2
+Kingsmoot 20
+Morag 3
 House Baelish 3
-Randyll Tarly 7
-Jón Þór Birgisson 1
-Victarion 3
+Randyll Tarly 6
+Victarion 10
 Ser Waymar 2
-Had 1
-Histories 5
-Anguy Arya Stark 1
-Petyr Baelish 60
-Sam's 1
-Ser Daemon Sand 2
-Oberyn Martell Tyrion 1
-Town 14
-Dorne 53
-Kingdom 5
+Histories 17
+Petyr Baelish 61
+Town 4
+Dorne 153
+Kingdom 4
 Grand Maester 5
-Lhazarene 1
-Stark Sansa 1
+EW 3
 Makeup 2
-Nickovich Sammut 1
+Zanrush 2
 Davos Seaworth 41
-House Baratheon 15
-Kingsguard Brienne 1
-Tickler 13
-Reed 6
-Dark World 1
+House Baratheon 13
+Tickler 12
+Caravaggio 2
+Ghiscari Empire 3
+Malakho 3
 Lyanna Mormont 4
-Edward Tudor Pole 1
-Harrenhal 18
+Harrenhal 100
 Edward Dogliani 3
-Magic 1
-Jaime VIII 1
 Norvoshi 3
-Wife 1
-Lysa 25
-Good Masters 1
-Kingdoms 1
-Westeros.org's A Wiki Ice 1
+Lysa Tully 3
+Lysa 64
 Grey Wind 18
 Ben Hawkey 12
 Amrita Acharia 15
-Imperial Majesty 1
-Lyanna 8
-Lothar 1
-Stark Bannerman 1
+Lyanna 29
 Samantha Bentley 3
-Costume Michele Clapton 4
+Lord Protector 2
 Isaac Hempstead-Wright 49
-Hogg 1
-Edward Mercieca 1
-Lady Maege Mormont 1
-Brynden Tully 9
-Lancel Cersei 1
-Small Council 93
-Mace Tyrell 22
-Summer Islander 1
-Cheryl Lester 1
-Cersei’s Kevan Lannister 1
-Emperor Commodus 1
-Craig Mazin 1
+Reek 76
+Brynden Tully 10
+Small Council 91
 Xaro Xhoan Daxos 8
-Matt Butcher 1
 Myrcella Baratheon 12
-— 3
 Gemma Whelan 9
-City Watch Commander Janos Slynt 1
-MakingGameOfThrones.com 1
-Ranger Ser Alliser Thorne 1
-Actor Hafþór Júlíus Björnsson 1
-France 1
-Roses 2
+MakingGameOfThrones.com 2
+France 2
 Lord Randyll 2
-Angered 1
-King's Landing 121
+Angered 2
+Lord Protector of the Realm 2
+King's Landing 235
 Regent Cersei Lannister 3
-Yunkai Astapor Volantis 1
-Moat 1
-Garry Mountaine 1
-Hodor Bran 2
-Jem Wall 1
-Dreadfort 32
-Aurane Waters 1
-Kingsguard Arys Oakheart 1
-May Never Die 15
-Song 11
-Barium 1
-New York City 1
-Mark Drake 1
-Lacy Moore 1
-FATHER 1
+Diana Rigg 3
+Dreadfort 28
+May Never Die 18
+Song 12
 Theon IV 2
 Theon II 2
-Sons 39
-Irri 8
-Magister Illyrio Mopatis 4
-Wineseller 1
-Book-Arya 1
-Daniel Naprous 1
+Irri 29
+Magister Illyrio Mopatis 5
+Wineseller 2
 Aemon Targaryen 4
-King 148
-Dany 23
-Maester Aemon Sam 2
+King 153
+Dany 63
+Be 2
 Blu-Ray 3
-Ser Beric 1
-Against 1
-Ghezn 1
-Qartheen 1
-Sand 2
+Ghezn 4
+Sand 3
 Ryger Rivers 2
 Jon XII 4
 Andy Kellegher 3
-Winterfell 88
-Honor 2
-Stannis Melisandre 1
+Winterfell 351
+Honor 11
 Catelyn VI 3
-Hizdahr 6
+Hizdahr 28
 Kristy Robinson 3
 Ramsay Snow 32
 Ser Stevron Frey 2
 Ellie Kendrick 11
-Cersei IX 1
-Fist 27
-Violet 1
-Slynt Jon 1
-Qyburn 37
-Actor Sean Bean 1
+Satisfied 2
+Fist 3
+Violet 8
+Maggy 14
+Qyburn 84
 Cersei II 5
 Patriot Games 2
-Seven-Faced 1
 Lord Cerwyn 4
-Olenna 40
+Olenna 90
+Lord Randyll Tarly 2
 Ciaran Bermingham 2
-Cersei Petyr Baelish 1
-mainland Sothoryos 1
-Ser Duncan 3
 Three Whores 2
+Battle of the Whispering Wood 2
 Princess Shireen 2
-High Septons 1
-Was 2
-Production Designer Gemma Jackson 1
-Slaver's Bay 32
-Ratib Asghar 1
-Denys 1
+Was 4
+War 13
+Slaver's Bay 55
+Breaker 15
 Maegor's Holdfast 3
-Brienne 176
-Green Fork 6
-Innkeeper 1
-Mace 5
-Catelyn X 1
-Gregor Clegane 34
-Wall – 1
+Brienne 324
+Green Fork 2
+Mace 20
+Prologue 10
+Gregor Clegane 35
+Bloody Gate 3
 Paul Caddell 2
-Spice King 8
+Spice King 5
 Middle Ages 5
-Tim Landers 1
-Ryger 1
 Hannah Murray 36
-Sarah Hughes 1
-Freya Frey 1
-Thorne 17
+Thorne 46
 Free Cities 3
-Copper Star 1
 Burn Gorman 5
-Jon Night’s Watch 1
-Conqueror 5
+Thorns 2
 Lady Lysa 2
-David Garlick 1
-KNEEL 1
-Mark Quigley 5
+Old Gods of the Forest 6
 Cordelia Hill 2
-Old 8
-Tony Way 6
-Richard E. Grant 1
-Selyse Baratheon 9
-Edmure Tully 7
+Old 6
+Stormlands 13
+Slavko Juraga 2
+Edmure Tully 8
 Tyrion VII 6
-Beric Dondarrion 9
+Kesh 2
+Beric Dondarrion 10
 Lord Tywin 13
-Hodor 25
-Lord Petyr Baelish 27
-M​ole's Town 1
-Blue Fork 4
-Lorathi 1
+Hodor 124
+Lord Petyr Baelish 28
+Lorathi 2
 Cole 8
-Market 3
-Dorne Martell 1
-City 2
-Bastard 8
+Market 6
+Hoster Tully 10
+Bastard 5
 Davos II 2
-Belicho 1
-Khal 5
-Renly 12
-Gregor 20
-Raff 6
-Razdal Eraz 6
-Sweid 1
-Hold Steady 1
-Eleven 1
-Gina Moxley 1
-Jon North 1
-Viola 1
+Italy 2
+Khal 6
+Renly 75
+Gregor 56
+Raff 23
+Fingers 2
+Sean Bean 2
 Richard Brake 2
-Greyscale 7
-Heironymus Bosch 1
+Greyscale 15
 Davos IV 3
-Ciarán Hinds 5
-Baelish’s 1
+Ciarán Hinds 2
+Gold Honors 3
 Tyrion II 5
-Varys Ros 1
-Sheelba Square 2
+Unbroken 5
 Broken Tower 3
-Chekov 1
-Valar Dohaeris 1
 Robert Fawsitt 3
-Faith 43
-House Stout 1
+Faith 24
 Francis Magee 7
-Lady Crane 4
+Lady Crane 5
 Rodrik Cassel 6
-Robert Baratheon Season 1
 House Karstark 4
-Wounded 1
-James Hibberd 1
+Corfield 2
 Rupert Vansittart 5
 Jaime Cersei 2
-Kinslaying 1
+Kinslaying 2
 Lord Selwyn 4
 Ser Imry Florent 2
 Carter 15
-Kenneth Hadley 1
 Aegon II Targaryen 3
-Eyrie – 1
-Skagos 2
-Son 5
-Old Gods 25
+Todder 2
+Skagos 6
+Old Gods 22
 Nathalie Emmanuel 32
 Red Viper 4
 Luke McEwan 7
+Sow 3
 Gary Lightbody 2
 Crown Prince Rhaegar Targaryen 2
-Karl 11
-Night Lands Jaqen H'ghar 1
-Elizabeth Cadwallader 1
-Sellsword 1
+Yara Asha 4
+Karl 25
 Grand Maester Pycelle 62
-Myrnada 1
-Emmett O'Riabhaigh 1
-Sand Snakes 46
+Sand Snakes 48
 Willem Lannister 6
-Marsh 1
-Lord Bottoms 1
-Internet 1
-Thenn Warg 3
+Marsh 3
+Thenn Warg 2
 Masters 3
-Ser Oswell Whent 1
-Crucifixion 1
+High Septon of the Faith 2
 Citadel 15
-Mantarys 2
-Five Kings 21
+First Steward Bowen Marsh 6
+Mantarys 5
+Five Kings 4
 Brienne VII 2
-Cersei’s Kingsguard Doran’s 1
 Daenerys Stormborn 4
-City Watch 10
-House Caulfield 2
-Ramsay 113
-Northmen 3
-Tyrion's POV 1
-Robert Shaw 1
-Nikolaj 1
-Dave Hill 1
+City Watch 7
+Ramsay 346
+Northmen 5
+Nikolaj 2
+Did 10
+Dave Hill 5
 Daenerys VI 9
 Grey Worm Missandei 2
-King Aerys Targaryen 1
-David Bradley 3
-Northern Hemisphere 1
-May Never Die · 1
-Khal Drogo Mago 1
+Claudius 2
+Heraldry 2
 Reeds 8
+Unsullied 82
 Queen Mother 6
 Great Pit 6
-Brave Companions – 1
-Lord Robin 1
-Catelyn 61
+Oberyn 127
+Catelyn 164
 Sight 2
-Grace Hendy 1
-Bones 4
-Kingswood 1
+Bones 35
 Font 2
 Roxanne McKee 11
 Norvos 2
-Baratheon Soldier 11
-Brave Companions 3
-Lemon 1
-Ryman 1
-Munro Graham 1
-Sandstone 1
-King’s Prize 1
+Brave Companions 4
+Ryman 2
 Wayward Bride 2
 House Uller 2
-Razdal 6
+Razdal 14
+Savior of the City 2
 Three-eyed Raven 6
-Stannis’s 1
-Frey Guard 1
-Elio Garcia 5
-Marei 2
-Stableboy 1
-Pointy End Vayon Poole 1
-Tully 23
-Fire 20
-New Face 1
-Ruling Princess 1
-Lady Lyanna Stark 1
-Knight 5
+Non-Prosthetic 2
+Elio Garcia 4
+Marei 13
+Stableboy 2
+Tully 27
+Fire 56
+Troy 3
 Eddie Eyre 2
 Michael Shelford 2
-Boy 7
-Winterfell Beekeeper 1
-Stephen Don 1
-Ross O'Hennessy 1
-Gregor kills Ser Hugh 1
-Red Woman Maester Caleotte 1
-Jodhi May 1
-Tyrells 54
-Bradley John-West 1
-House Waynwood 1
-YahooTV 1
-Krysten Coombs 1
+Boy 11
+Tyrells 56
+YahooTV 2
 Natalie Lee 3
 Donal Noye 2
 Annette Tierney 2
-Outstanding Visual 1
-Jen Trolio 1
-Bart 1
+Marcotte 2
+Harington 4
+Bart 7
 Mark Lewis Jones 2
-Showdown 1
 Reyne Rebellion 3
-Stannis's 1
-Richard Ridings 1
-Lion 18
-Sandor 28
-Mereenese 1
-Blockheads 1
+Harpy's Son 2
+Lion 25
+Sandor 79
 Masha Heddle 2
-Ros 10
-Munkun 1
-Iggo 1
-Simon 1
-Eddison Tollett 44
-Arya’s 1
-Jon Stannis 1
-Cinematography 1
-Shae 39
-Free Arya 1
-Sean T. Collins 1
-Buckley 1
-Richard Doubleday 1
-Home King 1
-Tyrion Lanniser 1
-Copper Penny 1
-Composite 1
-House Manwoody 1
-Army 2
-Lord Randyll Tarly 1
+Captain 5
+Iggo 4
+Simon 6
+Cersei IV 3
+Eddison Tollett 43
+Maesters 2
+Shae 122
+Jessica Stevenson 2
+Book of the Stranger 5
+Commander of the City Watch 3
 House Frey 20
-Robert Yates 1
-Lord Manderly 1
-West 1
-Tywins 1
-Norbury 1
-Come 3
-Greensight 4
+Faith of the Seven 18
+Come 16
 Arya VII 3
-Meereen 33
+Meereen 185
 Reg Wayment 2
-Leo Lefford 1
+Gleeson 2
 Finn Jones 24
-Astapor 9
-Ser Arys 1
-Volantis Fighter 1
-Nairn 25
-Ser Boros Blount 3
-Oswell Whent 1
-Brandon 2
-Garden Bones Rennick 1
-Tourney 4
-Hornfoot 1
-Drogo's Vaes Dothrak 1
-Eddard Gregor Clegane 1
-Brown Ben 1
-King's Landing Lannister Robert 1
+Astapor 52
+Nairn 30
+Ser Boros Blount 2
+Lorath 3
+Mark 2
 Pixie Le Knot 2
-Brienne Arya 1
-Eddard XII 1
 Twitter 5
-Daenerys Doreah 1
-Dinklage 2
-George W. Bush 1
+Murray 2
 Cersei X 3
 Silent Sisters 3
-Ian Lloyd Anderson 1
 Cersei V 3
-Singing Lannister 1
-Khalar 1
-Greyjoy Rebellion 10
-Dragonstone 11
-Gerold 1
-Michael Nevin 1
-Father's Day 1
-Ice 5
-Talisa Maegyr 8
+Greyjoy Rebellion 9
+Dragonstone 53
+Gerold 2
+Ice 42
+Outside 3
 Maester Wolkan 6
 Cressen 4
-Wylis 6
-New 13
-Linda 2
-Jonathan Byrne 1
-Westerosi 8
+Wylis 14
+Castle Black 198
+Linda 3
+Longclaw 13
+Westerosi 9
 Pyat Pree 15
-Map 2
-Mas 1
-Coin Mace Tyrell 1
-Anya Waynwood 1
-Drunk 3
-Young Ned 1
-Spartan 1
-Young Bran 1
-Lisser 1
+Coin Mace Tyrell 2
+May 28
 Lord Royce 5
-Slave 3
-Martells 17
-Naath 2
-Robert's Rebellion 17
-Weirwood Throne 1
-Mad 1
-Eddard VIII 1
-Stafford Lannister 1
+Temple of the Graces 3
+Martells 19
+Naath 8
+Robert's Rebellion 26
 Joe Naufahu 3
-Samwell Melisandre 1
-St. Nicholas 1
-Eunuchs 1
-Indy Rock 1
-Bryan Quinn 1
-Marcus Lamb 1
+Lord Commander of the Night 16
+Man 2
 Daniel Portman 28
-Feast 8
-It’s 1
-Lady Joyeuse 1
-AL 1
-Hasani 1
-CPR 1
-Frostfangs 3
-Sparrows 20
-Simpson 1
-Chella 1
-Huffington Post 2
+Feast 26
+CPR 3
+Sparrows 22
+Mance 62
 Executive Producers David Benioff 2
-Drowned Priest 4
-Thin Man 3
-Styr 8
-Baelor Lord Walder Frey 1
-Irma Mali 1
-Tamer Hassan 1
-Autumn Storms 1
-Arya Brienne 1
-Turner 1
-Frostfang Mountains 1
+Drowned Priest 3
+Lord Eddard Stark 16
+Ah 5
+Turner 3
+Hoat 2
 David Peterson 2
 Daenerys IX 2
-Lord Protector 4
-Corfield 2
-River Trident 1
-Lothston 1
+Author George R.R 3
 Daenerys IV 11
-Robert Goodman 1
 Daenerys II 8
-Tyene Sand 14
+Tyene Sand 13
 Arwaya Frey 4
-Baratheon 27
+Baratheon 34
 Davos VI 2
-Edric Storm 1
-Jaime's POV 1
-Isle 1
-Bloody Hand 5
-Notice 11
-Lollys Stokeworth 8
-Conan Stevens 4
-Fiach Kunz 1
-Combat 1
+Rickard 17
+Cripples 7
+Rhaenyra 4
+Notice 17
+Lollys Stokeworth 7
+Khaleesi 4
 Fergus Leathem 3
-Theon Greyjoy 105
-Ramsay Bolton Bolton 1
-Aware 1
-Lord Mace Tyrell 12
-Lord Gyles Rosby 1
-Joffrey Ros 3
+Theon Greyjoy 108
+Lord Mace Tyrell 13
+Michael Feast 2
+Black Jack Bulwer 3
 House Tarly 4
-Margaery 50
-Jack Roth 1
-Fake Arya 2
-Westerlands 14
-Slovis 1
-Mormont Jon 2
-Jorah Tyrion 1
-CGI — 1
-Anthony John Crocker 1
+Margaery 164
+Westerlands 15
+Slovis 2
 Lord Howland Reed 3
-Beric 11
-Jaime 197
-Balon King 1
+Beric 26
+Jaime 531
 Godswood 3
-Ser Mandon 1
-Cyvasse 1
-Baelish 28
-Daenerys's POV 1
-Lollys Bronn 1
+Ser Mandon 2
+Mazins 2
+Prince Rickon Stark 9
 House Bolton 28
 Walder Rivers 2
-Daenerys Missandei 1
 Deirdre Monaghan 2
-King Edward IV 1
-Eddard V 1
-Daniel Rabin 1
-Obara Nym 1
-Octavia Selena Alexandru 1
-Ser Loras Tyrell 26
+Enzo Cilenti 3
+Battle of the Blackwater 32
+Ser Loras Tyrell 27
 Eddard X 2
-Sand Snakes —Obara 1
-Mayor Thomas Carcetti 1
 Hill 4
-Houses Reyne 1
-Jarrett-Gavin 1
-Lord Paramount 2
-Orson 1
-Blu 1
-Joyeuse Erenford 1
-Blackwater 50
-Between Season 1
-Cersei's Walk 1
-Storm King 1
+Valad 2
+Orson 2
+Greenpools 2
+Blackwater 36
+Farmer 2
 Lord Rickard Stark 2
 House Manderly 4
 First Night 4
-Plaza de Toros 1
-Khal Forzho 3
 Dragon Queen 2
-Nightʼs Watch 1
-Melisandre Jon 1
-Torrhen 2
-Snow Patrol 1
-Ser Brynden Tully 1
-Boys 1
-Robert's 1
-Ser Davos Seaworth King Stannis 1
-Terrified 1
-Martin Walsh 1
+Torrhen 6
+Tanda Stokeworth 2
+Reed 6
 Hollow Hill 3
-Cersei Kevan 1
-Reek 16
-Orc 1
-Paul Herbert 1
-Sealord 1
+America 2
+Dunk 7
 Belicho Paenymion 2
 Alcázar 2
-Light 20
-Mary Jordan 1
-Greek 1
-Stark Valyrian Ice 1
-Maggy 6
+Light 56
+Vayon Poole 2
+War of the Ninepenny Kings 3
+Thin Man 3
 McKenna 2
-Alliser Janos Slynt 1
-World War II11 1
-Great Hall 5
-Stripped 1
-Kevin Eldon 1
+Randyll 4
+Great Hall 3
 Monty Python 3
-Dornishmen 5
-Areo Hotah 14
+Dornishmen 10
+Areo Hotah 13
 Esme Bianco 15
-Dohaeris 1
-Emmy Award 1
+Dohaeris 10
 Iain Glen 59
-Seastone 1
-King-Beyond-the-Wall Mance Rayder 6
-Eddard Stark​ 1
-Susie Kelly 1
-Tikaram 1
-Mountain 29
-Stark Guard 1
-Robert 48
-Bernadette Caulfield 1
-Ships 3
-Actor Dean-Charles Chapman 1
+King-Beyond-the-Wall Mance Rayder 5
+Eraz 7
+Mountain 33
+Robert 181
+Ships 8
+Quent 2
+Daenerys' 2
 Actor Eugene Simon 2
-Malko 2
+Vardis 3
 Roman Republic 2
-Missandei Grey Worm 1
 Davos III 2
-Lena 1
-Eddard XIV 1
+Lena 4
 Kristofer Hivju 34
-Coster-Waldau 39
-Ser Byron Swann 1
+Coster-Waldau 40
 Rebecca Scott 2
 Karl Tanner 11
-Simon Stewart 1
-Addam Marbrand 1
-Gregor's 1
-Lord Desmond Crakehall 1
 Stone Mill 4
-Three-Eyed Raven 3
-Reynes 1
-Kingsroad Doreah 1
+Three-Eyed Raven 4
+Cerwyn 4
 Lord Commander Barristan Selmy 9
 Callum Wharry 11
-Carice Houten 11
-Gemita Samarra 1
+Dinklage 9
 Wilko Johnson 5
-Great Master 1
-Crannogmen 1
-Hugo Culverhouse 1
-First Steward Bowen Marsh 6
-Doune Castle 1
+Lanna 7
+Night's Watchman 4
 Lannister Tyrell 3
-Essie Davis 1
-Elie Haddad 1
-Jaime Tommen 1
-Tyrosh 2
-Lord Eddard Stark 28
-Costuming 1
-Author George R.R 3
-Braavosi Water Dancer 1
-Doreah Daenerys 2
-Dead 2
+Tyrosh 4
+Garlan 5
 Susan Brown 7
-Mad King 59
-Regardless 1
-Conleth Hill 60
-Blackwater River 1
-Eastwatch 4
+Mad King 58
+Conleth Hill 58
+Eastwatch 7
 Brian Fortune 16
-Valyria 5
-Master Mighdal's 1
-Stannis Crew 1
+Valyria 34
 Ser Waymar Royce 6
-Ser Jon Lynderly 1
-Orell Jon 1
 Jon XIII 6
-Northeners 1
-Northern 28
+Northern 29
 Joseph Mawle 4
-Regent 2
+Regent 5
 Charles Dance 45
-Hearth 3
-Nathanael Saleh 1
+Hearth 9
 Liberation 2
-Dr. Feelgood 1
-Starks 78
-Sandor Sansa 2
-Christmas 1
-Watch Archer 1
+Starks 80
+Qhono 3
 Lord Beric Dondarrion 8
 Tyrion III 4
-Joe Purcell 1
-Dark Lord Sauron 1
-Bolton Jaime 1
-Eddard III 1
-Mallister 3
-Mycah 1
+Clapton 9
+Mallister 7
+Mycah 14
 Lord Stannis 2
 Rhaegar Targaryen 7
-Eyeless Face 1
-Luthor 1
-Stafford 1
-Ghost 24
+Seasons 22
+Stafford 2
+Ghost 40
 Young Benjen 2
 Van Cleave 3
-Tobho Mott 8
-Ironborn 17
-Marillion 1
+Tobho Mott 9
+Ironborn 14
+Marillion 16
 Ser Ilyn Payne 14
-Dothraki 95
-Bolton Guard 2
-Red 3
+Dothraki 102
+Garcia 4
 Roman 2
 Emun Elliott 4
-Mark Killeen 1
-Matthos Seaworth 9
-Missandei 40
-James Lecky 1
+Ser Brynden 8
+Matthos Seaworth 8
+Missandei 128
 Old Ghiscari 2
-Aunt Lyanna 1
 King Aegon V 2
-King Viserys 1
-Shadow Tower 6
-Lancel Lannister 17
-Hizdahr Loraq 4
+Shadow Tower 5
+Lancel Lannister 16
 Jon II 7
 Ser Gerold Hightower 4
 Ivailo Dimitrov 2
-Middle 1
-Lannister 183
+Lannister 201
 Jon IV 6
-Lord Umber 1
 Northern Ireland 18
-Kings 3
+Kings 8
 Jon IX 3
-Hammer 1
-Gethin Anthony 9
-Rachel Semigran 1
+Walda Frey 2
+Gethin Anthony 8
+Iron Fleet 9
 Queen Selyse Baratheon 8
-Lannister Lord 2
-Prologue 9
-David Verrey 1
-House Ashford 1
-Smith 2
+North of the Wall 2
+Aye 6
 Arthur Dayne 10
 Ternesio Terys 5
-Littlefinger Sansa 3
-Claire Wright 1
-Frit Leiber's Fafhrd 1
-May Never Die Brienne 1
+Night's Watch Officer 11
 Shivering Sea 2
 Primetime Emmy Award 2
-Prendahl 1
-Ramsay’s Winterfell 1
-Jon Craster 1
+Prendahl 10
 Northerners 6
-Stockholm Syndrome 1
-Phil Barnhill 1
-Stallion 2
-Preston 1
-Desmond Crakehall 1
-Balon Euron 1
-Fruit 1
-Stockwell 1
-Chroyane 1
-Karl Jackson 1
-Michael Liebmann 1
-Donald Sumpter 15
-South Park 2
-“no 1
-Kevan 18
-Wisdom Hallyne 5
-Polliver 5
+Stallion 3
+Preston 2
+Lancaster Tudor 2
+Chroyane 5
+Kevan 47
+Night's King 8
+Wisdom Hallyne 4
+Polliver 37
 Brother 2
-Cat 8
-Eddie Jackson 1
-Brothel 6
-Mother 17
-Podrick Payne 45
-Prince Oberyn Martell 12
-Robin 11
-Summer 9
+Cat 6
+Sissy 3
+David BenioffD.B 10
+Mother 19
+Podrick Payne 47
+Prince Oberyn Martell 8
+Robin 26
+Help 2
+Summer 28
 Prince Trystane 5
-Gwyneth Keyworth 1
-Sam 99
-Smiff 1
-Arya TV-Meryn 1
-Jorah Mormont 42
-Emmanuel 1
-Olly 6
-Robb Stark 120
-House Qorgyle 1
+Sam 217
+Jorah Mormont 47
+Olly 40
+Say 3
+Robb Stark 125
 Kevin Keenan 2
-German Tom Wlaschiha 1
-Yara Greyjoy 13
+Yara Greyjoy 12
 Weekly 2
-Roman Senate 1
-Sansa – 1
-Catspaw 5
-Mark Coney 3
-Bran Jon 1
-Daenerys' Unsullied 1
-Theon Rodrik 1
-Further Braavos 1
-Bleak House 1
-Which 1
+Red Fork of the Trident 2
+Mace Tyrell 23
+Jane Espenson 2
+Anara 2
+Catspaw 4
+R'hllor 4
+Children of the Forest 25
 Donnel Hill 4
-King Robert Baratheon 15
-Tysha 7
+King Robert Baratheon 17
+Orys 7
+Black Walder 2
+Tysha 27
 Theon V 3
-King's Underneath 1
-Season 168
-Balon Greyjoy 26
-Heir 1
-Ragnar Þórhallsson 1
+Season 828
+Balon Greyjoy 28
 Tony Flynn 2
-Joffrey Marillion 2
-Tarly 1
-Laurenti Sellers 1
-Sansa Joffrey Tyrell 1
-Loraq 1
-Wedding Guest 2
-Loras 32
-Dean Weir 1
+China 2
+Tarly 3
+Loraq 7
+Loras 96
+Mirri 3
 Sansa V 5
-Seastone Chair 1
-Steve Wilson 1
-Sansa Joffrey 2
-Stannis Ser Davos 1
-Grand Maester Kaeth 1
 Lord Hoster Tully 2
-Ser Arthur Dayne 5
+Ser Arthur Dayne 4
 Khaleesi Daenerys Targaryen 9
-Hell 1
-Valyrian 8
+Valyrian 24
 House Royce 3
-Castle Black. 1
-Gordon Fulton 1
-David Sheenan 4
+David Sheenan 2
 Prince Theon Greyjoy 13
-Theon – 1
-Point 1
-Styr's 1
 East Asian 3
-Azor Ahai 1
+Titan 7
 Ser Preston Greenfield 2
-Duncan Liddle 1
-Jesus 1
-Writers Benioff 1
-Currency 2
-Tywin Lannister Ser Amory Lorch 1
-Maester Luwin 41
-Gothic 1
-Pycelle Cersei 1
-Lannister-Bolton 1
-Jon Samwell 1
+Maester Luwin 27
 Lord Commander Mormont 9
-Mummer's Ford 1
-Folk 2
-'scythe 1
-Jeyne Poole 16
-Belfast 1
-Coster-Waldau Mikken 1
-Ser Barristan 16
-Sansa’s 9
-Ser Brynden 8
-Stephen Brown 1
-Richard Buick 2
-Karsi 2
+Folk 3
+Jeyne Poole 17
+Belfast 4
+Ser Barristan 17
+Swords 4
+Karsi 13
 Joseph Gatt 3
-Ciaran Hinds 1
-Jaime-gets-his-hand-chopped-off 1
 Young Wolf 2
 Maori 2
-North 244
-Gendry Arya Stark 1
-Rea Separovic 1
-Vala 2
+North 209
+Vala 9
 Mormonts 2
-Godsway 1
-Vale 120
-Tywin Gregor 1
-Walder Frey 24
-Catelyn Robb 1
-Lannister Monster 1
-House Blacktyde 1
-Ramsay Theon 1
-Davos 57
-Free City 11
-Werewolf 1
-Gilly Samwell 1
-Leigh Gill 1
-Arya Jory Cassel 1
-Tywin Lanniser 1
-Garlan 1
+Vale 102
+Walder Frey 26
+Whoresbane 2
+Euron 65
+Davos 113
+Free City 9
 Emmy Awards 4
-Sigur Rós 1
-Robin Sweetsleep 1
-Lacroix 1
-Bolton 79
+Seville 3
+Bolton 88
 Vargo Hoat 2
-Edd 13
-Lommy 10
+House Umber 6
+King of the Andals 3
+Lommy 17
 Queen Cersei 8
 Lord Walder 5
 Aidan Crowe 2
-New York 1
-Nymeria Myrcella 1
-Miss Malta 1
 Elizabeth Webster 5
-House Durrandon 1
-Trystane Martell Jaime 1
 Blind Girl 5
 Sam Callis 2
-Tyrion XIV 1
-Theon 87
+Theon 287
 Torrhen Karstark 5
 Lady Whent 2
-Baratheon Guard 1
-Fought 1
-Jason Mamoa 1
-Ice-river 1
-Yoren Arya 1
 Tyrion XII 3
-Sanghera-Warren 1
-Vaes Dothrak 25
-King Richard III 1
-Loboda 7
-Alton 1
-Blood 4
-Eddard VI 1
-Trojan War 1
-Rila Fukushima 1
+Vaes Dothrak 26
+Loboda 12
+Alton 2
 Bran III 4
 Rhoyne 3
-Eldrick Sarsfield 1
 Builder Othell Yarwyck 2
-Octavia Alexandru 1
-Close Encounters 1
-Riverrun 11
-Butterly 1
-Night King 29
-Robb kill Rickard 1
-Director Alik Sakharov 1
-Mole's Town 8
+Riverrun 52
+Night King 24
+Greece 2
+Mole's Town 26
+Lhazar 4
 Ser Arys Oakheart 2
-Comedy Central 1
-Mag Mar Tun Doh Weg 8
-Field Worker 1
-Priest 1
-Wiki 1
+Mag Mar Tun Doh Weg 7
+Priest 2
 Richard III 5
-HBO Go Interactive Features 1
-Unburnt 1
-Stuntman Calvin Heasman 1
-Benjen 6
-Capital 1
-Fourteen Fires 2
-Jesus Christ 1
+Benjen 13
+Hafþór Júlíus Björnsson 9
+Prince Oberyn 5
+Hallyne 4
 Lady Catelyn Stark 26
 Kate Dickie 10
-Mole 6
-High 1
+High 2
 House Stokeworth 9
-Lord Commander Jeor Mormont 28
-House Westerling 1
+Lord Commander Jeor Mormont 29
 Drowned 2
-Quentin Tarentino 1
-Brienne II 1
-Pod 5
+Dorea 2
+Croatia 6
+Pod 16
 Sarah MacKeever 2
-Sam IV 1
-Saturday 1
 Gentle Mother 2
-Neverborn 1
-Lena Heady 1
-Jon Arryn 38
-Derek Lord 1
+Jon Arryn 39
 Four Kings 2
-Nyke 1
-Deon Lee-Williams 1
 Illyrio Mopatis 3
-Waif’s 1
 Nell Williams 2
 Prince Rhaegar 4
-Richard Laing 1
-Wildlings 10
-Castle 2
-Dark Sansa 1
-Thrones 12
-Rania Zouari 1
-Wildling 3
-Shireen 26
-Daniel Johnson 1
+Wildlings 11
+Thrones 82
+Wildling 2
+Shireen 82
+Tycho 2
 Euron Greyjoy 9
-Qotho 4
-Hurricane Irene 1
-Dark Words 7
-Mackenzie Crook 6
-Joren 1
-Strong 1
-Yara 21
-Sansa Winterfell 1
-Adam Basil 1
-Asshai 1
-Bill Kelliher 1
-Dianna Rigg 1
+Waymar 4
+Qotho 15
+Sons 32
+Dark Words 10
+Mackenzie Crook 5
+Strong 2
+Yara 64
+Battle of the Fist 6
+Asshai 8
 Keep 2
-Heraldry 1
-Stephen Swift 1
-Marianne Frey 2
-Moorish Spain 1
-Nanna Bryndís Hilmarsdóttir 1
+Astapori 2
 Narrow 2
-Theon Sansa 1
-Daeron Targaryen 1
-Qhorin Jon 1
 Msamati 3
 Theon III 2
-Mishael Lopes Cardozo 1
-Dragons 14
+Move 2
+Dragons 29
 Jack Gleeson 48
-Wall 339
-Braavosi Low Valyrian 1
-LIFE TO THE NIGHT 1
-King Renly Baratheon 7
-Ser Lancel 1
-Brienne Podrick 1
-Littlefinger 89
-Meereen Volantis 1
-House Greyjoy Lord 1
-Greywater Watch 1
-King Joffrey 19
-House Tyrell 33
-Aaron Archer 1
-Partially Bolton 1
-Tommen Cersei 1
+Wall 332
+Braavosi Low Valyrian 2
+David J. Peterson 12
+Littlefinger 259
+King Joffrey 22
+House Tyrell 31
 Richard Rycroft 2
-Rains 25
+Rains 28
 Bran IV 5
-First Builder 1
 Mad King Aerys II Targaryen 3
 Ashton-Griffiths 10
-Roy Dotrice 4
-– 5
-Davos Edd 1
+Roy Dotrice 3
 Targaryen Kingsguard 10
+Karhold 2
 Walk 15
 Wolfswood 6
-Ser Dontos Hollard 5
-Grand Maester Munkun 1
-Stark Ice 1
+Ser Dontos Hollard 6
+Good 4
 House Cerwyn 2
-Third 7
-Alysane Mormont 1
-Barry Gower 1
-Salladhor 3
-Umbers 3
+Maester Aemon Sam 2
+Bird 3
+Umbers 5
 Los Angeles 5
-Shakespeare's Richard III 1
-Ser Davos 12
-Lady Sansa Stark 6
-Merry Frey1 1
-Faolan Morgan 1
+Ser Davos 15
+July 4
 Gerald Lepkowski 2
-Viserion 3
-Catelyn Stark 52
-Theon Greyjoy Hodor 1
-Stella Lutz 1
+Catelyn Stark 54
+Alayne Stone 4
 King Tommen Baratheon 11
 Stephen Dillane 46
-Smoke 1
 First Builder Othell Yarwyck 8
-Rick Burn 1
-Ser Meryn 14
-Roger Ashton-Griffiths 1
-Jaime’s 1
-Emina Muftic 1
+Ser Meryn 16
+Haggo 4
+Alcazar 4
 Wise Masters 10
 Brienne III 4
-Eddard Arya 1
-Knelt 1
-Parkinson 1
-Woods 2
-Mark Byatt 1
-Boltons 82
-Sweetling 3
-Gerold Hightower 3
+Woods 3
+Boltons 80
+Elyria 2
 Akinnuoye-Agbaje 2
-Golden Crown Recap 1
+Smitty 2
 Summer Islands 5
-Paths 3
-Keyser Söze 1
-DVD 13
-Cersei IV 3
-Oathkeeper 1
+King of the Iron Islands 6
+DVD 14
+Oathkeeper 21
 Sansa IV 4
 Sansa II 2
-Captain Ternesio Terys 1
-Tywin Cersei 1
-Actor Wilko Johnson 1
-Middle-east 1
-Brynden Rickard 1
-Greyjoys 27
-Temple 6
-Bran Stark Winterfell 1
-Book-Tyene 1
-Elyo Grivas 1
+Captain Ternesio Terys 2
+Whisperers 7
+Greyjoys 28
 Red Priestess Melisandre 4
 Comedy Or Drama Series 2
-Nestor Royce 1
-Robb Jaime 1
-Daenerys' 2
-Meera 12
-Egg TV 1
-Editing 1
+Meera 42
+Rennick 2
 Dolorous Edd 3
-Boyd Rankin 4
-Yunkai 15
-Guild 1
-Dragonpit 1
-Tommard Baratheon 1
-Jon Orell 1
-Dylan McDonough 1
-House Dalt 1
-Brandon Stark 1
-Preston Greenfield 6
-Tyene 6
-Rhaego 1
-Jonathan Pryce 11
-Hobbit 1
-Chris Gallagher 1
-Essos 14
-Knights 2
-Flea Bottom 9
-King's Landing Robert Baratheon 1
-Kylie Harris 1
-Tired 1
+Boyd Rankin 3
+Yunkai 60
+Guild 2
+Dance of the Dragons 8
+Matthos 4
+Dragon 3
+Boake 4
+Rhaego 10
+Jonathan Pryce 8
+Iron Islands 24
+Jason 2
+House Tyrell of the Reach 2
 J.J. Murphy 2
 Robert Sterne 5
-Ramsay Jeyne Poole 1
-Theon Lorren 1
-Neil Marshall 6
+Neil Marshall 10
 Gyles Rosby 4
-HBO Special Features 1
 Emilio Doorgasingh 2
-Battle 91
+Battle 30
 Brienne IV 2
-Tim Loane 1
 Lommy Greenhands 8
-Luwin 8
-High Valyrian 22
-Tywin Lannister Tyrion 1
+Luwin 15
+High Valyrian 23
 Daenerys VIII 2
-Brother Boake 1
-Blessed 2
-Broken Things Samwell Tarly 1
-Gold Cloaks 1
-Spencer Wilding 1
-TV-first 1
-Sabina Arthur 1
-Bran Luwin 1
-Serra Frey 1
-Fudge 1
-Outstanding Art Director 1
-Mace Master 1
-Michael Moorcock's Elric Saga 1
-Garden 13
-Children Kullback 1
-Directorial Achievement 1
-Samwell 29
+Lowell 2
+Garden 18
+Samwell 76
+Cohollo 3
 Arya VI 3
-Bear 18
-Volantis Gold Honors 1
-Bean 14
-Eddard Jon 1
-King's Landing Doran 1
+Bear 21
 Bolton Officer 2
-Known World 3
-Wayne Foskett 1
-Rickon 13
+Obella 2
+Rickon 65
 Young Cersei 3
-Varys Eddard Stark 2
-Arya XI 1
-Academy Award 1
-Michelle MacLaren 1
+Michelle MacLaren 9
 Josephine Gillan 8
-Cersei Eddard 1
-Prophet 1
-Daario Daenerys 1
-Pyp​ 1
-Lannister High Valyrian 1
-Max Barber 1
-Greg 1
-Septa Moelle 1
+Wallen 2
+David Petrarca 4
 Order 3
 Primetime Emmy 4
-Pentoshi Merchant 1
-Raymond Griffiths 1
-Arya Ser Meryn 1
-Dutch Republic 1
 Fantasy 2
-Andal 2
-Gold 4
+Rome 3
+Gold 5
 Winds 22
 Bowen Marsh 23
-Heart Trees 1
 Catelyn VII 4
-Ser Aron Santagar 1
-Arya Jaqen H'ghar 1
 Ser Lancel Lannister 7
-Aemon Jon 2
 Sahara Knite 4
-Ser Amory Lorch 9
-North Remembers Lothor Brune 1
-Sunday 1
+Ser Amory Lorch 10
 Hattie Gotobed 2
-Myranda Ramsay’s 1
-Fourth 1
 Demon Road 2
 Waymar Royce 5
-Stark King 1
 Copper Pennies 2
-Sansa King Joffrey 1
-Terry Byrne 1
-Cersei Lannisterː 1
-Brown Ben Plumm 1
-Richard Fitzwell 1
-Los Angeles Review 1
-Maggie Hayes 1
+George Georgiou 2
 Jason McLaughlin 2
-Braveheart 1
+Braveheart 3
 James Cosmo 20
-Hobb 1
-Mago 3
-Deepwood 1
-Neyela Frey 1
-Jack Olohan 1
-Canals 2
-Margaery Loras 1
-Lord Commander Jon Snow 8
+Hobb 3
+Mago 9
+Unbent 6
+Lord Commander Jon Snow 9
 Water Dancer 3
 Dan Weiss 4
-Lewyn Martell 1
-Craster 19
-Thenn 10
+Craster 85
+Thenn 13
 Rory McCann 50
-Bryan McCaugherty 1
-Lord Mace Tyrell – 1
 Queen Cersei Lannister 42
-Stannis Bolton 1
-HBO Viewer 10
 Barrington Cullen 2
 Aerys II Targaryen 3
-Harrenhal Emmon Cuy 1
+Dracarys 3
 Bran V 3
-Alliser 4
-Ser Thorne 1
+Alliser 10
 Thomas Brodie Sangster 2
-Myranda Sansa 2
-How HBO 1
-Lady Sybelle Glover Stannis 1
-Cersei Sansa 1
-Myranda Royce 1
-England 1
-Jaqen 22
-Laughing Storm 1
-Outstanding Single-Camera Picture Editing 1
-Ornela 1
+England 2
+Drennan 3
+Jaqen 57
+Ornela 5
 Lord Stark 9
-Summer Sea 1
-King's Landing King Joffrey 1
-North Bolton 1
-Andrei Claude 1
 Brotherhood Member 5
 Brendan McCormack 2
-Eddard 89
-Arthur Dayne Ned Stark 1
 Natalie Dormer 54
-Greizhen Ullhor 1
-Barristan 29
+Prince Joffrey 3
+Lord Eon Hunter 3
+Barristan 54
 Rosie Ruthless 2
 Bran VI 2
-Ralph R. Clemente 1
-Baratheon General 3
 Drama Series 3
-King Euron Greyjoy 1
+Thrones1 4
 Watcher 5
-Andy Moore 1
-Legolas 1
-Warrior 1
-Gray Mouser 1
 Antler Men 2
 Tyrion V 7
-Guest David Sheehan 2
-War 33
-Kayla 1
-Columns 1
-Thrones” 1
+Kayla 4
 Queen Regent Cersei Lannister 4
-Martin Kenzie 1
 Angkor Wat 2
 Dornish Guard 2
-Braavos Braavosi Low Valyrian 1
-Actor Kit Harington 1
-Yunkai'i Wise Master Razdal 1
-Tanda Stokeworth 2
-Viper Kegs 1
-Inside 12
-Harpy’s 1
-Syrio Forel Ser Meryn Trant 1
-Trixiebelle Harrowell 1
-San Diego Comic Con 1
-Podrick Payne Tyrion 1
-Jon Sam 2
-Rakharo 3
+Afterward 3
+Wylla 2
+Inside 11
+Rakharo 20
 Conclave 2
-Willem 1
+Willem 9
+Unbowed 6
 Pilou Asbæk 4
-Slavers Bay 1
-Malko Jorah Mormont 1
+Sansa VIII 2
+December 2
+Brian Kirk 5
+War of the Five Kings 18
 Old Wyk 2
-South America 1
-Worry 1
-UK 1
-Maiden Fair 16
-Osha – 1
+Carice 52
+Pixomondo 3
+Maiden Fair 19
 Goldcloak 4
 Haunted Forest 8
-Cillean Campbell 2
+Johnna 3
 Rosabell Laurenti Sellers 7
 Frey Wedding Guest 2
-George R. R. Martin’s Iconic Character 1
-Gregor Oberyn 3
-Nikolaj Coster-Waldau 31
-Aerion Brightflame 1
-Quickly 1
-Varma 1
-Daniel Minahan 4
-Angela Carter 1
-Seamus Kelly 1
-Qyburn Grand Maester 1
+Warden of the North 20
+David Sheehan 2
+Daniel Minahan 13
 UNESCO World Heritage 3
-Red Mountains 1
-House Allyrion 1
 Lord Snow 15
-CGI 13
-Mountains 1
-Lorch 1
-Ser Bronn 19
+CGI 27
+Ser Bronn 16
 Arya IX 4
-Trident River 7
-Prosthetic Makeup 1
+Trident River 2
 Arya IV 2
-Robert jokingly 1
 Laura Pradelska 2
+Stonesnake 3
 Arya II 8
-Child 3
-November 1
-Diogo 3
+South 5
+November 5
 Harys Swyft 5
 Xhoan Daxos 3
 Iron Bank 55
-Ser Preston 1
-Stony Shore 1
-Castle Darry 1
-Chamber 1
+Bastard's Boys 4
+Fourteen Fires 2
 Ser Colen 2
 Mark Stanley 23
-Bloody Gate 4
-Sand Snake 1
-Tim Van Patten 3
-Fabius Maximus Cunctator 1
-Melessa Florent 1
-Newborn Bolton 2
-Aeron Greyjoy 9
-Ten 1
+Tim Van Patten 7
+Lord's Chosen 4
+Aeron Greyjoy 8
 Miltos Yerolemou 4
 Daenerys Targaryen 80
-Prince Trystane Martell 5
+Lord Whent 2
 Lord Frey 4
 Catelyn V 6
-Ser Boros 1
 Great Masters 2
-CGI mammoth 1
-Calvin Heasman 1
-Lysa Sansa 1
-Marko Cindric 1
-Colin Azzopardi 1
+Salladhor 5
 Fintan McKeown 4
-Realm 11
+Realm 2
 Jaehaerys II 10
-Stannis Baratheon Jon Janos 1
 Jon VIII 7
-Lord Commander Jeor Mormont Jon 1
-Lady Caulfield 1
-Darragh O'Connor 1
-Viper 11
+Rigg 2
+Battle of the Green Fork 3
+Viper 14
 Jon V 5
 Jon X 4
-Daenerys 251
+Daenerys 578
 Lady Walda Bolton 2
-Melisandre Stannis 1
-Bannen 1
-Colin Carnegie 1
+Bannen 2
 White Harbor 9
 Fola Evans-Akingbola 2
-Actor Brian Fortune 1
+TV-Hodor 2
+Tourney of the Hand 2
+Arts Emmy Award 4
+Utah 2
 Lois Winstone 2
-Petyr Baratheon 1
 Islamic 2
-Inside Bran 1
-Five 1
-Jaime Bronn 1
-Little Dove 1
+Fist of the First Men 14
+Knot 3
 Baelor Targaryen 3
-Dustin 1
-Jojen 20
-Sam Olly 1
-Oznak Pahl 1
-Dormer 1
-Tonci Banov 1
+Jojen 53
+February 3
+Dormer 2
 Tyrion X 6
-Patrick O'Kane 1
 Walda Bolton 8
-Sansa VIII 2
-Game Thrones 1
-Syrax 1
-Viserys 24
-South 9
+April 22
+Morgan 3
+Viserys 62
 Gold Honor 5
-Meera Bran 1
-'butterfly 1
-Sparrow 7
-White Witch 1
-Kinvara 7
-Varys Tyrion’s 1
+House of the Undying 7
+Sparrow 11
+Kinvara 21
 Thrones Wiki 11
-Ollie Kram 1
-Maester Aemon Jon 1
+Harker 3
 Deepwood Motte 18
