@@ -176,8 +176,6 @@ Croft 2
 Duncan 2
 Stephanie Blacker 2
 Meera Reed 27
-Black Cells 2
-Greensight 6
 Jerome Flynn 61
 Natalia Tena 20
 Many-Faced God 5
@@ -299,7 +297,6 @@ Iron Throne 79
 Sweetling 3
 Canada 3
 Pet 2
-Rose 12
 Tallhart 2
 Stark Officer 4
 Joe Dempsie 22
@@ -446,7 +443,6 @@ Adrack Humble 5
 Reddit AMA 2
 Jeremy Podeswa 10
 Breaking Bad 3
-Guymon 2
 Targaryen 104
 Meryn 31
 Scotland 2
@@ -637,7 +633,6 @@ Series 2
 Aemon 69
 Pedro Pascal 8
 Dubrovnik 3
-Icelandic 3
 Onion Knight 2
 White 120
 Ser Gerold 2
@@ -767,7 +762,6 @@ Valyrian Freehold 3
 Ser Mandon Moore 13
 Jafer Flowers 3
 Prince Viserys Targaryen 7
-Slave 3
 Wyl 3
 Lands 2
 Arya V 5
@@ -984,6 +978,7 @@ Blackwater Rush 2
 Peninsula 3
 Tower of the Hand 11
 Prince Joffrey Baratheon 8
+Rose 12
 Lannisport 5
 Nicholas Blane 3
 Jon Umber 5
@@ -1197,6 +1192,7 @@ Weirwood 3
 Long Form 2
 Moro 10
 Crying 2
+Black Cells 2
 Widow's Wail 4
 Mord 9
 Thoros 45
@@ -1236,7 +1232,6 @@ White Walker 67
 Theon Reek 2
 Tyrion IX 8
 Westeros 225
-• 2
 Jacks 2
 Lady Anya Waynwood 4
 Jorah 207
@@ -1316,12 +1311,12 @@ Ben Hawkey 12
 Amrita Acharia 15
 Lyanna 29
 Samantha Bentley 3
-Lord Protector 2
 Isaac Hempstead-Wright 49
 Reek 76
 Brynden Tully 10
 Small Council 91
 Xaro Xhoan Daxos 8
+Guymon 2
 Myrcella Baratheon 12
 Gemma Whelan 9
 MakingGameOfThrones.com 2
@@ -1528,6 +1523,7 @@ Commander of the City Watch 3
 House Frey 20
 Faith of the Seven 18
 Come 16
+Greensight 6
 Arya VII 3
 Meereen 185
 Reg Wayment 2
@@ -1561,6 +1557,7 @@ Coin Mace Tyrell 2
 May 28
 Lord Royce 5
 Temple of the Graces 3
+Slave 3
 Martells 19
 Naath 8
 Robert's Rebellion 26
@@ -1580,6 +1577,7 @@ Turner 3
 Hoat 2
 David Peterson 2
 Daenerys IX 2
+Lord Protector 2
 Author George R.R 3
 Daenerys IV 11
 Daenerys II 8
@@ -1714,6 +1712,7 @@ Emun Elliott 4
 Ser Brynden 8
 Matthos Seaworth 8
 Missandei 128
+Icelandic 3
 Old Ghiscari 2
 King Aegon V 2
 Shadow Tower 5
@@ -1780,7 +1779,7 @@ Black Walder 2
 Tysha 27
 Theon V 3
 Season 828
-Balon Greyjoy 28
+Balon Greyjoy 27
 Tony Flynn 2
 China 2
 Tarly 3
@@ -2053,7 +2052,7 @@ Pilou Asbæk 4
 Sansa VIII 2
 December 2
 Brian Kirk 5
-War of the Five Kings 18
+War of the Five Kings 17
 Old Wyk 2
 Carice 52
 Pixomondo 3

@@ -248,6 +248,7 @@ Aleena 1
 Weiss 126
 Laurence Doherty 2
 Mackenzie Dean 1
+Manticore 1
 Yoren 35
 Sharpe 2
 Triarch 1
@@ -308,10 +309,8 @@ Duncan 2
 Stephanie Blacker 2
 Meera Reed 27
 Swords Tywin 1
-Black Cells 2
 Stanley Kubrick 1
 Calchas 1
-Greensight 6
 Derek 1
 Westros.org 1
 Mully 1
@@ -418,7 +417,7 @@ Young Ned 1
 Queen Margaery Tyrell 10
 New Farlen 1
 Market Trader 1
-FOR THIS NIGHT 1
+Anthony Boyle 1
 Lord Eddard 16
 Fairmarket 3
 The_House_of_Black_and_White 1
@@ -549,7 +548,6 @@ Northern England 1
 Canada 3
 Pet 2
 Bronn.In 1
-Rose 12
 Tallhart 2
 Aslan 1
 Anderson 1
@@ -590,7 +588,7 @@ Blessed 2
 Elyes Gabel 7
 Trystane Martell Jaime 1
 Dan Hildebrand 3
-Bring 1
+King Tommen of the House Baratheon 1
 Othell 1
 Ser Amory 3
 Morghulis Gelmarr 1
@@ -750,7 +748,6 @@ New Zealand 1
 Littefinger 2
 Raven 2
 Director's Guid 2
-House Jordayne 1
 Reaver 1
 Trident 14
 Mhaegen 4
@@ -855,7 +852,7 @@ Cape Horn 1
 Jeremy Podeswa 10
 Close Encounters of the Third Kind 1
 Breaking Bad 3
-Guymon 2
+House Corbray 1
 Punishment Lord Hoster Tully 1
 Targaryen 104
 David Fynn 1
@@ -929,6 +926,7 @@ Twilight Zone 1
 Variety 1
 Tales 5
 Hypable's Michal Schick 1
+Heart 1
 Malta 8
 Watchman 2
 Lord Commander Alliser Thorne 1
@@ -1244,7 +1242,7 @@ Pedro Pascal 8
 Dubrovnik 3
 Osric Stark 1
 Riverlord 1
-Icelandic 3
+Gustave Doré 1
 Onion Knight 2
 VFX 1
 Westeros.org's Elio Garcia 1
@@ -1366,6 +1364,7 @@ Rhaegal 16
 Galbart Glover 1
 Speak 1
 Mance Rayder 36
+FOR THIS NIGHT 1
 Eddard Karstark 1
 Margaret John 3
 Jamie Michie 1
@@ -1431,6 +1430,7 @@ Tywin Hand of the King 1
 Drunk 4
 Magda Goebbels 1
 Queen Margaery 6
+Styrofoam 1
 Oldtown 25
 Jaime VII 2
 Trystane 34
@@ -1482,7 +1482,7 @@ Houses Hornwood 1
 Butterflies 1
 Jafer Flowers 3
 Prince Viserys Targaryen 7
-Slave 3
+House Jordayne 1
 TV-Margaery 1
 Wyl 3
 Derek Horsham 1
@@ -1526,7 +1526,7 @@ Rebecca Van Cleave 4
 Eddard II 1
 Eddard IV 1
 Jaime V 2
-Manticore 1
+Jaime X 1
 Owen Dickey 1
 Ania Bukstein 2
 Eddard IX 1
@@ -1903,7 +1903,7 @@ Tower of the Hand 11
 Moe Dunford 1
 Prince Joffrey Baratheon 8
 Lalor Roddy 1
-King Tommen of the House Baratheon 1
+Rose 12
 Rickard Karstark's 1
 Doggystyle 1
 Cedric Henderson 1
@@ -2014,12 +2014,12 @@ Moon 1
 HBO Go 1
 Essos 47
 Tullys 12
-Jaime X 1
 Mud Gate 3
 Arya III 2
 Whilst Lord Janos 1
 Sorcerer 2
 Aerys Targaryen 7
+Bring 1
 Darran Watt 3
 Stokeworths 1
 Raymond Keane 1
@@ -2313,7 +2313,7 @@ Weirwood 3
 Long Form 2
 Moro 10
 Crying 2
-Heart 1
+Black Cells 2
 Widow's Wail 4
 Mord 9
 Thoros 45
@@ -2371,7 +2371,6 @@ Princess Yara Greyjoy 10
 Zalla 1
 Ygritte Jon Snow 1
 Hugo 1
-House Corbray 1
 Fairley 1
 Gordan Mahon 1
 Imp 4
@@ -2385,7 +2384,6 @@ Edric Baratheon 1
 Theon Reek 2
 Tyrion IX 8
 Westeros 225
-• 2
 Jacks 2
 Lady Anya Waynwood 4
 Zei 1
@@ -2528,7 +2526,6 @@ Lyanna 29
 Lothar 1
 Stark Bannerman 1
 Samantha Bentley 3
-Lord Protector 2
 Isaac Hempstead-Wright 49
 Hogg 1
 Lady Maege Mormont 1
@@ -2542,6 +2539,7 @@ Cheryl Lester 1
 Emperor Commodus 1
 Craig Mazin 1
 Xaro Xhoan Daxos 8
+Guymon 2
 Matt Butcher 1
 Myrcella Baratheon 12
 Luton 1
@@ -2905,7 +2903,7 @@ Forlorn 1
 Neil Jordan 1
 Norbury 1
 Come 16
-Styrofoam 1
+Greensight 6
 Arya VII 3
 Steel 1
 Meereen 185
@@ -2966,6 +2964,7 @@ Young Bran 1
 Lisser 1
 Lord Royce 5
 Temple of the Graces 3
+Slave 3
 Martells 19
 Naath 8
 Robert's Rebellion 26
@@ -3016,7 +3015,7 @@ Hoat 2
 David Peterson 2
 King of the North 1
 Daenerys IX 2
-Lannister Monster 1
+Lord Protector 2
 Author George R.R 3
 Daenerys IV 11
 Sand Snakes Obara 1
@@ -3065,7 +3064,6 @@ Prince Rickon Stark 9
 Daenerys's POV 1
 House Bolton 28
 Walder Rivers 2
-Anthony Boyle 1
 Deirdre Monaghan 2
 Enzo Cilenti 3
 Battle of the Blackwater 32
@@ -3263,6 +3261,7 @@ Matthos Seaworth 8
 Missandei 128
 James Lecky 1
 Willem Darry 1
+Icelandic 3
 Old Ghiscari 2
 Aunt Lyanna 1
 King Aegon V 2
@@ -3297,7 +3296,6 @@ Ternesio Terys 5
 Dark Lord Sauron 1
 Claire Wright 1
 Mole's Town Brothel Patron 1
-Gustave Doré 1
 May Never Die Brienne 1
 Night's Watch Officer 11
 Shivering Sea 2
@@ -3372,7 +3370,7 @@ Theon V 3
 King's Underneath 1
 Max von Sydow 1
 Season 828
-Balon Greyjoy 28
+Balon Greyjoy 27
 Jon North of the Wall 1
 Heir 1
 Ragnar Þórhallsson 1
@@ -3449,6 +3447,7 @@ Vale 102
 Walder Frey 26
 Whoresbane 2
 Euron 65
+Lannister Monster 1
 House Blacktyde 1
 Davos 113
 Free City 9
@@ -3916,7 +3915,7 @@ Vermithrax 1
 December 2
 Dungeons 1
 Brian Kirk 5
-War of the Five Kings 18
+War of the Five Kings 17
 Old Wyk 2
 Carice 52
 Pixomondo 3
