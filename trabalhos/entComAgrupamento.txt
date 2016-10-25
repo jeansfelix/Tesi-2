@@ -1,0 +1,1093 @@
+Adrack Humble;['Adrack Humble'];3
+Aegon Targaryen;['Aegon Targaryen'];2
+Aegon;['Aegon'];10
+Aemon;['Aemon', 'Maester Aemon'];39
+Aeron Greyjoy;['Aeron Greyjoy'];2
+Aeron;['Aeron'];3
+Aerys Targaryen;['Aerys Targaryen'];3
+Aerys;['Aerys'];10
+Afterward;['Afterward'];3
+Aidan Crowe;['Aidan Crowe'];2
+Aidan Gillen;['Aidan Gillen'];32
+Aiden Condron;['Aiden Condron'];2
+Aimee Richardson;['Aimee Richardson'];8
+Akho;['Akho'];2
+Akinnuoye-Agbaje;['Akinnuoye-Agbaje'];2
+Alan Taylor;['Alan Taylor'];12
+Alayne;['Alayne'];2
+Alex Graves;['Alex Graves'];6
+Alex;['Alex'];6
+Alexander Siddig;['Alexander Siddig'];5
+Alfie Allen;['Alfie Allen'];36
+Ali Lyons;['Ali Lyons'];2
+Alik Sakharov;['Alik Sakharov'];8
+Alisdair Simpson;['Alisdair Simpson'];2
+Alliser Thorne;['Ser Alliser Thorne', 'Lord Commander Alliser Thorne', 'Alliser Thorne'];24
+Alliser;['Ser Alliser', 'Alliser'];12
+Alton Lannister;['Ser Alton Lannister', 'Alton Lannister'];5
+Alton;['Alton'];2
+Amory Lorch;['Amory Lorch', 'Ser Amory Lorch'];10
+Amory;['Amory', 'Ser Amory'];3
+Amrita Acharia;['Amrita Acharia'];13
+Andrew Wilde;['Andrew Wilde'];2
+Andy Beckwith;['Andy Beckwith'];5
+Andy Kellegher;['Andy Kellegher'];3
+Angelique Fernandez;['Angelique Fernandez'];2
+Angered;['Angered'];2
+Anguy;['Anguy'];3
+Annette Tierney;['Annette Tierney'];2
+Annoyed;['Annoyed'];2
+Anthony Morris;['Anthony Morris'];2
+Anton Lesser;['Anton Lesser'];11
+Antonia Christophers;['Antonia Christophers'];2
+April;['April'];20
+Areo Hotah;['Areo Hotah'];4
+Areo;['Areo'];6
+Army of the Dead;['Army of the Dead'];2
+Arry;['Arry'];3
+Arryn;['Arryn'];3
+Art Parkinson;['Art Parkinson'];13
+Arts Emmy Award;['Arts Emmy Award'];4
+Arwaya Frey;['Arwaya Frey'];2
+Arya Stark;['Arya Stark'];40
+Arya;['Arya'];271
+Ashton-Griffiths;['Ashton-Griffiths'];10
+Astapor;['Astapor'];18
+Avramidis;['Avramidis'];3
+Axell Florent;['Axell Florent', 'Ser Axell Florent'];3
+Baelish;['Lord Baelish', 'Baelish'];46
+Baelor;['Baelor'];5
+Balon Greyjoy;['Balon Greyjoy'];11
+Balon;['Balon'];32
+Bank;['Bank'];2
+Bannen;['Bannen'];2
+Baratheon;['Baratheon'];8
+Baratheons;['Baratheons'];3
+Barra;['Barra'];4
+Barristan Selmy;['Ser Barristan Selmy', 'Barristan Selmy', 'Lord Commander Barristan Selmy'];21
+Barristan;['Ser Barristan', 'Barristan'];45
+Battle of Oxcross;['Battle of Oxcross'];2
+Battle of the Blackwater;['Battle of the Blackwater'];12
+Battle of the Fist;['Battle of the Fist'];4
+Battle of the Whispering Wood;['Battle of the Whispering Wood'];2
+Battle;['Battle'];2
+Bean;['Bean'];2
+Bear;['Bear'];7
+Ben Crompton;['Ben Crompton'];29
+Ben Hawkey;['Ben Hawkey'];11
+Benjen Stark;['Benjen Stark'];8
+Benjen;['Benjen'];8
+Beric Dondarrion;['Beric Dondarrion', 'Lord Beric Dondarrion', 'Ser Beric Dondarrion'];6
+Beric;['Ser Beric', 'Beric'];24
+Bert;['Bert'];2
+Bianca;['Bianca'];2
+Bird;['Bird'];3
+Biter;['Biter'];7
+Black Jack Bulwer;['Black Jack Bulwer'];2
+Black Walder Rivers;['Black Walder Rivers'];3
+Black Walder;['Black Walder'];2
+Blackfish;['Blackfish'];5
+Blackwater Bay;['Blackwater Bay'];2
+Blackwater;['Blackwater'];7
+Blood;['Blood'];4
+Bloody Gate;['Bloody Gate'];2
+Bobby Marno;['Bobby Marno'];3
+Bolton Officer;['Bolton Officer'];2
+Bolton;['Lord Bolton', 'Bolton'];35
+Boltons;['Boltons'];14
+Bones;['Bones'];5
+Bowen Marsh;['Bowen Marsh'];3
+Boy;['Boy'];4
+Braavos;['Braavos'];17
+Braavosi;['Braavosi'];4
+Bran Stark;['Bran Stark'];18
+Bran;['Bran'];193
+Brandon;['Brandon'];4
+Breaker of Chains;['Breaker of Chains'];3
+Brendan McCormack;['Brendan McCormack'];2
+Brenock O'Connor;["Brenock O'Connor"];17
+Brian Fortune;['Brian Fortune'];14
+Brian Kirk;['Brian Kirk'];5
+Brienne of Tarth;['Brienne of Tarth'];17
+Brienne;['Brienne'];122
+Broken Things;['Broken Things'];4
+Broken Tower;['Broken Tower'];3
+Bronn;['Bronn', 'Ser Bronn'];107
+Brother Lancel;['Brother Lancel'];2
+Brotherhood Without Banners;['Brotherhood Without Banners'];7
+Brotherhood;['Brotherhood'];18
+Bryan Cogman;['Bryan Cogman'];13
+Brynden Tully;['Brynden Tully'];4
+Brynden;['Brynden', 'Ser Brynden'];13
+Burn Gorman;['Burn Gorman'];4
+Callum Wharry;['Callum Wharry'];8
+Captain;['Captain'];2
+Carice;['Carice'];24
+Carter;['Carter'];15
+Casterly Rock;['Casterly Rock'];13
+Castle Black;['Castle Black'];95
+Catelyn Stark;['Catelyn Stark'];21
+Catelyn;['Catelyn'];103
+Catspaw;['Catspaw'];2
+Cersei Lannister;['Cersei Lannister', 'Queen Cersei Lannister'];11
+Cersei;['Cersei', 'Queen Cersei'];322
+Cerwyn;['Lord Cerwyn', 'Cerwyn'];5
+Charles Dance;['Charles Dance'];27
+Charlotte Hope;['Charlotte Hope'];8
+Children of the Forest;['Children of the Forest'];6
+Children;['Children'];4
+Chuku Modu;['Chuku Modu'];2
+Ciaran Bermingham;['Ciaran Bermingham'];2
+Cillean Campbell;['Cillean Campbell'];2
+Citadel;['Citadel'];6
+City Watch;['City Watch'];6
+Clegane;['Clegane'];13
+Clifford Barry;['Clifford Barry'];2
+Climb;['Climb'];3
+Clive Russell;['Clive Russell'];5
+Cole;['Cole'];8
+Commander of the City Watch;['Commander of the City Watch'];2
+Common Tongue;['Common Tongue'];5
+Conan Stevens;['Conan Stevens'];2
+Conleth Hill;['Conleth Hill'];31
+Conqueror;['Conqueror'];3
+Copper King;['Copper King'];3
+Corfield;['Corfield'];2
+Coster-Waldau;['Coster-Waldau'];38
+Council;['Council'];3
+Craster's Keep;["Craster's Keep"];15
+Craster;['Craster'];52
+Cressen;['Maester Cressen', 'Cressen'];6
+Croft;['Croft'];2
+Crossroads Inn;['Crossroads Inn'];4
+Crown;['Crown'];5
+Crownlands;['Crownlands'];2
+Crying;['Crying'];2
+D.B;['D.B'];69
+Daario Naharis;['Daario Naharis'];15
+Daario;['Daario'];44
+Daenerys Stormborn of House Targaryen;['Daenerys Stormborn of House Targaryen'];2
+Daenerys Targaryen;['Queen Daenerys Targaryen', 'Daenerys Targaryen'];29
+Daenerys';["Daenerys'"];2
+Daenerys;['Queen Daenerys', 'Daenerys'];325
+Dagmer Cleftjaw;['Dagmer Cleftjaw'];2
+Dagmer;['Dagmer'];9
+Daisy;['Daisy'];2
+Dan Hildebrand;['Dan Hildebrand'];3
+Dance of Dragons;['Dance of Dragons'];3
+Daniel Minahan;['Daniel Minahan'];9
+Daniel Portman;['Daniel Portman'];26
+Daniel Sackheim;['Daniel Sackheim'];4
+Dany;['Dany'];46
+Dar Salim;['Dar Salim'];6
+Dark Wings;['Dark Wings'];4
+Dark Words;['Dark Words'];3
+Darran Watt;['Darran Watt'];4
+Dave Hill;['Dave Hill'];4
+David Benioff;['David Benioff'];69
+David BenioffD.B;['David BenioffD.B'];10
+David Coakley;['David Coakley'];2
+David Nutter;['David Nutter'];11
+David Petrarca;['David Petrarca'];4
+David Sheenan;['David Sheenan'];2
+Davos Seaworth;['Ser Davos Seaworth', 'Davos Seaworth'];15
+Davos;['Davos', 'Ser Davos'];89
+Dayne;['Dayne'];3
+DeObia Oparei;['DeObia Oparei'];6
+Dean-Charles Chapman;['Dean-Charles Chapman'];15
+Deepwood Motte;['Deepwood Motte'];4
+Deirdre Monaghan;['Deirdre Monaghan'];2
+Dennis McKeever;['Dennis McKeever'];5
+Dennis Stokes;['Dennis Stokes'];2
+Denys Mallister;['Denys Mallister', 'Ser Denys Mallister'];2
+Dez McMahon;['Dez McMahon'];2
+Diamond;['Diamond'];2
+Diogo;['Diogo'];3
+Dohaeris;['Dohaeris'];4
+Dolorous Edd;['Dolorous Edd'];2
+Donagh Deeney;['Donagh Deeney'];2
+Dondarrion;['Dondarrion'];3
+Donnel Hill;['Donnel Hill'];2
+Dontos Hollard;['Dontos Hollard', 'Ser Dontos Hollard'];6
+Dontos;['Dontos', 'Ser Dontos'];7
+Door;['Door'];2
+Doran Martell;['Doran Martell', 'Prince Doran Martell'];6
+Doran;['Prince Doran', 'Doran'];34
+Doreah;['Doreah'];10
+Dorne;['Dorne'];27
+Dornish Guard;['Dornish Guard'];2
+Dornish;['Dornish'];4
+Dosh;['Dosh'];2
+Dothraki;['Dothraki'];56
+Dragonglass;['Dragonglass'];3
+Dragons;['Dragons'];2
+Dragonstone;['Dragonstone'];22
+Dreadfort;['Dreadfort'];8
+Drogo;['Drogo'];51
+Drogon;['Drogon'];30
+Drowned God;['Drowned God'];2
+Drunk;['Drunk'];3
+Dwarf;['Dwarf'];6
+Eastwatch-by-the-Sea;['Eastwatch-by-the-Sea'];2
+Edd;['Edd'];26
+Eddard Stark;['Eddard Stark', 'Lord Eddard Stark'];40
+Eddard;['Lord Eddard', 'Eddard'];175
+Eddison Tollett;['Eddison Tollett'];7
+Edmure Tully;['Lord Edmure Tully', 'Edmure Tully'];6
+Edmure;['Edmure'];7
+Edward Dogliani;['Edward Dogliani'];3
+Elia Martell;['Elia Martell'];2
+Elia;['Elia'];11
+Elizabeth Barrett;['Elizabeth Barrett'];2
+Elizabeth Webster;['Elizabeth Webster'];5
+Ellaria Sand;['Ellaria Sand'];8
+Ellaria;['Ellaria'];30
+Ellie Kendrick;['Ellie Kendrick'];11
+Elyes Gabel;['Elyes Gabel'];7
+Emilia Clarke;['Emilia Clarke'];44
+Emilio Doorgasingh;['Emilio Doorgasingh'];2
+Emun Elliott;['Emun Elliott'];4
+En;['En'];2
+Enraged;['Enraged'];2
+Enzo Cilenti;['Enzo Cilenti'];3
+Eraz;['Eraz'];5
+Eros Vlahos;['Eros Vlahos'];4
+Esme Bianco;['Esme Bianco'];14
+Essos;['Essos'];6
+Eugene Simon;['Eugene Simon'];12
+Euron Greyjoy;['Euron Greyjoy'];4
+Euron;['Euron'];16
+Eyrie;['Eyrie'];16
+Faceless Man;['Faceless Man'];3
+Faceless Men;['Faceless Men'];5
+Faith Militant;['Faith Militant'];17
+Faith of the Seven;['Faith of the Seven'];4
+Faith;['Faith'];6
+Father;['Father'];2
+Faye Marsay;['Faye Marsay'];8
+Fennesz;['Fennesz'];9
+Fergus Leathem;['Fergus Leathem'];2
+Finn Jones;['Finn Jones'];20
+Fintan McKeown;['Fintan McKeown'];4
+Fire;['Fire'];4
+First Men;['First Men'];12
+First Sword of Braavos;['First Sword of Braavos'];2
+First;['First'];3
+Fist of the First Men;['Fist of the First Men'];8
+Fist;['Fist'];3
+Flashback;['Flashback'];7
+Flea Bottom;['Flea Bottom'];4
+Fola Evans-Akingbola;['Fola Evans-Akingbola'];2
+Folk;['Folk'];2
+Forbes KB;['Forbes KB'];4
+Francis Magee;['Francis Magee'];7
+Frank O'Sullivan;["Frank O'Sullivan"];2
+Free City of Braavos;['Free City of Braavos'];2
+Free Folk;['Free Folk'];6
+Free;['Free'];3
+Frey;['Frey', 'Lord Frey'];25
+Freys;['Freys'];7
+Frostfangs;['Frostfangs'];2
+Furious;['Furious'];3
+Game of Thrones1;['Game of Thrones1'];4
+Game of Thrones;['Game of Thrones'];50
+Garden of Bones;['Garden of Bones'];7
+Gared;['Gared'];5
+Gary Oliver;['Gary Oliver'];2
+Gemma Whelan;['Gemma Whelan'];9
+Gendry;['Gendry'];48
+Genna;['Genna'];2
+George Georgiou;['George Georgiou'];2
+George R.R;['George R.R'];8
+Gerald Lepkowski;['Gerald Lepkowski'];2
+Gerard Jordan;['Gerard Jordan'];5
+Gerold Hightower;['Lord Commander Gerold Hightower', 'Ser Gerold Hightower'];3
+Gethin Anthony;['Gethin Anthony'];7
+Ghezn;['Ghezn'];2
+Ghita;['Ghita'];2
+Ghost of Harrenhal;['Ghost of Harrenhal'];4
+Ghost;['Ghost'];14
+Gibbons;['Gibbons'];2
+Gift;['Gift'];8
+Gilly;['Gilly'];52
+Glover;['Glover'];29
+Godswood;['Godswood'];2
+Gold Dragons;['Gold Dragons'];2
+Goldcloak;['Goldcloak'];2
+Graeme Peacock;['Graeme Peacock'];7
+Great Houses;['Great Houses'];2
+Great Masters;['Great Masters'];2
+Great Pyramid;['Great Pyramid'];5
+Great Sept of Baelor;['Great Sept of Baelor'];14
+Great Sept;['Great Sept'];7
+Great;['Great'];5
+Greatjon Umber;['Lord Greatjon Umber', 'Greatjon Umber'];3
+Greatjon;['Greatjon'];4
+Gregor Clegane;['Ser Gregor Clegane', 'Gregor Clegane'];23
+Gregor;['Gregor', 'Ser Gregor'];29
+Greizhen;['Greizhen'];2
+Grenn;['Grenn'];29
+Grey Wind;['Grey Wind'];12
+Grey Worm;['Grey Worm'];49
+Greyjoy Rebellion;['Greyjoy Rebellion'];2
+Greyjoy;['Greyjoy'];7
+Greyjoys;['Greyjoys'];5
+Gwendoline Christie;['Gwendoline Christie'];31
+Hafþór Júlíus Björnsson;['Haf\xc3\xbe\xc3\xb3r J\xc3\xbal\xc3\xadus Bj\xc3\xb6rnsson'];7
+Hand of the King;['Hand of the King'];18
+Hand;['Hand'];12
+Hannah John-Kamen;['Hannah John-Kamen'];2
+Hannah Murray;['Hannah Murray'];19
+Hannah Waddingham;['Hannah Waddingham'];5
+Harald Karstark;['Lord Harald Karstark', 'Harald Karstark'];2
+Hardhome;['Hardhome'];13
+Harpy's Son;["Harpy's Son"];2
+Harpy;['Harpy'];9
+Harrenhal;['Harrenhal'];33
+Harry Lloyd;['Harry Lloyd'];5
+Hattie Gotobed;['Hattie Gotobed'];2
+Haunted Forest;['Haunted Forest'];5
+Heward;['Heward'];2
+High Septon of the Faith;['High Septon of the Faith'];2
+High Septon;['High Septon'];8
+High Sparrow;['High Sparrow'];44
+Highgarden;['Highgarden'];10
+Hizdahr zo Loraq;['Hizdahr zo Loraq'];8
+Hizdahr;['Hizdahr'];13
+Hobb;['Hobb'];2
+Hodor;['Hodor'];46
+Hollow Hill;['Hollow Hill'];2
+Honor;['Honor'];4
+Horrified;['Horrified'];3
+Hoster Tully;['Hoster Tully', 'Lord Hoster Tully'];3
+Hoster;['Hoster'];3
+Hot Pie;['Hot Pie'];15
+Hound;['Hound'];57
+House Arryn;['House Arryn'];2
+House Baratheon of Dragonstone;['House Baratheon of Dragonstone'];2
+House Bolton;['House Bolton'];9
+House Frey;['House Frey'];12
+House Greyjoy;['House Greyjoy'];2
+House Lannister;['House Lannister'];14
+House Mormont;['House Mormont'];2
+House Reyne of Castamere;['House Reyne of Castamere'];2
+House Stark;['House Stark'];12
+House Targaryen;['House Targaryen'];6
+House Tarth;['House Tarth'];2
+House Tully;['House Tully'];4
+House Tyrell of the Reach;['House Tyrell of the Reach'];2
+House Tyrell;['House Tyrell'];13
+House of Black;['House of Black'];12
+House of the Undying;['House of the Undying'];4
+House;['House'];7
+Houston-Jibo;['Houston-Jibo'];2
+Houten;['Houten'];24
+Howland Reed;['Howland Reed', 'Lord Howland Reed'];3
+Iain Glen;['Iain Glen'];42
+Ian Beattie;['Ian Beattie'];17
+Ian Gelder;['Ian Gelder'];9
+Ian Hanmore;['Ian Hanmore'];4
+Ian McElhinney;['Ian McElhinney'];24
+Ian Whyte;['Ian Whyte'];11
+Ice;['Ice'];5
+Iggo;['Iggo'];3
+Illyrio;['Illyrio'];7
+Ilyn Payne;['Ilyn Payne', 'Ser Ilyn Payne'];8
+Imp;['Imp'];2
+Indira Varma;['Indira Varma'];10
+Inn;['Inn'];2
+Iron Bank of Braavos;['Iron Bank of Braavos'];4
+Iron Bank;['Iron Bank'];5
+Iron Islands;['Iron Islands'];5
+Iron Throne;['Iron Throne'];34
+Iron;['Iron'];2
+Ironborn;['Ironborn'];10
+Irri;['Irri'];9
+Isaac Hempstead-Wright;['Isaac Hempstead-Wright'];27
+Ivailo Dimitrov;['Ivailo Dimitrov'];2
+Iwan Rheon;['Iwan Rheon'];19
+Jack Bender;['Jack Bender'];2
+Jack Gleeson;['Jack Gleeson'];26
+Jack;['Jack'];2
+Jacob Anderson;['Jacob Anderson'];21
+Jafer Flowers;['Jafer Flowers'];2
+Jaime Lannister;['Ser Jaime Lannister', 'Jaime Lannister'];34
+Jaime;['Jaime'];335
+James Bleakney;['James Bleakney'];4
+James Cosmo;['James Cosmo'];12
+Jamie Sives;['Jamie Sives'];5
+Jamie;['Jamie'];2
+Jane Espenson;['Jane Espenson'];2
+Jane McGrath;['Jane McGrath'];2
+Janos Slynt;['Janos Slynt', 'Lord Janos Slynt', 'Commander Janos Slynt'];17
+Janos;['Janos'];5
+Jaqen H'ghar;["Jaqen H'ghar"];25
+Jaqen;['Jaqen'];29
+Jason McLaughlin;['Jason McLaughlin'];2
+Jefferson Hall;['Jefferson Hall'];2
+Jeor Mormont;['Jeor Mormont', 'Lord Commander Jeor Mormont'];20
+Jeor;['Jeor'];7
+Jeremy Podeswa;['Jeremy Podeswa'];8
+Jerome Flynn;['Jerome Flynn'];26
+Jessica Henwick;['Jessica Henwick'];6
+Jessica Stevenson;['Jessica Stevenson'];2
+Joe Dempsie;['Joe Dempsie'];17
+Joe Naufahu;['Joe Naufahu'];3
+Joel Fry;['Joel Fry'];8
+Joffrey Baratheon;['Prince Joffrey Baratheon', 'Joffrey Baratheon'];8
+Joffrey;['Joffrey', 'Prince Joffrey'];239
+John Bradley-West;['John Bradley-West'];4
+John Bradley;['John Bradley'];32
+John Stahl;['John Stahl'];5
+Jojen Reed;['Jojen Reed'];8
+Jojen;['Jojen'];30
+Jon Arryn;['Lord Jon Arryn', 'Jon Arryn'];22
+Jon Snow;['Jon Snow', 'Lord Commander Jon Snow'];69
+Jon Umber;['Jon Umber'];3
+Jon;['Jon'];442
+Jonathan Pryce;['Jonathan Pryce'];6
+Jorah Mormont;['Ser Jorah Mormont', 'Jorah Mormont'];30
+Jorah;['Ser Jorah', 'Jorah'];156
+Jory Cassel;['Jory Cassel'];6
+Jory;['Jory'];9
+Josef Altin;['Josef Altin'];13
+Joseph Gatt;['Joseph Gatt'];3
+Joseph Mawle;['Joseph Mawle'];3
+Josephine Gillan;['Josephine Gillan'];6
+Junade Khan;['Junade Khan'];3
+June;['June'];11
+Kae Alexander;['Kae Alexander'];3
+Karl Davies;['Karl Davies'];3
+Karl Tanner;['Karl Tanner'];3
+Karl;['Karl'];21
+Karla Lyons;['Karla Lyons'];2
+Karsi;['Karsi'];6
+Karstark;['Karstark', 'Lord Karstark'];19
+Karstarks;['Karstarks'];5
+Kate Dickie;['Kate Dickie'];5
+Kearns;['Kearns'];4
+Keisha Castle-Hughes;['Keisha Castle-Hughes'];6
+Kerr Logan;['Kerr Logan'];4
+Kerry Ingram;['Kerry Ingram'];10
+Kevan Lannister;['Kevan Lannister', 'Ser Kevan Lannister'];7
+Kevan;['Ser Kevan', 'Kevan'];12
+Kevin Keenan;['Kevin Keenan'];2
+Khal Brozho;['Khal Brozho'];2
+Khal Drogo;['Khal Drogo'];23
+Khal Forzho;['Khal Forzho'];2
+Khal Moro;['Khal Moro'];8
+Khal Rhalko;['Khal Rhalko'];2
+Khal;['Khal'];4
+Khalasar;['Khalasar'];2
+Khaleesi;['Khaleesi'];2
+King Joffrey Baratheon;['King Joffrey Baratheon'];5
+King Joffrey;['King Joffrey'];14
+King Renly Baratheon;['King Renly Baratheon'];3
+King Robb Stark;['King Robb Stark'];9
+King Robert Baratheon;['King Robert Baratheon'];6
+King Robert;['King Robert'];23
+King Stannis Baratheon;['King Stannis Baratheon'];6
+King Stannis;['King Stannis'];2
+King Tommen;['King Tommen'];3
+King of the Iron Islands;['King of the Iron Islands'];3
+King's Landing;["King's Landing"];105
+King-Beyond-the-Wall Mance Rayder;['King-Beyond-the-Wall Mance Rayder'];5
+King-Beyond-the-Wall;['King-Beyond-the-Wall'];3
+King;['King'];57
+Kingdom;['Kingdom'];2
+Kingsguard;['Kingsguard'];33
+Kingslayer;['Kingslayer'];3
+Kingsmoot;['Kingsmoot'];2
+Kingsroad;['Kingsroad'];13
+Kinvara;['Kinvara'];6
+Kit Harington;['Kit Harington'];45
+Kolokolnikov;['Kolokolnikov'];4
+Kovarro;['Kovarro'];4
+Kraznys;['Kraznys'];20
+Kristofer Hivju;['Kristofer Hivju'];21
+Kristy Robinson;['Kristy Robinson'];3
+Lady Catelyn;['Lady Catelyn'];3
+Lady Crane;['Lady Crane'];3
+Lady Joyeuse Erenford;['Lady Joyeuse Erenford'];3
+Lady Lysa Arryn;['Lady Lysa Arryn'];5
+Lady Olenna Tyrell;['Lady Olenna Tyrell'];3
+Lady Olenna;['Lady Olenna'];2
+Lady Stark;['Lady Stark'];2
+Lady;['Lady'];5
+Lancel Lannister;['Lancel Lannister', 'Ser Lancel Lannister'];10
+Lancel;['Lancel', 'Ser Lancel'];28
+Landing;['Landing'];6
+Lanna;['Lanna'];4
+Lannister-Tyrell;['Lannister-Tyrell'];3
+Lannister;['Lannister'];91
+Lannisters;['Lannisters'];39
+Laura Pradelska;['Laura Pradelska'];2
+Laurence Doherty;['Laurence Doherty'];2
+Laws of Gods;['Laws of Gods'];4
+Leaf;['Leaf'];7
+Lena Headey;['Lena Headey'];48
+Lhazar;['Lhazar'];2
+Lhazareen;['Lhazareen'];2
+Liam Cunningham;['Liam Cunningham'];26
+Light;['Light'];2
+Lino Facioli;['Lino Facioli'];8
+Lion;['Lion'];8
+Littlefinger;['Littlefinger'];98
+Loboda;['Loboda'];6
+Locke;['Locke'];53
+Lois Winstone;['Lois Winstone'];2
+Lollys Stokeworth;['Lollys Stokeworth'];2
+Lollys;['Lollys'];3
+Lommy Greenhands;['Lommy Greenhands'];3
+Lommy;['Lommy'];7
+Long Night;['Long Night'];2
+Longclaw;['Longclaw'];8
+Loraq;['Loraq'];4
+Loras Tyrell;['Loras Tyrell', 'Ser Loras Tyrell'];13
+Loras;['Ser Loras', 'Loras'];65
+Lord Blackmont;['Lord Blackmont'];2
+Lord Commander of the Kingsguard;['Lord Commander of the Kingsguard'];3
+Lord Commander of the Night;['Lord Commander of the Night'];5
+Lord Commander;['Lord Commander'];20
+Lord Yohn Royce;['Lord Yohn Royce'];4
+Lord of Bones;['Lord of Bones'];10
+Lord of Harrenhal;['Lord of Harrenhal'];3
+Lord of Light;['Lord of Light'];36
+Lord's Chosen;["Lord's Chosen"];3
+Lord;['Lord'];7
+Lorren;['Lorren'];2
+Lothar Frey;['Lothar Frey'];2
+Low Valyrian;['Low Valyrian'];2
+Lowell;['Lowell'];2
+Luke Barnes;['Luke Barnes'];6
+Luke McEwan;['Luke McEwan'];6
+Luwin;['Maester Luwin', 'Luwin'];30
+Lyanna Stark;['Lyanna Stark'];6
+Lyanna;['Lyanna'];13
+Lys;['Lys'];2
+Lysa Arryn;['Lysa Arryn'];8
+Lysa;['Lysa'];38
+Mace Tyrell;['Mace Tyrell', 'Lord Mace Tyrell'];6
+Mace;['Mace'];9
+Mackenzie Crook;['Mackenzie Crook'];5
+Mad King;['Mad King'];15
+Maester Aemon Sam;['Maester Aemon Sam'];2
+Maester Caleotte;['Maester Caleotte'];2
+Maester Wolkan;['Maester Wolkan'];2
+Maester;['Maester'];4
+Mag Mar Tun Doh Weg;['Mag Mar Tun Doh Weg'];5
+Mag;['Mag'];2
+Maggy;['Maggy'];4
+Magister Illyrio Mopatis;['Magister Illyrio Mopatis'];2
+Magnar of Thenn;['Magnar of Thenn'];4
+Mago;['Mago'];4
+Maiden Fair;['Maiden Fair'];6
+Maisie Dee;['Maisie Dee'];3
+Maisie Williams;['Maisie Williams'];43
+Malko;['Malko'];2
+Mance Rayder's;["Mance Rayder's"];2
+Mance Rayder;['Mance Rayder'];14
+Mance;['Mance'];48
+Mandon;['Mandon', 'Ser Mandon'];3
+Mantle;['Mantle'];3
+Many-Faced God;['Many-Faced God'];2
+Marei;['Marei'];3
+Margaery Tyrell;['Queen Margaery Tyrell', 'Margaery Tyrell'];15
+Margaery;['Queen Margaery', 'Margaery'];95
+Margaret John;['Margaret John'];2
+Marillion;['Marillion'];4
+Mark Addy;['Mark Addy'];7
+Mark Gatiss;['Mark Gatiss'];2
+Mark Lewis Jones;['Mark Lewis Jones'];2
+Mark Mylod;['Mark Mylod'];4
+Mark Quigley;['Mark Quigley'];4
+Mark Stanley;['Mark Stanley'];22
+Martin;['Martin'];4
+Martyn Lannister;['Martyn Lannister'];4
+Martyn;['Martyn'];3
+Master Mighdal;['Master Mighdal'];3
+Master of Coin Mace Tyrell;['Master of Coin Mace Tyrell'];2
+Master of Coin;['Master of Coin'];3
+Master of Whisperers;['Master of Whisperers'];2
+Matteo Elezi;['Matteo Elezi'];2
+Matthos Seaworth;['Matthos Seaworth'];2
+Matthos;['Matthos'];4
+May Never Die;['May Never Die'];4
+May;['May'];23
+McCusker;['McCusker'];2
+McKenna;['McKenna'];2
+Meena Rayann;['Meena Rayann'];3
+Meera Reed;['Meera Reed'];8
+Meera;['Meera'];30
+Meereen;['Meereen'];63
+Melara Hetherspoon;['Melara Hetherspoon'];2
+Melara;['Melara'];2
+Melisandre;['Melisandre'];103
+Men;['Men'];4
+Mero;['Mero'];10
+Meryn Trant;['Meryn Trant', 'Ser Meryn Trant'];8
+Meryn;['Meryn', 'Ser Meryn'];20
+Mhaegen;['Mhaegen'];2
+Mia Soteriou;['Mia Soteriou'];3
+Michael Condron;['Michael Condron'];10
+Michael Feast;['Michael Feast'];2
+Michael Hayes;['Michael Hayes'];2
+Michael Hooley;['Michael Hooley'];2
+Michael McElhatton;['Michael McElhatton'];19
+Michael Shelford;['Michael Shelford'];2
+Michael Slovis;['Michael Slovis'];4
+Michael Stuart;['Michael Stuart'];11
+Michelle Fairley;['Michelle Fairley'];25
+Michelle MacLaren;['Michelle MacLaren'];8
+Michiel Huisman;['Michiel Huisman'];15
+Mighdal;['Mighdal'];4
+Miguel Sapochnik;['Miguel Sapochnik'];4
+Mikken;['Mikken'];2
+Miltos Yerolemou;['Miltos Yerolemou'];3
+Mirri Maz Duur;['Mirri Maz Duur'];9
+Missandei;['Missandei'];55
+Moat Cailin;['Moat Cailin'];6
+Mole's Town;["Mole's Town"];11
+Moon Door;['Moon Door'];10
+Mord;['Mord'];5
+Morghulis;['Morghulis'];4
+Mormont;['Mormont', 'Commander Mormont', 'Lord Commander Mormont'];50
+Moro;['Moro'];9
+Mossador;['Mossador'];3
+Mother of Dragons;['Mother of Dragons'];6
+Mother's Mercy;["Mother's Mercy"];3
+Mother;['Queen Mother', 'Mother'];4
+Mountain;['Mountain'];12
+Msamati;['Msamati'];3
+Mud Gate;['Mud Gate'];3
+Mycah;['Mycah'];10
+Myr;['Myr'];9
+Myranda;['Myranda'];22
+Myrcella;['Myrcella'];42
+Nairn;['Nairn'];23
+Nakloz;['Nakloz'];7
+Narrow Sea;['Narrow Sea'];23
+Narrow;['Narrow'];2
+Natalia Tena;['Natalia Tena'];16
+Natalie Dormer;['Natalie Dormer'];23
+Natalie Lee;['Natalie Lee'];3
+Nathalie Emmanuel;['Nathalie Emmanuel'];26
+Neck;['Neck'];2
+Ned Stark;['Ned Stark'];15
+Ned;['Ned'];20
+Needle;['Needle'];14
+Neil Marshall;['Neil Marshall'];5
+Nell Tiger Free;['Nell Tiger Free'];6
+New;['New'];5
+Newborn Bolton;['Newborn Bolton'];2
+Nicholas Blane;['Nicholas Blane'];3
+Night King;['Night King'];11
+Night Lands;['Night Lands'];3
+Night's Watch Officer;["Night's Watch Officer"];2
+Night's Watch;["Night's Watch"];123
+Night's Watchman;["Night's Watchman"];3
+Night;['Night'];8
+Nightfort;['Nightfort'];3
+Noah Taylor;['Noah Taylor'];8
+Nonso Anozie;['Nonso Anozie'];5
+North Remembers;['North Remembers'];2
+North;['North'];74
+Northern;['Northern'];13
+Northerners;['Northerners'];4
+Norvosi;['Norvosi'];3
+Nym;['Nym'];3
+Nymeria Sand;['Nymeria Sand'];2
+Nymeria;['Nymeria'];12
+O'Connell;["O'Connell"];2
+Oathkeeper;['Oathkeeper'];2
+Obara Sand;['Obara Sand'];2
+Obara;['Obara'];8
+Oberyn Martell;['Oberyn Martell', 'Prince Oberyn Martell'];7
+Oberyn;['Oberyn', 'Prince Oberyn'];55
+Oengus MacNamara;['Oengus MacNamara'];2
+Off-screen;['Off-screen'];5
+Old Gods of the Forest;['Old Gods of the Forest'];2
+Old Gods;['Old Gods'];7
+Old Nan;['Old Nan'];5
+Old Valyria;['Old Valyria'];3
+Old;['Old'];4
+Oldtown;['Oldtown'];5
+Olenna Tyrell;['Olenna Tyrell'];5
+Olenna;['Olenna'];47
+Olly;['Olly'];15
+Olyvar;['Olyvar'];14
+Onion Knight;['Ser Onion Knight', 'Onion Knight'];3
+Oona Chaplin;['Oona Chaplin'];11
+Orell;['Orell'];18
+Ornela;['Ornela'];2
+Osha;['Osha'];35
+Othell Yarwyck;['Othell Yarwyck'];3
+Othor;['Othor'];2
+Outside;['Outside'];3
+Owen Teale;['Owen Teale'];17
+Patrick Malahide;['Patrick Malahide'];4
+Paul Bentley;['Paul Bentley'];6
+Paul Caddell;['Paul Caddell'];2
+Paul Kaye;['Paul Kaye'];6
+Paul Rattray;['Paul Rattray'];2
+Pedro Pascal;['Pedro Pascal'];3
+Pentos;['Pentos'];10
+Pentoshi;['Pentoshi'];3
+Peter Ballance;['Peter Ballance'];2
+Peter Dinklage;['Peter Dinklage'];9
+Peter Vaughan;['Peter Vaughan'];9
+Petyr Baelish;['Petyr Baelish', 'Lord Petyr Baelish'];20
+Petyr;['Petyr', 'Lord Petyr'];27
+Philip McGinley;['Philip McGinley'];6
+Piggy;['Piggy'];3
+Pilou Asbæk;['Pilou Asb\xc3\xa6k'];2
+Pit;['Pit'];2
+Pixie Le Knot;['Pixie Le Knot'];2
+Pod;['Pod'];13
+Podrick Payne;['Podrick Payne'];14
+Podrick;['Podrick'];27
+Pointy;['Pointy'];2
+Polliver;['Polliver'];15
+Portia Victoria;['Portia Victoria'];3
+Prendahl;['Prendahl'];7
+Prince;['Prince'];2
+Princess Daenerys Targaryen;['Princess Daenerys Targaryen'];2
+Princess Myrcella Baratheon;['Princess Myrcella Baratheon'];4
+Princess Myrcella;['Princess Myrcella'];3
+Princess Shireen Baratheon;['Princess Shireen Baratheon'];3
+Protector of the Realm;['Protector of the Realm', 'Lord Protector of the Realm'];4
+Pyat Pree;['Pyat Pree'];11
+Pycelle;['Pycelle', 'Grand Maester Pycelle'];45
+Pyke;['Pyke'];7
+Pyp;['Pyp'];6
+Pypar;['Pypar'];12
+Qaggaz;['Qaggaz'];2
+Qarth;['Qarth'];13
+Qhorin Halfhand;['Qhorin Halfhand'];10
+Qhorin;['Qhorin'];17
+Qotho;['Qotho'];5
+Quaithe;['Quaithe'];3
+Queen Regent Cersei;['Queen Regent Cersei'];3
+Queen;['Queen'];11
+Queensguard;['Queensguard'];2
+Qyburn;['Qyburn'];42
+Rains of Castamere;['Rains of Castamere'];7
+Rakharo;['Rakharo'];8
+Ralf Kenning;['Ralf Kenning'];3
+Ralph Ineson;['Ralph Ineson'];5
+Ramsay Bolton;['Ramsay Bolton'];12
+Ramsay Snow;['Ramsay Snow'];10
+Ramsay;['Ramsay'];110
+Randyll Tarly;['Randyll Tarly', 'Lord Randyll Tarly'];3
+Rast;['Rast'];31
+Razdal;['Razdal'];10
+Rebecca Scott;['Rebecca Scott'];2
+Red Comet;['Red Comet'];2
+Red Fork of the Trident River;['Red Fork of the Trident River'];2
+Red Fork of the Trident;['Red Fork of the Trident'];2
+Red Keep;['Red Keep'];31
+Red Priestess Melisandre;['Red Priestess Melisandre'];3
+Red Priestess;['Red Priestess'];7
+Red Waste;['Red Waste'];5
+Red Wedding;['Red Wedding'];6
+Red Woman;['Red Woman'];3
+Reece Noi;['Reece Noi'];3
+Reed;['Reed'];2
+Reeds;['Reeds'];2
+Reek;['Reek'];34
+Reg Wayment;['Reg Wayment'];2
+Regent Cersei Lannister;['Regent Cersei Lannister', 'Queen Regent Cersei Lannister'];6
+Regent;['Queen Regent', 'Regent'];3
+Renly Baratheon;['Renly Baratheon', 'Lord Renly Baratheon'];10
+Renly;['Lord Renly', 'Renly'];40
+Rhaegal;['Rhaegal'];6
+Rhaegar Targaryen;['Prince Rhaegar Targaryen', 'Rhaegar Targaryen'];2
+Rhaegar;['Rhaegar', 'Prince Rhaegar'];20
+Rhaego;['Rhaego'];7
+Rhaenys;['Rhaenys'];2
+Richard Brake;['Richard Brake'];2
+Richard Dormer;['Richard Dormer'];4
+Richard Madden;['Richard Madden'];21
+Richard Rycroft;['Richard Rycroft'];2
+Rickard Karstark;['Lord Rickard Karstark', 'Rickard Karstark'];7
+Rickard Stark;['Rickard Stark', 'Lord Rickard Stark'];2
+Rickard;['Lord Rickard', 'Rickard'];9
+Rickon Stark;['Rickon Stark'];8
+Rickon;['Rickon'];27
+Rides;['Rides'];2
+Riverlands;['Riverlands'];33
+Riverrun;['Riverrun'];23
+Robar Royce;['Robar Royce'];2
+Robb Stark;['Robb Stark'];37
+Robb;['Robb'];196
+Robert Baratheon;['Robert Baratheon'];20
+Robert Fawsitt;['Robert Fawsitt'];3
+Robert Pugh;['Robert Pugh'];5
+Robert Render;['Robert Render'];2
+Robert Sterne;['Robert Sterne'];4
+Robert's Rebellion;["Robert's Rebellion"];8
+Robert;['Robert'];78
+Robin Arryn;['Robin Arryn', 'Lord Robin Arryn'];4
+Robin;['Robin'];19
+Rodrik Cassel;['Ser Rodrik Cassel', 'Rodrik Cassel'];12
+Rodrik;['Ser Rodrik', 'Rodrik'];7
+Roger Allam;['Roger Allam'];2
+Ron Donachie;['Ron Donachie'];13
+Roose Bolton;['Lord Roose Bolton', 'Roose Bolton'];27
+Roose;['Roose'];33
+Rorge;['Rorge'];3
+Rory McCann;['Rory McCann'];27
+Ros;['Ros'];27
+Rosabell Laurenti Sellers;['Rosabell Laurenti Sellers'];6
+Rose Leslie;['Rose Leslie'];17
+Rose;['Rose'];3
+Rosie Ruthless;['Rosie Ruthless'];2
+Roslin Frey;['Roslin Frey'];2
+Roslin;['Roslin'];3
+Ross Mullan;['Ross Mullan'];3
+Roxanne McKee;['Roxanne McKee'];11
+Royal;['Royal'];2
+Royce;['Royce', 'Lord Royce'];10
+Runestone;['Runestone'];2
+Rupert Vansittart;['Rupert Vansittart'];3
+Sack of King's Landing;["Sack of King's Landing"];2
+Sahara Knite;['Sahara Knite'];4
+Salladhor Saan;['Salladhor Saan'];3
+Salt Throne;['Salt Throne'];3
+Sam Callis;['Sam Callis'];2
+Sam Coleman;['Sam Coleman'];2
+Sam;['Sam'];144
+Samantha Bentley;['Samantha Bentley'];2
+Samwell Tarly;['Samwell Tarly'];25
+Samwell;['Samwell'];15
+Sand Snakes;['Sand Snakes'];12
+Sandor Clegane;['Sandor Clegane'];26
+Sandor;['Sandor'];50
+Sansa Stark;['Sansa Stark'];38
+Sansa;['Sansa'];342
+Sapphire Isle;['Sapphire Isle'];3
+Sara Dylan;['Sara Dylan'];4
+Sarine Sofair;['Sarine Sofair'];3
+Satisfied;['Satisfied'];2
+Savo;['Savo'];3
+Scribbler;['Scribbler'];2
+Second Sons;['Second Sons'];5
+Selmy;['Selmy'];8
+Selyse Baratheon;['Selyse Baratheon'];3
+Selyse;['Queen Selyse', 'Selyse'];31
+Sept;['Sept'];3
+Septa Mordane;['Septa Mordane'];6
+Septa Unella;['Septa Unella'];5
+September;['September'];4
+Ser Arthur Dayne;['Ser Arthur Dayne'];2
+Ser Arthur;['Ser Arthur'];6
+Ser Bronn of the Blackwater;['Ser Bronn of the Blackwater'];2
+Ser Hugh of the Vale;['Ser Hugh of the Vale'];5
+Ser Hugh;['Ser Hugh'];5
+Ser Ilyn;['Ser Ilyn'];2
+Ser Jaremy Mallister;['Ser Jaremy Mallister'];2
+Ser Mandon Moore;['Ser Mandon Moore'];7
+Ser Meryn Trant of the Kingsguard;['Ser Meryn Trant of the Kingsguard'];4
+Ser Vance Corbray;['Ser Vance Corbray'];2
+Ser Vardis Egen;['Ser Vardis Egen'];4
+Ser Waymar Royce;['Ser Waymar Royce'];3
+Ser Waymar;['Ser Waymar'];2
+Ser Willis Wode;['Ser Willis Wode'];2
+Seven Kingdoms;['Seven Kingdoms'];37
+Seven;['Seven'];12
+Shae;['Shae'];55
+Shagga;['Shagga'];3
+Shaggydog;['Shaggydog'];9
+Shireen Baratheon;['Shireen Baratheon'];3
+Shireen's Greyscale;["Shireen's Greyscale"];2
+Shireen;['Shireen'];35
+Sibel Kekilli;['Sibel Kekilli'];20
+Sight;['Sight'];2
+Silent Sisters;['Silent Sisters'];3
+Silk King;['Silk King'];3
+Simon Armstrong;['Simon Armstrong'];4
+Skrein;['Skrein'];3
+Slave;['Slave'];3
+Slaver's Bay;["Slaver's Bay"];13
+Slavko Juraga;['Slavko Juraga'];3
+Slynt;['Slynt'];11
+Small Council;['Small Council'];26
+Smalljon Umber;['Lord Smalljon Umber', 'Smalljon Umber'];2
+Smalljon;['Smalljon'];7
+Snow;['Snow', 'Lord Commander Snow', 'Lord Snow'];17
+Son of the Harpy;['Son of the Harpy'];3
+Sons of the Harpy;['Sons of the Harpy'];14
+Sons;['Sons'];14
+Sophie Turner;['Sophie Turner'];44
+Souad Faress;['Souad Faress'];2
+South;['South'];2
+Sparrow;['Sparrow'];8
+Sparrows;['Sparrows'];11
+Spice King;['Spice King'];4
+Stallion;['Stallion'];2
+Stannis Baratheon;['Stannis Baratheon'];29
+Stannis;['Stannis', 'Lord Stannis'];209
+Stark Officer;['Stark Officer'];2
+Stark;['Stark', 'Lord Stark'];48
+Starks;['Starks'];27
+Staz Nair;['Staz Nair'];3
+Steelshanks;['Steelshanks'];3
+Stephen Dillane;['Stephen Dillane'];24
+Steve Cash;['Steve Cash'];2
+Stiv;['Stiv'];2
+Stone Men;['Stone Men'];2
+Stone Mill;['Stone Mill'];2
+Storm;['Storm'];2
+Stormlands;['Stormlands'];6
+Stranger;['Stranger'];3
+Styr;['Styr'];20
+Summer;['Summer'];19
+Sunspear;['Sunspear'];3
+Susan Brown;['Susan Brown'];6
+Syrio Forel;['Syrio Forel'];9
+Syrio;['Syrio'];6
+Talisa Maegyr;['Talisa Maegyr'];2
+Talisa;['Queen Talisa', 'Talisa'];21
+Tara Fitzgerald;['Tara Fitzgerald'];10
+Targaryen Kingsguard;['Targaryen Kingsguard'];2
+Targaryen;['Targaryen'];21
+Targaryens;['Targaryens'];8
+Tarly;['Tarly'];2
+Tarth;['Tarth'];34
+Temple of the Graces;['Temple of the Graces'];2
+Ternesio Terys;['Ternesio Terys'];2
+Thenn Warg;['Thenn Warg'];2
+Thenn;['Thenn'];6
+Thenns;['Thenns'];2
+Theon Greyjoy;['Theon Greyjoy'];35
+Theon;['Theon'];127
+Thin Man;['Thin Man'];2
+Thin;['Thin'];2
+Thirteen;['Thirteen'];7
+Thomas Brodie Sangster;['Thomas Brodie Sangster'];2
+Thomas Brodie-Sangster;['Thomas Brodie-Sangster'];8
+Thorne;['Thorne', 'Ser Thorne'];29
+Thoros of Myr;['Thoros of Myr'];5
+Thoros;['Thoros'];18
+Three-Eyed Raven;['Three-Eyed Raven'];4
+Three-eyed Raven;['Three-eyed Raven'];6
+Three-eyed;['Three-eyed'];4
+Tickler;['Tickler'];6
+Tim Plester;['Tim Plester'];2
+Tim Van Patten;['Tim Van Patten'];4
+Titan's Bastard;["Titan's Bastard"];2
+Tobho Mott;['Tobho Mott'];5
+Tobias Menzies;['Tobias Menzies'];5
+Tobias Winter;['Tobias Winter'];3
+Toby Sebastian;['Toby Sebastian'];5
+Tom Brooke;['Tom Brooke'];2
+Tom Wlaschiha;['Tom Wlaschiha'];16
+Tommen Baratheon;['Tommen Baratheon', 'Prince Tommen Baratheon'];5
+Tommen;['Tommen'];49
+Tony Flynn;['Tony Flynn'];2
+Tony Way;['Tony Way'];6
+Tormund Giantsbane;['Tormund Giantsbane'];7
+Tormund;['Tormund'];42
+Torrhen Karstark;['Torrhen Karstark'];4
+Torrhen's Square;["Torrhen's Square"];4
+Torrhen;['Torrhen'];2
+Tower of the Hand;['Tower of the Hand'];5
+Tower;['Tower'];2
+Town;['Town'];4
+Trant;['Trant'];2
+Trident;['Trident'];4
+Trystane Martell;['Trystane Martell', 'Prince Trystane Martell'];6
+Trystane;['Trystane', 'Prince Trystane'];20
+Tudor;['Tudor'];7
+Tully;['Tully'];5
+Twins;['Twins'];8
+Tycho Nestoris;['Tycho Nestoris'];2
+Tyene Sand;['Tyene Sand'];3
+Tyene;['Tyene'];10
+Tyrell;['Tyrell'];15
+Tyrells;['Tyrells'];19
+Tyrion Lannister;['Tyrion Lannister'];27
+Tyrion;['Tyrion'];368
+Tysha;['Tysha'];2
+Tywin Lannister;['Tywin Lannister', 'Lord Tywin Lannister'];39
+Tywin;['Tywin', 'Lord Tywin'];197
+Umber;['Umber'];3
+Unbent;['Unbent'];4
+Unbowed;['Unbowed'];3
+Unbroken;['Unbroken'];3
+Unella;['Unella'];2
+Unknown;['Unknown'];80
+Unsullied;['Unsullied'];62
+Vaes Dothrak;['Vaes Dothrak'];12
+Vala;['Vala'];3
+Vale of Arryn;['Vale of Arryn'];5
+Vale;['Vale'];22
+Valyria;['Valyria'];4
+Valyrian;['Valyrian'];5
+Vanessa Taylor;['Vanessa Taylor'];6
+Vardis;['Vardis'];3
+Varys;['Lord Varys', 'Varys'];132
+Vinnie McCabe;['Vinnie McCabe'];2
+Viper;['Viper'];4
+Viserion;['Viserion'];6
+Viserys Targaryen;['Viserys Targaryen', 'Prince Viserys Targaryen'];3
+Viserys;['Viserys'];38
+Volantene;['Volantene'];2
+Volantis;['Volantis'];10
+Waif;['Waif'];35
+Walda Bolton;['Walda Bolton'];3
+Walda;['Walda'];2
+Walder Frey;['Lord Walder Frey', 'Walder Frey'];11
+Walder;['Walder', 'Lord Walder'];10
+Walker;['Walker'];3
+Walkers;['Walkers'];3
+Wall;['Wall'];157
+War of the Five Kings;['War of the Five Kings'];6
+Warden of the North;['Warden of the North'];10
+Wars;['Wars'];3
+Was;['Was'];2
+Watch Officer;['Watch Officer'];8
+Watch;['Watch'];44
+Watchman;['Watchman'];2
+Water Dancer;['Water Dancer'];3
+Water;['Water'];5
+Watters;['Watters'];2
+Weirwood;['Weirwood'];2
+Weiss;['Weiss'];38
+Wendel Manderly;['Wendel Manderly'];2
+Westerlands;['Westerlands'];6
+Westeros;['Westeros'];57
+Westerosi;['Westerosi'];2
+White Rat;['White Rat'];3
+White Walker;['White Walker'];29
+White Walkers;['White Walkers'];4
+White;['White'];50
+Wildfire;['Wildfire'];3
+Wildling;['Wildling'];2
+Wildlings;['Wildlings'];10
+Wilko Johnson;['Wilko Johnson'];4
+Will;['Will'];10
+Willem Lannister;['Willem Lannister'];3
+Willem;['Willem'];4
+Winterfell;['Winterfell'];109
+Wisdom Hallyne;['Wisdom Hallyne'];2
+Wise Masters of Yunkai;['Wise Masters of Yunkai'];2
+Wise Masters;['Wise Masters'];3
+Wise;['Wise'];2
+Wolf;['Wolf'];5
+World;['World'];2
+Wun Wun;['Wun Wun'];9
+Wyl;['Wyl'];2
+Wylis;['Wylis'];7
+Xaro Xhoan Daxos;['Xaro Xhoan Daxos'];2
+Xaro;['Xaro'];5
+Xhoan Daxos;['Xhoan Daxos'];3
+Yara Greyjoy;['Yara Greyjoy'];6
+Yara;['Yara'];27
+Yezzan zo Qaggaz;['Yezzan zo Qaggaz'];2
+Yezzan;['Yezzan'];6
+Ygritte;['Ygritte'];56
+Yoren;['Yoren'];15
+Yunkai'i;["Yunkai'i"];6
+Yunkai;['Yunkai'];24
+of Winterfell;['Prince of Winterfell', 'Lord of Winterfell'];8

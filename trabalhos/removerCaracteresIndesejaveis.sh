@@ -11,3 +11,7 @@ echo "substituindo aspas especiais por espaço"
 $(find $1 -type f -exec sed -i 's/”/ /g' {} \;)
 echo "substituindo bolinha por espaço"
 $(find $1 -type f -exec sed -i 's/•/ /g' {} \;)
+echo "substituindo 'ː' estranho por ':'"
+$(find $1 -type f -exec sed -i 's/ː/ /g' {} \;)
+echo "substituindo '“' estranho por aspas"
+$(find $1 -type f -exec sed -i 's/“/ /g' {} \;)

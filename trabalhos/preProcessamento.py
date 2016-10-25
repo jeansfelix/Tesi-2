@@ -38,7 +38,8 @@ def main():
 def limpaTexto(texto):
     try:
         inicioTrecho = re.search(r"(Written by)", texto).start()
-        fimTrecho = re.search(r"Marketing|Image|Gallery|\Z", texto).start()
+        fimTrecho = re.search(r"(Cast [Nn]otes)|\Z", texto).start()
+        #fimTrecho = re.search(r"Marketing|Image|Gallery|\Z", texto).start()
         trecho = texto[inicioTrecho:fimTrecho]
     except Exception as e:
         return ''

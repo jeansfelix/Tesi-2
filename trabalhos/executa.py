@@ -49,9 +49,12 @@ def processaTemporada(temporada):
             if(len(taggeado) == 0):
                 continue
 
+            #print taggeado
+
             gramatica = """NNPS: {<NNP.*>+}
                            NNPVERBO: {<NNP.*>+<VBZ.*>+}
                            OFTHE: {<NNP.*>+<IN><DT><NNP.*>+<NNS.*>*}
+                           NNPIN: {<NNP.*>+<IN><NNP.*>+}
                            INNNP: {<IN.*>+<NNP.*>+<POS.*>+<NNP.*>+}
                            NNPOSTROFE: {<NNP.*><POS><NNP.*>}
                            FALA: {<NNP.*>+<:.*>+}
@@ -128,15 +131,28 @@ def gerarCSV(pathCsvEntidadesNomeadas, todasEntidadesNomeadas):
     csvEntidadesNomeadas = open(pathCsvEntidadesNomeadas, 'w+')
 
     for entidadeNomeada in todasEntidadesNomeadas.iterkeys():
-        csvEntidadesNomeadas.write(entidadeNomeada + ' ' + str(todasEntidadesNomeadas[entidadeNomeada]) + '\n')
+        csvEntidadesNomeadas.write(entidadeNomeada + ';' + str(todasEntidadesNomeadas[entidadeNomeada]) + '\n')
     csvEntidadesNomeadas.close()
 
-def gerarCSVFrequenciaMaiorQueUm(entidadesComFrequencia):
-    entidadesNomeadas = re.sub(r".*[ ]1\n", r'', entidadesComFrequencia)
+def gerarCSVComAgrupamento(pathCsvEntidadesNomeadas, todasEntidadesNomeadas):
+    csvEntidadesNomeadas = open(pathCsvEntidadesNomeadas, 'w+')
 
-    csvEntidadesNomeadas = open('entidadesNomeadas.txt', 'w+')
+    entidadesNomeadasMaiorQueUm = ''
+    for entidadeNomeada in todasEntidadesNomeadas.iterkeys():
+        if len(todasEntidadesNomeadas[entidadeNomeada][0]) > 1:
+            entidadesNomeadasMaiorQueUm += entidadeNomeada + ';' + str(todasEntidadesNomeadas[entidadeNomeada][0]) + ';' + str(todasEntidadesNomeadas[entidadeNomeada][1]) + '\n'
+        else:
+            entidadesNomeadasMaiorQueUm += todasEntidadesNomeadas[entidadeNomeada][0][0] + ';' + str(todasEntidadesNomeadas[entidadeNomeada][0]) + ';' + str(todasEntidadesNomeadas[entidadeNomeada][1]) + '\n'
 
-    csvEntidadesNomeadas.write(entidadesNomeadas)
+    entidadesNomeadasMaiorQueUm = re.sub(r".*[;]1\n", r'', entidadesNomeadasMaiorQueUm)
+
+    listaEntidades = entidadesNomeadasMaiorQueUm.split('\n')
+    listaEntidades.sort()
+
+    for entidade in listaEntidades:
+        if entidade != '':
+            csvEntidadesNomeadas.write(entidade + '\n')
+
     csvEntidadesNomeadas.close()
 
 def main():
@@ -152,10 +168,76 @@ def main():
     gerarCSV('entidadesNomeadasComFrequencia.txt', todasEntidadesNomeadas)
 
     csvEntidadesNomeadasComFrequencia = open('entidadesNomeadasComFrequencia.txt', 'r')
+
+    entidades = {}
+    stopWords = ['Ser ','Queen ','Lord ', 'Prince ', 'Lord Commander ', 'Commander ', 'Maester ', 'Grand Maester ']
+    for linha in csvEntidadesNomeadasComFrequencia:
+        valores = linha.replace('\n','').split(';')
+
+        entidade = valores[0]
+        for stopWord in stopWords:
+            try:
+                localStopWord = re.search(r"" + stopWord, entidade).start()
+                if localStopWord == 0:
+                    entidade = re.sub(r"" + stopWord, r'', entidade)
+            except Exception as e:
+                continue
+
+        #print entidade
+
+        if entidade in entidades:
+            #print 'to no ife'
+            #print entidades[entidade]
+            entidades[entidade]=[entidades[entidade][0] + [valores[0]], int(entidades[entidade][1])+int(valores[1])]
+        else:
+            #print 'to no elze'
+            #print valores[0]
+            entidades[entidade]=[[valores[0]], int(valores[1])]
+
+    #print entidades
+
+    gerarCSVComAgrupamento("entComAgrupamento.txt", entidades)
+
+    #Marcando entidades no texto
+
+    temporadas = [a for a in listdir(caminhoEpisodios)]
+    for temporada in temporadas:
+        path = temporada;
+        arquivos = [a for a in listdir(join(caminhoEpisodios, path)) if isfile(join(join(caminhoEpisodios, path), a))]
+
+        print 'Marcando Entidades Nomeadas No Texto...'
+
+        pathDestino = basename(path)
+
+        if not exists(pathDestino):
+            makedirs(pathDestino)
+
+        for pathArq in arquivos:
+            textoPreProcessado = open(join(join(caminhoEpisodios, path), pathArq)).read()
+
+            for entidade in entidades.iterkeys():
+                regexp = '('
+                listaDeNomes = entidades[entidade][0]
+
+
+                primeiro = True;
+                for nome in listaDeNomes:
+                    if primeiro:
+                        regexp += nome + r'[ .]' + ')'
+                        primeiro = False
+                    else:
+                        regexp += '|(' + nome + r'[ .]' + ')'
+
+                regexp = re.sub(r'\.', '\\\.', regexp)
+                textoPreProcessado = re.sub(r''+ regexp, r'' + '<entity> ' + entidade + ' </entity>', textoPreProcessado)
+
+            #print textoPreProcessado
+
+            arquivo = open(join(path, pathArq), 'w+')
+            arquivo.write(textoPreProcessado)
+
     entidadesComFrequencia = csvEntidadesNomeadasComFrequencia.read()
     csvEntidadesNomeadasComFrequencia.close()
-
-    gerarCSVFrequenciaMaiorQueUm(entidadesComFrequencia)
 
     print 'Terminou!!!'
 
