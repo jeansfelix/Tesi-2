@@ -323,7 +323,7 @@ Great Sept;['Great Sept'];7
 Great;['Great'];5
 Greatjon Umber;['Lord Greatjon Umber', 'Greatjon Umber'];3
 Greatjon;['Greatjon'];4
-Gregor Clegane;['Ser Gregor Clegane', 'Gregor Clegane'];23
+Gregor Clegane;['Gregor Clegane', 'Ser Gregor Clegane'];23
 Gregor;['Gregor', 'Ser Gregor'];29
 Greizhen;['Greizhen'];2
 Grenn;['Grenn'];29
@@ -425,7 +425,7 @@ Jaqen H'ghar;["Jaqen H'ghar"];25
 Jaqen;['Jaqen'];29
 Jason McLaughlin;['Jason McLaughlin'];2
 Jefferson Hall;['Jefferson Hall'];2
-Jeor Mormont;['Jeor Mormont', 'Lord Commander Jeor Mormont'];20
+Jeor Mormont;['Lord Commander Jeor Mormont', 'Jeor Mormont'];20
 Jeor;['Jeor'];7
 Jeremy Podeswa;['Jeremy Podeswa'];8
 Jerome Flynn;['Jerome Flynn'];26
@@ -444,7 +444,7 @@ Jojen;['Jojen'];30
 Jon Arryn;['Lord Jon Arryn', 'Jon Arryn'];22
 Jon Snow;['Jon Snow', 'Lord Commander Jon Snow'];69
 Jon Umber;['Jon Umber'];3
-Jon;['Jon'];442
+Jon;['Jon'];443
 Jonathan Pryce;['Jonathan Pryce'];6
 Jorah Mormont;['Ser Jorah Mormont', 'Jorah Mormont'];30
 Jorah;['Ser Jorah', 'Jorah'];156
@@ -764,7 +764,7 @@ Pypar;['Pypar'];12
 Qaggaz;['Qaggaz'];2
 Qarth;['Qarth'];13
 Qhorin Halfhand;['Qhorin Halfhand'];10
-Qhorin;['Qhorin'];17
+Qhorin;['Qhorin'];18
 Qotho;['Qotho'];5
 Quaithe;['Quaithe'];3
 Queen Regent Cersei;['Queen Regent Cersei'];3
@@ -778,7 +778,7 @@ Ralph Ineson;['Ralph Ineson'];5
 Ramsay Bolton;['Ramsay Bolton'];12
 Ramsay Snow;['Ramsay Snow'];10
 Ramsay;['Ramsay'];110
-Randyll Tarly;['Randyll Tarly', 'Lord Randyll Tarly'];3
+Randyll Tarly;['Lord Randyll Tarly', 'Randyll Tarly'];3
 Rast;['Rast'];31
 Razdal;['Razdal'];10
 Rebecca Scott;['Rebecca Scott'];2
@@ -809,7 +809,7 @@ Richard Brake;['Richard Brake'];2
 Richard Dormer;['Richard Dormer'];4
 Richard Madden;['Richard Madden'];21
 Richard Rycroft;['Richard Rycroft'];2
-Rickard Karstark;['Lord Rickard Karstark', 'Rickard Karstark'];7
+Rickard Karstark;['Rickard Karstark', 'Lord Rickard Karstark'];7
 Rickard Stark;['Rickard Stark', 'Lord Rickard Stark'];2
 Rickard;['Lord Rickard', 'Rickard'];9
 Rickon Stark;['Rickon Stark'];8
@@ -966,7 +966,7 @@ Thin;['Thin'];2
 Thirteen;['Thirteen'];7
 Thomas Brodie Sangster;['Thomas Brodie Sangster'];2
 Thomas Brodie-Sangster;['Thomas Brodie-Sangster'];8
-Thorne;['Thorne', 'Ser Thorne'];29
+Thorne;['Ser Thorne', 'Thorne'];29
 Thoros of Myr;['Thoros of Myr'];5
 Thoros;['Thoros'];18
 Three-Eyed Raven;['Three-Eyed Raven'];4

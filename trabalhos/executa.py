@@ -56,9 +56,7 @@ def processaTemporada(temporada):
                            OFTHE: {<NNP.*>+<IN><DT><NNP.*>+<NNS.*>*}
                            NNPIN: {<NNP.*>+<IN><NNP.*>+}
                            INNNP: {<IN.*>+<NNP.*>+<POS.*>+<NNP.*>+}
-                           NNPOSTROFE: {<NNP.*><POS><NNP.*>}
-                           FALA: {<NNP.*>+<:.*>+}
-                           FALADO: {<:.*>+<NNP.*>+}"""
+                           NNPOSTROFE: {<NNP.*><POS><NNP.*>}"""
 
             agrupador = nltk.RegexpParser(gramatica)
             pedregulho = agrupador.parse(taggeado)
