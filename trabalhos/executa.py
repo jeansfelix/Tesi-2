@@ -122,12 +122,18 @@ def main2():
     print 'Terminou!!!'
 
 def aplicarGramatica(sentencasTokenizadas):
+    gramatica = r"""DATA: {<NNP><CD><.><CD>}
+                   NOMES: {<NNP>+|<NNPS>+}
+                   NNPINDTNNP: {<NOMES>(<IN><DT><NOMES>)+}
+                   NNPINNNP: {<NOMES><IN><NOMES>}
+                   NNPOSTROFE: {<NOMES><POS><NOMES>}"""
+
     textoEpisodio = ''
     for sentencaTokenizada in sentencasTokenizadas:
-        gramatica = r"""NNPS: {<NNP.*>+}
-                       NNPINDTNNP: {<NNP.*>+<IN><DT><NNP.*>+<NNS.*>*}
-                       NNPINNNP: {<NNPS>+<IN><NNPS>+<NNS.*>}
-                       NNPOSTROFE: {<NNP.*><POS><NNP.*>+}"""
+
+        if len(sentencaTokenizada) == 0:
+            textoEpisodio += '\n'
+            continue
 
         agrupador = nltk.RegexpParser(gramatica)
 
@@ -136,13 +142,22 @@ def aplicarGramatica(sentencasTokenizadas):
         sentencaParseada = agrupador.parse(taggeado)
 
         #print taggeado
+        #print sentencaParseada
+
+        IN_Desejados = ['of', 'on']
 
         for arvore in sentencaParseada:
             if type(arvore) is nltk.Tree:
+                ehEntidade = True
                 entidadeNomeada = ''
                 for folha in arvore.leaves():
                     if len(entidadeNomeada) > 2:
+                        if folha[1] == 'IN' and folha[0] not in IN_Desejados:
+                            ehEntidade = False
+
                         if folha[1] == 'POS':
+                            entidadeNomeada += folha[0]
+                        elif folha[1] == ',':
                             entidadeNomeada += folha[0]
                         else:
                             entidadeNomeada += ' ' + folha[0]
@@ -150,8 +165,11 @@ def aplicarGramatica(sentencasTokenizadas):
                         entidadeNomeada = folha[0]
 
                 if len(entidadeNomeada) > 2:
-                    ENTIDADES_NOMEADAS.append(entidadeNomeada)
-                    textoEpisodio += '<entidade>' + entidadeNomeada + '</entidade> '
+                    if ehEntidade:
+                        ENTIDADES_NOMEADAS.append(entidadeNomeada)
+                        textoEpisodio += '<entidade>' + entidadeNomeada + '</entidade> '
+                    else:
+                        textoEpisodio += entidadeNomeada + ' '
             else:
                 if (arvore[0] == arvore[1] and re.match(r'[.,;?!]', arvore[0]) != None):
                     textoEpisodio = re.sub(r'[ ]\Z', r'', textoEpisodio) + arvore[0]
@@ -168,14 +186,17 @@ def processarEpisodios(caminhoEpisodios, episodios):
     mapaEpisodioTextoEpisodio = dict()
 
     for episodio in episodios:
+        tokenizador = nltk.data.load('tokenizers/punkt/english.pickle')
+
         arquivo = open(join(caminhoEpisodios, episodio))
-        stringLida = arquivo.read()
+
+        sentencas = []
+        for linha in arquivo:
+            sentencas += (tokenizador.tokenize(linha.decode('utf8')))
+
         arquivo.close()
 
-        stringLida = stringLida.decode('utf8')
-
-        tokenizador = nltk.data.load('tokenizers/punkt/english.pickle')
-        sentencas = tokenizador.tokenize(stringLida)
+        #print sentencas
 
         sentencasTokenizadas = []
         for sentenca in sentencas:
@@ -190,7 +211,8 @@ def executarProcessamento(diretorioTemporadas):
 
     mapaEpisodioTextoEpisodio = dict()
 
-    for temporada in temporadas:
+    for temporada in sorted(temporadas):
+        print 'Processando temporada: ' + temporada
         caminhoTemporada = join(diretorioTemporadas, temporada)
 
         caminhoAtores = join(caminhoTemporada, 'atores')
