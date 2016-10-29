@@ -3,134 +3,16 @@
 import sys, nltk, codecs, re
 from os import listdir, makedirs, pardir
 from os.path import isfile, isdir, join, basename, exists, abspath
+from nltk.probability import FreqDist
 
 reload(sys)
 sys.setdefaultencoding("utf-8")
 
-def processaTemporada(temporada):
-    path = temporada;
-    arquivos = [a for a in listdir(path) if isfile(join(path, a))]
+titulos = ['Ser ','Queen ','Lord ', 'Prince ', 'Princess ', 'Lord Commander ', 'Commander ', 'Maester ', 'Grand Maester ']
 
-    print 'Procurando Entidades Nomeadas...'
-
-    pathDestino = basename(path)
-
-    if not exists(pathDestino):
-        makedirs(pathDestino)
-
-    todasEntidadesNomeadas = dict()
-
-    for pathArq in arquivos:
-        arquivo = open(join(path, pathArq))
-
-        #print  'Processando arquivo ' + join(path, pathArq)
-
-        stringLida = arquivo.read()
-
-        saida = open(join(pathDestino, pathArq.replace(".txt", "_ARQUIVO-GERADO.txt")), 'w+')
-
-        tokenizador = nltk.data.load('tokenizers/punkt/english.pickle')
-        stringLida = stringLida.decode('utf8')
-
-        sentencas = []
-        listaLinhas = [x for x in stringLida.split('\n') if x]
-        for linha in listaLinhas:
-            sentencasLinha = tokenizador.tokenize(linha)
-            for sentencaLinha in sentencasLinha:
-                sentencas.append(sentencaLinha)
-
-        listaDeSentencaTokenizada = []
-        for sentenca in sentencas:
-            listaDeSentencaTokenizada.append(nltk.word_tokenize(sentenca))
-
-        for sentencaTokenizada in listaDeSentencaTokenizada:
-            taggeado = nltk.pos_tag(sentencaTokenizada)
-
-            if(len(taggeado) == 0):
-                continue
-
-            #print taggeado
-
-            gramatica = """NNPS: {<NNP.*>+}
-                           NNPVERBO: {<NNP.*>+<VBZ.*>+}
-                           OFTHE: {<NNP.*>+<IN><DT><NNP.*>+<NNS.*>*}
-                           NNPIN: {<NNP.*>+<IN><NNP.*>+}
-                           INNNP: {<IN.*>+<NNP.*>+<POS.*>+<NNP.*>+}
-                           NNPOSTROFE: {<NNP.*><POS><NNP.*>}"""
-
-            agrupador = nltk.RegexpParser(gramatica)
-            pedregulho = agrupador.parse(taggeado)
-
-            entidadesNomeadas = []
-            for pedra in pedregulho:
-                if type(pedra) is nltk.Tree:
-                    entidadeNomeada = ''
-                    for no in pedra.leaves():
-                        if len(entidadeNomeada) > 2:
-                            #print 'to no if'
-                            #print no
-                            if no[1] == "NNP":
-                                entidadeNomeada += ' ' + no[0]
-                            if no[1] == "IN":
-                                if no[0] != "of":
-                                    break
-                                entidadeNomeada += ' ' + no[0]
-                            if no[1] == "DT":
-                                entidadeNomeada += ' ' + no[0]
-                            if no[1] == "POS":
-                                entidadeNomeada += no[0]
-                            if no[1] == "NNS":
-                                entidadeNomeada += ' ' + no[0]
-                        else:
-                            #print 'to no elze'
-                            #print no
-                            if no[1] == "NNP":
-                                entidadeNomeada = no[0]
-                    if len(entidadeNomeada) != 0:
-                        entidadesNomeadas.append(entidadeNomeada)
-
-            if len(entidadesNomeadas) != 0:
-                saida.write('[')
-                cont = 0
-                for entidadeNomeada in entidadesNomeadas:
-                    if cont > 0:
-                        saida.write(", '"+ entidadeNomeada + "'")
-                    else:
-                        saida.write("'"+ entidadeNomeada + "'")
-                    cont += 1
-                saida.write(']\n')
-
-            #todasEntidadesNomeadas += entidadesNomeadas
-            for entidadeNomeada in entidadesNomeadas:
-                if entidadeNomeada in todasEntidadesNomeadas:
-                    todasEntidadesNomeadas[entidadeNomeada] += 1
-                else:
-                    todasEntidadesNomeadas[entidadeNomeada] = 1
-
-        saida.close()
-
-    return  todasEntidadesNomeadas
-
-def gerarTodasEntidadesNomeadas(caminhoEpisodios):
-    temporadas = [a for a in listdir(caminhoEpisodios)]
-
-    todasEntidadesNomeadas = dict()
-    for temporada in temporadas:
-        entidadesNomeadasPorTemporada = processaTemporada(join(caminhoEpisodios, temporada))
-        #todasEntidadesNomeadas = list(set(todasEntidadesNomeadas + entidadesNomeadasPorTemporada))
-        for chave in entidadesNomeadasPorTemporada.iterkeys():
-            if chave in todasEntidadesNomeadas:
-                todasEntidadesNomeadas[chave] += entidadesNomeadasPorTemporada[chave]
-            else:
-                todasEntidadesNomeadas[chave] = entidadesNomeadasPorTemporada[chave]
-    return todasEntidadesNomeadas
-
-def gerarCSV(pathCsvEntidadesNomeadas, todasEntidadesNomeadas):
-    csvEntidadesNomeadas = open(pathCsvEntidadesNomeadas, 'w+')
-
-    for entidadeNomeada in todasEntidadesNomeadas.iterkeys():
-        csvEntidadesNomeadas.write(entidadeNomeada + ';' + str(todasEntidadesNomeadas[entidadeNomeada]) + '\n')
-    csvEntidadesNomeadas.close()
+DIRETORIO_DESTINO = ''
+ENTIDADES_NOMEADAS = []
+MAPA_EPISODIOS_TEMPORADA = dict()
 
 def gerarCSVComAgrupamento(pathCsvEntidadesNomeadas, todasEntidadesNomeadas):
     csvEntidadesNomeadas = open(pathCsvEntidadesNomeadas, 'w+')
@@ -153,7 +35,7 @@ def gerarCSVComAgrupamento(pathCsvEntidadesNomeadas, todasEntidadesNomeadas):
 
     csvEntidadesNomeadas.close()
 
-def main():
+def main2():
     if len(sys.argv) != 2:
         print "Deve ser passado o nome do diretorio."
         exit(1)
@@ -167,8 +49,8 @@ def main():
 
     csvEntidadesNomeadasComFrequencia = open('entidadesNomeadasComFrequencia.txt', 'r')
 
-    entidades = {}
-    stopWords = ['Ser ','Queen ','Lord ', 'Prince ', 'Lord Commander ', 'Commander ', 'Maester ', 'Grand Maester ']
+    entidades = dict()
+    titulos = ['Ser ','Queen ','Lord ', 'Prince ', 'Princess ', 'Lord Commander ', 'Commander ', 'Maester ', 'Grand Maester ']
     for linha in csvEntidadesNomeadasComFrequencia:
         valores = linha.replace('\n','').split(';')
 
@@ -238,6 +120,139 @@ def main():
     csvEntidadesNomeadasComFrequencia.close()
 
     print 'Terminou!!!'
+
+def aplicarGramatica(sentencasTokenizadas):
+    textoEpisodio = ''
+    for sentencaTokenizada in sentencasTokenizadas:
+        gramatica = r"""NNPS: {<NNP.*>+}
+                       NNPINDTNNP: {<NNP.*>+<IN><DT><NNP.*>+<NNS.*>*}
+                       NNPINNNP: {<NNPS>+<IN><NNPS>+<NNS.*>}
+                       NNPOSTROFE: {<NNP.*><POS><NNP.*>+}"""
+
+        agrupador = nltk.RegexpParser(gramatica)
+
+        taggeado = nltk.pos_tag(sentencaTokenizada)
+
+        sentencaParseada = agrupador.parse(taggeado)
+
+        #print taggeado
+
+        for arvore in sentencaParseada:
+            if type(arvore) is nltk.Tree:
+                entidadeNomeada = ''
+                for folha in arvore.leaves():
+                    if len(entidadeNomeada) > 2:
+                        if folha[1] == 'POS':
+                            entidadeNomeada += folha[0]
+                        else:
+                            entidadeNomeada += ' ' + folha[0]
+                    else:
+                        entidadeNomeada = folha[0]
+
+                if entidadeNomeada != '':
+                    ENTIDADES_NOMEADAS.append(entidadeNomeada)
+                    textoEpisodio += '<entidade>' + entidadeNomeada + '</entidade> '
+            else:
+                if (arvore[0] == arvore[1] and re.match(r'[.,;?!]', arvore[0]) != None):
+                    textoEpisodio = re.sub(r'[ ]\Z', r'', textoEpisodio) + arvore[0]
+                elif re.match(r".*'.*", arvore[0]) != None:
+                    textoEpisodio = re.sub(r'[ ]\Z', r'', textoEpisodio) + arvore[0] + ' '
+                else:
+                    textoEpisodio += arvore[0] + ' '
+
+        textoEpisodio += '\n'
+
+    return textoEpisodio
+
+def processarEpisodios(caminhoEpisodios, episodios):
+    mapaEpisodioTextoEpisodio = dict()
+
+    for episodio in episodios:
+        arquivo = open(join(caminhoEpisodios, episodio))
+        stringLida = arquivo.read()
+        arquivo.close()
+
+        stringLida = stringLida.decode('utf8')
+
+        tokenizador = nltk.data.load('tokenizers/punkt/english.pickle')
+        sentencas = tokenizador.tokenize(stringLida)
+
+        sentencasTokenizadas = []
+        for sentenca in sentencas:
+            sentencasTokenizadas.append(nltk.word_tokenize(sentenca))
+
+        mapaEpisodioTextoEpisodio[episodio] = aplicarGramatica(sentencasTokenizadas)
+
+    return mapaEpisodioTextoEpisodio
+
+def executarProcessamento(diretorioTemporadas):
+    temporadas = [t for t in listdir(diretorioTemporadas)]
+
+    mapaEpisodioTextoEpisodio = dict()
+
+    for temporada in temporadas:
+        caminhoTemporada = join(diretorioTemporadas, temporada)
+
+        caminhoAtores = join(caminhoTemporada, 'atores')
+        caminhoEpisodios = join(caminhoTemporada, 'episodios')
+        caminhoFalas =  join(caminhoTemporada, 'falas')
+        caminhoMortes = join(caminhoTemporada, 'mortes')
+
+        episodios = [e for e in listdir(caminhoAtores)]
+        MAPA_EPISODIOS_TEMPORADA[temporada] = episodios
+
+        mapaEpisodioTextoEpisodio = dict(mapaEpisodioTextoEpisodio.items() + (processarEpisodios(caminhoEpisodios, episodios).items()))
+
+    return mapaEpisodioTextoEpisodio
+
+def gerarArquivoTextoMarcado(diretorioTemporadas, mapaEpisodioTextoEpisodio):
+    diretorioTextoMarcado = join(DIRETORIO_DESTINO, 'entidadesMarcadasNoTexto')
+    criarPasta(diretorioTextoMarcado)
+
+    for temporada in [t for t in listdir(diretorioTemporadas)]:
+        diretorioTemporada = join(diretorioTextoMarcado, temporada)
+        criarPasta(diretorioTemporada)
+        for episodio in MAPA_EPISODIOS_TEMPORADA[temporada]:
+            textoMarcado = mapaEpisodioTextoEpisodio[episodio]
+            escreverEmArquivo(join(diretorioTemporada, episodio), textoMarcado)
+
+def gerarCSVEntidadesNomeadas(todasEntidadesNomeadas):
+    csvEntidadesNomeadas = open(join(DIRETORIO_DESTINO,'entidadesNomeadas.csv'), 'w+')
+
+    entidadesNomeadasSemMonoSilabas = [a for a in todasEntidadesNomeadas if len(a) > 2]
+
+    for entidadeNomeada in sorted(entidadesNomeadasSemMonoSilabas):
+        csvEntidadesNomeadas.write(entidadeNomeada + '\n')
+    csvEntidadesNomeadas.close()
+
+def main():
+    if len(sys.argv) != 2:
+        print "Deve ser passado o nome do diretorio PreProcessado."
+        exit(1)
+
+    diretorioTemporadas = sys.argv[1]
+
+    global DIRETORIO_DESTINO
+    DIRETORIO_DESTINO = join(abspath(join(diretorioTemporadas, pardir)), 'saida')
+    criarPasta(DIRETORIO_DESTINO)
+
+    mapaEpisodioTextoEpisodio = executarProcessamento(diretorioTemporadas)
+
+    diretorioTextoMarcado = join(DIRETORIO_DESTINO, 'entidadesMarcadasNoTexto')
+    criarPasta(diretorioTextoMarcado)
+
+    gerarArquivoTextoMarcado(diretorioTemporadas, mapaEpisodioTextoEpisodio)
+
+    gerarCSVEntidadesNomeadas(ENTIDADES_NOMEADAS)
+
+def escreverEmArquivo(caminho, texto):
+    arquivo = open(caminho, 'w+')
+    arquivo.write(texto)
+    arquivo.close()
+
+def criarPasta(caminho):
+    if not (isdir(caminho)):
+        makedirs(caminho)
 
 if __name__ == "__main__":
     main()
