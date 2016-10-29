@@ -88,6 +88,4 @@ ENV/
 # Rope project settings
 .ropeproject
 
-episodes/
-trabalhos/season_*
-trabalhos/PreProcessado/
+trabalhos/saida/

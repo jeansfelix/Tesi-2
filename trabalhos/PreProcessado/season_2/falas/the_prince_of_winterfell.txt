@@ -1,0 +1,37 @@
+
+Yara Greyjoy: "Which one gave you the tougher fight, the cripple or the six-year-old?"
+Cersei Lannister: "Do you know why Varys is so dangerous?"
+Tyrion Lannister: "Because he has thousands of spies in his employ? Because he knows everything we do before we do it?"
+Cersei: "Because he doesn't have a cock."
+Tyrion: "Neither do you."
+Cersei: "Perhaps I'm dangerous, too. You, on the other hand, are as big a fool as every other man. That little worm between your legs does half your thinking for you."
+Tyrion: "It's not that little."
+Tyrion: "I will hurt you for this. A day will come when you think you are safe and happy, and your joy will turn to ashes in your mouth... and you will know the debt is paid."
+Joffrey Baratheon: "They say Stannis never smiles. I'll give him a red smile, from ear to ear."
+Dagmer: "What's this?"
+Theon Greyjoy: "Gold...for the farmer. For his...trouble."
+Dagmer: "His troubles are done. He's feeding the crops now. His wife too. You want to keep a man silent, you silence him."
+Osha: "Who was that out there...hung from the gates?"
+Luwin: "Must have been the farmer's boys."
+Osha: "He killed them and burned them....and passed them off as the little lords?"
+Luwin: "Shh, shh, shh. They mustn't know. Bran would blame himself."
+Osha: "They'll never hear it from me. The little lads have suffered enough."
+
+ See: Differences between books and TV series - Season 2#The Prince of Winterfell 
+
+ The episode is adapted from the following chapters of A Clash of Kings:
+ Chapter 34, Jon IV: The dragonglass weapons are discovered.
+ Chapter 38, Arya VIII: Tywin leaves Harrenhal.
+ Chapter 41, Tyrion IX: Tyrion and Varys discuss Stannis's impending attack.
+ Chapter 47, Arya IX: Arya gives Jaqen his own name to get what she wants.
+ Chapter 49, Tyrion XI: Tyrion makes final preparations for the defense of King's Landing.
+ Chapter 54, Tyrion XII: Cersei confronts Tyrion with a captive.
+ Chapter 56, Theon V: Yara visits Winterfell to try to convince Theon to leave.
+ Chapter 68, Jon VIII: Jon and Qhorin are captured by the wildlings. Qhorin plans to make Jon a spy in their ranks.
+
+ The episode is adapted from the following chapters of A Storm of Swords:
+ Chapter 1, Jaime I: Jaime is escorted towards King's Landing by Brienne.
+ Chapter 2, Catelyn I: Catelyn is imprisoned for freeing Jaime.
+
+Promotional video
+00:37Game Of Thrones Season 2 Episode 18 PreviewEpisode 18 Preview01:42Game of Thrones Season 2 Recap 17Episode 17 Recap05:07Game Of Thrones Season 2 Inside The Episode 18Inside The Episode 1804:49Game of Thrones Season 2 Episode 8 Recap -- "The Prince of Winterfell"The Daily Raven Season 2 Episode 8 Recap -- "The Prince of Winterfell" from Winter is Coming.netAdd a photo to this galleryJSSnippetsStack.push({dependencies:{"url":"http:  slot1.images4.wikia.nocookie.net   am 1472251264 group - wikia photo gallery js","type":"js"},{"url":"http:  slot1.images2.wikia.nocookie.net   am 1472251264 sass background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F  cb20150716154804%252Fgameofthrones%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1920%26color-body%3D%2523000%26color-body-middle%3D%2523000000%26color-buttons%3D%25231e5467%26color-header%3D%25235f4416%26color-links%3D%252347518e%26color-page%3D%2523d7cbab%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0 extensions wikia WikiaPhotoGallery css gallery.scss","type":"css"},callback:function(json){WikiaPhotoGalleryView.init(json)},id:"WikiaPhotoGalleryView.init"})
