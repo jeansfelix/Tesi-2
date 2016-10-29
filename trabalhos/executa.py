@@ -149,7 +149,7 @@ def aplicarGramatica(sentencasTokenizadas):
                     else:
                         entidadeNomeada = folha[0]
 
-                if entidadeNomeada != '':
+                if len(entidadeNomeada) > 2:
                     ENTIDADES_NOMEADAS.append(entidadeNomeada)
                     textoEpisodio += '<entidade>' + entidadeNomeada + '</entidade> '
             else:
