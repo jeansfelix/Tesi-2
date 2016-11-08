@@ -64,5 +64,4 @@ Janos: "Where?"
 Tobho: "They took him up the Kingsroad, heading north!"
 Janos: "How will we know him?"
 Tobho: "He's got a bull's head helmet! He made it himself!"
-Janos: "Find him."JSSnippetsStack.push({dependencies:{"url":"http:  slot1.images3.wikia.nocookie.net   am 1472582470 group - wikia photo gallery js","type":"js"},{"url":"http:  slot1.images3.wikia.nocookie.net   am 1472582470 sass background-dynamic%3Dtrue%26background-image%3Dhttp%253A%252F%252Fimg4.wikia.nocookie.net%252F  cb20150716154804%252Fgameofthrones%252Fimages%252F5%252F50%252FWiki-background%26background-image-height%3D720%26background-image-width%3D1920%26color-body%3D%2523000%26color-body-middle%3D%2523000000%26color-buttons%3D%25231e5467%26color-header%3D%25235f4416%26color-links%3D%252347518e%26color-page%3D%2523d7cbab%26oasisTypography%3D1%26page-opacity%3D100%26widthType%3D0 extensions wikia WikiaPhotoGallery css gallery.scss","type":"css"},callback:function(json){WikiaPhotoGalleryView.init(json)},id:"WikiaPhotoGalleryView.init"})
-
+Janos: "Find him."

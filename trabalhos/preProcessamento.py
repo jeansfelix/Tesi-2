@@ -74,7 +74,10 @@ def recuperarEpisodio(texto):
     except Exception as e:
         return ''
 
-    return limparTexto(trecho)
+    trecho = limparTexto(trecho)
+    trecho = re.sub(r'"', r'', trecho)
+
+    return trecho
 
 def recuperarMortes(texto):
     try:
@@ -107,7 +110,7 @@ def recuperarFalas(texto):
         trecho = texto[inicioTrecho:fimTrecho]
 
         inicioTrecho = re.search(r"([Mm]emorable([ ])?[Qq]uotes(Edit)?)", trecho).start()
-        fimTrecho = re.search(r"([Gg]allery([ ]?Edit)?\n)|(Image[ ][Gg]allery(Edit)?)|([Pp]romotional[ ][Ii]mages(Edit)?)|([Ss]ee [Aa]lso)|\Z", trecho).start()
+        fimTrecho = re.search(r"([Gg]allery([ ]?Edit)?\n)|JSSnippetsStack|(Image[ ][Gg]allery(Edit)?)|([Pp]romotional[ ][Ii]mages(Edit)?)|([Ss]ee [Aa]lso)|\Z", trecho).start()
         trecho = trecho[inicioTrecho:fimTrecho]
     except Exception as e:
         return ''
