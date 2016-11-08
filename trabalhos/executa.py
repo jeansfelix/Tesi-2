@@ -12,6 +12,7 @@ titulos = ['Ser ','Queen ','Lord ', 'Prince ', 'Princess ', 'Lord Commander ', '
 
 DIRETORIO_DESTINO = ''
 ENTIDADES_NOMEADAS = []
+RELACOES = []
 MAPA_EPISODIOS_TEMPORADA = dict()
 
 def gerarCSVComAgrupamento(pathCsvEntidadesNomeadas, todasEntidadesNomeadas):
@@ -122,11 +123,13 @@ def main2():
     print 'Terminou!!!'
 
 def aplicarGramatica(sentencasTokenizadas):
-    gramatica = r"""DATA: {<NNP><CD><.><CD>}
-                   NOMES: {<NNP>+|<NNPS>+}
-                   NNPINDTNNP: {<NOMES>(<IN><DT><NOMES>)+}
-                   NNPINNNP: {<NOMES><IN><NOMES>}
-                   NNPOSTROFE: {<NOMES><POS><NOMES>}"""
+    gramaticaEntidades = r"""DATA: {<NNP><CD><.><CD>}
+                             NOMES: {<NNP>+|<NNPS>+}
+                             NNPINDTNNP: {<NOMES>(<IN><DT><NOMES>)+}
+                             NNPINNNP: {<NOMES><IN><NOMES>}
+                             NNPOSTROFE: {<NOMES><POS><NOMES>}"""
+
+    gramaticaRelacoes = r"""NOMEVERBONOME: {(<NNP>+|<NNPS>+)<RB>*<VB.*><IN>*(<NNP>+|<NNPS>+)}"""
 
     textoEpisodio = ''
     for sentencaTokenizada in sentencasTokenizadas:
@@ -135,18 +138,22 @@ def aplicarGramatica(sentencasTokenizadas):
             textoEpisodio += '\n'
             continue
 
-        agrupador = nltk.RegexpParser(gramatica)
+        agrupadorEntidades = nltk.RegexpParser(gramaticaEntidades)
 
-        taggeado = nltk.pos_tag(sentencaTokenizada)
+        taggeadoEntidades = nltk.pos_tag(sentencaTokenizada)
 
-        sentencaParseada = agrupador.parse(taggeado)
+        sentencaEntidadesParseada = agrupadorEntidades.parse(taggeadoEntidades)
+
+        agrupadorRelacoes = nltk.RegexpParser(gramaticaRelacoes)
+        taggeadoRelacoes = nltk.pos_tag(sentencaTokenizada)
+        sentencaRelacoesParseada = agrupadorRelacoes.parse(taggeadoRelacoes)
 
         #print taggeado
         #print sentencaParseada
 
         IN_Desejados = ['of', 'on']
 
-        for arvore in sentencaParseada:
+        for arvore in sentencaEntidadesParseada:
             if type(arvore) is nltk.Tree:
                 ehEntidade = True
                 entidadeNomeada = ''
@@ -179,6 +186,21 @@ def aplicarGramatica(sentencasTokenizadas):
                     textoEpisodio += arvore[0] + ' '
 
         textoEpisodio += '\n'
+
+        for arvore in sentencaRelacoesParseada:
+            if type(arvore) is nltk.Tree:
+                relacao = ''
+                for folha in arvore.leaves():
+                    if len(relacao) > 2:
+                        relacao += ' ' + folha[0]
+                    else:
+                        relacao = folha[0]
+
+                RELACOES.append(relacao)
+
+        gerarCSVRelacoes(RELACOES)
+
+
 
     return textoEpisodio
 
@@ -246,6 +268,13 @@ def gerarCSVEntidadesNomeadas(todasEntidadesNomeadas):
     for entidadeNomeada in sorted(entidadesNomeadasSemMonoSilabas):
         csvEntidadesNomeadas.write(entidadeNomeada + '\n')
     csvEntidadesNomeadas.close()
+
+def gerarCSVRelacoes(relacoes):
+    csvRelacoes = open(join(DIRETORIO_DESTINO, 'relacoes.csv'), 'w+')
+
+    for relacao in relacoes:
+        csvRelacoes.write(relacao + '\n')
+    csvRelacoes.close()
 
 def main():
     if len(sys.argv) != 2:
