@@ -15,113 +15,6 @@ ENTIDADES_NOMEADAS = []
 RELACOES = []
 MAPA_EPISODIOS_TEMPORADA = dict()
 
-def gerarCSVComAgrupamento(pathCsvEntidadesNomeadas, todasEntidadesNomeadas):
-    csvEntidadesNomeadas = open(pathCsvEntidadesNomeadas, 'w+')
-
-    entidadesNomeadasMaiorQueUm = ''
-    for entidadeNomeada in todasEntidadesNomeadas.iterkeys():
-        if len(todasEntidadesNomeadas[entidadeNomeada][0]) > 1:
-            entidadesNomeadasMaiorQueUm += entidadeNomeada + ';' + str(todasEntidadesNomeadas[entidadeNomeada][0]) + ';' + str(todasEntidadesNomeadas[entidadeNomeada][1]) + '\n'
-        else:
-            entidadesNomeadasMaiorQueUm += todasEntidadesNomeadas[entidadeNomeada][0][0] + ';' + str(todasEntidadesNomeadas[entidadeNomeada][0]) + ';' + str(todasEntidadesNomeadas[entidadeNomeada][1]) + '\n'
-
-    entidadesNomeadasMaiorQueUm = re.sub(r".*[;]1\n", r'', entidadesNomeadasMaiorQueUm)
-
-    listaEntidades = entidadesNomeadasMaiorQueUm.split('\n')
-    listaEntidades.sort()
-
-    for entidade in listaEntidades:
-        if entidade != '':
-            csvEntidadesNomeadas.write(entidade + '\n')
-
-    csvEntidadesNomeadas.close()
-
-def main2():
-    if len(sys.argv) != 2:
-        print "Deve ser passado o nome do diretorio."
-        exit(1)
-
-    diretorioPai = abspath(join(sys.argv[1], pardir))
-
-    caminhoEpisodios = sys.argv[1]
-
-    todasEntidadesNomeadas = gerarTodasEntidadesNomeadas(caminhoEpisodios)
-    gerarCSV('entidadesNomeadasComFrequencia.txt', todasEntidadesNomeadas)
-
-    csvEntidadesNomeadasComFrequencia = open('entidadesNomeadasComFrequencia.txt', 'r')
-
-    entidades = dict()
-    titulos = ['Ser ','Queen ','Lord ', 'Prince ', 'Princess ', 'Lord Commander ', 'Commander ', 'Maester ', 'Grand Maester ']
-    for linha in csvEntidadesNomeadasComFrequencia:
-        valores = linha.replace('\n','').split(';')
-
-        entidade = valores[0]
-        for stopWord in stopWords:
-            try:
-                localStopWord = re.search(r"" + stopWord, entidade).start()
-                if localStopWord == 0:
-                    entidade = re.sub(r"" + stopWord, r'', entidade)
-            except Exception as e:
-                continue
-
-        #print entidade
-
-        if entidade in entidades:
-            #print 'to no ife'
-            #print entidades[entidade]
-            entidades[entidade]=[entidades[entidade][0] + [valores[0]], int(entidades[entidade][1])+int(valores[1])]
-        else:
-            #print 'to no elze'
-            #print valores[0]
-            entidades[entidade]=[[valores[0]], int(valores[1])]
-
-    #print entidades
-
-    gerarCSVComAgrupamento("entComAgrupamento.txt", entidades)
-
-    #Marcando entidades no texto
-
-    temporadas = [a for a in listdir(caminhoEpisodios)]
-    for temporada in temporadas:
-        path = temporada;
-        arquivos = [a for a in listdir(join(caminhoEpisodios, path)) if isfile(join(join(caminhoEpisodios, path), a))]
-
-        print 'Marcando Entidades Nomeadas No Texto...'
-
-        pathDestino = basename(path)
-
-        if not exists(pathDestino):
-            makedirs(pathDestino)
-
-        for pathArq in arquivos:
-            textoPreProcessado = open(join(join(caminhoEpisodios, path), pathArq)).read()
-
-            for entidade in entidades.iterkeys():
-                regexp = '('
-                listaDeNomes = entidades[entidade][0]
-
-
-                primeiro = True;
-                for nome in listaDeNomes:
-                    if primeiro:
-                        regexp += nome + r'[ .]' + ')'
-                        primeiro = False
-                    else:
-                        regexp += '|(' + nome + r'[ .]' + ')'
-
-                regexp = re.sub(r'\.', '\\\.', regexp)
-                textoPreProcessado = re.sub(r''+ regexp, r'' + '<entity> ' + entidade + ' </entity>', textoPreProcessado)
-
-            #print textoPreProcessado
-
-            arquivo = open(join(path, pathArq), 'w+')
-            arquivo.write(textoPreProcessado)
-
-    entidadesComFrequencia = csvEntidadesNomeadasComFrequencia.read()
-    csvEntidadesNomeadasComFrequencia.close()
-
-    print 'Terminou!!!'
-
 def aplicarGramatica(sentencasTokenizadas):
     gramaticaEntidades = r"""DATA: {<NNP><CD><.><CD>}
                              NOMES: {<NNP>+|<NNPS>+}
@@ -129,9 +22,16 @@ def aplicarGramatica(sentencasTokenizadas):
                              NNPINNNP: {<NOMES><IN><NOMES>}
                              NNPOSTROFE: {<NOMES><POS><NOMES>}"""
 
-    gramaticaRelacoes = r"""NOMEVERBONOME: {(<NNP>+|<NNPS>+)<RB>*<VB.*><IN>*(<NNP>+|<NNPS>+)}"""
+    gramaticaRelacoes = r"""DATA: {<NNP><CD><.><CD>}
+                            NOMES: {<NNP>+|<NNPS>+}
+                            NNPINDTNNP: {<NOMES>(<IN><DT><NOMES>)+}
+                            NNPINNNP: {<NOMES><IN><NOMES>}
+                            NNPOSTROFE: {<NOMES><POS><NOMES>}
+                            ENTIDADE: {<DATA>|<NOMES>|<NNPINDTNNP>|<NNPINNNP>|<NNPOSTROFE>}
+                            ENTIDADEVERBOENTIDADE: {(<ENTIDADE>)<RB>*<VB.*>+<IN>*(<ENTIDADE>)}"""
 
     textoEpisodio = ''
+    cacheReferenciados = []
     for sentencaTokenizada in sentencasTokenizadas:
 
         if len(sentencaTokenizada) == 0:
@@ -152,7 +52,6 @@ def aplicarGramatica(sentencasTokenizadas):
         #print sentencaParseada
 
         IN_Desejados = ['of', 'on']
-
         for arvore in sentencaEntidadesParseada:
             if type(arvore) is nltk.Tree:
                 ehEntidade = True
@@ -174,7 +73,46 @@ def aplicarGramatica(sentencasTokenizadas):
                 if len(entidadeNomeada) > 2:
                     if ehEntidade:
                         ENTIDADES_NOMEADAS.append(entidadeNomeada)
-                        textoEpisodio += '<entidade>' + entidadeNomeada + '</entidade> '
+
+                        entidade = ''
+
+                        global titulos
+                        entidade = entidadeNomeada
+                        for titulo in titulos:
+                            if entidadeNomeada.startswith(titulo):
+                                entidade = re.sub(r'' + titulo, r'', entidadeNomeada)
+
+                        naoEstaNoCache = True
+                        for referenciado in cacheReferenciados:
+                            if entidade.startswith(referenciado):
+                                if len(referenciado) > len(entidade):
+                                    cacheReferenciados.append(referenciado)
+                                    textoEpisodio += '<entidade "' + referenciado + '">' + entidadeNomeada + '</entidade> '
+                                else:
+                                    cacheReferenciados.append(entidade)
+                                    textoEpisodio += '<entidade "' + entidade + '">' + entidadeNomeada + '</entidade> '
+                                    cacheReferenciados.remove(referenciado)
+                                naoEstaNoCache = False
+                                break
+
+                            elif referenciado.startswith(entidade):
+                                if len(referenciado) > len(entidade):
+                                    cacheReferenciados.append(referenciado)
+                                    textoEpisodio += '<entidade "' + referenciado + '">' + entidadeNomeada + '</entidade> '
+                                else:
+                                    cacheReferenciados.append(entidade)
+                                    textoEpisodio += '<entidade "' + entidade + '">' + entidadeNomeada + '</entidade> '
+                                    cacheReferenciados.remove(referenciado)
+                                naoEstaNoCache = False
+                                break
+
+                        if naoEstaNoCache:
+                            cacheReferenciados.append(entidade)
+                            textoEpisodio += '<entidade "' + entidade + '">' + entidadeNomeada + '</entidade> '
+
+                        if len(cacheReferenciados) > 30:
+                            del cacheReferenciados[0]
+
                     else:
                         textoEpisodio += entidadeNomeada + ' '
             else:
@@ -190,15 +128,14 @@ def aplicarGramatica(sentencasTokenizadas):
         for arvore in sentencaRelacoesParseada:
             if type(arvore) is nltk.Tree:
                 relacao = ''
-                for folha in arvore.leaves():
-                    if len(relacao) > 2:
-                        relacao += ' ' + folha[0]
-                    else:
-                        relacao = folha[0]
+                if arvore.label() == 'ENTIDADEVERBOENTIDADE':
+                    for folha in arvore.leaves():
+                        if len(relacao) > 2:
+                            relacao += ' ' + folha[0]
+                        else:
+                            relacao = folha[0]
 
-                RELACOES.append(relacao)
-
-        gerarCSVRelacoes(RELACOES)
+                    RELACOES.append(relacao)
 
 
 
@@ -295,6 +232,8 @@ def main():
     gerarArquivoTextoMarcado(diretorioTemporadas, mapaEpisodioTextoEpisodio)
 
     gerarCSVEntidadesNomeadas(ENTIDADES_NOMEADAS)
+    gerarCSVRelacoes(RELACOES)
+
 
 def escreverEmArquivo(caminho, texto):
     arquivo = open(caminho, 'w+')

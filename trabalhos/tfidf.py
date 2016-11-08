@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-import sys, nltk, codecs, re
+import sys, nltk, codecs, re, math
 from os import listdir, makedirs, pardir
 from os.path import isfile, isdir, join, basename, exists, abspath
 
@@ -8,17 +8,36 @@ reload(sys)
 sys.setdefaultencoding("utf-8")
 
 def main():
-    if len(sys.argv) != 2:
+    if len(sys.argv) != 3:
         print "Deve ser passado o nome do diretorio PreProcessado."
         exit(1)
 
     diretorioTemporadas = sys.argv[1]
-    executarProcessamento(diretorioTemporadas)
+    consulta = sys.argv[2]
 
+    tfidf = executarProcessamento(diretorioTemporadas)
+
+    resultado = ordenar(tfidf, consulta)
+
+def ordenar(tfidf, consulta):
+    palavrasConsulta = consulta.split()
+
+    episodioValor = dict()
+    for documento in tfidf.iterkeys():
+        episodioValor[documento] = 0.0
+        for palavraConsulta in palavrasConsulta:
+            if palavraConsulta in tfidf[documento]:
+                episodioValor[documento] += tfidf[documento][palavraConsulta]
+
+    lista = sorted([str(episodioValor[a]) + ' - ' + a for a in episodioValor.iterkeys()],  reverse=True)
+
+    print lista[:5]
 
 def executarProcessamento(diretorioTemporadas):
     temporadas = [t for t in listdir(diretorioTemporadas)]
 
+    vezesQueUmaPalavraApareceEmUmDocumento = dict(dict())
+    quantidadePalavrasPorDocumento = dict()
     for temporada in sorted(temporadas):
         print 'Processando temporada: ' + temporada
         caminhoTemporada = join(diretorioTemporadas, temporada)
@@ -26,12 +45,37 @@ def executarProcessamento(diretorioTemporadas):
         caminhoEpisodios = join(caminhoTemporada, 'episodios')
         episodios = [e for e in listdir(caminhoEpisodios)]
 
-        processarEpisodios(caminhoEpisodios, episodios)
+        mapas = processarEpisodios(caminhoEpisodios, episodios)
 
+        for documento in mapas[0].iterkeys():
+            vezesQueUmaPalavraApareceEmUmDocumento[documento] = mapas[0][documento]
+
+        for documento in mapas[1].iterkeys():
+            quantidadePalavrasPorDocumento[documento] = mapas[1][documento]
+
+    numeroDeDocumentos = 0.0
+    numeroDeDocumentosEmQueAPalavraAparece = dict()
+    for documento in vezesQueUmaPalavraApareceEmUmDocumento.iterkeys():
+        numeroDeDocumentos += 1.0
+        for palavra in vezesQueUmaPalavraApareceEmUmDocumento[documento].iterkeys():
+            if palavra in numeroDeDocumentosEmQueAPalavraAparece:
+                numeroDeDocumentosEmQueAPalavraAparece[palavra] += 1.0
+            else:
+                numeroDeDocumentosEmQueAPalavraAparece[palavra] = 1.0
+
+    #calculando tfidf
+    tfidf = dict(dict())
+    for documento in vezesQueUmaPalavraApareceEmUmDocumento.iterkeys():
+        tf = dict()
+        for palavra in vezesQueUmaPalavraApareceEmUmDocumento[documento].iterkeys():
+            tf[palavra] = (vezesQueUmaPalavraApareceEmUmDocumento[documento][palavra] / quantidadePalavrasPorDocumento[documento]) * math.log( numeroDeDocumentos/numeroDeDocumentosEmQueAPalavraAparece[palavra])
+        tfidf[documento] = tf
+
+    return tfidf
 
 def processarEpisodios(caminhoEpisodios, episodios):
-
-    mapa_tf_episodioNumPalavras = dict()
+    vezesQueUmaPalavraApareceEmUmDocumento = dict(dict())
+    quantidadePalavrasPorDocumento = dict()
     for episodio in episodios:
         arquivo = open(join(caminhoEpisodios, episodio))
         textoArquivo = arquivo.read().decode('utf8');
@@ -40,37 +84,23 @@ def processarEpisodios(caminhoEpisodios, episodios):
         stopWords = set(nltk.corpus.stopwords.words('english'))
         #print stopWords
 
-        textoArquivo = re.sub(r'''[.,;:!?'"()]''', r' ', textoArquivo)
+        textoArquivo = re.sub(r'''[.,;:!?'"()&]''', r' ', textoArquivo)
         palavras = [a for a in textoArquivo.lower().split() if a not in stopWords]
-        n_palavrasDistintas = len(set(palavras))
 
-        print n_palavrasDistintas
+        episodioFormatado = 'S' + caminhoEpisodios.split('/')[1].split('_')[1] + '_' + episodio.split('.txt')[0]
+        quantidadePalavrasPorDocumento[episodioFormatado] = len(palavras)
 
-        tf = dict()
+        palavraAparicoes = dict()
         for palavra in palavras:
-            if palavra in tf:
-                tf[palavra] += 1.0
+            if palavra in palavraAparicoes:
+                palavraAparicoes[palavra] += 1.0
             else:
-                tf[palavra] = 1.0
+                palavraAparicoes[palavra] = 1.0
 
-        mapa_tf_episodioNumPalavras[episodio] = [tf, n_palavrasDistintas];
+        vezesQueUmaPalavraApareceEmUmDocumento[episodioFormatado] = palavraAparicoes
 
-    palavrasDistintas = []
-    for episodio in mapa_tf_episodioNumPalavras.iterkeys():
-        palavrasDistintas += mapa_tf_episodioNumPalavras[episodio][0].iterkeys()
+    return vezesQueUmaPalavraApareceEmUmDocumento, quantidadePalavrasPorDocumento
 
-    palavrasDistintas = set(palavrasDistintas)
-
-    mapaNumAparicoesDaPalavra = dict()
-    for palavra in palavrasDistintas:
-        for episodio in mapa_tf_episodioNumPalavras.iterkeys():
-            if palavra in mapa_tf_episodioNumPalavras[episodio][0].iterkeys():
-                if palavra in mapaNumAparicoesDaPalavra:
-                    mapaNumAparicoesDaPalavra[palavra] += mapa_tf_episodioNumPalavras[episodio][0][palavra]
-                else:
-                    mapaNumAparicoesDaPalavra[palavra] = 1.0
-
-    print mapaNumAparicoesDaPalavra
 
 if __name__ == "__main__":
     main()
