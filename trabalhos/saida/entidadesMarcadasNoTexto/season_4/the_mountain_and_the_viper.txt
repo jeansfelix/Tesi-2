@@ -1,114 +1,114 @@
-<entidade " David Benioff"> David Benioff</entidade> and <entidade " D.B"> D.B</entidade>.
+<entidade "David Benioff">David Benioff</entidade> and <entidade "D.B">D.B</entidade>.
 Weiss 
 
-<entidade " Alex"> Alex</entidade> Graves 
+<entidade "Alex">Alex</entidade> Graves 
 
 Mockingbird 
-The <entidade " Watchers on the Wall"> Watchers on the Wall</entidade> 
+The <entidade "Watchers on the Wall">Watchers on the Wall</entidade> 
 
-The <entidade " Mountain"> Mountain</entidade> and the <entidade " Viper"> Viper</entidade> is the eighth episode of the fourth season of <entidade " Game of Thrones1"> Game of Thrones1</entidade>.
+The <entidade "Mountain">Mountain</entidade> and the <entidade "Viper">Viper</entidade> is the eighth episode of the fourth season of <entidade "Game of Thrones1">Game of Thrones1</entidade>.
 It is the thirty-eighth episode of the series overall.
-It premiered on <entidade " June 1, 2014"> June 1, 2014</entidade>.
-It was written by producers <entidade " David Benioff"> David Benioff</entidade> and <entidade " D.B"> D.B</entidade>.
-<entidade " Weiss"> Weiss</entidade> and directed by <entidade " Alex Graves"> Alex Graves</entidade>.
+It premiered on <entidade "June 1, 2014">June 1, 2014</entidade>.
+It was written by producers <entidade "David Benioff">David Benioff</entidade> and <entidade "D.B">D.B</entidade>.
+<entidade "Weiss">Weiss</entidade> and directed by <entidade "Alex Graves">Alex Graves</entidade>.
 
-Unexpected visitors arrive in <entidade " Mole's Town"> Mole's Town</entidade>.
-<entidade " Littlefinger"> Littlefinger</entidade>'s motives are questioned.
-<entidade " Ramsay"> Ramsay</entidade> tries to prove himself to his father.
+Unexpected visitors arrive in <entidade "Mole's Town">Mole's Town</entidade>.
+<entidade "Littlefinger">Littlefinger</entidade>'s motives are questioned.
+<entidade "Ramsay">Ramsay</entidade> tries to prove himself to his father.
 Tyrion's fate is decided.
 
-In the <entidade " North"> North</entidade> 
-<entidade " Ramsay Snow"> Ramsay Snow</entidade> sends <entidade " Reek"> Reek</entidade>,forced to reassume his former identity of <entidade " Theon Greyjoy"> Theon Greyjoy</entidade>,to treat with the ironborn garrison holding the northern fortress of <entidade " Moat Cailin"> Moat Cailin</entidade>,barring the armies of <entidade " House Bolton"> House Bolton</entidade> from returning to the <entidade " North"> North</entidade>.
-<entidade " Theon Greyjoy"> Theon</entidade> rides into the fortress to find corpses lying everywhere from constant attacks,and disease is running rampant ; the ironborn remaining are sick,under-equipped and outnumbered.
-The garrison commander,<entidade " Ralf Kenning"> Ralf Kenning</entidade>,rebuffs the offer made by <entidade " Ramsay Snow"> Ramsay</entidade> of safe passage in exchange for surrender,and clearly thinks <entidade " Theon Greyjoy"> Theon</entidade> to be an imposter,but he is cut down by one of his men,who accepts it on behalf of the soldiers.
-The ironborn surrender to <entidade " Ramsay Snow"> Ramsay</entidade>,but he has them killed and flayed regardless.
-In the aftermath,<entidade " Ramsay Snow"> Ramsay</entidade> meets with his father and presents him with the <entidade " Greyjoy"> Greyjoy</entidade> banner that was flying over the fortress.
-In recognition,<entidade " Roose"> Roose</entidade> presents <entidade " Ramsay Snow"> Ramsay</entidade> with a decree of legitimization,making him officially a member of <entidade " House Bolton"> House Bolton</entidade>.
-Delighted at the knowledge he will succeed his father as <entidade " Warden of the North"> Warden of the North</entidade>,<entidade " Ramsay Snow"> Ramsay</entidade> and <entidade " Reek"> Reek</entidade> accompany <entidade " Roose"> Roose</entidade>'s army as it approaches its final destination : the ruins of <entidade " Winterfell."> Winterfell.</entidade> 
-In <entidade " Mole's Town"> Mole's Town</entidade>,a whore is arguing with <entidade " Gilly"> Gilly</entidade> about her baby who woke her up during the night.
-Meanwhile,wildlings,including <entidade " Tormund"> Tormund</entidade>,<entidade " Styr"> Styr</entidade> and <entidade " Ygritte"> Ygritte</entidade>,attack the town,killing everyone in their path.
-Ygritte discovers <entidade " Gilly"> Gilly</entidade> hiding with her baby,but urges them to keep quiet,sparing their lives.
+In the <entidade "North">North</entidade> 
+<entidade "Ramsay Snow">Ramsay Snow</entidade> sends <entidade "Reek">Reek</entidade>,forced to reassume his former identity of <entidade "Theon Greyjoy">Theon Greyjoy</entidade>,to treat with the ironborn garrison holding the northern fortress of <entidade "Moat Cailin">Moat Cailin</entidade>,barring the armies of <entidade "House Bolton">House Bolton</entidade> from returning to the <entidade "North">North</entidade>.
+<entidade "Theon Greyjoy">Theon</entidade> rides into the fortress to find corpses lying everywhere from constant attacks,and disease is running rampant ; the ironborn remaining are sick,under-equipped and outnumbered.
+The garrison commander,<entidade "Ralf Kenning">Ralf Kenning</entidade>,rebuffs the offer made by <entidade "Ramsay Snow">Ramsay</entidade> of safe passage in exchange for surrender,and clearly thinks <entidade "Theon Greyjoy">Theon</entidade> to be an imposter,but he is cut down by one of his men,who accepts it on behalf of the soldiers.
+The ironborn surrender to <entidade "Ramsay Snow">Ramsay</entidade>,but he has them killed and flayed regardless.
+In the aftermath,<entidade "Ramsay Snow">Ramsay</entidade> meets with his father and presents him with the <entidade "Greyjoy">Greyjoy</entidade> banner that was flying over the fortress.
+In recognition,<entidade "Roose">Roose</entidade> presents <entidade "Ramsay Snow">Ramsay</entidade> with a decree of legitimization,making him officially a member of <entidade "House Bolton">House Bolton</entidade>.
+Delighted at the knowledge he will succeed his father as <entidade "Warden of the North">Warden of the North</entidade>,<entidade "Ramsay Snow">Ramsay</entidade> and <entidade "Reek">Reek</entidade> accompany <entidade "Roose">Roose</entidade>'s army as it approaches its final destination : the ruins of <entidade "Winterfell.">Winterfell.</entidade> 
+In <entidade "Mole's Town">Mole's Town</entidade>,a whore is arguing with <entidade "Gilly">Gilly</entidade> about her baby who woke her up during the night.
+Meanwhile,wildlings,including <entidade "Tormund">Tormund</entidade>,<entidade "Styr">Styr</entidade> and <entidade "Ygritte">Ygritte</entidade>,attack the town,killing everyone in their path.
+Ygritte discovers <entidade "Gilly">Gilly</entidade> hiding with her baby,but urges them to keep quiet,sparing their lives.
 
-At the <entidade " Wall"> Wall</entidade> 
-News from <entidade " M​ole's Town"> M​ole's Town</entidade> has arrived at <entidade " Castle Black"> Castle Black</entidade>,where <entidade " Sam"> Sam</entidade> worries about <entidade " Gilly"> Gilly</entidade>,blaming himself for bringing her to the town instead of keeping her with him at <entidade " Castle Black"> Castle Black</entidade>.
-<entidade " Grenn"> Grenn</entidade> is angry at them cowering in the castle instead of helping their brothers in neighboring towns.
-<entidade " Jon Snow"> Jon Snow</entidade> says they can't go out to fight against the wildlings,as that is exactly what they want.
-<entidade " Pypar"> Pypar</entidade> and <entidade " Edd"> Edd</entidade> try to comfort <entidade " Sam"> Sam</entidade> by saying she might be alive and hiding,as she has survived worse situations,such as living with <entidade " Craster"> Craster</entidade>,making a long march to the <entidade " Wall"> Wall</entidade>,and even surviving a <entidade " White Walker"> White Walker</entidade>.
-This gives <entidade " Sam"> Sam</entidade> hope that <entidade " Gilly"> Gilly</entidade> and her baby may have survived.
-<entidade " Jon Snow"> Jon</entidade> notes they have a bigger problem ; if <entidade " Mole's Town"> Mole's Town</entidade> has been destroyed,<entidade " Castle Black"> Castle Black</entidade> is next,and the few black brothers who remain are outnumbered a thousand to one by <entidade " Mance Rayder"> Mance Rayder</entidade>'s army.
-<entidade " Edd"> Edd</entidade> notes that if the wildlings don't kill them all,there is even worse behind them that will finish the job,and asks whichever last man of the group is still alive at the end to burn the others,as he doesn't want to come back after he is dead.
+At the <entidade "Wall">Wall</entidade> 
+News from <entidade "M​ole's Town">M​ole's Town</entidade> has arrived at <entidade "Castle Black">Castle Black</entidade>,where <entidade "Sam">Sam</entidade> worries about <entidade "Gilly">Gilly</entidade>,blaming himself for bringing her to the town instead of keeping her with him at <entidade "Castle Black">Castle Black</entidade>.
+<entidade "Grenn">Grenn</entidade> is angry at them cowering in the castle instead of helping their brothers in neighboring towns.
+<entidade "Jon Snow">Jon Snow</entidade> says they can't go out to fight against the wildlings,as that is exactly what they want.
+<entidade "Pypar">Pypar</entidade> and <entidade "Edd">Edd</entidade> try to comfort <entidade "Sam">Sam</entidade> by saying she might be alive and hiding,as she has survived worse situations,such as living with <entidade "Craster">Craster</entidade>,making a long march to the <entidade "Wall">Wall</entidade>,and even surviving a <entidade "White Walker">White Walker</entidade>.
+This gives <entidade "Sam">Sam</entidade> hope that <entidade "Gilly">Gilly</entidade> and her baby may have survived.
+<entidade "Jon Snow">Jon</entidade> notes they have a bigger problem ; if <entidade "Mole's Town">Mole's Town</entidade> has been destroyed,<entidade "Castle Black">Castle Black</entidade> is next,and the few black brothers who remain are outnumbered a thousand to one by <entidade "Mance Rayder">Mance Rayder</entidade>'s army.
+<entidade "Edd">Edd</entidade> notes that if the wildlings don't kill them all,there is even worse behind them that will finish the job,and asks whichever last man of the group is still alive at the end to burn the others,as he doesn't want to come back after he is dead.
 
-Across the <entidade " Narrow Sea"> Narrow Sea</entidade> 
-As <entidade " Grey Worm"> Grey Worm</entidade> is swimming with some other  Unsullied outside Meereen,he notices <entidade " Missandei"> Missandei</entidade> and a number of other women bathing naked downstream.
+Across the <entidade "Narrow Sea">Narrow Sea</entidade> 
+As <entidade "Grey Worm">Grey Worm</entidade> is swimming with some other Unsullied outside Meereen,he notices <entidade "Missandei">Missandei</entidade> and a number of other women bathing naked downstream.
 She spots him looking at her and returns his gaze,standing up slowly for him to see her before finally covering herself.
-Later <entidade " Daenerys"> Daenerys</entidade> asks whether <entidade " Missandei"> Missandei</entidade> thinks he was spying on her.
-She says no,and <entidade " Daenerys"> Daenerys</entidade> mentions that <entidade " Dothraki"> Dothraki</entidade> have no taboos against nudity or public love-making.
-Of course,<entidade " Missandei"> Missandei</entidade> is not <entidade " Dothraki"> Dothraki</entidade>,but she says it doesn't matter,as <entidade " Grey Worm"> Grey Worm</entidade> isn't interested in her none of the <entidade " Unsullied"> Unsullied</entidade> desire women.
-<entidade " Missandei"> Missandei</entidade> says he was interested though,surprisingly to both of them.
-<entidade " Daenerys"> Daenerys</entidade> inquires whether,when a slave is castrated,the masters take all of it ; both the pillar and the stones.
-<entidade " Missandei"> Missandei</entidade> says she doesn't know,to which <entidade " Daenerys"> Daenerys</entidade> asks if she's ever wondered.
-<entidade " Thoughtful"> Thoughtful</entidade>,<entidade " Missandei"> Missandei</entidade> confirms that she has.
-In <entidade " Dany"> Dany</entidade>'s audience chamber,<entidade " Grey Worm"> Grey Worm</entidade> comes to apologize to <entidade " Missandei"> Missandei</entidade>,but she tells him he doesn't need to.
+Later <entidade "Daenerys">Daenerys</entidade> asks whether <entidade "Missandei">Missandei</entidade> thinks he was spying on her.
+She says no,and <entidade "Daenerys">Daenerys</entidade> mentions that <entidade "Dothraki">Dothraki</entidade> have no taboos against nudity or public love-making.
+Of course,<entidade "Missandei">Missandei</entidade> is not <entidade "Dothraki">Dothraki</entidade>,but she says it doesn't matter,as <entidade "Grey Worm">Grey Worm</entidade> isn't interested in her none of the <entidade "Unsullied">Unsullied</entidade> desire women.
+<entidade "Missandei">Missandei</entidade> says he was interested though,surprisingly to both of them.
+<entidade "Daenerys">Daenerys</entidade> inquires whether,when a slave is castrated,the masters take all of it ; both the pillar and the stones.
+<entidade "Missandei">Missandei</entidade> says she doesn't know,to which <entidade "Daenerys">Daenerys</entidade> asks if she's ever wondered.
+<entidade "Thoughtful">Thoughtful</entidade>,<entidade "Missandei">Missandei</entidade> confirms that she has.
+In <entidade "Dany">Dany</entidade>'s audience chamber,<entidade "Grey Worm">Grey Worm</entidade> comes to apologize to <entidade "Missandei">Missandei</entidade>,but she tells him he doesn't need to.
 He hopes he didn't frighten her,and she says he did not.
-Addressing her in the <entidade " Common Tongue"> Common Tongue</entidade>,he tells her the lessons she gives are precious to him.
+Addressing her in the <entidade "Common Tongue">Common Tongue</entidade>,he tells her the lessons she gives are precious to him.
 Gently correcting his vocabulary,she notes that she doesn't remember teaching him the word precious.
-<entidade " Grey Worm"> Grey Worm</entidade> tells her that <entidade " Jorah"> Jorah</entidade> taught it to him.
-She asks whether he remembers his birth name,and <entidade " Grey Worm"> Grey Worm</entidade> says he remembers nothing.
+<entidade "Grey Worm">Grey Worm</entidade> tells her that <entidade "Jorah">Jorah</entidade> taught it to him.
+She asks whether he remembers his birth name,and <entidade "Grey Worm">Grey Worm</entidade> says he remembers nothing.
 She asks if he remembers when they cut him,and he shakes his head no.
-She tells him she's sorry they did that to him,and when <entidade " Grey Worm"> Grey Worm</entidade> asks her why,she says it's a terrible thing to do to a boy.
-<entidade " Grey Worm"> Grey Worm</entidade> counters that,had the masters not cut him,he never would have been <entidade " Unsullied"> Unsullied</entidade>,he never would have been freed,chosen to lead them,and met her.
-<entidade " Missandei"> Missandei</entidade> is visibly moved by this.
-<entidade " Grey Worm"> Grey Worm</entidade> apologizes once again,and she stops him while he turns to leave,telling him she is glad he saw her.
+She tells him she's sorry they did that to him,and when <entidade "Grey Worm">Grey Worm</entidade> asks her why,she says it's a terrible thing to do to a boy.
+<entidade "Grey Worm">Grey Worm</entidade> counters that,had the masters not cut him,he never would have been <entidade "Unsullied">Unsullied</entidade>,he never would have been freed,chosen to lead them,and met her.
+<entidade "Missandei">Missandei</entidade> is visibly moved by this.
+<entidade "Grey Worm">Grey Worm</entidade> apologizes once again,and she stops him while he turns to leave,telling him she is glad he saw her.
 He tells her he's glad as well. 
-As <entidade " Ser Barristan Selmy"> Ser Barristan Selmy</entidade> watches the <entidade " Unsullied"> Unsullied</entidade> taking the bodies of the crucified masters down outside <entidade " Meereen"> Meereen</entidade>,a small boy approaches him,giving him a scroll bearing the seal of the <entidade " Hand"> Hand</entidade>.
+As <entidade "Barristan Selmy">Ser Barristan Selmy</entidade> watches the <entidade "Unsullied">Unsullied</entidade> taking the bodies of the crucified masters down outside <entidade "Meereen">Meereen</entidade>,a small boy approaches him,giving him a scroll bearing the seal of the <entidade "Hand">Hand</entidade>.
 He reads its contents slowly in consternation.
-He confronts Ser <entidade " Jorah"> Jorah</entidade> : the document is a royal pardon signed by King <entidade " Robert Baratheon"> Robert Baratheon</entidade>.
-<entidade " Barristan"> Barristan</entidade> surmises <entidade " Jorah"> Jorah</entidade> spied on <entidade " Daenerys"> Daenerys</entidade> in exchange for the pardon.
-<entidade " Jorah"> Jorah</entidade> begs to be allowed to speak with her privately,but <entidade " Barristan"> Barristan</entidade> tells him that he will never be alone with her again.
-In an audience before her,a seething <entidade " Daenerys"> Daenerys</entidade> demands an explanation,and <entidade " Jorah"> Jorah</entidade> says it is a ploy by <entidade " Tywin Lannister"> Tywin Lannister</entidade> to divide them.
+He confronts Ser <entidade "Jorah">Jorah</entidade> : the document is a royal pardon signed by King <entidade "Robert Baratheon">Robert Baratheon</entidade>.
+<entidade "Barristan Selmy">Barristan</entidade> surmises <entidade "Jorah">Jorah</entidade> spied on <entidade "Daenerys">Daenerys</entidade> in exchange for the pardon.
+<entidade "Jorah">Jorah</entidade> begs to be allowed to speak with her privately,but <entidade "Barristan Selmy">Barristan</entidade> tells him that he will never be alone with her again.
+In an audience before her,a seething <entidade "Daenerys">Daenerys</entidade> demands an explanation,and <entidade "Jorah">Jorah</entidade> says it is a ploy by <entidade "Tywin Lannister">Tywin Lannister</entidade> to divide them.
 Dany counters that the pardon was signed the year they met.
-Asking him whether he claims the pardon was forged,<entidade " Jorah"> Jorah</entidade> admits that it was not.
-He soon confesses to giving <entidade " Varys"> Varys</entidade> information on <entidade " Daenerys"> Daenerys</entidade>' activities in <entidade " Essos"> Essos</entidade>.
-<entidade " Daenerys"> Daenerys</entidade> angrily says that his telling them of her pregnancy by <entidade " Khal Drogo"> Khal Drogo</entidade> led to her near-poisoning at the hands of a wine merchant.
-<entidade " Jorah"> Jorah</entidade> then protests that his actions stopped her from being poisoned,but <entidade " Daenerys"> Daenerys</entidade> retorts this was only because he knew it might be coming.
-<entidade " Jorah"> Jorah</entidade> begs for her forgiveness,but <entidade " Daenerys"> Daenerys</entidade> rebuffs him,saying he betrayed her,selling her secrets to the man she holds responsible for the death of her family.
-She spares his life,however,and gives him a day to leave <entidade " Meereen"> Meereen</entidade>.
-She warns that if he is seen in the city after that,his head will be thrown into <entidade " Slaver's Bay"> Slaver's Bay</entidade>.
-<entidade " Jorah"> Jorah</entidade> is last seen riding from <entidade " Meereen"> Meereen</entidade> on a horse.
+Asking him whether he claims the pardon was forged,<entidade "Jorah">Jorah</entidade> admits that it was not.
+He soon confesses to giving <entidade "Varys">Varys</entidade> information on <entidade "Daenerys">Daenerys</entidade>' activities in <entidade "Essos">Essos</entidade>.
+<entidade "Daenerys">Daenerys</entidade> angrily says that his telling them of her pregnancy by <entidade "Khal Drogo">Khal Drogo</entidade> led to her near-poisoning at the hands of a wine merchant.
+<entidade "Jorah">Jorah</entidade> then protests that his actions stopped her from being poisoned,but <entidade "Daenerys">Daenerys</entidade> retorts this was only because he knew it might be coming.
+<entidade "Jorah">Jorah</entidade> begs for her forgiveness,but <entidade "Daenerys">Daenerys</entidade> rebuffs him,saying he betrayed her,selling her secrets to the man she holds responsible for the death of her family.
+She spares his life,however,and gives him a day to leave <entidade "Meereen">Meereen</entidade>.
+She warns that if he is seen in the city after that,his head will be thrown into <entidade "Slaver's Bay">Slaver's Bay</entidade>.
+<entidade "Jorah">Jorah</entidade> is last seen riding from <entidade "Meereen">Meereen</entidade> on a horse.
 
-In the <entidade " Vale"> Vale</entidade> 
-<entidade " Petyr Baelish"> Petyr Baelish</entidade> is testifying before a tribunal consisting of <entidade " Lord Yohn Royce"> Lord Yohn Royce</entidade>,<entidade " Lady Anya Waynwood"> Lady Anya Waynwood</entidade>,and <entidade " Ser Vance Corbray"> Ser Vance Corbray</entidade>.
-The lords are suspicious of <entidade " Lysa Arryn"> Lysa Arryn</entidade>'s death,which occured so soon after her marriage.
-<entidade " Baelish"> Baelish</entidade> has been attempting to spin the death as a suicide,but the lords don't believe him,given <entidade " Lysa Arryn"> Lysa</entidade>'s devotion to her son.
-They rebuff <entidade " Littlefinger"> Littlefinger</entidade>'s explanations in favor of speaking with the only other witness : his niece,<entidade " Alayne"> Alayne</entidade>.
-After confirming that <entidade " Baelish"> Baelish</entidade> can stay for her testimony,<entidade " Sansa"> Sansa</entidade> reveals her true identity and relates the tale of her captivity and escape from <entidade " King's Landing"> King's Landing</entidade>.
-She continues,truthfully telling of <entidade " Lysa Arryn"> Lysa</entidade>'s mental instability,jealousy and death,changing only a few details ( saying <entidade " Littlefinger"> Littlefinger</entidade> only kissed her on the cheek and <entidade " Lysa Arryn"> Lysa</entidade> threw herself through the <entidade " Moon Door"> Moon Door</entidade> ).
-<entidade " Sansa"> Sansa</entidade> breaks down in tears and the lords are convinced,but while none of them are looking,she gives Littlefinger a stone-faced look.
-Later,<entidade " Baelish"> Baelish</entidade> visits <entidade " Sansa"> Sansa</entidade> and asks why she lied on his behalf.
-<entidade " Sansa"> Sansa</entidade> explains that she has no idea what <entidade " Royce"> Royce</entidade>,<entidade " Corbray"> Corbray</entidade>,and <entidade " Waynwood"> Waynwood</entidade> would want from her if he were eliminated,but that she does know what it is he wants.
-<entidade " Littlefinger"> Littlefinger</entidade> seems impressed that she made such a calculating decision,but attempts to cast doubt on her certainty,by asking if she really knows what he wants.
-Later on,as <entidade " Littlefinger"> Littlefinger</entidade> and <entidade " Robin"> Robin</entidade> prepare to depart on a tour of the <entidade " Vale"> Vale</entidade>,a raven-haired <entidade " Sansa"> Sansa</entidade> accompanies them,in a feathered black dress with a plunging neckline.
-At some point,before or after this event,<entidade " Sandor Clegane"> Sandor Clegane</entidade> and <entidade " Arya Stark"> Arya Stark</entidade> arrive at the <entidade " Bloody Gate of the Eyrie"> Bloody Gate of the Eyrie</entidade> and are informed of <entidade " Lysa Arryn"> Lysa</entidade>'s death by <entidade " Ser Donnel Waynwood"> Ser Donnel Waynwood</entidade>.
-The <entidade " Hound"> Hound</entidade> stares in shock,while <entidade " Arya Stark"> Arya</entidade> begins laughing due to the irony.
+In the <entidade "Vale">Vale</entidade> 
+<entidade "Petyr Baelish">Petyr Baelish</entidade> is testifying before a tribunal consisting of <entidade "Yohn Royce">Lord Yohn Royce</entidade>,<entidade "Lady Anya Waynwood">Lady Anya Waynwood</entidade>,and <entidade "Vance Corbray">Ser Vance Corbray</entidade>.
+The lords are suspicious of <entidade "Lysa Arryn">Lysa Arryn</entidade>'s death,which occured so soon after her marriage.
+<entidade "Baelish">Baelish</entidade> has been attempting to spin the death as a suicide,but the lords don't believe him,given <entidade "Lysa Arryn">Lysa</entidade>'s devotion to her son.
+They rebuff <entidade "Littlefinger">Littlefinger</entidade>'s explanations in favor of speaking with the only other witness : his niece,<entidade "Alayne">Alayne</entidade>.
+After confirming that <entidade "Baelish">Baelish</entidade> can stay for her testimony,<entidade "Sansa">Sansa</entidade> reveals her true identity and relates the tale of her captivity and escape from <entidade "King's Landing">King's Landing</entidade>.
+She continues,truthfully telling of <entidade "Lysa Arryn">Lysa</entidade>'s mental instability,jealousy and death,changing only a few details ( saying <entidade "Littlefinger">Littlefinger</entidade> only kissed her on the cheek and <entidade "Lysa Arryn">Lysa</entidade> threw herself through the <entidade "Moon Door">Moon Door</entidade> ).
+<entidade "Sansa">Sansa</entidade> breaks down in tears and the lords are convinced,but while none of them are looking,she gives Littlefinger a stone-faced look.
+Later,<entidade "Baelish">Baelish</entidade> visits <entidade "Sansa">Sansa</entidade> and asks why she lied on his behalf.
+<entidade "Sansa">Sansa</entidade> explains that she has no idea what <entidade "Royce">Royce</entidade>,<entidade "Corbray">Corbray</entidade>,and <entidade "Waynwood">Waynwood</entidade> would want from her if he were eliminated,but that she does know what it is he wants.
+<entidade "Littlefinger">Littlefinger</entidade> seems impressed that she made such a calculating decision,but attempts to cast doubt on her certainty,by asking if she really knows what he wants.
+Later on,as <entidade "Littlefinger">Littlefinger</entidade> and <entidade "Robin">Robin</entidade> prepare to depart on a tour of the <entidade "Vale">Vale</entidade>,a raven-haired <entidade "Sansa">Sansa</entidade> accompanies them,in a feathered black dress with a plunging neckline.
+At some point,before or after this event,<entidade "Sandor Clegane">Sandor Clegane</entidade> and <entidade "Arya Stark">Arya Stark</entidade> arrive at the <entidade "Bloody Gate of the Eyrie">Bloody Gate of the Eyrie</entidade> and are informed of <entidade "Lysa Arryn">Lysa</entidade>'s death by <entidade "Donnel Waynwood">Ser Donnel Waynwood</entidade>.
+The <entidade "Hound">Hound</entidade> stares in shock,while <entidade "Arya Stark">Arya</entidade> begins laughing due to the irony.
 
-At <entidade " King's Landing"> King</entidade>'s Landing 
-In the last hours before his trial by combat,<entidade " Tyrion"> Tyrion</entidade> and <entidade " Jaime"> Jaime</entidade> share a final drink in <entidade " Tyrion"> Tyrion</entidade>'s cell and reminisce about <entidade " Orson Lannister"> Orson Lannister</entidade>,their simple-minded cousin who spent his days smashing beetles with a rock.
-Tyrion tells <entidade " Jaime"> Jaime</entidade> of how he used to observe <entidade " Orson Lannister"> Orson</entidade> day after day in an attempt to understand his motives,but in the end he was never able to come to reach any understanding.
-Tyrion asks Jaime if he thinks <entidade " Oberyn"> Oberyn</entidade> stands a chance,but <entidade " Jaime"> Jaime</entidade> is not optimistic.
-As a bell rings out to announce daybreak in the city,<entidade " Jaime"> Jaime</entidade> takes his leave,wishing his brother luck.
-<entidade " Lannister"> Lannister</entidade> guardsmen escort Tyrion to the arena,where a large crowd has assembled.
-He grows apprehensive to find a helm-less <entidade " Oberyn"> Oberyn</entidade> drinking,and wearing very light armor in comparison to his opponent,<entidade " Ser Gregor Clegane"> Ser Gregor Clegane</entidade>,clad from head to foot in heavy armor and wielding a greatsword.
-<entidade " Oberyn"> Oberyn</entidade> dismisses <entidade " Tyrion"> Tyrion</entidade>'s concerns,noting that he always drinks before a fight and favors speed over protection.
-As <entidade " Gregor"> Gregor</entidade> and his squire make their way to the arena,<entidade " Ellaria"> Ellaria</entidade> becomes concerned,noting that The <entidade " Mountain"> Mountain</entidade> is the biggest man she's ever seen,but <entidade " Oberyn"> Oberyn</entidade> remains confident that he will emerge triumphant.
-<entidade " Grand Maester Pycelle"> Grand Maester Pycelle</entidade> steps into the arena and begins making a long-winded speech asking the gods to favor the innocent before <entidade " Tywin Lannister"> Tywin Lannister</entidade> cuts him short and begins the trial by combat.
-<entidade " Oberyn"> Oberyn</entidade>,after impressing the crowd with a display of acrobatic spear maneuvers,goes on the attack,stabbing out at <entidade " Gregor"> Gregor</entidade> and constantly moving out of the knight's reach,forcing <entidade " Gregor"> Gregor</entidade> to tire himself out chasing his opponent.
-As he evades <entidade " Gregor"> Gregor</entidade>,<entidade " Oberyn"> Oberyn</entidade> repeatedly taunts <entidade " Gregor"> Gregor</entidade> by constantly bringing up his part in the murder of his sister,<entidade " Elia Martell"> Elia Martell</entidade>,and her children,and demanding a confession,only enraging <entidade " Clegane"> Clegane</entidade> further.
-As the fight progresses,<entidade " Oberyn"> Oberyn</entidade> manages to seriously injure <entidade " Gregor"> Gregor</entidade>,stabbing him first in the chest,severing his hamstring and then burying his spear in <entidade " Gregor"> Gregor</entidade>'s stomach,pinning him to the floor.
-As <entidade " Jaime"> Jaime</entidade> and <entidade " Tyrion"> Tyrion</entidade> exchange a relieved grin across the arena,a furious <entidade " Oberyn"> Oberyn</entidade> circles the prone <entidade " Gregor"> Gregor</entidade>,demanding that before he dies,<entidade " Gregor"> Gregor</entidade> confess to murdering <entidade " Elia Martell"> Elia</entidade> and her children,raping <entidade " Elia Martell"> Elia</entidade>,and that it was <entidade " Tywin Lannister"> Tywin</entidade> who gave the order.
-However,<entidade " Oberyn"> Oberyn</entidade> stands too close to his seemingly defeated opponent,and <entidade " Gregor"> Gregor</entidade> manages to trip and seize him.
-<entidade " Berserk"> Berserk</entidade> with fury,<entidade " Gregor"> Gregor</entidade> grabs <entidade " Oberyn"> Oberyn</entidade> by the throat and lifts him off the ground,smashing out most of his teeth with a single devastating punch.
-Climbing on top of <entidade " Oberyn"> Oberyn</entidade>,<entidade " Gregor"> Gregor</entidade> finally admits for all to hear that he raped and killed <entidade " Elia Martell"> Elia</entidade> as he gouges out <entidade " Oberyn"> Oberyn</entidade>'s eyes with his thumbs before crushing the <entidade " Viper"> Viper</entidade>'s skull between his hands,which he proclaims having done the same to his sister.
-As <entidade " Ellaria"> Ellaria</entidade> screams in horror,a stunned silence sweeps over the crowd.
-The short joyful moments for <entidade " Tyrion"> Tyrion</entidade> and <entidade " Jaime"> Jaime</entidade> are shattered,as <entidade " Tywin Lannister"> Tywin</entidade> stands and proclaims the will of the gods is clear : Tyrion is guilty and sentenced to death.
-Tyrion can not even reply,shockingly staring in catatonic astonishment at <entidade " Oberyn"> Oberyn</entidade>'s skull-crushed corpse,as does <entidade " Jaime"> Jaime</entidade> ; the only different reaction is from <entidade " Cersei"> Cersei</entidade>,who stares at <entidade " Oberyn"> Oberyn</entidade>'s slaughtered body,listening to <entidade " Tyrion"> Tyrion</entidade>'s death sentence while smirking in vindication.
+At <entidade "King's Landing">King</entidade>'s Landing 
+In the last hours before his trial by combat,<entidade "Tyrion">Tyrion</entidade> and <entidade "Jaime">Jaime</entidade> share a final drink in <entidade "Tyrion">Tyrion</entidade>'s cell and reminisce about <entidade "Orson Lannister">Orson Lannister</entidade>,their simple-minded cousin who spent his days smashing beetles with a rock.
+Tyrion tells <entidade "Jaime">Jaime</entidade> of how he used to observe <entidade "Orson Lannister">Orson</entidade> day after day in an attempt to understand his motives,but in the end he was never able to come to reach any understanding.
+Tyrion asks Jaime if he thinks <entidade "Oberyn">Oberyn</entidade> stands a chance,but <entidade "Jaime">Jaime</entidade> is not optimistic.
+As a bell rings out to announce daybreak in the city,<entidade "Jaime">Jaime</entidade> takes his leave,wishing his brother luck.
+<entidade "Lannister">Lannister</entidade> guardsmen escort Tyrion to the arena,where a large crowd has assembled.
+He grows apprehensive to find a helm-less <entidade "Oberyn">Oberyn</entidade> drinking,and wearing very light armor in comparison to his opponent,<entidade "Gregor Clegane">Ser Gregor Clegane</entidade>,clad from head to foot in heavy armor and wielding a greatsword.
+<entidade "Oberyn">Oberyn</entidade> dismisses <entidade "Tyrion">Tyrion</entidade>'s concerns,noting that he always drinks before a fight and favors speed over protection.
+As <entidade "Gregor Clegane">Gregor</entidade> and his squire make their way to the arena,<entidade "Ellaria">Ellaria</entidade> becomes concerned,noting that The <entidade "Mountain">Mountain</entidade> is the biggest man she's ever seen,but <entidade "Oberyn">Oberyn</entidade> remains confident that he will emerge triumphant.
+<entidade "Pycelle">Grand Maester Pycelle</entidade> steps into the arena and begins making a long-winded speech asking the gods to favor the innocent before <entidade "Tywin Lannister">Tywin Lannister</entidade> cuts him short and begins the trial by combat.
+<entidade "Oberyn">Oberyn</entidade>,after impressing the crowd with a display of acrobatic spear maneuvers,goes on the attack,stabbing out at <entidade "Gregor Clegane">Gregor</entidade> and constantly moving out of the knight's reach,forcing <entidade "Gregor Clegane">Gregor</entidade> to tire himself out chasing his opponent.
+As he evades <entidade "Gregor Clegane">Gregor</entidade>,<entidade "Oberyn">Oberyn</entidade> repeatedly taunts <entidade "Gregor Clegane">Gregor</entidade> by constantly bringing up his part in the murder of his sister,<entidade "Elia Martell">Elia Martell</entidade>,and her children,and demanding a confession,only enraging <entidade "Clegane">Clegane</entidade> further.
+As the fight progresses,<entidade "Oberyn">Oberyn</entidade> manages to seriously injure <entidade "Gregor Clegane">Gregor</entidade>,stabbing him first in the chest,severing his hamstring and then burying his spear in <entidade "Gregor Clegane">Gregor</entidade>'s stomach,pinning him to the floor.
+As <entidade "Jaime">Jaime</entidade> and <entidade "Tyrion">Tyrion</entidade> exchange a relieved grin across the arena,a furious <entidade "Oberyn">Oberyn</entidade> circles the prone <entidade "Gregor Clegane">Gregor</entidade>,demanding that before he dies,<entidade "Gregor Clegane">Gregor</entidade> confess to murdering <entidade "Elia Martell">Elia</entidade> and her children,raping <entidade "Elia Martell">Elia</entidade>,and that it was <entidade "Tywin Lannister">Tywin</entidade> who gave the order.
+However,<entidade "Oberyn">Oberyn</entidade> stands too close to his seemingly defeated opponent,and <entidade "Gregor Clegane">Gregor</entidade> manages to trip and seize him.
+<entidade "Berserk">Berserk</entidade> with fury,<entidade "Gregor Clegane">Gregor</entidade> grabs <entidade "Oberyn">Oberyn</entidade> by the throat and lifts him off the ground,smashing out most of his teeth with a single devastating punch.
+Climbing on top of <entidade "Oberyn">Oberyn</entidade>,<entidade "Gregor Clegane">Gregor</entidade> finally admits for all to hear that he raped and killed <entidade "Elia Martell">Elia</entidade> as he gouges out <entidade "Oberyn">Oberyn</entidade>'s eyes with his thumbs before crushing the <entidade "Viper">Viper</entidade>'s skull between his hands,which he proclaims having done the same to his sister.
+As <entidade "Ellaria">Ellaria</entidade> screams in horror,a stunned silence sweeps over the crowd.
+The short joyful moments for <entidade "Tyrion">Tyrion</entidade> and <entidade "Jaime">Jaime</entidade> are shattered,as <entidade "Tywin Lannister">Tywin</entidade> stands and proclaims the will of the gods is clear : Tyrion is guilty and sentenced to death.
+Tyrion can not even reply,shockingly staring in catatonic astonishment at <entidade "Oberyn">Oberyn</entidade>'s skull-crushed corpse,as does <entidade "Jaime">Jaime</entidade> ; the only different reaction is from <entidade "Cersei">Cersei</entidade>,who stares at <entidade "Oberyn">Oberyn</entidade>'s slaughtered body,listening to <entidade "Tyrion">Tyrion</entidade>'s death sentence while smirking in vindication.
 

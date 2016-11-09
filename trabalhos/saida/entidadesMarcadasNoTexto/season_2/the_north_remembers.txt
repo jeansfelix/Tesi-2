@@ -1,112 +1,112 @@
-<entidade " David Benioff"> David Benioff</entidade> & <entidade " D.B"> D.B</entidade>.
+<entidade "David Benioff">David Benioff</entidade> & <entidade "D.B">D.B</entidade>.
 Weiss 
 
-<entidade " Alan Taylor"> Alan Taylor</entidade> 
+<entidade "Alan Taylor">Alan Taylor</entidade> 
 
-Fire and <entidade " BloodComplete Guide"> BloodComplete Guide</entidade> to Westeros 
-The <entidade " Night Lands"> Night Lands</entidade> 
+Fire and <entidade "BloodComplete Guide">BloodComplete Guide</entidade> to Westeros 
+The <entidade "Night Lands">Night Lands</entidade> 
 
-The <entidade " North"> North</entidade> <entidade " Remembers"> Remembers</entidade> is the first episode of the second season of <entidade " Game of Thrones"> Game of Thrones</entidade>.
+The <entidade "North">North</entidade> <entidade "Remembers">Remembers</entidade> is the first episode of the second season of <entidade "Game of Thrones">Game of Thrones</entidade>.
 It is the eleventh episode of the series overall.
-It premiered on <entidade " April 1, 2012"> April 1, 2012</entidade>.
-It was written by executive producers <entidade " David Benioff"> David Benioff</entidade> & <entidade " D.B"> D.B</entidade>.
-<entidade " Weiss"> Weiss</entidade> and directed by co-executive producer <entidade " Alan Taylor"> Alan Taylor</entidade>.
+It premiered on <entidade "April 1, 2012">April 1, 2012</entidade>.
+It was written by executive producers <entidade "David Benioff">David Benioff</entidade> & <entidade "D.B">D.B</entidade>.
+<entidade "Weiss">Weiss</entidade> and directed by co-executive producer <entidade "Alan Taylor">Alan Taylor</entidade>.
 
-Under the burning <entidade " Red Comet"> Red Comet</entidade> in the sky,war grips the continent of <entidade " Westeros"> Westeros</entidade>.
-In <entidade " King's Landing"> King's Landing</entidade>,<entidade " Tyrion Lannister"> Tyrion Lannister</entidade> arrives at court to serve as acting <entidade " Hand of the King"> Hand of the King</entidade>,and to rein in his crazed nephew <entidade " King Joffrey"> King Joffrey</entidade>,as well as <entidade " Queen Regent Cersei"> Queen Regent Cersei</entidade>.
-At <entidade " Dragonstone"> Dragonstone</entidade>,<entidade " Stannis Baratheon"> Stannis Baratheon</entidade> begins his quest to take the <entidade " Iron Throne"> Iron Throne</entidade> with the help of a mysterious foreign priestess.
-On the eastern continent,<entidade " Daenerys"> Daenerys</entidade> leads her people through the <entidade " Red Waste"> Red Waste</entidade>.
-Beyond the <entidade " Wall"> Wall</entidade>,rangers,led by <entidade " Lord Commander Jeor Mormont"> Lord Commander Jeor Mormont</entidade>,seek help from a dangerous wildling.
+Under the burning <entidade "Red Comet">Red Comet</entidade> in the sky,war grips the continent of <entidade "Westeros">Westeros</entidade>.
+In <entidade "King's Landing">King's Landing</entidade>,<entidade "Tyrion Lannister">Tyrion Lannister</entidade> arrives at court to serve as acting <entidade "Hand of the King">Hand of the King</entidade>,and to rein in his crazed nephew <entidade "King Joffrey">King Joffrey</entidade>,as well as <entidade "Regent Cersei">Queen Regent Cersei</entidade>.
+At <entidade "Dragonstone">Dragonstone</entidade>,<entidade "Stannis Baratheon">Stannis Baratheon</entidade> begins his quest to take the <entidade "Iron Throne">Iron Throne</entidade> with the help of a mysterious foreign priestess.
+On the eastern continent,<entidade "Daenerys">Daenerys</entidade> leads her people through the <entidade "Red Waste">Red Waste</entidade>.
+Beyond the <entidade "Wall">Wall</entidade>,rangers,led by <entidade "Jeor Mormont">Lord Commander Jeor Mormont</entidade>,seek help from a dangerous wildling.
 
-Beyond the <entidade " Wall"> Wall</entidade> 
-The <entidade " Night's Watch"> Night's Watch</entidade> approaches <entidade " Crasters Keep"> Crasters Keep</entidade>.
-<entidade " Lord Commander Jeor Mormont"> Lord Commander Jeor Mormont</entidade>'s rangers arrive at <entidade " Craster's Keep"> Craster's Keep</entidade> having passed several abandoned wildling villages.
-<entidade " Jon Snow"> Jon Snow</entidade>,<entidade " Grenn"> Grenn</entidade>,<entidade " Dolorous Edd"> Dolorous Edd</entidade> and <entidade " Samwell Tarly"> Samwell Tarly</entidade> are repulsed by <entidade " Crasters Keep"> Craster</entidade>,who has many wives,most of whom are also his own daughters,but who seemingly has no sons.
-<entidade " Crasters Keep"> Craster</entidade> tells <entidade " Jeor"> Jeor</entidade> that he has not seen the missing <entidade " Benjen Stark"> Benjen Stark</entidade> and reports that the other wildlings are assembling for the <entidade " King-Beyond-the-Wall Mance Rayder"> King-Beyond-the-Wall Mance Rayder</entidade>.
-<entidade " Jon Snow"> Jon</entidade> challenges their host,who is low and crude,but is demanding and demeaning when he is talking to the noble <entidade " Commander Mormont"> Commander Mormont</entidade> ( who ignores his insulting behavior ).
-When <entidade " Crasters Keep"> Craster</entidade> refers to them as southerners,<entidade " Jon Snow"> Jon</entidade> argues with him.
-<entidade " Jeor"> Jeor</entidade> reprimands <entidade " Jon Snow"> Jon</entidade>,noting that <entidade " Crasters Keep"> Craster</entidade> may be disgusting,but the <entidade " Night's Watch"> Night's Watch</entidade> needs him.
-His information and shelter in the harsh conditions north of the <entidade " Wall"> Wall</entidade> have helped them many times before.
-<entidade " Mormont"> Mormont</entidade> asks <entidade " Jon Snow"> Jon</entidade> if someday he wants to lead and tells him that first he needs to learn how to follow.
+Beyond the <entidade "Wall">Wall</entidade> 
+The <entidade "Night's Watch">Night's Watch</entidade> approaches <entidade "Crasters Keep">Crasters Keep</entidade>.
+<entidade "Jeor Mormont">Lord Commander Jeor Mormont</entidade>'s rangers arrive at <entidade "Craster's Keep">Craster's Keep</entidade> having passed several abandoned wildling villages.
+<entidade "Jon Snow">Jon Snow</entidade>,<entidade "Grenn">Grenn</entidade>,<entidade "Dolorous Edd">Dolorous Edd</entidade> and <entidade "Samwell Tarly">Samwell Tarly</entidade> are repulsed by <entidade "Crasters Keep">Craster</entidade>,who has many wives,most of whom are also his own daughters,but who seemingly has no sons.
+<entidade "Craster's Keep">Craster</entidade> tells <entidade "Jeor Mormont">Jeor</entidade> that he has not seen the missing <entidade "Benjen Stark">Benjen Stark</entidade> and reports that the other wildlings are assembling for the <entidade "King-Beyond-the-Wall Mance Rayder">King-Beyond-the-Wall Mance Rayder</entidade>.
+<entidade "Jon Snow">Jon</entidade> challenges their host,who is low and crude,but is demanding and demeaning when he is talking to the noble <entidade "Mormont">Commander Mormont</entidade> ( who ignores his insulting behavior ).
+When <entidade "Crasters Keep">Craster</entidade> refers to them as southerners,<entidade "Jon Snow">Jon</entidade> argues with him.
+<entidade "Jeor Mormont">Jeor</entidade> reprimands <entidade "Jon Snow">Jon</entidade>,noting that <entidade "Craster's Keep">Craster</entidade> may be disgusting,but the <entidade "Night's Watch">Night's Watch</entidade> needs him.
+His information and shelter in the harsh conditions north of the <entidade "Wall">Wall</entidade> have helped them many times before.
+<entidade "Mormont">Mormont</entidade> asks <entidade "Jon Snow">Jon</entidade> if someday he wants to lead and tells him that first he needs to learn how to follow.
 
-In the <entidade " Seven Kingdoms"> Seven Kingdoms</entidade> 
-<entidade " Sansa"> Sansa</entidade> watches <entidade " King Joffrey"> King Joffrey</entidade>'s tournament.
-King <entidade " Joffrey Baratheon"> Joffrey Baratheon</entidade> holds a tournament to celebrate his nameday on the walls of the <entidade " Red Keep"> Red Keep</entidade>.
-He is irritated by <entidade " Ser Dontos Hollard"> Ser Dontos Hollard</entidade>,who arrives both late and intoxicated for his bout.
-<entidade " Joffrey Baratheon"> Joffrey</entidade> orders his guards to pour an entire barrel of wine down <entidade " Dontos"> Dontos</entidade>' throat with a funnel.
-<entidade " Sansa Stark"> Sansa Stark</entidade> intercedes telling <entidade " Joffrey Baratheon"> Joffrey</entidade> that ordering a death on one's name day is bad luck.
-<entidade " Joffrey Baratheon"> Joffrey</entidade> dismisses this as a mindless superstition,but <entidade " Sandor Clegane"> Sandor Clegane</entidade> seconds her.
-<entidade " Sansa Stark"> Sansa</entidade> convinces <entidade " Joffrey Baratheon"> Joffrey</entidade> to instead make <entidade " Dontos"> Dontos</entidade> his court fool,for which <entidade " Dontos"> Dontos</entidade> is grateful.
-Tyrion <entidade " Lannister"> Lannister</entidade> arrives back in <entidade " King's Landing"> King's Landing</entidade>,to <entidade " Joffrey Baratheon"> Joffrey</entidade>'s disdain,but to the delight of <entidade " Tommen"> Tommen</entidade> and <entidade " Myrcella"> Myrcella</entidade> who had worried that he was dead.
+In the <entidade "Seven Kingdoms">Seven Kingdoms</entidade> 
+<entidade "Sansa">Sansa</entidade> watches <entidade "King Joffrey">King Joffrey</entidade>'s tournament.
+King <entidade "Joffrey Baratheon">Joffrey Baratheon</entidade> holds a tournament to celebrate his nameday on the walls of the <entidade "Red Keep">Red Keep</entidade>.
+He is irritated by <entidade "Dontos Hollard">Ser Dontos Hollard</entidade>,who arrives both late and intoxicated for his bout.
+<entidade "Joffrey Baratheon">Joffrey</entidade> orders his guards to pour an entire barrel of wine down <entidade "Dontos Hollard">Dontos</entidade>' throat with a funnel.
+<entidade "Sansa Stark">Sansa Stark</entidade> intercedes telling <entidade "Joffrey Baratheon">Joffrey</entidade> that ordering a death on one's name day is bad luck.
+<entidade "Joffrey Baratheon">Joffrey</entidade> dismisses this as a mindless superstition,but <entidade "Sandor Clegane">Sandor Clegane</entidade> seconds her.
+<entidade "Sansa Stark">Sansa</entidade> convinces <entidade "Joffrey Baratheon">Joffrey</entidade> to instead make <entidade "Dontos Hollard">Dontos</entidade> his court fool,for which <entidade "Dontos Hollard">Dontos</entidade> is grateful.
+Tyrion <entidade "Lannister">Lannister</entidade> arrives back in <entidade "King's Landing">King's Landing</entidade>,to <entidade "Joffrey Baratheon">Joffrey</entidade>'s disdain,but to the delight of <entidade "Tommen">Tommen</entidade> and <entidade "Myrcella">Myrcella</entidade> who had worried that he was dead.
 
-<entidade " Cersei"> Cersei</entidade> is surprised to see <entidade " Tyrion"> Tyrion</entidade> return.
-The small council are in session to discuss the <entidade " Conclave"> Conclave</entidade>'s announcement that the long summer has ended.
-Cersei orders the city gates closed to refugees from the war in the <entidade " Riverlands"> Riverlands</entidade>.
-When <entidade " Tyrion"> Tyrion</entidade> arrives with a letter from <entidade " Lord Tywin"> Lord Tywin</entidade>,appointing him as acting <entidade " Hand of the King"> Hand of the King</entidade> in <entidade " Tywin"> Tywin</entidade>'s stead,<entidade " Cersei"> Cersei</entidade> becomes livid.
-She is suspicious that <entidade " Tyrion"> Tyrion</entidade> is taking power for himself,but he convinces her that he is there to act as an advisor.
-He criticizes his sister for failing to rein in <entidade " Joffrey Baratheon"> Joffrey</entidade> and overseeing numerous bad decisions,particularly the execution of <entidade " Ned Stark"> Ned Stark</entidade>.
+<entidade "Cersei">Cersei</entidade> is surprised to see <entidade "Tyrion">Tyrion</entidade> return.
+The small council are in session to discuss the <entidade "Conclave">Conclave</entidade>'s announcement that the long summer has ended.
+Cersei orders the city gates closed to refugees from the war in the <entidade "Riverlands">Riverlands</entidade>.
+When <entidade "Tyrion">Tyrion</entidade> arrives with a letter from <entidade "Tywin">Lord Tywin</entidade>,appointing him as acting <entidade "Hand of the King">Hand of the King</entidade> in <entidade "Tywin">Tywin</entidade>'s stead,<entidade "Cersei">Cersei</entidade> becomes livid.
+She is suspicious that <entidade "Tyrion">Tyrion</entidade> is taking power for himself,but he convinces her that he is there to act as an advisor.
+He criticizes his sister for failing to rein in <entidade "Joffrey Baratheon">Joffrey</entidade> and overseeing numerous bad decisions,particularly the execution of <entidade "Ned Stark">Ned Stark</entidade>.
 Their actions have sparked a war,which,he adds,their side is currently losing.
-He is even more incredulous when he learns that <entidade " Arya Stark"> Arya Stark</entidade> escaped,pointing out how much stronger their position could have been with three <entidade " Stark"> Stark</entidade> hostages.
-Tyrion hides his lover <entidade " Shae"> Shae</entidade> in his chambers in the <entidade " Tower of the Hand"> Tower of the Hand</entidade> because he was forbidden by his father to bring her with him.
+He is even more incredulous when he learns that <entidade "Arya Stark">Arya Stark</entidade> escaped,pointing out how much stronger their position could have been with three <entidade "Stark">Stark</entidade> hostages.
+Tyrion hides his lover <entidade "Shae">Shae</entidade> in his chambers in the <entidade "Tower of the Hand">Tower of the Hand</entidade> because he was forbidden by his father to bring her with him.
 She is initially thrilled at being brought to the capitol,and says that big cities make her want to fuck.
-At <entidade " Winterfell"> Winterfell</entidade>,<entidade " Bran Stark"> Bran Stark</entidade> suffers through the petty complaints of his vassals,facing unrest at <entidade " Robb Stark"> Robb Stark</entidade> calling his banners and taking the young men south.
-<entidade " Maester Luwin"> Maester Luwin</entidade> guides him in carrying out a lord's duties.
-<entidade " Bran Stark"> Bran</entidade> dreams that he is his direwolf <entidade " Summer"> Summer</entidade> walking in the <entidade " Godswood"> Godswood</entidade>,and when he looks in the pool,he sees <entidade " Summer"> Summer</entidade>'s reflection not his own which wakes him.
-He has Osha and <entidade " Hodor"> Hodor</entidade> take him to the pool and is reassured to find that his waking reflection is his own.
-They discuss the phenomenon of the <entidade " Red Comet"> Red Comet</entidade>,as many people think it means different things.
-<entidade " Osha"> Osha</entidade> tells him she believes it signifies the return of dragons to the world.
+At <entidade "Winterfell">Winterfell</entidade>,<entidade "Bran Stark">Bran Stark</entidade> suffers through the petty complaints of his vassals,facing unrest at <entidade "Robb Stark">Robb Stark</entidade> calling his banners and taking the young men south.
+<entidade "Luwin">Maester Luwin</entidade> guides him in carrying out a lord's duties.
+<entidade "Bran Stark">Bran</entidade> dreams that he is his direwolf <entidade "Summer">Summer</entidade> walking in the <entidade "Godswood">Godswood</entidade>,and when he looks in the pool,he sees <entidade "Summer">Summer</entidade>'s reflection not his own which wakes him.
+He has Osha and <entidade "Hodor">Hodor</entidade> take him to the pool and is reassured to find that his waking reflection is his own.
+They discuss the phenomenon of the <entidade "Red Comet">Red Comet</entidade>,as many people think it means different things.
+<entidade "Osha">Osha</entidade> tells him she believes it signifies the return of dragons to the world.
 
-<entidade " Stannis"> Stannis</entidade> orders the burning of the <entidade " Seven"> Seven</entidade> to honor the <entidade " Lord of Light"> Lord of Light</entidade>.
-On the island of <entidade " Dragonstone"> Dragonstone</entidade>,<entidade " King Stannis Baratheon"> King Stannis Baratheon</entidade> allows his advisor <entidade " Melisandre"> Melisandre</entidade> to burn statues of the gods of the <entidade " Faith of the Seven"> Faith of the Seven</entidade> as an offering to her deity the <entidade " Lord of Light"> Lord of Light</entidade>.
-<entidade " Maester Cressen"> Maester Cressen</entidade> is outraged at the affront to his gods and fearful that <entidade " Melisandre"> Melisandre</entidade> is leading <entidade " Stannis"> Stannis</entidade> into a war that he can not win.
-<entidade " Melisandre"> Melisandre</entidade> proclaims <entidade " Stannis"> Stannis</entidade> a champion of the <entidade " Lord of Light"> Lord of Light</entidade>,as he draws a burning sword from one of the statues.
-<entidade " Cressen"> Cressen</entidade> asks <entidade " Davos Seaworth"> Davos Seaworth</entidade> to help him intervene but <entidade " Davos Seaworth"> Davos</entidade> says that it is not the right time.
+<entidade "Stannis">Stannis</entidade> orders the burning of the <entidade "Seven">Seven</entidade> to honor the <entidade "Lord of Light">Lord of Light</entidade>.
+On the island of <entidade "Dragonstone">Dragonstone</entidade>,<entidade "King Stannis Baratheon">King Stannis Baratheon</entidade> allows his advisor <entidade "Melisandre">Melisandre</entidade> to burn statues of the gods of the <entidade "Faith of the Seven">Faith of the Seven</entidade> as an offering to her deity the <entidade "Lord of Light">Lord of Light</entidade>.
+<entidade "Cressen">Maester Cressen</entidade> is outraged at the affront to his gods and fearful that <entidade "Melisandre">Melisandre</entidade> is leading <entidade "Stannis">Stannis</entidade> into a war that he can not win.
+<entidade "Melisandre">Melisandre</entidade> proclaims <entidade "Stannis">Stannis</entidade> a champion of the <entidade "Lord of Light">Lord of Light</entidade>,as he draws a burning sword from one of the statues.
+<entidade "Cressen">Cressen</entidade> asks <entidade "Davos Seaworth">Davos Seaworth</entidade> to help him intervene but <entidade "Davos Seaworth">Davos</entidade> says that it is not the right time.
 
-<entidade " Stannis"> Stannis</entidade> dictates a letter about <entidade " Joffrey Baratheon"> Joffrey</entidade>'s parentage.
-<entidade " Stannis"> Stannis</entidade> has received <entidade " Ned Stark"> Ned Stark</entidade>'s letter,informing him that he was the true heir of <entidade " King Robert Baratheon"> King Robert Baratheon</entidade>,so he will send copies of a letter announcing his claim to the throne of the <entidade " Seven Kingdoms"> Seven Kingdoms</entidade> to Lords throughout the realm.
-He details the incestuous relationship between <entidade " Cersei"> Cersei</entidade> and <entidade " Jaime Lannister"> Jaime Lannister</entidade> and challenges <entidade " Joffrey Baratheon"> Joffrey</entidade>'s legitimacy.
-He rejects <entidade " Davos Seaworth"> Davos</entidade>'s appeal to consider an alliance with his brother <entidade " Renly Baratheon"> Renly Baratheon</entidade>,while <entidade " Renly Baratheon"> Renly</entidade> is claiming the throne for himself,despite Renly having widespread support,or even with <entidade " Robb Stark"> Robb Stark</entidade>,since while <entidade " Robb Stark"> Robb</entidade> does not seek the <entidade " Iron Throne"> Iron Throne</entidade>,he desires <entidade " Northern"> Northern</entidade> independence,which <entidade " Stannis"> Stannis</entidade> sees as <entidade " Robb Stark"> Robb</entidade> stealing the <entidade " Northern"> Northern</entidade> half of his kingdom.
-<entidade " Cressen"> Cressen</entidade> feigns an apology in an effort to trick <entidade " Melisandre"> Melisandre</entidade> into sharing a cup of poisoned wine with him.
-<entidade " Davos Seaworth"> Davos</entidade> sees him drop the poison in the cup,and tries to stop him.
+<entidade "Stannis">Stannis</entidade> dictates a letter about <entidade "Joffrey Baratheon">Joffrey</entidade>'s parentage.
+<entidade "Stannis">Stannis</entidade> has received <entidade "Ned Stark">Ned Stark</entidade>'s letter,informing him that he was the true heir of <entidade "King Robert Baratheon">King Robert Baratheon</entidade>,so he will send copies of a letter announcing his claim to the throne of the <entidade "Seven Kingdoms">Seven Kingdoms</entidade> to Lords throughout the realm.
+He details the incestuous relationship between <entidade "Cersei">Cersei</entidade> and <entidade "Jaime Lannister">Jaime Lannister</entidade> and challenges <entidade "Joffrey Baratheon">Joffrey</entidade>'s legitimacy.
+He rejects <entidade "Davos Seaworth">Davos</entidade>'s appeal to consider an alliance with his brother <entidade "Renly Baratheon">Renly Baratheon</entidade>,while <entidade "Renly Baratheon">Renly</entidade> is claiming the throne for himself,despite Renly having widespread support,or even with <entidade "Robb Stark">Robb Stark</entidade>,since while <entidade "Robb Stark">Robb</entidade> does not seek the <entidade "Iron Throne">Iron Throne</entidade>,he desires <entidade "Northern">Northern</entidade> independence,which <entidade "Stannis">Stannis</entidade> sees as <entidade "Robb Stark">Robb</entidade> stealing the <entidade "Northern">Northern</entidade> half of his kingdom.
+<entidade "Cressen">Cressen</entidade> feigns an apology in an effort to trick <entidade "Melisandre">Melisandre</entidade> into sharing a cup of poisoned wine with him.
+<entidade "Davos Seaworth">Davos</entidade> sees him drop the poison in the cup,and tries to stop him.
 He drinks first and hands the cup to her.
-<entidade " Melisandre"> Melisandre</entidade> is aware of what <entidade " Cressen"> Cressen</entidade> is doing,but smiling she drinks anyway and is unaffected by the poison,and <entidade " Cressen"> Cressen</entidade> dies in vain.
+<entidade "Melisandre">Melisandre</entidade> is aware of what <entidade "Cressen">Cressen</entidade> is doing,but smiling she drinks anyway and is unaffected by the poison,and <entidade "Cressen">Cressen</entidade> dies in vain.
 
-<entidade " Robb Stark"> Robb</entidade> confronts <entidade " Jaime Lannister"> Jaime</entidade> with his direwolf.
-<entidade " Grey Wind"> Grey Wind</entidade> and <entidade " Jaime Lannister"> Jaime</entidade>.
-<entidade " Robb Stark"> Robb</entidade> receives the letter and interrogates the captive Jaime about his reasons for crippling <entidade " Bran"> Bran</entidade>.
-Jaime reveals nothing and attacks <entidade " Robb Stark"> Robb</entidade>'s decision to keep him in his mobile camp rather than with one of his bannermen as demonstrating a lack of trust.
-<entidade " Robb Stark"> Robb</entidade> asserts his faith in his men and his concern at the lengths <entidade " House Lannister"> House Lannister</entidade> would go to in order to free <entidade " Jaime Lannister"> Jaime</entidade>.
-His direwolf <entidade " Grey Wind"> Grey Wind</entidade> is almost fully grown and menaces <entidade " Jaime Lannister"> Jaime</entidade> during the questioning.
-<entidade " Robb Stark"> Robb</entidade> sends his prisoner <entidade " Alton Lannister"> Alton Lannister</entidade> to <entidade " King Robert Baratheon"> King</entidade>'s Landing with peace terms.
-His demands include the release of his sisters,the return of his father's remains along with the remains of all those who served him,and the recognition of the <entidade " Northern"> North</entidade> as a free and independent kingdom.
-<entidade " Theon Greyjoy"> Theon Greyjoy</entidade> appeals to Robb to send him to <entidade " Pyke"> Pyke</entidade> to seek an alliance with his father <entidade " Balon"> Balon</entidade> citing their need for a fleet in order to attack <entidade " King's Landing"> King's Landing</entidade>.
-<entidade " Catelyn"> Catelyn</entidade> counsels against putting trust in <entidade " Balon"> Balon</entidade> because of his history of rebellion.
-She asks <entidade " Robb Stark"> Robb</entidade> to consider exchanging <entidade " Jaime Lannister"> Jaime</entidade> for his sisters.
-She then asks to return to her younger sons at <entidade " Winterfell"> Winterfell</entidade> but <entidade " Robb Stark"> Robb</entidade> tasks her with seeking an alliance with <entidade " Renly"> Renly</entidade> and sends <entidade " Ser Rodrik Cassel"> Ser Rodrik Cassel</entidade> instead to <entidade " Winterfell"> Winterfell</entidade>.
+<entidade "Robb Stark">Robb</entidade> confronts <entidade "Jaime Lannister">Jaime</entidade> with his direwolf.
+<entidade "Grey Wind">Grey Wind</entidade> and <entidade "Jaime Lannister">Jaime</entidade>.
+<entidade "Robb Stark">Robb</entidade> receives the letter and interrogates the captive Jaime about his reasons for crippling <entidade "Bran Stark">Bran</entidade>.
+Jaime reveals nothing and attacks <entidade "Robb Stark">Robb</entidade>'s decision to keep him in his mobile camp rather than with one of his bannermen as demonstrating a lack of trust.
+<entidade "Robb Stark">Robb</entidade> asserts his faith in his men and his concern at the lengths <entidade "House Lannister">House Lannister</entidade> would go to in order to free <entidade "Jaime Lannister">Jaime</entidade>.
+His direwolf <entidade "Grey Wind">Grey Wind</entidade> is almost fully grown and menaces <entidade "Jaime Lannister">Jaime</entidade> during the questioning.
+<entidade "Robb Stark">Robb</entidade> sends his prisoner <entidade "Alton Lannister">Alton Lannister</entidade> to <entidade "King Stannis Baratheon">King</entidade>'s Landing with peace terms.
+His demands include the release of his sisters,the return of his father's remains along with the remains of all those who served him,and the recognition of the <entidade "Northern">North</entidade> as a free and independent kingdom.
+<entidade "Theon Greyjoy">Theon Greyjoy</entidade> appeals to Robb to send him to <entidade "Pyke">Pyke</entidade> to seek an alliance with his father <entidade "Balon">Balon</entidade> citing their need for a fleet in order to attack <entidade "King's Landing">King's Landing</entidade>.
+<entidade "Catelyn">Catelyn</entidade> counsels against putting trust in <entidade "Balon">Balon</entidade> because of his history of rebellion.
+She asks <entidade "Robb Stark">Robb</entidade> to consider exchanging <entidade "Jaime Lannister">Jaime</entidade> for his sisters.
+She then asks to return to her younger sons at <entidade "Winterfell">Winterfell</entidade> but <entidade "Robb Stark">Robb</entidade> tasks her with seeking an alliance with <entidade "Renly Baratheon">Renly</entidade> and sends <entidade "Rodrik Cassel">Ser Rodrik Cassel</entidade> instead to <entidade "Winterfell">Winterfell</entidade>.
 
-<entidade " Cersei"> Cersei</entidade> asks a favor of <entidade " Lord Baelish"> Lord Baelish</entidade>.
-<entidade " Cersei"> Cersei</entidade> tasks <entidade " Petyr Baelish"> Petyr Baelish</entidade> with finding <entidade " Arya"> Arya</entidade>.
-She needles Petyr about his unrequited love for <entidade " Catelyn"> Catelyn</entidade> and he counters by referencing her relationship with <entidade " Jaime Lannister"> Jaime</entidade>,telling her that knowledge is power.
-She responds by threatening his life in a demonstration of her control over her guards,ordering them to first seize <entidade " Baelish"> Baelish</entidade> and cut his throat and almost immediately rescinding the order.
+<entidade "Cersei">Cersei</entidade> asks a favor of <entidade "Baelish">Lord Baelish</entidade>.
+<entidade "Cersei">Cersei</entidade> tasks <entidade "Petyr Baelish">Petyr Baelish</entidade> with finding <entidade "Arya">Arya</entidade>.
+She needles Petyr about his unrequited love for <entidade "Catelyn">Catelyn</entidade> and he counters by referencing her relationship with <entidade "Jaime Lannister">Jaime</entidade>,telling her that knowledge is power.
+She responds by threatening his life in a demonstration of her control over her guards,ordering them to first seize <entidade "Baelish">Baelish</entidade> and cut his throat and almost immediately rescinding the order.
 She warns him that power is power.
-<entidade " Joffrey"> Joffrey</entidade> redecorates his throne room,hoping to restore the intimidating grandeur it held under the <entidade " Targaryens"> Targaryens</entidade>.
-He refuses his mother's suggestion that they ask <entidade " Tywin Lannister"> Tywin Lannister</entidade> for aid in the search for <entidade " Arya"> Arya</entidade> because he does not feel it is necessary to find her and does not feel it is fitting for a king to ask for help.
-He blames <entidade " Tywin Lannister"> Tywin</entidade> for their losses in the war and the capture of <entidade " Jaime Lannister"> Jaime</entidade>.
+<entidade "Joffrey Baratheon">Joffrey</entidade> redecorates his throne room,hoping to restore the intimidating grandeur it held under the <entidade "Targaryens">Targaryens</entidade>.
+He refuses his mother's suggestion that they ask <entidade "Tywin Lannister">Tywin Lannister</entidade> for aid in the search for <entidade "Arya">Arya</entidade> because he does not feel it is necessary to find her and does not feel it is fitting for a king to ask for help.
+He blames <entidade "Tywin Lannister">Tywin</entidade> for their losses in the war and the capture of <entidade "Jaime Lannister">Jaime</entidade>.
 Having heard rumors about his parentage,he confronts his mother.
 She dismisses it as gossip spread by his enemies.
-He questions her about his father's bastard children and insults her by saying that <entidade " Robert"> Robert</entidade> had grown tired of her.
+He questions her about his father's bastard children and insults her by saying that <entidade "Robert">Robert</entidade> had grown tired of her.
 She slaps him,and he warns her never to hit him again under threat of death.
-<entidade " Lord Janos Slynt"> Lord Janos Slynt</entidade> leads a city-wide massacre of <entidade " Robert"> Robert</entidade>'s bastards.
-The infant <entidade " Barra"> Barra</entidade> is killed in <entidade " Petyr Baelish"> Petyr</entidade>'s brothel in front of her mother and the prostitute <entidade " Ros"> Ros</entidade>.
-<entidade " Tobho Mott"> Tobho Mott</entidade> is interrogated and reveals that <entidade " Gendry"> Gendry</entidade> has left the city as a recruit of the <entidade " Night's Watch"> Night's Watch</entidade>.
-He says that <entidade " Gendry"> Gendry</entidade> can be identified by his bull's head helm.
-<entidade " Gendry"> Gendry</entidade> and <entidade " Arya"> Arya</entidade> are travelling north on the  Kingsroad with Yoren's recruits.
+<entidade "Janos Slynt">Lord Janos Slynt</entidade> leads a city-wide massacre of <entidade "Robert">Robert</entidade>'s bastards.
+The infant <entidade "Barra">Barra</entidade> is killed in <entidade "Petyr Baelish">Petyr</entidade>'s brothel in front of her mother and the prostitute <entidade "Ros">Ros</entidade>.
+<entidade "Tobho Mott">Tobho Mott</entidade> is interrogated and reveals that <entidade "Gendry">Gendry</entidade> has left the city as a recruit of the <entidade "Night's Watch">Night's Watch</entidade>.
+He says that <entidade "Gendry">Gendry</entidade> can be identified by his bull's head helm.
+<entidade "Gendry">Gendry</entidade> and <entidade "Arya">Arya</entidade> are travelling north on the Kingsroad with Yoren's recruits.
 
-Across the <entidade " Narrow Sea"> Narrow Sea</entidade> 
-<entidade " Daenerys"> Daenerys</entidade> leads her people through the <entidade " Red Waste"> Red Waste</entidade>.
-<entidade " Daenerys Targaryen"> Daenerys Targaryen</entidade> leads her diminished khalasar east into the <entidade " Red Waste"> Red Waste</entidade> to avoid her rivals.
-She is surrounded by powerful enemies who Ser <entidade " Jorah"> Jorah</entidade> tells her will kill her and take her dragons.
-The deadly emptiness of the <entidade " Red Waste"> Red Waste</entidade> is her only option.
+Across the <entidade "Narrow Sea">Narrow Sea</entidade> 
+<entidade "Daenerys">Daenerys</entidade> leads her people through the <entidade "Red Waste">Red Waste</entidade>.
+<entidade "Daenerys Targaryen">Daenerys Targaryen</entidade> leads her diminished khalasar east into the <entidade "Red Waste">Red Waste</entidade> to avoid her rivals.
+She is surrounded by powerful enemies who Ser <entidade "Jorah">Jorah</entidade> tells her will kill her and take her dragons.
+The deadly emptiness of the <entidade "Red Waste">Red Waste</entidade> is her only option.
 She struggles to make her dragons eat what little meat she has,and her people face starvation.
-Her beloved white mare,her first gift from <entidade " Khal Drogo"> Khal Drogo</entidade>,dies prompting her to halt the march and send three of her bloodriders in three different directions to scout for sustenance and refuge.
+Her beloved white mare,her first gift from <entidade "Khal Drogo">Khal Drogo</entidade>,dies prompting her to halt the march and send three of her bloodriders in three different directions to scout for sustenance and refuge.
 

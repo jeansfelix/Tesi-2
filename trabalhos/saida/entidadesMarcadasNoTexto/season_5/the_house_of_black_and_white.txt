@@ -1,120 +1,120 @@
-<entidade " David BenioffD.B"> David BenioffD.B</entidade>.
+<entidade "David BenioffD.B">David BenioffD.B</entidade>.
 Weiss 
 
-<entidade " Michael Slovis"> Michael Slovis</entidade> 
+<entidade "Michael Slovis">Michael Slovis</entidade> 
 
-The <entidade " Wars"> Wars</entidade> to Come 
+The <entidade "Wars">Wars</entidade> to Come 
 High Sparrow 
 
-The <entidade " House of Black"> House of Black</entidade> and <entidade " White"> White</entidade> is the second episode of the fifth season of <entidade " Game of Thrones"> Game of Thrones</entidade>.
+The <entidade "House of Black">House of Black</entidade> and <entidade "White">White</entidade> is the second episode of the fifth season of <entidade "Game of Thrones">Game of Thrones</entidade>.
 It is the forty-second episode of the series overall.
-It premiered on <entidade " April 19, 2015"> April 19, 2015</entidade>.
-It was written by <entidade " David BenioffD.B"> David Benioff</entidade> and <entidade " D.B"> D.B</entidade>.
-<entidade " Weiss"> Weiss</entidade>,and directed by <entidade " Michael Slovis"> Michael Slovis</entidade>.
+It premiered on <entidade "April 19, 2015">April 19, 2015</entidade>.
+It was written by <entidade "David BenioffD.B">David Benioff</entidade> and <entidade "D.B">D.B</entidade>.
+<entidade "Weiss">Weiss</entidade>,and directed by <entidade "Michael Slovis">Michael Slovis</entidade>.
 
-<entidade " Arya"> Arya</entidade> arrives in <entidade " Braavos"> Braavos</entidade>.
-<entidade " Pod"> Pod</entidade> and <entidade " Brienne"> Brienne</entidade> run into trouble on the road.
-<entidade " Cersei"> Cersei</entidade> fears for her daughter's safety in  Dorne as Ellaria Sand seeks revenge for <entidade " Oberyn"> Oberyn</entidade>'s death.
-<entidade " Stannis"> Stannis</entidade> tempts <entidade " Jon"> Jon</entidade>.
-An adviser tempts <entidade " Dany"> Dany</entidade>.
+<entidade "Arya">Arya</entidade> arrives in <entidade "Braavos">Braavos</entidade>.
+<entidade "Pod">Pod</entidade> and <entidade "Brienne">Brienne</entidade> run into trouble on the road.
+<entidade "Cersei">Cersei</entidade> fears for her daughter's safety in Dorne as Ellaria Sand seeks revenge for <entidade "Oberyn">Oberyn</entidade>'s death.
+<entidade "Stannis">Stannis</entidade> tempts <entidade "Jon">Jon</entidade>.
+An adviser tempts <entidade "Dany">Dany</entidade>.
 
 In the Free Cities 
-<entidade " Arya"> Arya</entidade> turned away from the <entidade " House of Black"> House of Black</entidade> and <entidade " White"> White</entidade>.
-<entidade " Ternesio Terys"> Ternesio Terys</entidade> and <entidade " Arya Stark"> Arya Stark</entidade> arrive at <entidade " Braavos"> Braavos</entidade>,and <entidade " Arya Stark"> Arya</entidade> is at first scared by the horn blown by the man inside the <entidade " Titan of Braavos"> Titan of Braavos</entidade>.
-The two then arrive at the <entidade " House of Black"> House of Black</entidade> and <entidade " White"> White</entidade> on a boat.
-<entidade " Arya Stark"> Arya</entidade> lingers outside waiting for admittance,but is rejected by an elder man despite showing the coin <entidade " Jaqen H'ghar"> Jaqen H'ghar</entidade> had given her and mentioning their prior association.
-<entidade " Arya Stark"> Arya</entidade> waits outside the <entidade " House of Black"> House</entidade> for days,endlessly reciting the names of the people she's going to kill,but eventually tosses away her coin and wanders off into the streets of <entidade " Braavos"> Braavos</entidade>.
-While hunting for pigeons,she encounters several thugs who threaten to take her food and <entidade " Needle"> Needle</entidade>.
-As she prepares to defend herself,the boys scatter when the man from the <entidade " House of Black"> House of Black</entidade> and <entidade " White"> White</entidade> appears again.
-After following him back to the <entidade " House of Black"> House</entidade>,<entidade " Arya Stark"> Arya</entidade> demands he divulge his identity,and he returns to her the coin she threw in the water before.
-His face morphs into that of the man <entidade " Arya Stark"> Arya</entidade> knew as <entidade " Jaqen H'ghar"> Jaqen</entidade>.
-Stating that a man is not <entidade " Jaqen H'ghar"> Jaqen H'ghar</entidade>,he responds to <entidade " Arya Stark"> Arya</entidade>'s question as to who he really is with the answer No one.
-And that is what a girl must become as he indicates that <entidade " Arya Stark"> Arya</entidade> may now enter the <entidade " House of Black"> House</entidade>.
-Further south,<entidade " Tyrion Lannister"> Tyrion Lannister</entidade> and <entidade " Varys"> Varys</entidade> depart <entidade " Pentos"> Pentos</entidade> in a large wheelhouse pulled by many horses.
+<entidade "Arya">Arya</entidade> turned away from the <entidade "House of Black">House of Black</entidade> and <entidade "White">White</entidade>.
+<entidade "Ternesio Terys">Ternesio Terys</entidade> and <entidade "Arya Stark">Arya Stark</entidade> arrive at <entidade "Braavos">Braavos</entidade>,and <entidade "Arya Stark">Arya</entidade> is at first scared by the horn blown by the man inside the <entidade "Titan of Braavos">Titan of Braavos</entidade>.
+The two then arrive at the <entidade "House of Black">House of Black</entidade> and <entidade "White">White</entidade> on a boat.
+<entidade "Arya Stark">Arya</entidade> lingers outside waiting for admittance,but is rejected by an elder man despite showing the coin <entidade "Jaqen H'ghar">Jaqen H'ghar</entidade> had given her and mentioning their prior association.
+<entidade "Arya Stark">Arya</entidade> waits outside the <entidade "House of Black">House</entidade> for days,endlessly reciting the names of the people she's going to kill,but eventually tosses away her coin and wanders off into the streets of <entidade "Braavos">Braavos</entidade>.
+While hunting for pigeons,she encounters several thugs who threaten to take her food and <entidade "Needle">Needle</entidade>.
+As she prepares to defend herself,the boys scatter when the man from the <entidade "House of Black">House of Black</entidade> and <entidade "White">White</entidade> appears again.
+After following him back to the <entidade "House of Black">House</entidade>,<entidade "Arya Stark">Arya</entidade> demands he divulge his identity,and he returns to her the coin she threw in the water before.
+His face morphs into that of the man <entidade "Arya Stark">Arya</entidade> knew as <entidade "Jaqen H'ghar">Jaqen</entidade>.
+Stating that a man is not <entidade "Jaqen H'ghar">Jaqen H'ghar</entidade>,he responds to <entidade "Arya Stark">Arya</entidade>'s question as to who he really is with the answer No one.
+And that is what a girl must become as he indicates that <entidade "Arya Stark">Arya</entidade> may now enter the <entidade "House of Black">House</entidade>.
+Further south,<entidade "Tyrion Lannister">Tyrion Lannister</entidade> and <entidade "Varys">Varys</entidade> depart <entidade "Pentos">Pentos</entidade> in a large wheelhouse pulled by many horses.
 Tyrion remains despondent,and as he promised,he is continuing to drink himself into a stupor.
-Varys explains that they are travelling to <entidade " Meereen"> Meereen</entidade> by way of <entidade " Volantis"> Volantis</entidade>.
-<entidade " Varys"> Varys</entidade> points out that Tyrion was an effective ruler when he was acting <entidade " Hand of the King"> Hand of the King</entidade>,and that each of them were outsiders due to their deformities ( a eunuch and a dwarf ).
+Varys explains that they are travelling to <entidade "Meereen">Meereen</entidade> by way of <entidade "Volantis">Volantis</entidade>.
+<entidade "Varys">Varys</entidade> points out that Tyrion was an effective ruler when he was acting <entidade "Hand of the King">Hand of the King</entidade>,and that each of them were outsiders due to their deformities ( a eunuch and a dwarf ).
 They enjoyed accumulating power,he says,but they also wall themselves off from other people,like hiding inside of a large carriage as they are now - but deep down they were never satisfied being separate from society.
 Tyrion is unmoved from his depression,and continues to insist that he's tired of being confined in a box of some sort.
-<entidade " Varys"> Varys</entidade> again warns him that he must remain hidden and that it is unsafe to be seen publicly : <entidade " Cersei"> Cersei</entidade> has promised a lordship to any man who brings her his head.
-Tyrion scoffs and rhetorically asks if <entidade " Cersei"> Cersei</entidade> is going to kill every dwarf in the world in the hope of eventually catching him ....
+<entidade "Varys">Varys</entidade> again warns him that he must remain hidden and that it is unsafe to be seen publicly : <entidade "Cersei">Cersei</entidade> has promised a lordship to any man who brings her his head.
+Tyrion scoffs and rhetorically asks if <entidade "Cersei">Cersei</entidade> is going to kill every dwarf in the world in the hope of eventually catching him ....
 
-In <entidade " King's Landing"> King's Landing</entidade> and the Crownlands 
-In <entidade " King's Landing"> King's Landing</entidade>,<entidade " Cersei Lannister"> Cersei Lannister</entidade> is presented with the severed head of yet another dwarf.
-Her offer of a lordship for <entidade " Tyrion Lannister"> Tyrion</entidade>'s head has indeed motivated people to start killing any dwarf they can find and try to pass it off as Tyrion.
-<entidade " Cersei Lannister"> Cersei</entidade> is irate,but won't punish the men who brought her the head for fear this will deter other such bounty hunters.
-She wants the head disposed of,but <entidade " Qyburn"> Qyburn</entidade> interjects and politely asks if he can keep the head,as it might be of use in some of his experiments.
+In <entidade "King's Landing">King's Landing</entidade> and the Crownlands 
+In <entidade "King's Landing">King's Landing</entidade>,<entidade "Cersei Lannister">Cersei Lannister</entidade> is presented with the severed head of yet another dwarf.
+Her offer of a lordship for <entidade "Tyrion Lannister">Tyrion</entidade>'s head has indeed motivated people to start killing any dwarf they can find and try to pass it off as Tyrion.
+<entidade "Cersei Lannister">Cersei</entidade> is irate,but won't punish the men who brought her the head for fear this will deter other such bounty hunters.
+She wants the head disposed of,but <entidade "Qyburn">Qyburn</entidade> interjects and politely asks if he can keep the head,as it might be of use in some of his experiments.
 
-Cersei shows Jaime the gift from <entidade " Dorne"> Dorne</entidade>.
-<entidade " Cersei Lannister"> Cersei</entidade> summons <entidade " Jaime"> Jaime</entidade> to their late father's office and reveals a gift from <entidade " Dorne"> Dorne</entidade> : an ornately carved viper,with <entidade " Princess Myrcella"> Princess Myrcella</entidade>'s unique <entidade " Lannister"> Lannister</entidade> pendant suspended from its fangs.
-She insists it is a threat against <entidade " Myrcella"> Myrcella</entidade>,a conclusion <entidade " Jaime"> Jaime</entidade> can't refute.
-<entidade " Cersei Lannister"> Cersei</entidade> lashes out at <entidade " Jaime"> Jaime</entidade> for not being a father to any of his children,to which he points out that if he had been,their children would be stoned in the streets.
-He declares he will fix the situation with <entidade " Myrcella"> Myrcella</entidade> and ignores <entidade " Cersei Lannister"> Cersei</entidade>'s mocking of his one-handed status.
-That issue dealt with,<entidade " Cersei Lannister"> Cersei</entidade> convenes the <entidade " Small Council"> Small Council</entidade>.
-Sitting in the <entidade " Hand of the King"> Hand</entidade>'s seat,she announces that <entidade " Tommen"> Tommen</entidade> has declared <entidade " Qyburn"> Qyburn</entidade> the new <entidade " Master of Whisperers"> Master of Whisperers</entidade> and that the position of <entidade " Hand of the King"> Hand of the King</entidade> will remain vacant until <entidade " Tommen"> Tommen</entidade> is old enough to decide on a candidate for himself.
-<entidade " Tommen"> Tommen</entidade> has apparently also decided to make <entidade " Mace Tyrell"> Mace Tyrell</entidade> the new <entidade " Master of Coin"> Master of Coin</entidade> in addition to his duties as <entidade " Master of Ships"> Master of Ships</entidade>,and extends the ( just now made up ) position of <entidade " Master of War"> Master of War</entidade> to <entidade " Kevan Lannister"> Kevan Lannister</entidade>.
-Although <entidade " Mace Tyrell"> Mace</entidade> preens at his new responsibilities,<entidade " Pycelle"> Pycelle</entidade> is outraged at <entidade " Qyburn"> Qyburn</entidade>'s promotion ( as he was thrown out of the order of Maesters for conducting human experimentation ).
-<entidade " Kevan Lannister"> Kevan</entidade> is disgusted at <entidade " Cersei Lannister"> Cersei</entidade>'s blatant power play.
-Refusing the new position,he denounces <entidade " Cersei Lannister"> Cersei</entidade> as nothing more than the <entidade " Queen Mother"> Queen Mother</entidade>,berates her for abusing her authority to fill the <entidade " Small Council"> Small Council</entidade> with her sycophants.
-He then walks out,saying he will await <entidade " King Tommen"> King Tommen</entidade>'s own instructions - at <entidade " Casterly Rock"> Casterly Rock</entidade>.
-Further north in the  Crownlands at Castle Stokeworth,<entidade " Bronn"> Bronn</entidade> is spending time with his somewhat vapid betrothed <entidade " Lollys Stokeworth"> Lollys Stokeworth</entidade>.
-They seem to get on relatively well,but when <entidade " Lollys Stokeworth"> Lollys</entidade> reminds <entidade " Bronn"> Bronn</entidade> that her older sister will get the castle when their mother dies,he wryly assures her that mean people like her sister usually get what's coming to them,clearly setting his sights on the castle.
-<entidade " Jaime"> Jaime</entidade> finds the couple,and reveals to Bronn that <entidade " Cersei Lannister"> Cersei</entidade> has reneged on her deal and offered <entidade " Lollys Stokeworth"> Lollys</entidade>'s hand to <entidade " Ser Willas Bracken"> Ser Willas Bracken</entidade> instead.
-<entidade " Bronn"> Bronn</entidade> is understandably furious about the change of arrangements until <entidade " Jaime"> Jaime</entidade> tells him that if he helps rescue  Myrcella from Dorne,<entidade " Bronn"> Bronn</entidade> will receive a much better girl than <entidade " Lollys Stokeworth"> Lollys</entidade>,who has rights to a much better castle.
+Cersei shows Jaime the gift from <entidade "Dorne">Dorne</entidade>.
+<entidade "Cersei Lannister">Cersei</entidade> summons <entidade "Jaime">Jaime</entidade> to their late father's office and reveals a gift from <entidade "Dorne">Dorne</entidade> : an ornately carved viper,with <entidade "Myrcella">Princess Myrcella</entidade>'s unique <entidade "Lannister">Lannister</entidade> pendant suspended from its fangs.
+She insists it is a threat against <entidade "Myrcella">Myrcella</entidade>,a conclusion <entidade "Jaime">Jaime</entidade> can't refute.
+<entidade "Cersei Lannister">Cersei</entidade> lashes out at <entidade "Jaime">Jaime</entidade> for not being a father to any of his children,to which he points out that if he had been,their children would be stoned in the streets.
+He declares he will fix the situation with <entidade "Myrcella">Myrcella</entidade> and ignores <entidade "Cersei Lannister">Cersei</entidade>'s mocking of his one-handed status.
+That issue dealt with,<entidade "Cersei Lannister">Cersei</entidade> convenes the <entidade "Small Council">Small Council</entidade>.
+Sitting in the <entidade "Hand of the King">Hand</entidade>'s seat,she announces that <entidade "Tommen">Tommen</entidade> has declared <entidade "Qyburn">Qyburn</entidade> the new <entidade "Master of Whisperers">Master of Whisperers</entidade> and that the position of <entidade "Hand of the King">Hand of the King</entidade> will remain vacant until <entidade "Tommen">Tommen</entidade> is old enough to decide on a candidate for himself.
+<entidade "Tommen">Tommen</entidade> has apparently also decided to make <entidade "Mace Tyrell">Mace Tyrell</entidade> the new <entidade "Master of Coin">Master of Coin</entidade> in addition to his duties as <entidade "Master of Ships">Master of Ships</entidade>,and extends the ( just now made up ) position of <entidade "Master of War">Master of War</entidade> to <entidade "Kevan Lannister">Kevan Lannister</entidade>.
+Although <entidade "Mace Tyrell">Mace</entidade> preens at his new responsibilities,<entidade "Pycelle">Pycelle</entidade> is outraged at <entidade "Qyburn">Qyburn</entidade>'s promotion ( as he was thrown out of the order of Maesters for conducting human experimentation ).
+<entidade "Kevan Lannister">Kevan</entidade> is disgusted at <entidade "Cersei Lannister">Cersei</entidade>'s blatant power play.
+Refusing the new position,he denounces <entidade "Cersei Lannister">Cersei</entidade> as nothing more than the <entidade "Mother">Queen Mother</entidade>,berates her for abusing her authority to fill the <entidade "Small Council">Small Council</entidade> with her sycophants.
+He then walks out,saying he will await <entidade "King Tommen">King Tommen</entidade>'s own instructions - at <entidade "Casterly Rock">Casterly Rock</entidade>.
+Further north in the Crownlands at Castle Stokeworth,<entidade "Bronn">Bronn</entidade> is spending time with his somewhat vapid betrothed <entidade "Lollys Stokeworth">Lollys Stokeworth</entidade>.
+They seem to get on relatively well,but when <entidade "Lollys Stokeworth">Lollys</entidade> reminds <entidade "Bronn">Bronn</entidade> that her older sister will get the castle when their mother dies,he wryly assures her that mean people like her sister usually get what's coming to them,clearly setting his sights on the castle.
+<entidade "Jaime">Jaime</entidade> finds the couple,and reveals to Bronn that <entidade "Cersei Lannister">Cersei</entidade> has reneged on her deal and offered <entidade "Lollys Stokeworth">Lollys</entidade>'s hand to <entidade "Willas Bracken">Ser Willas Bracken</entidade> instead.
+<entidade "Bronn">Bronn</entidade> is understandably furious about the change of arrangements until <entidade "Jaime">Jaime</entidade> tells him that if he helps rescue Myrcella from Dorne,<entidade "Bronn">Bronn</entidade> will receive a much better girl than <entidade "Lollys Stokeworth">Lollys</entidade>,who has rights to a much better castle.
 
-In <entidade " Dorne"> Dorne</entidade> 
-<entidade " Ellaria"> Ellaria</entidade> and <entidade " Doran"> Doran</entidade> discuss <entidade " Oberyn"> Oberyn</entidade>'s death.
-In the <entidade " Water"> Water</entidade> <entidade " Gardens of Dorne"> Gardens of Dorne</entidade>,<entidade " Ellaria Sand"> Ellaria Sand</entidade> rudely demands an audience with <entidade " Doran Martell"> Doran Martell</entidade>,the ruling <entidade " Prince of Dorne"> Prince of Dorne</entidade>.
-His bodyguard,<entidade " Areo Hotah"> Areo Hotah</entidade>,blocks her path,yet <entidade " Doran Martell"> Doran</entidade> tells him to let her pass.
-She wants to take <entidade " Princess Myrcella"> Princess Myrcella</entidade>,who at that very moment is enjoying <entidade " Trystane Martell"> Trystane Martell</entidade>'s company,so that she can send the princess piece by piece to <entidade " Cersei Lannister"> Cersei</entidade> as revenge for <entidade " Oberyn Martell"> Oberyn Martell</entidade>'s murder.
-<entidade " Doran Martell"> Doran</entidade> refuses,reminding her that <entidade " Oberyn Martell"> Oberyn</entidade> had participated in a trial by combat,and therefore his death was legal,and not murder.
-He states <entidade " Dorne"> Dorne</entidade> will not stoop to the level of mutilating children while he rules,even if the <entidade " Sand Snakes"> Sand Snakes</entidade> are siding with <entidade " Ellaria Sand"> Ellaria</entidade>.
-Sneering,<entidade " Ellaria Sand"> Ellaria</entidade> asks how long he expects to rule for and storms out.
-<entidade " Hotah"> Hotah</entidade> and the <entidade " Prince of Dorne"> Prince</entidade> exchange a look as she departs,the former meaningfully indicating his axe,but <entidade " Doran Martell"> Doran</entidade> shakes his head and returns his attention to the <entidade " Water"> Water</entidade> <entidade " Gardens of Dorne"> Gardens</entidade> as he contemplates his next move.
-In the <entidade " Vale"> Vale</entidade> 
-<entidade " Brienne"> Brienne</entidade> and <entidade " Podrick"> Podrick</entidade> arrive at an inn and dine.
-<entidade " Podrick"> Podrick</entidade> spots  Sansa Stark with Petyr Baelish,and <entidade " Brienne"> Brienne</entidade> tells him to ready the horses and she confronts them.
+In <entidade "Dorne">Dorne</entidade> 
+<entidade "Ellaria">Ellaria</entidade> and <entidade "Doran">Doran</entidade> discuss <entidade "Oberyn">Oberyn</entidade>'s death.
+In the <entidade "Water">Water</entidade> <entidade "Gardens of Dorne">Gardens of Dorne</entidade>,<entidade "Ellaria Sand">Ellaria Sand</entidade> rudely demands an audience with <entidade "Doran Martell">Doran Martell</entidade>,the ruling <entidade "Prince of Dorne">Prince of Dorne</entidade>.
+His bodyguard,<entidade "Areo Hotah">Areo Hotah</entidade>,blocks her path,yet <entidade "Doran Martell">Doran</entidade> tells him to let her pass.
+She wants to take <entidade "Myrcella">Princess Myrcella</entidade>,who at that very moment is enjoying <entidade "Trystane Martell">Trystane Martell</entidade>'s company,so that she can send the princess piece by piece to <entidade "Cersei Lannister">Cersei</entidade> as revenge for <entidade "Oberyn Martell">Oberyn Martell</entidade>'s murder.
+<entidade "Doran Martell">Doran</entidade> refuses,reminding her that <entidade "Oberyn Martell">Oberyn</entidade> had participated in a trial by combat,and therefore his death was legal,and not murder.
+He states <entidade "Dorne">Dorne</entidade> will not stoop to the level of mutilating children while he rules,even if the <entidade "Sand Snakes">Sand Snakes</entidade> are siding with <entidade "Ellaria Sand">Ellaria</entidade>.
+Sneering,<entidade "Ellaria Sand">Ellaria</entidade> asks how long he expects to rule for and storms out.
+<entidade "Hotah">Hotah</entidade> and the <entidade "Prince of Dorne">Prince</entidade> exchange a look as she departs,the former meaningfully indicating his axe,but <entidade "Doran Martell">Doran</entidade> shakes his head and returns his attention to the <entidade "Water">Water</entidade> <entidade "Gardens of Dorne">Gardens</entidade> as he contemplates his next move.
+In the <entidade "Vale">Vale</entidade> 
+<entidade "Brienne">Brienne</entidade> and <entidade "Podrick">Podrick</entidade> arrive at an inn and dine.
+<entidade "Podrick">Podrick</entidade> spots Sansa Stark with Petyr Baelish,and <entidade "Brienne">Brienne</entidade> tells him to ready the horses and she confronts them.
 
-<entidade " Brienne"> Brienne</entidade> swears to <entidade " Sansa"> Sansa</entidade>.
-<entidade " Brienne"> Brienne</entidade> mentions her sworn vow to <entidade " Sansa"> Sansa</entidade>'s mother <entidade " Catelyn"> Catelyn</entidade>,while <entidade " Littlefinger"> Littlefinger</entidade> points out how she was accused of murdering <entidade " Renly Baratheon"> Renly Baratheon</entidade> and how both he and <entidade " Catelyn"> Catelyn</entidade> are now dead.
-<entidade " Sansa"> Sansa</entidade> denies <entidade " Brienne"> Brienne</entidade>'s request and <entidade " Littlefinger"> Littlefinger</entidade> urges that she stay at the inn as the road is not safe,and seeing this as a trap,<entidade " Brienne"> Brienne</entidade> escapes with <entidade " Podrick"> Podrick</entidade> on the horses they take.
-They are chased through a forest as <entidade " Brienne"> Brienne</entidade> fights the men and <entidade " Podrick"> Podrick</entidade> is thrown off his horse.
-Reuniting,<entidade " Podrick"> Podrick</entidade> mentions how both <entidade " Stark"> Stark</entidade> girls denied her request for protection,but <entidade " Brienne"> Brienne</entidade> retorts by doubting <entidade " Sansa"> Sansa</entidade> is safe with <entidade " Littlefinger"> Littlefinger</entidade>.
-<entidade " Brienne"> Brienne</entidade> tells <entidade " Podrick"> Podrick</entidade> to get his horse as they attempt to further pursue <entidade " Sansa"> Sansa</entidade> and <entidade " Littlefinger"> Littlefinger</entidade>.
+<entidade "Brienne">Brienne</entidade> swears to <entidade "Sansa">Sansa</entidade>.
+<entidade "Brienne">Brienne</entidade> mentions her sworn vow to <entidade "Sansa">Sansa</entidade>'s mother <entidade "Catelyn">Catelyn</entidade>,while <entidade "Littlefinger">Littlefinger</entidade> points out how she was accused of murdering <entidade "Renly Baratheon">Renly Baratheon</entidade> and how both he and <entidade "Catelyn">Catelyn</entidade> are now dead.
+<entidade "Sansa">Sansa</entidade> denies <entidade "Brienne">Brienne</entidade>'s request and <entidade "Littlefinger">Littlefinger</entidade> urges that she stay at the inn as the road is not safe,and seeing this as a trap,<entidade "Brienne">Brienne</entidade> escapes with <entidade "Podrick">Podrick</entidade> on the horses they take.
+They are chased through a forest as <entidade "Brienne">Brienne</entidade> fights the men and <entidade "Podrick">Podrick</entidade> is thrown off his horse.
+Reuniting,<entidade "Podrick">Podrick</entidade> mentions how both <entidade "Stark">Stark</entidade> girls denied her request for protection,but <entidade "Brienne">Brienne</entidade> retorts by doubting <entidade "Sansa">Sansa</entidade> is safe with <entidade "Littlefinger">Littlefinger</entidade>.
+<entidade "Brienne">Brienne</entidade> tells <entidade "Podrick">Podrick</entidade> to get his horse as they attempt to further pursue <entidade "Sansa">Sansa</entidade> and <entidade "Littlefinger">Littlefinger</entidade>.
 
-In <entidade " Meereen"> Meereen</entidade> 
-<entidade " Barristan Selmy"> Barristan Selmy</entidade> tells <entidade " Daenarys"> Daenarys</entidade> the truth about her father,the <entidade " Mad King"> Mad King</entidade>.
-Daario and <entidade " Grey Worm"> Grey Worm</entidade> find a house belonging to a <entidade " Son of the Harpy"> Son of the Harpy</entidade> allegedly responsible for <entidade " White Rat"> White Rat</entidade>'s death.
-Daario explains that he has been using the Second <entidade " Sons"> Sons</entidade> as spies throughout <entidade " Meereen"> Meereen</entidade>,since they are far less conspicuous than <entidade " Unsullied"> Unsullied</entidade> and can indulge in the same vices as their informants ; <entidade " Daario"> Daario</entidade> indicates his men's effectiveness by stabbing his dagger through a false wall,seriously injuring the man hiding behind it.
-Back at the <entidade " Great Pyramid"> Great Pyramid</entidade>,<entidade " Daenerys"> Daenerys</entidade> and her council debate executing this <entidade " Harpy's Son"> Harpy's Son</entidade>,but the debate devolves into a shouting match between <entidade " Mossador"> Mossador</entidade> and <entidade " Hizdahr zo Loraq"> Hizdahr zo Loraq</entidade>.
-After the rest leave,<entidade " Ser Barristan"> Ser Barristan</entidade> tells her about her father,and confirms that,contrary to what <entidade " Viserys"> Viserys</entidade> told her,the <entidade " Mad King"> Mad King</entidade> was indeed quite mad,citing how his crimes against <entidade " House Stark"> House Stark</entidade> ultimately led to the rebellion that all but destroyed the <entidade " Targaryen"> Targaryen</entidade> dynasty.
-Mollified by the revelation,particularly that her crazed father always thought his atrocities were serving justice to his enemies,<entidade " Daenerys"> Daenerys</entidade> promises <entidade " Ser Barristan"> Ser Barristan</entidade> that there will be a trial for the accused.
-Before the trial begins,<entidade " Mossador"> Mossador</entidade> kills the <entidade " Harpy's Son"> Harpy's Son</entidade>.
-<entidade " Daenerys"> Daenerys</entidade>,hoping to preserve the integrity of law,has <entidade " Mossador"> Mossador</entidade> publicly executed,causing the freed slaves to hiss at her and throw rocks at her as she leaves,along with a riot between the former slaves and masters breaking out.
-Later that night,<entidade " Daenerys"> Daenerys</entidade> dismisses her council and goes outside.
-To her relief,<entidade " Drogon"> Drogon</entidade>,now the size of a small house,has alighted just above her balcony.
-<entidade " Drogon"> Drogon</entidade> sniffs her outstretched hand,and though he doesn't attack,he flies away again,leaving his mother alone.
+In <entidade "Meereen">Meereen</entidade> 
+<entidade "Barristan Selmy">Barristan Selmy</entidade> tells <entidade "Daenarys">Daenarys</entidade> the truth about her father,the <entidade "Mad King">Mad King</entidade>.
+Daario and <entidade "Grey Worm">Grey Worm</entidade> find a house belonging to a <entidade "Son of the Harpy">Son of the Harpy</entidade> allegedly responsible for <entidade "White Rat">White Rat</entidade>'s death.
+Daario explains that he has been using the Second <entidade "Sons">Sons</entidade> as spies throughout <entidade "Meereen">Meereen</entidade>,since they are far less conspicuous than <entidade "Unsullied">Unsullied</entidade> and can indulge in the same vices as their informants ; <entidade "Daario">Daario</entidade> indicates his men's effectiveness by stabbing his dagger through a false wall,seriously injuring the man hiding behind it.
+Back at the <entidade "Great Pyramid">Great Pyramid</entidade>,<entidade "Daenerys">Daenerys</entidade> and her council debate executing this <entidade "Harpy's Son">Harpy's Son</entidade>,but the debate devolves into a shouting match between <entidade "Mossador">Mossador</entidade> and <entidade "Hizdahr zo Loraq">Hizdahr zo Loraq</entidade>.
+After the rest leave,<entidade "Barristan Selmy">Ser Barristan</entidade> tells her about her father,and confirms that,contrary to what <entidade "Viserys">Viserys</entidade> told her,the <entidade "Mad King">Mad King</entidade> was indeed quite mad,citing how his crimes against <entidade "House Stark">House Stark</entidade> ultimately led to the rebellion that all but destroyed the <entidade "Targaryen">Targaryen</entidade> dynasty.
+Mollified by the revelation,particularly that her crazed father always thought his atrocities were serving justice to his enemies,<entidade "Daenerys">Daenerys</entidade> promises <entidade "Barristan Selmy">Ser Barristan</entidade> that there will be a trial for the accused.
+Before the trial begins,<entidade "Mossador">Mossador</entidade> kills the <entidade "Harpy's Son">Harpy's Son</entidade>.
+<entidade "Daenerys">Daenerys</entidade>,hoping to preserve the integrity of law,has <entidade "Mossador">Mossador</entidade> publicly executed,causing the freed slaves to hiss at her and throw rocks at her as she leaves,along with a riot between the former slaves and masters breaking out.
+Later that night,<entidade "Daenerys">Daenerys</entidade> dismisses her council and goes outside.
+To her relief,<entidade "Drogon">Drogon</entidade>,now the size of a small house,has alighted just above her balcony.
+<entidade "Drogon">Drogon</entidade> sniffs her outstretched hand,and though he doesn't attack,he flies away again,leaving his mother alone.
 
-At the <entidade " Wall"> Wall</entidade> 
-<entidade " Shireen Baratheon"> Shireen Baratheon</entidade> teaches <entidade " Gilly"> Gilly</entidade> how to read in <entidade " Castle Black"> Castle Black</entidade>'s library,apparently to <entidade " Sam"> Sam</entidade>'s chagrin.
-Gilly asks about <entidade " Shireen's Greyscale"> Shireen's Greyscale</entidade> scars,revealing that the wildlings don't really have a word for it and that two of her sisters contracted and were driven mad by the disease,before <entidade " Craster"> Craster</entidade> put them out of their misery.
-Queen <entidade " Selyse"> Selyse</entidade> interrupts the proceedings and dismisses <entidade " Sam"> Sam</entidade> and <entidade " Gilly"> Gilly</entidade>.
-She lectures <entidade " Shireen Baratheon"> Shireen</entidade> on the dangers of spending time with any wildlings,since they could conceivably use <entidade " Gilly"> Gilly</entidade> to harm  Stannis through Shireen.
-<entidade " Shireen Baratheon"> Shireen</entidade>,however,doubts that that's how things will go.
+At the <entidade "Wall">Wall</entidade> 
+<entidade "Shireen Baratheon">Shireen Baratheon</entidade> teaches <entidade "Gilly">Gilly</entidade> how to read in <entidade "Castle Black">Castle Black</entidade>'s library,apparently to <entidade "Sam">Sam</entidade>'s chagrin.
+Gilly asks about <entidade "Shireen's Greyscale">Shireen's Greyscale</entidade> scars,revealing that the wildlings don't really have a word for it and that two of her sisters contracted and were driven mad by the disease,before <entidade "Craster">Craster</entidade> put them out of their misery.
+Queen <entidade "Selyse">Selyse</entidade> interrupts the proceedings and dismisses <entidade "Sam">Sam</entidade> and <entidade "Gilly">Gilly</entidade>.
+She lectures <entidade "Shireen Baratheon">Shireen</entidade> on the dangers of spending time with any wildlings,since they could conceivably use <entidade "Gilly">Gilly</entidade> to harm Stannis through Shireen.
+<entidade "Shireen's Greyscale">Shireen</entidade>,however,doubts that that's how things will go.
 
-<entidade " Bear Island"> Bear Island</entidade> knows no king but the  King in the North,whose name is <entidade " Stark"> Stark</entidade>.
-- Lyanna <entidade " Mormont"> Mormont</entidade>,ten year old <entidade " Lady of Bear Island"> Lady of Bear Island</entidade>.
-<entidade " Stannis"> Stannis</entidade> himself,meanwhile,discusses <entidade " Jon Snow"> Jon Snow</entidade>'s recent defiance.
-Stannis shows <entidade " Jon Snow"> Jon</entidade> a message he received from <entidade " Lady Lyanna Mormont"> Lady Lyanna Mormont</entidade> in response to the demand that <entidade " House Mormont"> House Mormont</entidade> pledge itself to <entidade " Stannis"> Stannis</entidade>' cause.
-The note refuses,saying that the Mormonts know only one king,the  King in the North,and will only follow a <entidade " Stark"> Stark</entidade>.
-<entidade " Jon Snow"> Jon</entidade> tells <entidade " Stannis"> Stannis</entidade> that,like the <entidade " Wildlings"> Wildlings</entidade>,the <entidade " Northerners"> Northerners</entidade> will only follow one of their own.
-Realizing this is true,<entidade " Stannis"> Stannis</entidade> makes <entidade " Jon Snow"> Jon</entidade> an enticing offer : if he leaves the <entidade " Night's Watch"> Night's Watch</entidade>,<entidade " Stannis"> Stannis</entidade> will use his authority as king to officially legitimize him as <entidade " Jon Stark"> Jon Stark</entidade>,<entidade " Lord of Winterfell"> Lord of Winterfell</entidade>,so he can rally the <entidade " Northerners"> North</entidade> to <entidade " Stannis"> Stannis</entidade>'s side and resume the fight against the <entidade " Boltons"> Boltons</entidade>,<entidade " Freys"> Freys</entidade>,and <entidade " Lannisters"> Lannisters</entidade>.
-<entidade " Jon Snow"> Jon</entidade> is visibly moved at the prospect of having his lifelong dream finally come true,but he later admits to Sam that he plans to turn <entidade " Stannis"> Stannis</entidade> down : he is a man of the <entidade " Night's Watch"> Night's Watch</entidade>.
-The election for the new <entidade " Lord Commander of the Night"> Lord Commander of the Night</entidade>'s <entidade " Watch"> Watch</entidade> commences,overseen by <entidade " Maester Aemon"> Maester Aemon</entidade>.
-<entidade " Janos Slynt"> Janos Slynt</entidade> nominates <entidade " Alliser Thorne"> Alliser Thorne</entidade>.
-Another brother names <entidade " Denys Mallister"> Denys Mallister</entidade>,<entidade " Commander of the Shadow Tower"> Commander of the Shadow Tower</entidade>.
-The vote almost begins before <entidade " Sam"> Sam</entidade> interrupts to put forward a third nomination : <entidade " Jon Snow"> Jon Snow</entidade>.
-When the votes are cast,a tie is called : <entidade " Snow"> Snow</entidade> and <entidade " Thorne"> Thorne</entidade> have garnered an equal number of votes.
-With a wry smile,<entidade " Maester Aemon"> Maester Aemon</entidade> casts his own vote for <entidade " Jon Snow"> Jon Snow</entidade>.
-The black brothers hail <entidade " Jon Snow"> Jon</entidade> as the 998th <entidade " Lord Commander of the Night"> Lord Commander of the Night</entidade>'s <entidade " Watch"> Watch</entidade>.
+<entidade "Bear Island">Bear Island</entidade> knows no king but the King in the North,whose name is <entidade "Stark">Stark</entidade>.
+- Lyanna <entidade "Mormont">Mormont</entidade>,ten year old <entidade "Lady of Bear Island">Lady of Bear Island</entidade>.
+<entidade "Stannis">Stannis</entidade> himself,meanwhile,discusses <entidade "Jon Snow">Jon Snow</entidade>'s recent defiance.
+Stannis shows <entidade "Jon Snow">Jon</entidade> a message he received from <entidade "Lady Lyanna Mormont">Lady Lyanna Mormont</entidade> in response to the demand that <entidade "House Mormont">House Mormont</entidade> pledge itself to <entidade "Stannis">Stannis</entidade>' cause.
+The note refuses,saying that the Mormonts know only one king,the King in the North,and will only follow a <entidade "Stark">Stark</entidade>.
+<entidade "Jon Snow">Jon</entidade> tells <entidade "Stannis">Stannis</entidade> that,like the <entidade "Wildlings">Wildlings</entidade>,the <entidade "Northerners">Northerners</entidade> will only follow one of their own.
+Realizing this is true,<entidade "Stannis">Stannis</entidade> makes <entidade "Jon Snow">Jon</entidade> an enticing offer : if he leaves the <entidade "Night's Watch">Night's Watch</entidade>,<entidade "Stannis">Stannis</entidade> will use his authority as king to officially legitimize him as <entidade "Jon Stark">Jon Stark</entidade>,<entidade "Lord of Winterfell">Lord of Winterfell</entidade>,so he can rally the <entidade "Northerners">North</entidade> to <entidade "Stannis">Stannis</entidade>'s side and resume the fight against the <entidade "Boltons">Boltons</entidade>,<entidade "Freys">Freys</entidade>,and <entidade "Lannisters">Lannisters</entidade>.
+<entidade "Jon Snow">Jon</entidade> is visibly moved at the prospect of having his lifelong dream finally come true,but he later admits to Sam that he plans to turn <entidade "Stannis">Stannis</entidade> down : he is a man of the <entidade "Night's Watch">Night's Watch</entidade>.
+The election for the new <entidade "Lord Commander of the Night">Lord Commander of the Night</entidade>'s <entidade "Watch">Watch</entidade> commences,overseen by <entidade "Aemon">Maester Aemon</entidade>.
+<entidade "Janos Slynt">Janos Slynt</entidade> nominates <entidade "Alliser Thorne">Alliser Thorne</entidade>.
+Another brother names <entidade "Denys Mallister">Denys Mallister</entidade>,<entidade "Commander of the Shadow Tower">Commander of the Shadow Tower</entidade>.
+The vote almost begins before <entidade "Sam">Sam</entidade> interrupts to put forward a third nomination : <entidade "Jon Snow">Jon Snow</entidade>.
+When the votes are cast,a tie is called : <entidade "Snow">Snow</entidade> and <entidade "Thorne">Thorne</entidade> have garnered an equal number of votes.
+With a wry smile,<entidade "Aemon">Maester Aemon</entidade> casts his own vote for <entidade "Jon Snow">Jon Snow</entidade>.
+The black brothers hail <entidade "Jon Stark">Jon</entidade> as the 998th <entidade "Lord Commander of the Night">Lord Commander of the Night</entidade>'s <entidade "Watch">Watch</entidade>.
 

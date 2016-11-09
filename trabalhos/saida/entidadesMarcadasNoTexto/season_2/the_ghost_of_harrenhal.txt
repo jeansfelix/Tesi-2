@@ -1,77 +1,77 @@
-<entidade " David Benioff"> David Benioff</entidade> & <entidade " D.B"> D.B</entidade>.
+<entidade "David Benioff">David Benioff</entidade> & <entidade "D.B">D.B</entidade>.
 Weiss 
 
-<entidade " David Petrarca"> David Petrarca</entidade> 
+<entidade "David Petrarca">David Petrarca</entidade> 
 
-<entidade " Garden of Bones"> Garden of Bones</entidade> 
-The <entidade " Old Gods"> Old Gods</entidade> and the <entidade " New"> New</entidade> 
+<entidade "Garden of Bones">Garden of Bones</entidade> 
+The <entidade "Old Gods">Old Gods</entidade> and the <entidade "New">New</entidade> 
 
-The <entidade " Ghost of Harrenhal"> Ghost of Harrenhal</entidade> is the fifth episode of the second season of <entidade " Game of Thrones"> Game of Thrones</entidade>.
+The <entidade "Ghost of Harrenhal">Ghost of Harrenhal</entidade> is the fifth episode of the second season of <entidade "Game of Thrones">Game of Thrones</entidade>.
 It is the fifteenth episode of the series overall.
-It premiered on <entidade " April 29, 2012"> April 29, 2012</entidade>.
-It was written by executive producers <entidade " David Benioff"> David Benioff</entidade> and <entidade " D.B"> D.B</entidade>.
-<entidade " Weiss"> Weiss</entidade> and directed by <entidade " David Petrarca"> David Petrarca</entidade>.
+It premiered on <entidade "April 29, 2012">April 29, 2012</entidade>.
+It was written by executive producers <entidade "David Benioff">David Benioff</entidade> and <entidade "D.B">D.B</entidade>.
+<entidade "Weiss">Weiss</entidade> and directed by <entidade "David Petrarca">David Petrarca</entidade>.
 
-Confusion rages in the <entidade " Stormlands"> Stormlands</entidade> in the wake of a devastating reversal.
-<entidade " Catelyn"> Catelyn</entidade> must flee with a new ally,whilst <entidade " Littlefinger"> Littlefinger</entidade> sees an opportunity in the chaos.
-<entidade " Theon"> Theon</entidade> seeks to prove himself to his father in battle.
-<entidade " Arya"> Arya</entidade> receives a promise from the enigmatic <entidade " Jaqen H'ghar"> Jaqen H'ghar</entidade>.
-The <entidade " Night's Watch"> Night's Watch</entidade> arrives at the <entidade " Fist of the First Men"> Fist of the First Men</entidade>.
-<entidade " Daenerys Targaryen"> Daenerys Targaryen</entidade> receives a marriage proposal.
+Confusion rages in the <entidade "Stormlands">Stormlands</entidade> in the wake of a devastating reversal.
+<entidade "Catelyn">Catelyn</entidade> must flee with a new ally,whilst <entidade "Littlefinger">Littlefinger</entidade> sees an opportunity in the chaos.
+<entidade "Theon">Theon</entidade> seeks to prove himself to his father in battle.
+<entidade "Arya">Arya</entidade> receives a promise from the enigmatic <entidade "Jaqen H'ghar">Jaqen H'ghar</entidade>.
+The <entidade "Night's Watch">Night's Watch</entidade> arrives at the <entidade "Fist of the First Men">Fist of the First Men</entidade>.
+<entidade "Daenerys Targaryen">Daenerys Targaryen</entidade> receives a marriage proposal.
 
-In the <entidade " Seven Kingdoms"> Seven Kingdoms</entidade> 
-King <entidade " Renly"> Renly</entidade> is assassinated.
-King <entidade " Renly Baratheon"> Renly Baratheon</entidade> is assassinated by the <entidade " Shadow"> Shadow</entidade> brought into the world by <entidade " Melisandre"> Melisandre</entidade> and fathered by <entidade " Stannis Baratheon"> Stannis Baratheon</entidade> just after agreeing to an alliance with <entidade " King Robb Stark"> King Robb Stark</entidade>.
-His kingsguard <entidade " Brienne"> Brienne</entidade> is mistakenly blamed for the death and she flees the camp with <entidade " Catelyn Stark"> Catelyn Stark</entidade>.
-<entidade " Brienne"> Brienne</entidade> later swears fealty to <entidade " Catelyn Stark"> Catelyn</entidade>.
-Renly's army disintegrates,with the forces of <entidade " House Tyrell"> House Tyrell</entidade> fleeing to <entidade " Highgarden"> Highgarden</entidade> and the rest of his bannermen joining his brother <entidade " King Stannis Baratheon"> King Stannis Baratheon</entidade>.
-<entidade " Lord Petyr Baelish"> Lord Petyr Baelish</entidade> accompanies the <entidade " Tyrell"> Tyrell</entidade> faction,sensing an opportunity to sway them to <entidade " Joffrey"> Joffrey</entidade>'s side.
-<entidade " Ser Davos Seaworth"> Ser Davos Seaworth</entidade> challenges <entidade " King Stannis Baratheon"> King Stannis</entidade> on his use of <entidade " Melisandre"> Melisandre</entidade>'s magic and convinces him to leave <entidade " Melisandre"> Melisandre</entidade> behind when they attack King's Landing to quash rumors of her influence on him.
-<entidade " Stannis Baratheon"> Stannis</entidade> places <entidade " Davos"> Davos</entidade> in command of his fleet.
-<entidade " Hand of the King Tyrion Lannister"> Hand of the King Tyrion Lannister</entidade> brings news of <entidade " Renly Baratheon"> Renly</entidade>'s death to his sister,<entidade " Queen Regent Cersei Lannister"> Queen Regent Cersei Lannister</entidade>.
-She is pleased,but <entidade " Tyrion"> Tyrion</entidade> predicts <entidade " Stannis Baratheon"> Stannis</entidade>'s imminent attack.
+In the <entidade "Seven Kingdoms">Seven Kingdoms</entidade> 
+King <entidade "Renly">Renly</entidade> is assassinated.
+King <entidade "Renly Baratheon">Renly Baratheon</entidade> is assassinated by the <entidade "Shadow">Shadow</entidade> brought into the world by <entidade "Melisandre">Melisandre</entidade> and fathered by <entidade "Stannis Baratheon">Stannis Baratheon</entidade> just after agreeing to an alliance with <entidade "King Robb Stark">King Robb Stark</entidade>.
+His kingsguard <entidade "Brienne">Brienne</entidade> is mistakenly blamed for the death and she flees the camp with <entidade "Catelyn Stark">Catelyn Stark</entidade>.
+<entidade "Brienne">Brienne</entidade> later swears fealty to <entidade "Catelyn Stark">Catelyn</entidade>.
+Renly's army disintegrates,with the forces of <entidade "House Tyrell">House Tyrell</entidade> fleeing to <entidade "Highgarden">Highgarden</entidade> and the rest of his bannermen joining his brother <entidade "King Stannis Baratheon">King Stannis Baratheon</entidade>.
+<entidade "Petyr Baelish">Lord Petyr Baelish</entidade> accompanies the <entidade "Tyrell">Tyrell</entidade> faction,sensing an opportunity to sway them to <entidade "Joffrey">Joffrey</entidade>'s side.
+<entidade "Davos Seaworth">Ser Davos Seaworth</entidade> challenges <entidade "King Stannis Baratheon">King Stannis</entidade> on his use of <entidade "Melisandre">Melisandre</entidade>'s magic and convinces him to leave <entidade "Melisandre">Melisandre</entidade> behind when they attack King's Landing to quash rumors of her influence on him.
+<entidade "Stannis Baratheon">Stannis</entidade> places <entidade "Davos Seaworth">Davos</entidade> in command of his fleet.
+<entidade "Hand of the King Tyrion Lannister">Hand of the King Tyrion Lannister</entidade> brings news of <entidade "Renly Baratheon">Renly</entidade>'s death to his sister,<entidade "Regent Cersei Lannister">Queen Regent Cersei Lannister</entidade>.
+She is pleased,but <entidade "Tyrion">Tyrion</entidade> predicts <entidade "Stannis Baratheon">Stannis</entidade>'s imminent attack.
 He tries to discuss plans for their defense,but she insists on keeping them secret.
-From his spy,his cousin <entidade " Ser Lancel Lannister"> Ser Lancel Lannister</entidade>,<entidade " Tyrion"> Tyrion</entidade> learns that <entidade " Cersei"> Cersei</entidade> has been having extensive meetings with the Alchemists' <entidade " Guild"> Guild</entidade>.
+From his spy,his cousin <entidade "Lancel Lannister">Ser Lancel Lannister</entidade>,<entidade "Tyrion">Tyrion</entidade> learns that <entidade "Cersei">Cersei</entidade> has been having extensive meetings with the Alchemists' <entidade "Guild">Guild</entidade>.
 
-<entidade " Brienne"> Brienne</entidade> kills a <entidade " Kingsguard"> Kingsguard</entidade> 
-He visits <entidade " Wisdom Hallyne"> Wisdom Hallyne</entidade> of the guild and learns that they have stockpiled thousands of jars of <entidade " Wildfire"> Wildfire</entidade>,a dangerously flammable substance,to use as catapult ammunition.
-<entidade " Bronn"> Bronn</entidade> warns that this strategy could be disastrous,and result in panicking defenders accidentally burning down their own city.
-Tyrion orders <entidade " Hallyne"> Hallyne</entidade> to answer to him instead of <entidade " Cersei"> Cersei</entidade>.
-Tyrion also passes a street protest that blames him for the ills of the city,as they believe Tyrion to be manipulating <entidade " Joffrey"> Joffrey</entidade>.
-<entidade " Theon Greyjoy"> Theon Greyjoy</entidade> takes command of his new ship and finds his crew insubordinate.
-His first mate <entidade " Dagmer Cleftjaw"> Dagmer Cleftjaw</entidade> tells him that he needs to prove himself to the men and <entidade " Theon Greyjoy"> Theon</entidade> plans to raid <entidade " Torrhen's Square"> Torrhen's Square</entidade> to draw the remaining forces of  House Stark from Winterfell.
-His plan is successful and <entidade " Ser Rodrik Cassel"> Ser Rodrik Cassel</entidade> leads a force of 200 men to relieve his siege of <entidade " Torrhen's Square"> Torrhen's Square</entidade>.
-<entidade " Bran Stark"> Bran Stark</entidade> provides well judged counsel to his subjects but continues to be troubled by his dreams.
+<entidade "Brienne">Brienne</entidade> kills a <entidade "Kingsguard">Kingsguard</entidade> 
+He visits <entidade "Wisdom Hallyne">Wisdom Hallyne</entidade> of the guild and learns that they have stockpiled thousands of jars of <entidade "Wildfire">Wildfire</entidade>,a dangerously flammable substance,to use as catapult ammunition.
+<entidade "Bronn">Bronn</entidade> warns that this strategy could be disastrous,and result in panicking defenders accidentally burning down their own city.
+Tyrion orders <entidade "Hallyne">Hallyne</entidade> to answer to him instead of <entidade "Cersei">Cersei</entidade>.
+Tyrion also passes a street protest that blames him for the ills of the city,as they believe Tyrion to be manipulating <entidade "Joffrey">Joffrey</entidade>.
+<entidade "Theon Greyjoy">Theon Greyjoy</entidade> takes command of his new ship and finds his crew insubordinate.
+His first mate <entidade "Dagmer Cleftjaw">Dagmer Cleftjaw</entidade> tells him that he needs to prove himself to the men and <entidade "Theon Greyjoy">Theon</entidade> plans to raid <entidade "Torrhen's Square">Torrhen's Square</entidade> to draw the remaining forces of House Stark from Winterfell.
+His plan is successful and <entidade "Rodrik Cassel">Ser Rodrik Cassel</entidade> leads a force of 200 men to relieve his siege of <entidade "Torrhen's Square">Torrhen's Square</entidade>.
+<entidade "Bran Stark">Bran Stark</entidade> provides well judged counsel to his subjects but continues to be troubled by his dreams.
 
-Tyrion discovers the <entidade " Wildfire"> Wildfire</entidade>.
-He discusses dreaming of a three-eyed raven with the wildling woman <entidade " Osha"> Osha</entidade> but she declines to interpret the dream.
-He also confides dreaming of the sea flooding <entidade " Winterfell"> Winterfell</entidade> and drowning his people,including <entidade " Ser Rodrik Cassel"> Ser Rodrik</entidade>.
-<entidade " Tywin Lannister"> Tywin Lannister</entidade> hosts a protracted war council to determine a new strategy to deal with <entidade " Robb"> Robb</entidade>.
-<entidade " Arya Stark"> Arya Stark</entidade> serves as his cupbearer.
-Though he does not know who she really is,<entidade " Tywin Lannister"> Tywin</entidade> realizes that she is of northern extraction and questions her about her origins and opinions regarding <entidade " Robb"> Robb</entidade>.
+Tyrion discovers the <entidade "Wildfire">Wildfire</entidade>.
+He discusses dreaming of a three-eyed raven with the wildling woman <entidade "Osha">Osha</entidade> but she declines to interpret the dream.
+He also confides dreaming of the sea flooding <entidade "Winterfell">Winterfell</entidade> and drowning his people,including <entidade "Rodrik Cassel">Ser Rodrik</entidade>.
+<entidade "Tywin Lannister">Tywin Lannister</entidade> hosts a protracted war council to determine a new strategy to deal with <entidade "Robb">Robb</entidade>.
+<entidade "Arya Stark">Arya Stark</entidade> serves as his cupbearer.
+Though he does not know who she really is,<entidade "Tywin Lannister">Tywin</entidade> realizes that she is of northern extraction and questions her about her origins and opinions regarding <entidade "Robb">Robb</entidade>.
 She manages to avoid revealing her true identity.
-She leaves to fetch water and encounters <entidade " Jaqen H'ghar"> Jaqen H'ghar</entidade>,now a <entidade " Lannister"> Lannister</entidade> man-at-arms.
-<entidade " Jaqen H'ghar"> Jaqen</entidade> says that because she saved his life,and those of his two fellow prisoners,he owes her three deaths and offers to kill three people of her choosing.
-She targets the <entidade " Tickler"> Tickler</entidade>,<entidade " Ser Gregor Clegane"> Ser Gregor Clegane</entidade>'s torturer.
-The <entidade " Tickler"> Tickler</entidade> is soon found dead in the courtyard,his neck twisted 180 degrees.
-<entidade " Arya Stark"> Arya</entidade> notices <entidade " Jaqen H'ghar"> Jaqen</entidade> on the walkway above and he holds a single finger to his face to signify his responsibility.
+She leaves to fetch water and encounters <entidade "Jaqen H'ghar">Jaqen H'ghar</entidade>,now a <entidade "Lannister">Lannister</entidade> man-at-arms.
+<entidade "Jaqen H'ghar">Jaqen</entidade> says that because she saved his life,and those of his two fellow prisoners,he owes her three deaths and offers to kill three people of her choosing.
+She targets the <entidade "Tickler">Tickler</entidade>,<entidade "Gregor Clegane">Ser Gregor Clegane</entidade>'s torturer.
+The <entidade "Tickler">Tickler</entidade> is soon found dead in the courtyard,his neck twisted 180 degrees.
+<entidade "Arya Stark">Arya</entidade> notices <entidade "Jaqen H'ghar">Jaqen</entidade> on the walkway above and he holds a single finger to his face to signify his responsibility.
 
-Beyond the <entidade " Wall"> Wall</entidade> 
-The <entidade " Night's Watch"> Night's Watch</entidade> and <entidade " Ghost on the Fist of the First Men"> Ghost on the Fist of the First Men</entidade>.
-<entidade " Lord Commander Jeor Mormont"> Lord Commander Jeor Mormont</entidade> leads his ranging to the ancient Fist of the <entidade " First Men"> First Men</entidade> to rendezvous with the experienced scout <entidade " Qhorin Halfhand"> Qhorin Halfhand</entidade>.
-<entidade " Qhorin Halfhand"> Qhorin</entidade> arrives and warns <entidade " Jeor"> Jeor</entidade> that they must change their tactics to combat the wildling army under <entidade " King-Beyond-the-Wall Mance Rayder"> King-Beyond-the-Wall Mance Rayder</entidade>.
-He suggests sending a small party ahead to neutralize <entidade " Mance"> Mance</entidade>'s lookouts in the <entidade " Skirling Pass"> Skirling Pass</entidade>.
-<entidade " Jon Snow"> Jon Snow</entidade> joins <entidade " Qhorin Halfhand"> Qhorin</entidade>'s group,while <entidade " Samwell Tarly"> Samwell Tarly</entidade> takes his task as the steward of <entidade " Lord Commander Jeor Mormont"> Lord Commander Jeor Mormont</entidade>.
+Beyond the <entidade "Wall">Wall</entidade> 
+The <entidade "Night's Watch">Night's Watch</entidade> and <entidade "Ghost on the Fist of the First Men">Ghost on the Fist of the First Men</entidade>.
+<entidade "Jeor Mormont">Lord Commander Jeor Mormont</entidade> leads his ranging to the ancient Fist of the <entidade "First Men">First Men</entidade> to rendezvous with the experienced scout <entidade "Qhorin Halfhand">Qhorin Halfhand</entidade>.
+<entidade "Qhorin Halfhand">Qhorin</entidade> arrives and warns <entidade "Jeor Mormont">Jeor</entidade> that they must change their tactics to combat the wildling army under <entidade "King-Beyond-the-Wall Mance Rayder">King-Beyond-the-Wall Mance Rayder</entidade>.
+He suggests sending a small party ahead to neutralize <entidade "Mance">Mance</entidade>'s lookouts in the <entidade "Skirling Pass">Skirling Pass</entidade>.
+<entidade "Jon Snow">Jon Snow</entidade> joins <entidade "Qhorin Halfhand">Qhorin</entidade>'s group,while <entidade "Samwell Tarly">Samwell Tarly</entidade> takes his task as the steward of <entidade "Jeor Mormont">Lord Commander Jeor Mormont</entidade>.
 
-Across the <entidade " Narrow Sea"> Narrow Sea</entidade> 
-<entidade " Drogon"> Drogon</entidade>,breathing fire for the first time.
-<entidade " Daenerys Targaryen"> Daenerys Targaryen</entidade> has taught her dragons to breathe fire on command and they are now capable of sharing and eating meat on their own.
-She is enjoying the hospitality of the wealthy noble Xaro <entidade " Xhoan Daxos"> Xhoan Daxos</entidade> in the city of <entidade " Qarth"> Qarth</entidade>.
+Across the <entidade "Narrow Sea">Narrow Sea</entidade> 
+<entidade "Drogon">Drogon</entidade>,breathing fire for the first time.
+<entidade "Daenerys Targaryen">Daenerys Targaryen</entidade> has taught her dragons to breathe fire on command and they are now capable of sharing and eating meat on their own.
+She is enjoying the hospitality of the wealthy noble Xaro <entidade "Xhoan Daxos">Xhoan Daxos</entidade> in the city of <entidade "Qarth">Qarth</entidade>.
 He hosts a gathering in her honor in the gardens of his home.
-She is perturbed by the tricks of the warlock <entidade " Pyat Pree"> Pyat Pree</entidade>,who invites her to visit the <entidade " House of the Undying"> House of the Undying</entidade>.
-The masked woman <entidade " Quaithe"> Quaithe</entidade> delivers an enigmatic warning to  Ser Jorah Mormont about Daenerys's need for protection from those who lust after her dragons.
-Xaro offers to fund <entidade " Daenerys Targaryen"> Daenerys</entidade>'s invasion of <entidade " Westeros"> Westeros</entidade> in exchange for her hand in marriage.
-Later,she seeks <entidade " Jorah"> Jorah</entidade>'s advice about the proposal and he cautions against accepting financial aid.
-He suggests that she will be able to win her throne should she reach <entidade " Westeros"> Westeros</entidade> with just a single ship.
+She is perturbed by the tricks of the warlock <entidade "Pyat Pree">Pyat Pree</entidade>,who invites her to visit the <entidade "House of the Undying">House of the Undying</entidade>.
+The masked woman <entidade "Quaithe">Quaithe</entidade> delivers an enigmatic warning to Ser Jorah Mormont about Daenerys's need for protection from those who lust after her dragons.
+Xaro offers to fund <entidade "Daenerys Targaryen">Daenerys</entidade>'s invasion of <entidade "Westeros">Westeros</entidade> in exchange for her hand in marriage.
+Later,she seeks <entidade "Jorah">Jorah</entidade>'s advice about the proposal and he cautions against accepting financial aid.
+He suggests that she will be able to win her throne should she reach <entidade "Westeros">Westeros</entidade> with just a single ship.
 He reveals his depth of feeling for her but she does not return his affections.
 

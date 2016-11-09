@@ -12,6 +12,7 @@ titulos = ['Ser ','Queen ','Lord ', 'Prince ', 'Princess ', 'Lord Commander ', '
 
 DIRETORIO_DESTINO = ''
 ENTIDADES_NOMEADAS = []
+ENTIDADE_DISTINTAS = list()
 RELACOES = []
 MAPA_EPISODIOS_TEMPORADA = dict()
 
@@ -60,7 +61,7 @@ def aplicarGramatica(sentencasTokenizadas, nomeEpisodioFormatado):
                 ehEntidade = True
                 entidadeNomeada = ''
                 for folha in arvore.leaves():
-                    if len(entidadeNomeada) != '':
+                    if entidadeNomeada != '':
                         if folha[1] == 'IN' and folha[0] not in IN_Desejados:
                             ehEntidade = False
 
@@ -73,45 +74,40 @@ def aplicarGramatica(sentencasTokenizadas, nomeEpisodioFormatado):
                     else:
                         entidadeNomeada = folha[0]
 
-                if len(entidadeNomeada) != '':
+                if entidadeNomeada != '':
                     if ehEntidade:
                         ENTIDADES_NOMEADAS.append(entidadeNomeada)
 
                         entidade = ''
-
-                        global titulos
                         entidade = entidadeNomeada
                         for titulo in titulos:
-                            if entidadeNomeada.startswith(titulo):
+                            if entidadeNomeada.startswith(titulo) and ' of ' not in entidadeNomeada:
                                 entidade = re.sub(r'' + titulo, r'', entidadeNomeada)
 
                         naoEstaNoCache = True
                         for referenciado in cacheReferenciados:
                             if entidade.startswith(referenciado):
-                                if len(referenciado) > len(entidade):
-                                    cacheReferenciados.append(referenciado)
-                                    textoEpisodio += '<entidade "' + referenciado + '">' + entidadeNomeada + '</entidade> '
-                                else:
-                                    cacheReferenciados.append(entidade)
-                                    textoEpisodio += '<entidade "' + entidade + '">' + entidadeNomeada + '</entidade> '
-                                    cacheReferenciados.remove(referenciado)
+                                textoEpisodio += '<entidade "' + entidade + '">' + entidadeNomeada + '</entidade> '
+                                cacheReferenciados.remove(referenciado)
+                                cacheReferenciados.append(entidade)
                                 naoEstaNoCache = False
+
+                                ENTIDADE_DISTINTAS.remove(referenciado)
+                                ENTIDADE_DISTINTAS.append(entidade)
                                 break
 
                             elif referenciado.startswith(entidade):
-                                if len(referenciado) > len(entidade):
-                                    cacheReferenciados.append(referenciado)
-                                    textoEpisodio += '<entidade "' + referenciado + '">' + entidadeNomeada + '</entidade> '
-                                else:
-                                    cacheReferenciados.append(entidade)
-                                    textoEpisodio += '<entidade "' + entidade + '">' + entidadeNomeada + '</entidade> '
-                                    cacheReferenciados.remove(referenciado)
+                                cacheReferenciados.remove(referenciado)
+                                cacheReferenciados.append(referenciado)
+                                textoEpisodio += '<entidade "' + referenciado + '">' + entidadeNomeada + '</entidade> '
                                 naoEstaNoCache = False
                                 break
 
                         if naoEstaNoCache:
                             cacheReferenciados.append(entidade)
                             textoEpisodio += '<entidade "' + entidade + '">' + entidadeNomeada + '</entidade> '
+                            if entidade not in ENTIDADE_DISTINTAS:
+                                ENTIDADE_DISTINTAS.append(entidade)
 
                         if len(cacheReferenciados) > 30:
                             del cacheReferenciados[0]
@@ -234,6 +230,15 @@ def gerarCSVRelacoes(relacoes):
         csvRelacoes.write(relacao + '\n')
     csvRelacoes.close()
 
+def gerarCSVEntidadesDistintas():
+    csvEntidadeDistintas = open(join(DIRETORIO_DESTINO, 'entidadeasDistintas.csv'), 'w+')
+
+    csvEntidadeDistintas.write('Entidade' + '\n')
+    for entidade in sorted(set(ENTIDADE_DISTINTAS)):
+        csvEntidadeDistintas.write(entidade + '\n')
+    csvEntidadeDistintas.close()
+
+
 def main():
     if len(sys.argv) != 2:
         print "Deve ser passado o nome do diretorio PreProcessado."
@@ -254,7 +259,7 @@ def main():
 
     gerarCSVEntidadesNomeadas(ENTIDADES_NOMEADAS)
     gerarCSVRelacoes(RELACOES)
-
+    gerarCSVEntidadesDistintas()
 
 def escreverEmArquivo(caminho, texto):
     arquivo = open(caminho, 'w+')

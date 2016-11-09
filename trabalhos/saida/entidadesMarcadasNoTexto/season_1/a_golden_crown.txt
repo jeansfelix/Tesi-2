@@ -1,142 +1,142 @@
-<entidade " Jane Espenson"> Jane Espenson</entidade>,<entidade " David Benioff"> David Benioff</entidade> & <entidade " D.B"> D.B</entidade>.
+<entidade "Jane Espenson">Jane Espenson</entidade>,<entidade "David Benioff">David Benioff</entidade> & <entidade "D.B">D.B</entidade>.
 Weiss 
 
-<entidade " Daniel Minahan"> Daniel Minahan</entidade> 
+<entidade "Daniel Minahan">Daniel Minahan</entidade> 
 
-The <entidade " Wolf"> Wolf</entidade> and the <entidade " Lion"> Lion</entidade> 
+The <entidade "Wolf">Wolf</entidade> and the <entidade "Lion">Lion</entidade> 
 You Win or You Die 
 
-A <entidade " Golden Crown"> Golden Crown</entidade> is the sixth episode of the first season of <entidade " Game of Thrones"> Game of Thrones</entidade>.
+A <entidade "Golden Crown">Golden Crown</entidade> is the sixth episode of the first season of <entidade "Game of Thrones">Game of Thrones</entidade>.
 It is the sixth episode of the series overall.
-It first aired on <entidade " May 22, 2011"> May 22, 2011</entidade>.
-It was written by <entidade " Jane Espenson"> Jane Espenson</entidade>,<entidade " David Benioff"> David Benioff</entidade> & <entidade " D.B"> D.B</entidade>.
-<entidade " Weiss"> Weiss</entidade> and directed by <entidade " Daniel Minahan"> Daniel Minahan</entidade>.
+It first aired on <entidade "May 22, 2011">May 22, 2011</entidade>.
+It was written by <entidade "Jane Espenson">Jane Espenson</entidade>,<entidade "David Benioff">David Benioff</entidade> & <entidade "D.B">D.B</entidade>.
+<entidade "Weiss">Weiss</entidade> and directed by <entidade "Daniel Minahan">Daniel Minahan</entidade>.
 
-In <entidade " Vaes Dothrak"> Vaes Dothrak</entidade>,<entidade " Viserys"> Viserys</entidade>' frustrations at the constant delays before he can receive his crown boil over.
-In <entidade " King's Landing"> King's Landing</entidade>,while King <entidade " Robert"> Robert</entidade> goes on a hunt,<entidade " Eddard"> Eddard</entidade> issues a decree that could splinter the <entidade " Seven Kingdoms"> Seven Kingdoms</entidade> and makes a startling discovery about the heirs to the throne.
-In the <entidade " Eyrie"> Eyrie</entidade>,<entidade " Tyrion Lannister"> Tyrion Lannister</entidade> wagers everything on the greed of the sellsword <entidade " Bronn"> Bronn</entidade>.
+In <entidade "Vaes Dothrak">Vaes Dothrak</entidade>,<entidade "Viserys">Viserys</entidade>' frustrations at the constant delays before he can receive his crown boil over.
+In <entidade "King's Landing">King's Landing</entidade>,while King <entidade "Robert">Robert</entidade> goes on a hunt,<entidade "Eddard">Eddard</entidade> issues a decree that could splinter the <entidade "Seven Kingdoms">Seven Kingdoms</entidade> and makes a startling discovery about the heirs to the throne.
+In the <entidade "Eyrie">Eyrie</entidade>,<entidade "Tyrion Lannister">Tyrion Lannister</entidade> wagers everything on the greed of the sellsword <entidade "Bronn">Bronn</entidade>.
 
 In the Crownlands 
-<entidade " Lord Eddard Stark"> Lord Eddard Stark</entidade> wakes up after a long period of unconsciousness,due to the injuries inflicted on him by <entidade " Jaime Lannister"> Jaime Lannister</entidade>'s men.
-He finds both <entidade " King Robert Baratheon"> King Robert Baratheon</entidade> and <entidade " Queen Cersei"> Queen Cersei</entidade> waiting.
+<entidade "Eddard Stark">Lord Eddard Stark</entidade> wakes up after a long period of unconsciousness,due to the injuries inflicted on him by <entidade "Jaime Lannister">Jaime Lannister</entidade>'s men.
+He finds both <entidade "King Robert Baratheon">King Robert Baratheon</entidade> and <entidade "Cersei">Queen Cersei</entidade> waiting.
 
-<entidade " King Robert Baratheon"> King Robert</entidade>'s hunting party.
-<entidade " Cersei"> Cersei</entidade> is furious with <entidade " Eddard"> Eddard</entidade>'s acts in having her brother Tyrion arrested and attacking <entidade " Jaime Lannister"> Jaime</entidade> in the street.
-She wants <entidade " Robert"> Robert</entidade> to take action against him,but <entidade " Robert"> Robert</entidade> refuses to condemn him without hearing <entidade " Eddard"> Eddard</entidade>'s side,and tells her to be silent.
-When <entidade " Cersei"> Cersei</entidade> protests further,and calls <entidade " Robert"> Robert</entidade> a woman,he hits her.
+<entidade "King Robert Baratheon">King Robert</entidade>'s hunting party.
+<entidade "Cersei">Cersei</entidade> is furious with <entidade "Eddard Stark">Eddard</entidade>'s acts in having her brother Tyrion arrested and attacking <entidade "Jaime Lannister">Jaime</entidade> in the street.
+She wants <entidade "Robert">Robert</entidade> to take action against him,but <entidade "Robert">Robert</entidade> refuses to condemn him without hearing <entidade "Eddard Stark">Eddard</entidade>'s side,and tells her to be silent.
+When <entidade "Cersei">Cersei</entidade> protests further,and calls <entidade "Robert">Robert</entidade> a woman,he hits her.
 She says that she will wear the bruise with honor.
-He tells her to be silent,or he will honor her again,and <entidade " Cersei"> Cersei</entidade> leaves in anger.
-Afterwards,<entidade " Robert"> Robert</entidade> restores <entidade " Eddard"> Eddard</entidade> to his position as <entidade " King's Hand"> King's Hand</entidade>,and tells him not to quit again,or he will give the position to <entidade " Jaime Lannister"> Jaime Lannister</entidade>.
-He tells <entidade " Lord Eddard Stark"> Lord Eddard</entidade> to end the animosity between <entidade " House Stark"> House Stark</entidade> and <entidade " House Lannister"> House Lannister</entidade>,as strife between these two powerful houses could lead them into war.
+He tells her to be silent,or he will honor her again,and <entidade "Cersei">Cersei</entidade> leaves in anger.
+Afterwards,<entidade "Robert">Robert</entidade> restores <entidade "Eddard Stark">Eddard</entidade> to his position as <entidade "King's Hand">King's Hand</entidade>,and tells him not to quit again,or he will give the position to <entidade "Jaime Lannister">Jaime Lannister</entidade>.
+He tells <entidade "Eddard Stark">Lord Eddard</entidade> to end the animosity between <entidade "House Stark">House Stark</entidade> and <entidade "House Lannister">House Lannister</entidade>,as strife between these two powerful houses could lead them into war.
 He is leaving on a hunt and wants the realm at peace by the time he returns.
-<entidade " Arya"> Arya</entidade> has another dancing lesson with <entidade " Syrio Forel"> Syrio Forel</entidade>,but isn't in the mood due to <entidade " Jory"> Jory</entidade>'s death.
+<entidade "Arya">Arya</entidade> has another dancing lesson with <entidade "Syrio Forel">Syrio Forel</entidade>,but isn't in the mood due to <entidade "Jory">Jory</entidade>'s death.
 Syrio tells her that she may need to fight at any time,not just when she's in the mood.
 He wisely reminds her that being prepared to fight is more important in times of sadness than in peaceful times of happiness.
-King <entidade " Robert"> Robert</entidade> is out hunting,accompanied by his brother Renly,<entidade " Ser Barristan Selmy"> Ser Barristan Selmy</entidade> and <entidade " Lancel Lannister"> Lancel Lannister</entidade>.
-<entidade " Robert"> Robert</entidade>,being supplied with wine by <entidade " Lancel Lannister"> Lancel</entidade>,becomes drunk and nostalgic,longing for the days of young knights trying to make a name for themselves and when enemies stood openly in opposition ( instead of being hidden schemers ).
-<entidade " Robert"> Robert</entidade> brags about all the women he has bedded,but Renly becomes irate when he begins to question him about his history with women.
-Renly calls him a fool and remarks that the past had its share of violence that <entidade " Robert"> Robert</entidade> is conveniently ignoring.
-Renly storms off,leaving <entidade " Ser Barristan Selmy"> Ser Barristan</entidade> to look on concerned,as <entidade " Lancel Lannister"> Lancel</entidade> keeps up <entidade " King Robert Baratheon"> King Robert</entidade>'s wine supply.
-In <entidade " King's Landing"> King's Landing</entidade>,at a meeting of the small council,a group of refugees come to tell of how their villages have been destroyed.
-<entidade " Eddard"> Eddard</entidade> hears tales of a huge knight ravaging the <entidade " Riverlands"> Riverlands</entidade>.
-He realizes that it's <entidade " Ser Gregor Clegane"> Ser Gregor Clegane</entidade>,The <entidade " Mountain"> Mountain</entidade>,who is likely under <entidade " Lannister"> Lannister</entidade> orders to punish the <entidade " Riverlands"> Riverlands</entidade> - which are held by <entidade " House Tully"> House Tully</entidade>,the former <entidade " House Stark"> House</entidade> of his wife <entidade " Catelyn"> Catelyn</entidade>,who now holds <entidade " Tyrion"> Tyrion</entidade> captive.
-Even though <entidade " King Robert Baratheon"> King Robert</entidade> told him to make peace with the <entidade " Lannisters"> Lannisters</entidade>,<entidade " Lord Eddard Stark"> Lord Eddard</entidade> could not bring himself to let this injustice stand.
-<entidade " Eddard"> Eddard</entidade> strips <entidade " Gregor Clegane"> Gregor Clegane</entidade> of his knighthood,land,and titles,and sends <entidade " Lord Beric Dondarrion"> Lord Beric Dondarrion</entidade> with a retinue of one hundred knights to arrest and execute him in the king's name.
+King <entidade "Robert">Robert</entidade> is out hunting,accompanied by his brother Renly,<entidade "Barristan Selmy">Ser Barristan Selmy</entidade> and <entidade "Lancel Lannister">Lancel Lannister</entidade>.
+<entidade "Robert">Robert</entidade>,being supplied with wine by <entidade "Lancel Lannister">Lancel</entidade>,becomes drunk and nostalgic,longing for the days of young knights trying to make a name for themselves and when enemies stood openly in opposition ( instead of being hidden schemers ).
+<entidade "Robert">Robert</entidade> brags about all the women he has bedded,but Renly becomes irate when he begins to question him about his history with women.
+Renly calls him a fool and remarks that the past had its share of violence that <entidade "Robert">Robert</entidade> is conveniently ignoring.
+Renly storms off,leaving <entidade "Barristan Selmy">Ser Barristan</entidade> to look on concerned,as <entidade "Lancel Lannister">Lancel</entidade> keeps up <entidade "King Robert Baratheon">King Robert</entidade>'s wine supply.
+In <entidade "King's Landing">King's Landing</entidade>,at a meeting of the small council,a group of refugees come to tell of how their villages have been destroyed.
+<entidade "Eddard Stark">Eddard</entidade> hears tales of a huge knight ravaging the <entidade "Riverlands">Riverlands</entidade>.
+He realizes that it's <entidade "Gregor Clegane">Ser Gregor Clegane</entidade>,The <entidade "Mountain">Mountain</entidade>,who is likely under <entidade "Lannister">Lannister</entidade> orders to punish the <entidade "Riverlands">Riverlands</entidade> - which are held by <entidade "House Tully">House Tully</entidade>,the former <entidade "House Stark">House</entidade> of his wife <entidade "Catelyn">Catelyn</entidade>,who now holds <entidade "Tyrion Lannister">Tyrion</entidade> captive.
+Even though <entidade "King Robert Baratheon">King Robert</entidade> told him to make peace with the <entidade "Lannisters">Lannisters</entidade>,<entidade "Eddard Stark">Lord Eddard</entidade> could not bring himself to let this injustice stand.
+<entidade "Eddard Stark">Eddard</entidade> strips <entidade "Gregor Clegane">Gregor Clegane</entidade> of his knighthood,land,and titles,and sends <entidade "Beric Dondarrion">Lord Beric Dondarrion</entidade> with a retinue of one hundred knights to arrest and execute him in the king's name.
 
-<entidade " Eddard"> Eddard</entidade> discovers the secret <entidade " Jon Arryn"> Jon Arryn</entidade> died for.
-He also orders <entidade " Grand Maester Pycelle"> Grand Maester Pycelle</entidade> to send word to <entidade " Casterly Rock"> Casterly Rock</entidade>,demanding <entidade " Lord Tywin Lannister"> Lord Tywin Lannister</entidade>'s presence in court to explain his bannerman's actions or be branded an enemy of the crown and a traitor to the realm.
-'Littlefinger' <entidade " Petyr Baelish"> Petyr Baelish</entidade>,and <entidade " Grand Maester Pycelle"> Grand Maester Pycelle</entidade> are both concerned with the harshness of these orders and <entidade " Eddard"> Eddard</entidade>'s actions against the <entidade " Lannisters"> Lannisters</entidade>,but <entidade " Eddard"> Eddard</entidade> wants to see justice done.
-<entidade " Prince Joffrey"> Prince Joffrey</entidade> comes to apologize to <entidade " Sansa"> Sansa</entidade> for the incident on the <entidade " Kingsroad"> Kingsroad</entidade>.
+<entidade "Eddard Stark">Eddard</entidade> discovers the secret <entidade "Jon Arryn">Jon Arryn</entidade> died for.
+He also orders <entidade "Pycelle">Grand Maester Pycelle</entidade> to send word to <entidade "Casterly Rock">Casterly Rock</entidade>,demanding <entidade "Tywin Lannister">Lord Tywin Lannister</entidade>'s presence in court to explain his bannerman's actions or be branded an enemy of the crown and a traitor to the realm.
+'Littlefinger' <entidade "Petyr Baelish">Petyr Baelish</entidade>,and <entidade "Pycelle">Grand Maester Pycelle</entidade> are both concerned with the harshness of these orders and <entidade "Eddard Stark">Eddard</entidade>'s actions against the <entidade "Lannisters">Lannisters</entidade>,but <entidade "Eddard Stark">Eddard</entidade> wants to see justice done.
+<entidade "Joffrey">Prince Joffrey</entidade> comes to apologize to <entidade "Sansa">Sansa</entidade> for the incident on the <entidade "Kingsroad">Kingsroad</entidade>.
 He calls her his lady love and gives her a necklace.
-<entidade " Sansa"> Sansa</entidade> forgives him,and they seem reconciled.
-<entidade " Sansa"> Sansa</entidade> is unaware that the <entidade " Queen"> Queen</entidade> put <entidade " Joffrey"> Joffrey</entidade> up to the apology some time ago.
-<entidade " Eddard"> Eddard</entidade> decides to send his daughters back to <entidade " Winterfell"> Winterfell</entidade>.
-<entidade " Arya"> Arya</entidade> is worried that she must leave <entidade " Syrio"> Syrio</entidade>.
-Sansa protests that no one cares about her trivial dancing instructor,they are talking about breaking her betrothal to <entidade " Joffrey"> Joffrey</entidade>.
-<entidade " Lord Eddard Stark"> Lord Eddard</entidade> says that he will find someone else for her.
-Sansa refuses she is going to marry <entidade " Joffrey"> Joffrey</entidade> and have lots of golden-haired babies.
-This gives <entidade " Eddard"> Eddard</entidade> pause and sends him back to the book that <entidade " Jon Arryn"> Jon Arryn</entidade> was looking at before he died.
-Consulting the book's entry on <entidade " House Baratheon"> House Baratheon</entidade>,<entidade " Lord Eddard Stark"> Lord Eddard</entidade> finds that every time a <entidade " Baratheon"> Baratheon</entidade> has married,the children have had black hair…right up to <entidade " Cersei"> Cersei</entidade> and <entidade " Robert"> Robert</entidade>'s children,who are all blond.
+<entidade "Sansa">Sansa</entidade> forgives him,and they seem reconciled.
+<entidade "Sansa">Sansa</entidade> is unaware that the <entidade "Queen">Queen</entidade> put <entidade "Joffrey">Joffrey</entidade> up to the apology some time ago.
+<entidade "Eddard Stark">Eddard</entidade> decides to send his daughters back to <entidade "Winterfell">Winterfell</entidade>.
+<entidade "Arya">Arya</entidade> is worried that she must leave <entidade "Syrio Forel">Syrio</entidade>.
+Sansa protests that no one cares about her trivial dancing instructor,they are talking about breaking her betrothal to <entidade "Joffrey">Joffrey</entidade>.
+<entidade "Eddard Stark">Lord Eddard</entidade> says that he will find someone else for her.
+Sansa refuses she is going to marry <entidade "Joffrey">Joffrey</entidade> and have lots of golden-haired babies.
+This gives <entidade "Eddard Stark">Eddard</entidade> pause and sends him back to the book that <entidade "Jon Arryn">Jon Arryn</entidade> was looking at before he died.
+Consulting the book's entry on <entidade "House Baratheon">House Baratheon</entidade>,<entidade "Eddard Stark">Lord Eddard</entidade> finds that every time a <entidade "Baratheon">Baratheon</entidade> has married,the children have had black hair…right up to <entidade "Cersei">Cersei</entidade> and <entidade "Robert">Robert</entidade>'s children,who are all blond.
 
-In the <entidade " North"> North</entidade> 
-<entidade " Stiv"> Stiv</entidade> and <entidade " Osha"> Osha</entidade> accost  Bran near Winterfell.
-In <entidade " Winterfell"> Winterfell</entidade>,<entidade " Bran"> Bran</entidade> has another dream about the three-eyed raven,in which it flies into the castle's crypts.
-He wakes up to find that <entidade " Hodor"> Hodor</entidade> has brought the finished saddle designed by <entidade " Tyrion"> Tyrion</entidade>.
-He goes on a ride with <entidade " Robb"> Robb</entidade> and <entidade " Theon"> Theon</entidade>.
-They have had word from <entidade " Kingsroad"> King</entidade>'s Landing about <entidade " Eddard"> Eddard</entidade>'s injury,<entidade " Jory"> Jory</entidade>'s death and <entidade " Tyrion"> Tyrion</entidade>'s capture.
-<entidade " Theon"> Theon</entidade> thinks that <entidade " Robb"> Robb</entidade> should prepare the <entidade " North"> North</entidade> for war,but <entidade " Robb"> Robb</entidade> is determined to make his own decision for when that time has come,and until then will follow his parents' orders to remain in <entidade " Winterfell"> Winterfell</entidade>.
-They discover that <entidade " Bran"> Bran</entidade> has wandered off on his horse and go looking for him.
-<entidade " Robb"> Robb</entidade> finds a group of wildlings threatening <entidade " Bran"> Bran</entidade> and trying to steal his horse.
-<entidade " Robb"> Robb</entidade> kills two,but another wildling holds <entidade " Bran"> Bran</entidade> with a knife to the throat.
-<entidade " Theon"> Theon</entidade> shoots him from behind,angering <entidade " Robb"> Robb</entidade> by endangering <entidade " Bran"> Bran</entidade>.
-The remaining wildling,a woman named <entidade " Osha"> Osha</entidade>,yields and begs for her life.
-<entidade " Robb"> Robb</entidade> agrees to take her as a prisoner.
+In the <entidade "North">North</entidade> 
+<entidade "Stiv">Stiv</entidade> and <entidade "Osha">Osha</entidade> accost Bran near Winterfell.
+In <entidade "Winterfell">Winterfell</entidade>,<entidade "Bran">Bran</entidade> has another dream about the three-eyed raven,in which it flies into the castle's crypts.
+He wakes up to find that <entidade "Hodor">Hodor</entidade> has brought the finished saddle designed by <entidade "Tyrion Lannister">Tyrion</entidade>.
+He goes on a ride with <entidade "Robb">Robb</entidade> and <entidade "Theon">Theon</entidade>.
+They have had word from <entidade "King Robert Baratheon">King</entidade>'s Landing about <entidade "Eddard Stark">Eddard</entidade>'s injury,<entidade "Jory">Jory</entidade>'s death and <entidade "Tyrion Lannister">Tyrion</entidade>'s capture.
+<entidade "Theon">Theon</entidade> thinks that <entidade "Robb">Robb</entidade> should prepare the <entidade "North">North</entidade> for war,but <entidade "Robb">Robb</entidade> is determined to make his own decision for when that time has come,and until then will follow his parents' orders to remain in <entidade "Winterfell">Winterfell</entidade>.
+They discover that <entidade "Bran">Bran</entidade> has wandered off on his horse and go looking for him.
+<entidade "Robb">Robb</entidade> finds a group of wildlings threatening <entidade "Bran">Bran</entidade> and trying to steal his horse.
+<entidade "Robb">Robb</entidade> kills two,but another wildling holds <entidade "Bran">Bran</entidade> with a knife to the throat.
+<entidade "Theon">Theon</entidade> shoots him from behind,angering <entidade "Robb">Robb</entidade> by endangering <entidade "Bran">Bran</entidade>.
+The remaining wildling,a woman named <entidade "Osha">Osha</entidade>,yields and begs for her life.
+<entidade "Robb">Robb</entidade> agrees to take her as a prisoner.
 
-<entidade " Theon"> Theon</entidade> tells <entidade " Ros"> Ros</entidade> he will miss her as she leaves for <entidade " King's Landing"> King's Landing</entidade>.
-<entidade " Ros"> Ros</entidade>,the prostitute that <entidade " Theon"> Theon</entidade> frequently sees,is departing  Winterfell for King's Landing on the back of a turnip cart.
-<entidade " Theon"> Theon</entidade> stops her and unsuccessfully tries to persuade her to stay.
-She explains that war is now imminent and the men ( and thus her customer base ) of <entidade " Winterfell"> Winterfell</entidade> are destined to leave soon and probably never return ; her departure is thus an economically essential decision.
+<entidade "Theon">Theon</entidade> tells <entidade "Ros">Ros</entidade> he will miss her as she leaves for <entidade "King's Landing">King's Landing</entidade>.
+<entidade "Ros">Ros</entidade>,the prostitute that <entidade "Theon">Theon</entidade> frequently sees,is departing Winterfell for King's Landing on the back of a turnip cart.
+<entidade "Theon">Theon</entidade> stops her and unsuccessfully tries to persuade her to stay.
+She explains that war is now imminent and the men ( and thus her customer base ) of <entidade "Winterfell">Winterfell</entidade> are destined to leave soon and probably never return ; her departure is thus an economically essential decision.
 He throws her a coin to get her to raise her skirt one last time.
 As she rides off he says that he will miss her.
 She agrees that he will.
-Tyrion's verbal skills are wasted on <entidade " Mord"> Mord</entidade>.
-In the <entidade " Vale"> Vale</entidade> 
-At the <entidade " Eyrie"> Eyrie</entidade>,<entidade " Tyrion"> Tyrion</entidade> almost rolls out of his sky cell in his sleep,to his consternation.
-He tries to make a bargain with the gaoler,<entidade " Mord"> Mord</entidade>,to no avail.
-Tyrion convinces <entidade " Mord"> Mord</entidade> to carry a message to <entidade " Lady Lysa Arryn"> Lady Lysa Arryn</entidade> and,in exchange,he will give <entidade " Mord"> Mord</entidade> the gold he had with him when he was captured.
-<entidade " Lysa"> Lysa</entidade> summons <entidade " Tyrion"> Tyrion</entidade>,believing that the sky cell has broken his spirit,but all he confesses to is being a liar,a whoremonger,and a player of practical jokes.
+Tyrion's verbal skills are wasted on <entidade "Mord">Mord</entidade>.
+In the <entidade "Vale">Vale</entidade> 
+At the <entidade "Eyrie">Eyrie</entidade>,<entidade "Tyrion Lannister">Tyrion</entidade> almost rolls out of his sky cell in his sleep,to his consternation.
+He tries to make a bargain with the gaoler,<entidade "Mord">Mord</entidade>,to no avail.
+Tyrion convinces <entidade "Mord">Mord</entidade> to carry a message to <entidade "Lady Lysa Arryn">Lady Lysa Arryn</entidade> and,in exchange,he will give <entidade "Mord">Mord</entidade> the gold he had with him when he was captured.
+<entidade "Lysa">Lysa</entidade> summons <entidade "Tyrion Lannister">Tyrion</entidade>,believing that the sky cell has broken his spirit,but all he confesses to is being a liar,a whoremonger,and a player of practical jokes.
 He maintains his innocence of the crimes of conspiracy to commit murder.
 
-Tyrion on trial in the <entidade " Eyrie"> Eyrie</entidade>.
-However,<entidade " Tyrion"> Tyrion</entidade> uses the opportunity of his audience in front of <entidade " Lysa"> Lysa</entidade>'s court to publicly demand his right to justice and a trial,and <entidade " Lysa"> Lysa</entidade> is shamed into agreeing.
-Given that <entidade " Lysa"> Lysa</entidade>'s son is a young boy and wouldn't make a good judge in a formal trial,<entidade " Tyrion"> Tyrion</entidade> instead demands a trial by combat,which <entidade " Lysa"> Lysa</entidade> also reluctantly agrees is his right.
-Given that neither <entidade " Lysa"> Lysa</entidade> nor her young son can fight in a trial by combat,she asks for a volunteer to be her champion,and <entidade " Ser Vardis Egen"> Ser Vardis Egen</entidade> agrees.
-Egen is unwilling to fight <entidade " Tyrion"> Tyrion</entidade> however,as killing such an outmatched opponent would be dishonourable.
-Tyrion names his own champion : his brother <entidade " Jaime"> Jaime</entidade>,considered one of the best swordsmen in the realm.
-At this <entidade " Lysa"> Lysa</entidade> does object,as <entidade " Jaime"> Jaime</entidade> is not present and she does not want to wait.
+Tyrion on trial in the <entidade "Eyrie">Eyrie</entidade>.
+However,<entidade "Tyrion Lannister">Tyrion</entidade> uses the opportunity of his audience in front of <entidade "Lysa">Lysa</entidade>'s court to publicly demand his right to justice and a trial,and <entidade "Lysa">Lysa</entidade> is shamed into agreeing.
+Given that <entidade "Lysa">Lysa</entidade>'s son is a young boy and wouldn't make a good judge in a formal trial,<entidade "Tyrion Lannister">Tyrion</entidade> instead demands a trial by combat,which <entidade "Lysa">Lysa</entidade> also reluctantly agrees is his right.
+Given that neither <entidade "Lysa">Lysa</entidade> nor her young son can fight in a trial by combat,she asks for a volunteer to be her champion,and <entidade "Vardis Egen">Ser Vardis Egen</entidade> agrees.
+Egen is unwilling to fight <entidade "Tyrion Lannister">Tyrion</entidade> however,as killing such an outmatched opponent would be dishonourable.
+Tyrion names his own champion : his brother <entidade "Jaime">Jaime</entidade>,considered one of the best swordsmen in the realm.
+At this <entidade "Lysa">Lysa</entidade> does object,as <entidade "Jaime">Jaime</entidade> is not present and she does not want to wait.
 She demands that he pick a champion from those present.
-<entidade " Tyrion"> Tyrion</entidade> desperately asks for volunteers,and after a long pause during which it seems that <entidade " Tyrion"> Tyrion</entidade>'s cause is lost,the sellsword <entidade " Bronn"> Bronn</entidade> steps forward and says he will stand for him.
-<entidade " Bronn"> Bronn</entidade> kicks <entidade " Ser Vardis Egen"> Ser Vardis Egen</entidade>'s corpse out of the <entidade " Moon Door"> Moon Door</entidade>.
-<entidade " Bronn"> Bronn</entidade> fights defensively,waiting for <entidade " Vardis"> Vardis</entidade> to tire,as unlike <entidade " Bronn"> Bronn</entidade> he is dressed in full armor.
-<entidade " Bronn"> Bronn</entidade> finally gets his chance ; he first wounds and then kills <entidade " Vardis"> Vardis</entidade>,sending his body rolling out of the <entidade " Moon Door"> Moon Door</entidade> that leads to a thousand-foot drop.
-<entidade " Lysa"> Lysa</entidade> complains that <entidade " Bronn"> Bronn</entidade> did not fight with honor.
-<entidade " Bronn"> Bronn</entidade> agrees,but indicates that <entidade " Vardis"> Vardis</entidade> did fight with honor.
+<entidade "Tyrion Lannister">Tyrion</entidade> desperately asks for volunteers,and after a long pause during which it seems that <entidade "Tyrion Lannister">Tyrion</entidade>'s cause is lost,the sellsword <entidade "Bronn">Bronn</entidade> steps forward and says he will stand for him.
+<entidade "Bronn">Bronn</entidade> kicks <entidade "Vardis Egen">Ser Vardis Egen</entidade>'s corpse out of the <entidade "Moon Door">Moon Door</entidade>.
+<entidade "Bronn">Bronn</entidade> fights defensively,waiting for <entidade "Vardis Egen">Vardis</entidade> to tire,as unlike <entidade "Bronn">Bronn</entidade> he is dressed in full armor.
+<entidade "Bronn">Bronn</entidade> finally gets his chance ; he first wounds and then kills <entidade "Vardis Egen">Vardis</entidade>,sending his body rolling out of the <entidade "Moon Door">Moon Door</entidade> that leads to a thousand-foot drop.
+<entidade "Lysa">Lysa</entidade> complains that <entidade "Bronn">Bronn</entidade> did not fight with honor.
+<entidade "Bronn">Bronn</entidade> agrees,but indicates that <entidade "Vardis Egen">Vardis</entidade> did fight with honor.
 Tyrion has proven his innocence in the eyes of the gods.
-He retrieves his gold from <entidade " Ser Rodrik"> Ser Rodrik</entidade> and gives it to <entidade " Mord"> Mord</entidade>.
-When <entidade " Robin"> Robin</entidade> asks if he can make the little man fly now,<entidade " Tyrion"> Tyrion</entidade> says,This little man is going home.
-<entidade " Bronn"> Bronn</entidade> and <entidade " Tyrion"> Tyrion</entidade> are allowed to depart.
+He retrieves his gold from <entidade "Rodrik">Ser Rodrik</entidade> and gives it to <entidade "Mord">Mord</entidade>.
+When <entidade "Robin">Robin</entidade> asks if he can make the little man fly now,<entidade "Tyrion Lannister">Tyrion</entidade> says,This little man is going home.
+<entidade "Bronn">Bronn</entidade> and <entidade "Tyrion Lannister">Tyrion</entidade> are allowed to depart.
 
-Across the <entidade " Narrow Sea"> Narrow Sea</entidade> 
-<entidade " Daenerys"> Daenerys</entidade> and one of her dragon eggs.
-In <entidade " Vaes Dothrak"> Vaes Dothrak</entidade>,<entidade " Daenerys Targaryen"> Daenerys Targaryen</entidade> is studying her dragon eggs.
-Despite <entidade " Illyrio"> Illyrio</entidade>'s claim that they are now only stone,she ponders if they might be hatched by extreme heat,and places an egg on a brazier.
+Across the <entidade "Narrow Sea">Narrow Sea</entidade> 
+<entidade "Daenerys">Daenerys</entidade> and one of her dragon eggs.
+In <entidade "Vaes Dothrak">Vaes Dothrak</entidade>,<entidade "Daenerys Targaryen">Daenerys Targaryen</entidade> is studying her dragon eggs.
+Despite <entidade "Illyrio">Illyrio</entidade>'s claim that they are now only stone,she ponders if they might be hatched by extreme heat,and places an egg on a brazier.
 Nothing happens,to her disappointment.
-She is removing the egg from the brazier,when <entidade " Irri"> Irri</entidade> comes in and thinks she will scald herself.
-<entidade " Irri"> Irri</entidade> takes the egg from her,but <entidade " Daenerys Targaryen"> Daenerys</entidade> is completely unharmed,and it is <entidade " Irri"> Irri</entidade> who suffers scalding burns on her own hands.
-<entidade " Daenerys Targaryen"> Daenerys</entidade> is summoned by the crones who rule the city,the dosh khaleen,the wives of khals slain in battle.
+She is removing the egg from the brazier,when <entidade "Irri">Irri</entidade> comes in and thinks she will scald herself.
+<entidade "Irri">Irri</entidade> takes the egg from her,but <entidade "Daenerys Targaryen">Daenerys</entidade> is completely unharmed,and it is <entidade "Irri">Irri</entidade> who suffers scalding burns on her own hands.
+<entidade "Daenerys Targaryen">Daenerys</entidade> is summoned by the crones who rule the city,the dosh khaleen,the wives of khals slain in battle.
 She eats a stallion's heart and the crones read the omens.
-At first it seems <entidade " Dany"> Dany</entidade> won't keep the raw meat down,but,to both her and <entidade " Drogo"> Drogo</entidade>'s relief,she is able to compose herself.
-The crones declare <entidade " Daenerys Targaryen"> Daenerys</entidade> and <entidade " Drogo"> Drogo</entidade>'s son will be The <entidade " Stallion"> Stallion</entidade> That Mounts The <entidade " World"> World</entidade>,a great conqueror whose coming is long foretold in <entidade " Dothraki"> Dothraki</entidade> history.
-<entidade " Daenerys Targaryen"> Daenerys</entidade> says his name will be <entidade " Rhaego"> Rhaego</entidade>,for her brother <entidade " Rhaegar"> Rhaegar</entidade>,slain by the usurper <entidade " Robert Baratheon"> Robert Baratheon</entidade>.
-<entidade " Viserys"> Viserys</entidade> is not impressed and rather disgusted by it all.
-He stands with <entidade " Ser Jorah"> Ser Jorah</entidade> who explains the ritual to him.
-It is only when the <entidade " Dothraki"> Dothraki</entidade> are chanting <entidade " Rhaego"> Rhaego</entidade>'s name,and <entidade " Drogo"> Drogo</entidade> lifts <entidade " Daenerys Targaryen"> Daenerys</entidade> up and carries her about the room,that <entidade " Viserys"> Viserys</entidade> realizes they love her.
+At first it seems <entidade "Dany">Dany</entidade> won't keep the raw meat down,but,to both her and <entidade "Drogo">Drogo</entidade>'s relief,she is able to compose herself.
+The crones declare <entidade "Daenerys Targaryen">Daenerys</entidade> and <entidade "Drogo">Drogo</entidade>'s son will be The <entidade "Stallion">Stallion</entidade> That Mounts The <entidade "World">World</entidade>,a great conqueror whose coming is long foretold in <entidade "Dothraki">Dothraki</entidade> history.
+<entidade "Daenerys Targaryen">Daenerys</entidade> says his name will be <entidade "Rhaego">Rhaego</entidade>,for her brother <entidade "Rhaegar">Rhaegar</entidade>,slain by the usurper <entidade "Robert Baratheon">Robert Baratheon</entidade>.
+<entidade "Viserys">Viserys</entidade> is not impressed and rather disgusted by it all.
+He stands with <entidade "Jorah">Ser Jorah</entidade> who explains the ritual to him.
+It is only when the <entidade "Dothraki">Dothraki</entidade> are chanting <entidade "Rhaego">Rhaego</entidade>'s name,and <entidade "Drogo">Drogo</entidade> lifts <entidade "Daenerys Targaryen">Daenerys</entidade> up and carries her about the room,that <entidade "Viserys">Viserys</entidade> realizes they love her.
 
-<entidade " Jorah Mormont"> Jorah Mormont</entidade> prevents <entidade " Viserys"> Viserys</entidade> from stealing <entidade " Dany"> Dany</entidade>'s eggs.
+<entidade "Jorah Mormont">Jorah Mormont</entidade> prevents <entidade "Viserys">Viserys</entidade> from stealing <entidade "Dany">Dany</entidade>'s eggs.
 He storms out of the tent.
-<entidade " Viserys"> Viserys</entidade> is later discovered in <entidade " Daenerys Targaryen"> Daenerys</entidade>' tent by <entidade " Ser Jorah Mormont"> Ser Jorah Mormont</entidade>,trying to steal <entidade " Dany"> Dany</entidade>'s dragon eggs,but <entidade " Jorah Mormont"> Jorah</entidade> won't let him.
-<entidade " Viserys"> Viserys</entidade> tells <entidade " Ser Jorah Mormont"> Ser Jorah</entidade> that to rule one must be feared or loved,and he has never been loved as the <entidade " Dothraki"> Dothraki</entidade> love <entidade " Dany"> Dany</entidade>.
-He says he knows that <entidade " Jorah Mormont"> Jorah</entidade> wants <entidade " Daenerys Targaryen"> Daenerys</entidade>,but he doesn't care.
-He just wants the eggs so he can hire an army,but he can't get past <entidade " Ser Jorah Mormont"> Ser Jorah</entidade> and must leave the eggs.
-<entidade " Mormont"> Mormont</entidade> watches him as he leaves.
-<entidade " Drunk"> Drunk</entidade>,bitter and angry,<entidade " Viserys"> Viserys</entidade> interrupts a feast for <entidade " Daenerys Targaryen"> Daenerys</entidade> and <entidade " Drogo"> Drogo</entidade>.
-He angrily demands his payment in return for giving <entidade " Daenerys Targaryen"> Daenerys</entidade> to <entidade " Drogo"> Drogo</entidade>.
-Then he draws his sword,which is considered an offense punishable by death in the sacred city,and threatens <entidade " Dany"> Dany</entidade> and the unborn child,while <entidade " Irri"> Irri</entidade> translates to <entidade " Drogo"> Drogo</entidade>.
+<entidade "Viserys">Viserys</entidade> is later discovered in <entidade "Daenerys Targaryen">Daenerys</entidade>' tent by <entidade "Jorah Mormont">Ser Jorah Mormont</entidade>,trying to steal <entidade "Dany">Dany</entidade>'s dragon eggs,but <entidade "Jorah Mormont">Jorah</entidade> won't let him.
+<entidade "Viserys">Viserys</entidade> tells <entidade "Jorah Mormont">Ser Jorah</entidade> that to rule one must be feared or loved,and he has never been loved as the <entidade "Dothraki">Dothraki</entidade> love <entidade "Dany">Dany</entidade>.
+He says he knows that <entidade "Jorah Mormont">Jorah</entidade> wants <entidade "Daenerys Targaryen">Daenerys</entidade>,but he doesn't care.
+He just wants the eggs so he can hire an army,but he can't get past <entidade "Jorah Mormont">Ser Jorah</entidade> and must leave the eggs.
+<entidade "Mormont">Mormont</entidade> watches him as he leaves.
+<entidade "Drunk">Drunk</entidade>,bitter and angry,<entidade "Viserys">Viserys</entidade> interrupts a feast for <entidade "Daenerys Targaryen">Daenerys</entidade> and <entidade "Drogo">Drogo</entidade>.
+He angrily demands his payment in return for giving <entidade "Daenerys Targaryen">Daenerys</entidade> to <entidade "Drogo">Drogo</entidade>.
+Then he draws his sword,which is considered an offense punishable by death in the sacred city,and threatens <entidade "Dany">Dany</entidade> and the unborn child,while <entidade "Irri">Irri</entidade> translates to <entidade "Drogo">Drogo</entidade>.
 
-<entidade " Khal Drogo"> Khal Drogo</entidade> gives <entidade " Viserys"> Viserys</entidade> a golden crown.
-<entidade " Drogo"> Drogo</entidade> responds that he will give <entidade " Viserys"> Viserys</entidade> a golden crown that men will tremble to behold,and <entidade " Viserys"> Viserys</entidade> is pleased until <entidade " Drogo"> Drogo</entidade>'s bloodrider <entidade " Qotho"> Qotho</entidade> breaks his arm,making him drop the sword,and kicks him to the floor.
-<entidade " Drogo"> Drogo</entidade> melts his golden belt in a pot,while <entidade " Viserys"> Viserys</entidade> begs <entidade " Daenerys Targaryen"> Daenerys</entidade> to help him.
-<entidade " Ser Jorah Mormont"> Ser Jorah</entidade> tells her to look away,but she won't.
-She watches as <entidade " Khal Drogo"> Khal Drogo</entidade> crowns <entidade " Viserys"> Viserys</entidade> by pouring molten gold over his head,causing <entidade " Viserys"> Viserys</entidade> to cry out in pure agony.
-As <entidade " Daenerys Targaryen"> Daenerys</entidade> watches her brother die,she coldly states that,having been killed by fire,<entidade " Viserys"> Viserys</entidade> was no true dragon.
+<entidade "Khal Drogo">Khal Drogo</entidade> gives <entidade "Viserys">Viserys</entidade> a golden crown.
+<entidade "Drogo">Drogo</entidade> responds that he will give <entidade "Viserys">Viserys</entidade> a golden crown that men will tremble to behold,and <entidade "Viserys">Viserys</entidade> is pleased until <entidade "Drogo">Drogo</entidade>'s bloodrider <entidade "Qotho">Qotho</entidade> breaks his arm,making him drop the sword,and kicks him to the floor.
+<entidade "Drogo">Drogo</entidade> melts his golden belt in a pot,while <entidade "Viserys">Viserys</entidade> begs <entidade "Daenerys Targaryen">Daenerys</entidade> to help him.
+<entidade "Jorah Mormont">Ser Jorah</entidade> tells her to look away,but she won't.
+She watches as <entidade "Khal Drogo">Khal Drogo</entidade> crowns <entidade "Viserys">Viserys</entidade> by pouring molten gold over his head,causing <entidade "Viserys">Viserys</entidade> to cry out in pure agony.
+As <entidade "Daenerys Targaryen">Daenerys</entidade> watches her brother die,she coldly states that,having been killed by fire,<entidade "Viserys">Viserys</entidade> was no true dragon.
 

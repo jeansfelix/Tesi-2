@@ -1,90 +1,90 @@
-<entidade " David Benioff"> David Benioff</entidade> and <entidade " D.B"> D.B</entidade>.
+<entidade "David Benioff">David Benioff</entidade> and <entidade "D.B">D.B</entidade>.
 Weiss 
 
-<entidade " Michelle MacLaren"> Michelle MacLaren</entidade> 
+<entidade "Michelle MacLaren">Michelle MacLaren</entidade> 
 
 Oathkeeper 
-The <entidade " Laws of Gods"> Laws of Gods</entidade> and <entidade " Men"> Men</entidade> 
+The <entidade "Laws of Gods">Laws of Gods</entidade> and <entidade "Men">Men</entidade> 
 
-<entidade " First"> First</entidade> of His Name is the fifth episode of the fourth season of <entidade " Game of Thrones"> Game of Thrones</entidade> It is the thirty-fifth episode of the series overall.
-It premiered on <entidade " May 4, 2014"> May 4, 2014</entidade>.
-It was written by producers <entidade " David Benioff"> David Benioff</entidade> and <entidade " D.B"> D.B</entidade>.
-<entidade " Weiss"> Weiss</entidade> and directed by <entidade " Michelle MacLaren"> Michelle MacLaren</entidade>.
+<entidade "First">First</entidade> of His Name is the fifth episode of the fourth season of <entidade "Game of Thrones">Game of Thrones</entidade> It is the thirty-fifth episode of the series overall.
+It premiered on <entidade "May 4, 2014">May 4, 2014</entidade>.
+It was written by producers <entidade "David Benioff">David Benioff</entidade> and <entidade "D.B">D.B</entidade>.
+<entidade "Weiss">Weiss</entidade> and directed by <entidade "Michelle MacLaren">Michelle MacLaren</entidade>.
 
-<entidade " Cersei"> Cersei</entidade> and <entidade " Tywin"> Tywin</entidade> plot the <entidade " Crown"> Crown</entidade>'s next move.
-<entidade " Dany"> Dany</entidade> discusses future plans.
-<entidade " Jon"> Jon</entidade> embarks on a new mission.
+<entidade "Cersei">Cersei</entidade> and <entidade "Tywin">Tywin</entidade> plot the <entidade "Crown">Crown</entidade>'s next move.
+<entidade "Dany">Dany</entidade> discusses future plans.
+<entidade "Jon">Jon</entidade> embarks on a new mission.
 
-Across the <entidade " Narrow Sea"> Narrow Sea</entidade> 
-In her new headquarters atop the <entidade " Great Pyramid"> Great Pyramid</entidade>,<entidade " Daenerys"> Daenerys</entidade> learns that <entidade " Joffrey"> Joffrey</entidade> is dead and <entidade " Tommen"> Tommen</entidade> has been crwoned.
-She is irritated to learn that <entidade " Daario Naharis"> Daario Naharis</entidade> has captured <entidade " Meereen"> Meereen</entidade>'s navy without her explicit orders to do so,but mulls over the possibility of setting sail for <entidade " Westeros"> Westeros</entidade> and taking <entidade " King"> King</entidade>'s Landing with her 8,000 <entidade " Unsullied"> Unsullied</entidade> and 2,000 Second <entidade " Sons"> Sons</entidade>.
-<entidade " Barristan Selmy"> Barristan Selmy</entidade> is optimistic about their chances,believing that old <entidade " Westerosi"> Westerosi</entidade> families will flock to their cause once <entidade " Daenerys"> Daenerys</entidade> crosses the <entidade " Narrow Sea"> Narrow Sea</entidade>,swelling their numbers.
-<entidade " Jorah Mormont"> Jorah Mormont</entidade> is less enthusiastic : while 10,000 troops should be enough to take <entidade " King"> King</entidade>'s Landing from its exhausted defenders,there's still the rest of the continent to worry about.
-Her advisors then reveal more troubling news : the <entidade " Wise"> Wise</entidade> <entidade " Masters"> Masters</entidade> have bounced back and re-enslaved every freed man in <entidade " Yunkai"> Yunkai</entidade>,and although <entidade " Astapor"> Astapor</entidade> remains free,the council <entidade " Daenerys"> Daenerys</entidade> installed has been deposed by a butcher named <entidade " Cleon"> Cleon</entidade>.
-<entidade " Daenerys"> Daenerys</entidade> dismisses everyone but <entidade " Jorah Mormont"> Jorah</entidade> and muses that her plans are in shambles.
-He reminds her that she is the last <entidade " Targaryen"> Targaryen</entidade> and the <entidade " Mother of Dragons"> Mother of Dragons</entidade>,but <entidade " Dany"> Dany</entidade> says she needs to be more than that.
+Across the <entidade "Narrow Sea">Narrow Sea</entidade> 
+In her new headquarters atop the <entidade "Great Pyramid">Great Pyramid</entidade>,<entidade "Daenerys">Daenerys</entidade> learns that <entidade "Joffrey">Joffrey</entidade> is dead and <entidade "Tommen">Tommen</entidade> has been crwoned.
+She is irritated to learn that <entidade "Daario Naharis">Daario Naharis</entidade> has captured <entidade "Meereen">Meereen</entidade>'s navy without her explicit orders to do so,but mulls over the possibility of setting sail for <entidade "Westeros">Westeros</entidade> and taking <entidade "King">King</entidade>'s Landing with her 8,000 <entidade "Unsullied">Unsullied</entidade> and 2,000 Second <entidade "Sons">Sons</entidade>.
+<entidade "Barristan Selmy">Barristan Selmy</entidade> is optimistic about their chances,believing that old <entidade "Westerosi">Westerosi</entidade> families will flock to their cause once <entidade "Daenerys">Daenerys</entidade> crosses the <entidade "Narrow Sea">Narrow Sea</entidade>,swelling their numbers.
+<entidade "Jorah Mormont">Jorah Mormont</entidade> is less enthusiastic : while 10,000 troops should be enough to take <entidade "King">King</entidade>'s Landing from its exhausted defenders,there's still the rest of the continent to worry about.
+Her advisors then reveal more troubling news : the <entidade "Wise">Wise</entidade> <entidade "Masters">Masters</entidade> have bounced back and re-enslaved every freed man in <entidade "Yunkai">Yunkai</entidade>,and although <entidade "Astapor">Astapor</entidade> remains free,the council <entidade "Daenerys">Daenerys</entidade> installed has been deposed by a butcher named <entidade "Cleon">Cleon</entidade>.
+<entidade "Daenerys">Daenerys</entidade> dismisses everyone but <entidade "Jorah Mormont">Jorah</entidade> and muses that her plans are in shambles.
+He reminds her that she is the last <entidade "Targaryen">Targaryen</entidade> and the <entidade "Mother of Dragons">Mother of Dragons</entidade>,but <entidade "Dany">Dany</entidade> says she needs to be more than that.
 She laments that if she can not keep order in three cities,she has no hope of controlling seven kingdoms.
-She is therefore resolved to remain in <entidade " Meereen"> Meereen</entidade> and do what queens do : rule.
+She is therefore resolved to remain in <entidade "Meereen">Meereen</entidade> and do what queens do : rule.
 
-At <entidade " King"> King</entidade>'s Landing 
-Tommen is crowned king of the <entidade " Seven Kingdoms"> Seven Kingdoms</entidade>,while <entidade " Cersei"> Cersei</entidade> makes what appears to be a peaceful gesture towards <entidade " Margaery"> Margaery</entidade>,who remains wary.
-<entidade " Cersei"> Cersei</entidade> talks to <entidade " Prince Oberyn"> Prince Oberyn</entidade> and asks him a favor.
-She hasn't seen her daughter,<entidade " Myrcella"> Myrcella</entidade>,in over a year.
-<entidade " Cersei"> Cersei</entidade> asks <entidade " Oberyn"> Oberyn</entidade> to take her a gift,a ship,since she missed her last nameday. 
-​Tywin reveals to Cersei their problem with the <entidade " Iron Bank of Braavos"> Iron Bank of Braavos</entidade> ; they owe'a tremendous sum,' and the gold mines of the <entidade " Westerlands"> Westerlands</entidade> actually ran dry three years ago.
-Therefore,even though <entidade " Tywin"> Tywin</entidade> admits the <entidade " Lannisters"> Lannisters</entidade> can trust nobody except themselves,they need the <entidade " Tyrells"> Tyrells</entidade>' wealth and resources on their side.
-Cersei suggests coming to some arrangement with one of their representatives,but <entidade " Tywin"> Tywin</entidade> dismisses the idea,since the <entidade " Bank"> Bank</entidade> is a monolithic structure that can not be avoided,lied to or swayed.
+At <entidade "King">King</entidade>'s Landing 
+Tommen is crowned king of the <entidade "Seven Kingdoms">Seven Kingdoms</entidade>,while <entidade "Cersei">Cersei</entidade> makes what appears to be a peaceful gesture towards <entidade "Margaery">Margaery</entidade>,who remains wary.
+<entidade "Cersei">Cersei</entidade> talks to <entidade "Oberyn">Prince Oberyn</entidade> and asks him a favor.
+She hasn't seen her daughter,<entidade "Myrcella">Myrcella</entidade>,in over a year.
+<entidade "Cersei">Cersei</entidade> asks <entidade "Oberyn">Oberyn</entidade> to take her a gift,a ship,since she missed her last nameday. 
+​Tywin reveals to Cersei their problem with the <entidade "Iron Bank of Braavos">Iron Bank of Braavos</entidade> ; they owe'a tremendous sum,' and the gold mines of the <entidade "Westerlands">Westerlands</entidade> actually ran dry three years ago.
+Therefore,even though <entidade "Tywin">Tywin</entidade> admits the <entidade "Lannisters">Lannisters</entidade> can trust nobody except themselves,they need the <entidade "Tyrells">Tyrells</entidade>' wealth and resources on their side.
+Cersei suggests coming to some arrangement with one of their representatives,but <entidade "Tywin">Tywin</entidade> dismisses the idea,since the <entidade "Bank">Bank</entidade> is a monolithic structure that can not be avoided,lied to or swayed.
 
 In the Riverlands 
-While on the road,<entidade " Podrick"> Podrick</entidade> proves to be a hindrance to <entidade " Brienne"> Brienne</entidade>.
+While on the road,<entidade "Podrick">Podrick</entidade> proves to be a hindrance to <entidade "Brienne">Brienne</entidade>.
 He has problems with his horse and accidentally sets fire to a rabbit they were cooking.
-<entidade " Brienne"> Brienne</entidade> tries to get rid of <entidade " Podrick"> Podrick</entidade> by releasing him from the vow he swore as her squire,but to no avail.
-They are bound for <entidade " Castle Black"> Castle Black</entidade>,where <entidade " Brienne"> Brienne</entidade> believes <entidade " Sansa"> Sansa</entidade> may have taken refuge with her half-brother,<entidade " Jon Snow"> Jon Snow</entidade>.
-<entidade " Brienne"> Brienne</entidade> questions <entidade " Podrick"> Podrick</entidade> about his duties as squire to <entidade " Tyrion"> Tyrion</entidade>.
+<entidade "Brienne">Brienne</entidade> tries to get rid of <entidade "Podrick">Podrick</entidade> by releasing him from the vow he swore as her squire,but to no avail.
+They are bound for <entidade "Castle Black">Castle Black</entidade>,where <entidade "Brienne">Brienne</entidade> believes <entidade "Sansa">Sansa</entidade> may have taken refuge with her half-brother,<entidade "Jon Snow">Jon Snow</entidade>.
+<entidade "Brienne">Brienne</entidade> questions <entidade "Podrick">Podrick</entidade> about his duties as squire to <entidade "Tyrion">Tyrion</entidade>.
 He tells her his job was mostly pouring wine,alongside other menial tasks.
-<entidade " Brienne"> Brienne</entidade> then asks if <entidade " Podrick"> Podrick</entidade> did anything related to combat.
-<entidade " Podrick"> Podrick</entidade> reveals how he killed <entidade " Ser Mandon Moore of the Kingsguard"> Ser Mandon Moore of the Kingsguard</entidade> by shoving a spear through his head when he tried to kill  Tyrion during the Battle of the Blackwater.
-<entidade " Brienne"> Brienne</entidade> then grants Podrick a bit of respect and allows him to help her remove her armor.
+<entidade "Brienne">Brienne</entidade> then asks if <entidade "Podrick">Podrick</entidade> did anything related to combat.
+<entidade "Podrick">Podrick</entidade> reveals how he killed <entidade "Ser Mandon Moore of the Kingsguard">Ser Mandon Moore of the Kingsguard</entidade> by shoving a spear through his head when he tried to kill Tyrion during the Battle of the Blackwater.
+<entidade "Brienne">Brienne</entidade> then grants Podrick a bit of respect and allows him to help her remove her armor.
 
-In the <entidade " Vale of Arryn"> Vale of Arryn</entidade> 
-<entidade " Lord Petyr Baelish"> Lord Petyr Baelish</entidade> and <entidade " Sansa Stark"> Sansa Stark</entidade> arrive safely at the <entidade " Bloody Gate"> Bloody Gate</entidade>,though <entidade " Petyr"> Petyr</entidade> has <entidade " Sansa Stark"> Sansa</entidade> cover her hair,as auburn is widely known as a <entidade " Tully"> Tully</entidade> trait,and introduces her as his niece,<entidade " Alayne"> Alayne</entidade>.
-Upon arriving at the <entidade " Eyrie"> Eyrie</entidade> itself,<entidade " Sansa Stark"> Sansa</entidade> tries to slip into her alias,but <entidade " Lysa Arryn"> Lysa Arryn</entidade> tells her not to bother around her own flesh and blood.
-Lysa laments <entidade " Sansa Stark"> Sansa</entidade>'s treatment in <entidade " King's Landing"> King's Landing</entidade>,ignoring her attempts to defend <entidade " Tyrion"> Tyrion</entidade>'s character.
-<entidade " Robin Arryn"> Robin Arryn</entidade> is delighted to see <entidade " Petyr"> Petyr</entidade> and to show <entidade " Sansa Stark"> Sansa</entidade> the <entidade " Moon Door"> Moon Door</entidade>.
-<entidade " Lysa Arryn"> Lysa</entidade>,apparently having finally given <entidade " Robin Arryn"> Robin</entidade> some independence,reminds him never to reveal <entidade " Sansa Stark"> Sansa</entidade>'s identity and tells him to show her to her chambers.
-The instant they leave,<entidade " Lysa Arryn"> Lysa</entidade>,for unclear reasons,insists on marrying <entidade " Petyr"> Petyr</entidade> immediately,claiming that they already had a wedding night many years ago.
-She references poisoning her former husband's wine and framing the Lannisters by writing to her sister <entidade " Catelyn"> Catelyn</entidade>,using these actions as proof of her love for <entidade " Petyr"> Petyr</entidade>.
-<entidade " Petyr"> Petyr</entidade> is unable to deter her,particularly when <entidade " Lysa Arryn"> Lysa</entidade> reveals that a <entidade " Septon"> Septon</entidade> and witnesses have been waiting outside the main door.
-A delighted <entidade " Lysa Arryn"> Lysa</entidade> declares that she will scream so loudly that night that they will be able to hear her across the <entidade " Narrow Sea"> Narrow Sea</entidade>.
-Later that night,an exasperated <entidade " Sansa Stark"> Sansa</entidade> attempts to sleep as <entidade " Lysa Arryn"> Lysa</entidade> tries to fulfil that promise.
-Later on,<entidade " Lysa Arryn"> Lysa</entidade> has a meal with <entidade " Sansa Stark"> Sansa</entidade>,giving her some lemon cakes.
-<entidade " Sansa Stark"> Sansa</entidade>,relieved to be safe at last,indulges herself,though she becomes a little self-conscious when <entidade " Lysa Arryn"> Lysa</entidade> begins telling stories of <entidade " Catelyn"> Catelyn</entidade>'s overeating in her youth.
-<entidade " Lysa Arryn"> Lysa</entidade> encourages <entidade " Sansa Stark"> Sansa</entidade> to keep eating,as she was only telling a story,and anyway,<entidade " Petyr"> Petyr</entidade> had three crates of lemons brought from the <entidade " Crownlands"> Crownlands</entidade> just for <entidade " Sansa Stark"> Sansa</entidade>'s cakes.
-<entidade " Lysa Arryn"> Lysa</entidade> suddenly degenerates from a kindly aunt into a psychotic newlywed half-mad with jealousy and demands to know why <entidade " Petyr"> Petyr</entidade> cares so much about <entidade " Sansa Stark"> Sansa</entidade>,and if he has slept with her as he has his whores.
-She also rants about <entidade " Catelyn"> Catelyn</entidade>'s love for <entidade " Sansa Stark"> Sansa</entidade>'s uncle <entidade " Brandon"> Brandon</entidade> and how he nearly killed <entidade " Petyr"> Petyr</entidade>.
-<entidade " Horrified"> Horrified</entidade>,<entidade " Sansa Stark"> Sansa</entidade> weeps and insists that she is still a virgin and that <entidade " Petyr"> Petyr</entidade> thinks she's just a stupid girl who doesn't know anything,and who can not lie at all so always tells the truth.
-<entidade " Lysa Arryn"> Lysa</entidade> immediately calms down and comforts <entidade " Sansa Stark"> Sansa</entidade>,assuring her that she believes her,and that since neither <entidade " Tyrion"> Tyrion</entidade> nor <entidade " Petyr"> Petyr</entidade> had slept with her,<entidade " Sansa Stark"> Sansa</entidade> can proceed to marry <entidade " Robin Arryn"> Robin</entidade>.
-<entidade " Sansa Stark"> Sansa</entidade> seems unsure of what to make of this information,but one thing is clear : <entidade " King's Landing"> King's Landing</entidade> has made her a consummate actress.
-On the road to the <entidade " Eyrie"> Eyrie</entidade>,<entidade " Sandor Clegane"> Sandor Clegane</entidade> and <entidade " Arya Stark"> Arya Stark</entidade> continue to spar verbally and physically,particularly when <entidade " Clegane"> Clegane</entidade> disparages <entidade " Arya Stark"> Arya</entidade>'s water dancing and insults <entidade " Syrio Forel"> Syrio Forel</entidade> for being overcome by a glorified thug like <entidade " Meryn Trant"> Meryn Trant</entidade>.
+In the <entidade "Vale of Arryn">Vale of Arryn</entidade> 
+<entidade "Petyr Baelish">Lord Petyr Baelish</entidade> and <entidade "Sansa Stark">Sansa Stark</entidade> arrive safely at the <entidade "Bloody Gate">Bloody Gate</entidade>,though <entidade "Petyr Baelish">Petyr</entidade> has <entidade "Sansa Stark">Sansa</entidade> cover her hair,as auburn is widely known as a <entidade "Tully">Tully</entidade> trait,and introduces her as his niece,<entidade "Alayne">Alayne</entidade>.
+Upon arriving at the <entidade "Eyrie">Eyrie</entidade> itself,<entidade "Sansa Stark">Sansa</entidade> tries to slip into her alias,but <entidade "Lysa Arryn">Lysa Arryn</entidade> tells her not to bother around her own flesh and blood.
+Lysa laments <entidade "Sansa Stark">Sansa</entidade>'s treatment in <entidade "King's Landing">King's Landing</entidade>,ignoring her attempts to defend <entidade "Tyrion">Tyrion</entidade>'s character.
+<entidade "Robin Arryn">Robin Arryn</entidade> is delighted to see <entidade "Petyr Baelish">Petyr</entidade> and to show <entidade "Sansa Stark">Sansa</entidade> the <entidade "Moon Door">Moon Door</entidade>.
+<entidade "Lysa Arryn">Lysa</entidade>,apparently having finally given <entidade "Robin Arryn">Robin</entidade> some independence,reminds him never to reveal <entidade "Sansa Stark">Sansa</entidade>'s identity and tells him to show her to her chambers.
+The instant they leave,<entidade "Lysa Arryn">Lysa</entidade>,for unclear reasons,insists on marrying <entidade "Petyr Baelish">Petyr</entidade> immediately,claiming that they already had a wedding night many years ago.
+She references poisoning her former husband's wine and framing the Lannisters by writing to her sister <entidade "Catelyn">Catelyn</entidade>,using these actions as proof of her love for <entidade "Petyr Baelish">Petyr</entidade>.
+<entidade "Petyr Baelish">Petyr</entidade> is unable to deter her,particularly when <entidade "Lysa Arryn">Lysa</entidade> reveals that a <entidade "Septon">Septon</entidade> and witnesses have been waiting outside the main door.
+A delighted <entidade "Lysa Arryn">Lysa</entidade> declares that she will scream so loudly that night that they will be able to hear her across the <entidade "Narrow Sea">Narrow Sea</entidade>.
+Later that night,an exasperated <entidade "Sansa Stark">Sansa</entidade> attempts to sleep as <entidade "Lysa Arryn">Lysa</entidade> tries to fulfil that promise.
+Later on,<entidade "Lysa Arryn">Lysa</entidade> has a meal with <entidade "Sansa Stark">Sansa</entidade>,giving her some lemon cakes.
+<entidade "Sansa Stark">Sansa</entidade>,relieved to be safe at last,indulges herself,though she becomes a little self-conscious when <entidade "Lysa Arryn">Lysa</entidade> begins telling stories of <entidade "Catelyn">Catelyn</entidade>'s overeating in her youth.
+<entidade "Lysa Arryn">Lysa</entidade> encourages <entidade "Sansa Stark">Sansa</entidade> to keep eating,as she was only telling a story,and anyway,<entidade "Petyr Baelish">Petyr</entidade> had three crates of lemons brought from the <entidade "Crownlands">Crownlands</entidade> just for <entidade "Sansa Stark">Sansa</entidade>'s cakes.
+<entidade "Lysa Arryn">Lysa</entidade> suddenly degenerates from a kindly aunt into a psychotic newlywed half-mad with jealousy and demands to know why <entidade "Petyr Baelish">Petyr</entidade> cares so much about <entidade "Sansa Stark">Sansa</entidade>,and if he has slept with her as he has his whores.
+She also rants about <entidade "Catelyn">Catelyn</entidade>'s love for <entidade "Sansa Stark">Sansa</entidade>'s uncle <entidade "Brandon">Brandon</entidade> and how he nearly killed <entidade "Petyr Baelish">Petyr</entidade>.
+<entidade "Horrified">Horrified</entidade>,<entidade "Sansa Stark">Sansa</entidade> weeps and insists that she is still a virgin and that <entidade "Petyr Baelish">Petyr</entidade> thinks she's just a stupid girl who doesn't know anything,and who can not lie at all so always tells the truth.
+<entidade "Lysa Arryn">Lysa</entidade> immediately calms down and comforts <entidade "Sansa Stark">Sansa</entidade>,assuring her that she believes her,and that since neither <entidade "Tyrion">Tyrion</entidade> nor <entidade "Petyr Baelish">Petyr</entidade> had slept with her,<entidade "Sansa Stark">Sansa</entidade> can proceed to marry <entidade "Robin Arryn">Robin</entidade>.
+<entidade "Sansa Stark">Sansa</entidade> seems unsure of what to make of this information,but one thing is clear : <entidade "King's Landing">King's Landing</entidade> has made her a consummate actress.
+On the road to the <entidade "Eyrie">Eyrie</entidade>,<entidade "Sandor Clegane">Sandor Clegane</entidade> and <entidade "Arya Stark">Arya Stark</entidade> continue to spar verbally and physically,particularly when <entidade "Clegane">Clegane</entidade> disparages <entidade "Arya Stark">Arya</entidade>'s water dancing and insults <entidade "Syrio Forel">Syrio Forel</entidade> for being overcome by a glorified thug like <entidade "Meryn Trant">Meryn Trant</entidade>.
 
-Beyond the <entidade " Wall"> Wall</entidade> 
-At <entidade " Craster's Keep"> Craster's Keep</entidade>,<entidade " Locke"> Locke</entidade> scouts the keep for the party of the <entidade " Night's Watch"> Night's Watch</entidade> sent to eliminate the traitors holed up there ; in his reconnaissance,<entidade " Locke"> Locke</entidade> finds the hut where <entidade " Bran Stark"> Bran Stark</entidade>,<entidade " Jojen"> Jojen</entidade>,<entidade " Meera"> Meera</entidade> and <entidade " Hodor"> Hodor</entidade> are being held captive.
-Reporting back to <entidade " Jon Snow"> Jon Snow</entidade> and the others,<entidade " Locke"> Locke</entidade> tells them that only 11 traitors are present and most of them are drunk and won't prove much of a threat.
+Beyond the <entidade "Wall">Wall</entidade> 
+At <entidade "Craster's Keep">Craster's Keep</entidade>,<entidade "Locke">Locke</entidade> scouts the keep for the party of the <entidade "Night's Watch">Night's Watch</entidade> sent to eliminate the traitors holed up there ; in his reconnaissance,<entidade "Locke">Locke</entidade> finds the hut where <entidade "Bran Stark">Bran Stark</entidade>,<entidade "Jojen">Jojen</entidade>,<entidade "Meera">Meera</entidade> and <entidade "Hodor">Hodor</entidade> are being held captive.
+Reporting back to <entidade "Jon Snow">Jon Snow</entidade> and the others,<entidade "Locke">Locke</entidade> tells them that only 11 traitors are present and most of them are drunk and won't prove much of a threat.
 He also lies about the hut where the prisoners are being kept,claiming there are hounds kept inside and that they should keep away from it to prevent the dogs alerting their enemy.
-<entidade " Jon Snow"> Jon</entidade> agrees and tells the party they attack at nightfall.
-That night,<entidade " Karl"> Karl</entidade> enters the prisoners' hut and attempts to rape <entidade " Meera"> Meera</entidade>,but <entidade " Jojen"> Jojen</entidade> distracts <entidade " Karl"> Karl</entidade> when he reveals his possession of greensight and claims to have seen <entidade " Karl"> Karl</entidade> dead before the night is out.
-At that moment,<entidade " Rast"> Rast</entidade> rushes in to warn <entidade " Karl"> Karl</entidade> the keep is under attack ; <entidade " Jon Snow"> Jon</entidade>'s party rushes through the defenses and starts killing their traitorous former brethren.
-In the confusion,<entidade " Locke"> Locke</entidade> slips into the tent and attempts to abduct <entidade " Bran Stark"> Bran</entidade>,but <entidade " Bran Stark"> Bran</entidade> wargs into <entidade " Hodor"> Hodor</entidade> and uses him to kill <entidade " Locke"> Locke</entidade>.
-<entidade " Bran Stark"> Bran</entidade> spots <entidade " Jon Snow"> Jon</entidade> in the fighting,but <entidade " Jojen"> Jojen</entidade> prevents him from going to his older brother,reminding <entidade " Bran Stark"> Bran</entidade> that they must continue onward to reach the three-eyed raven and that <entidade " Jon Snow"> Jon</entidade> would stop them.
-<entidade " Bran Stark"> Bran</entidade> reluctantly leaves despite being so close to <entidade " Jon.​"> Jon.​</entidade> 
-The <entidade " Night's Watch"> Night's Watch</entidade> swiftly overcome their enemy and <entidade " Jon Snow"> Jon</entidade> confronts <entidade " Karl"> Karl</entidade> in single combat.
-<entidade " Karl"> Karl</entidade>'s use of dirty tactics learned in his criminal past give him the upper hand.
-Before he can finish <entidade " Jon Snow"> Jon</entidade>,one of <entidade " Craster's Keep"> Craster</entidade>'s wives,<entidade " Sissy"> Sissy</entidade>,stabs him from behind.
-When <entidade " Karl"> Karl</entidade> rounds on her,<entidade " Jon Snow"> Jon</entidade> gets back to his feet and drives <entidade " Longclaw"> Longclaw</entidade> through the back of <entidade " Karl"> Karl</entidade>'s skull,killing him.
-In the aftermath of the battle,four brothers of the <entidade " Night's Watch"> Night's Watch</entidade>,including <entidade " Locke"> Locke</entidade>,are found to have died,while all the traitors but one are accounted for.
-The sole survivor,<entidade " Rast"> Rast</entidade>,runs in terror through the forest until he reaches the cage where <entidade " Ghost"> Ghost</entidade> was held.
+<entidade "Jon Snow">Jon</entidade> agrees and tells the party they attack at nightfall.
+That night,<entidade "Karl">Karl</entidade> enters the prisoners' hut and attempts to rape <entidade "Meera">Meera</entidade>,but <entidade "Jojen">Jojen</entidade> distracts <entidade "Karl">Karl</entidade> when he reveals his possession of greensight and claims to have seen <entidade "Karl">Karl</entidade> dead before the night is out.
+At that moment,<entidade "Rast">Rast</entidade> rushes in to warn <entidade "Karl">Karl</entidade> the keep is under attack ; <entidade "Jon Snow">Jon</entidade>'s party rushes through the defenses and starts killing their traitorous former brethren.
+In the confusion,<entidade "Locke">Locke</entidade> slips into the tent and attempts to abduct <entidade "Brandon">Bran</entidade>,but <entidade "Bran Stark">Bran</entidade> wargs into <entidade "Hodor">Hodor</entidade> and uses him to kill <entidade "Locke">Locke</entidade>.
+<entidade "Brandon">Bran</entidade> spots <entidade "Jon Snow">Jon</entidade> in the fighting,but <entidade "Jojen">Jojen</entidade> prevents him from going to his older brother,reminding <entidade "Bran Stark">Bran</entidade> that they must continue onward to reach the three-eyed raven and that <entidade "Jon Snow">Jon</entidade> would stop them.
+<entidade "Brandon">Bran</entidade> reluctantly leaves despite being so close to <entidade "Jon.​">Jon.​</entidade> 
+The <entidade "Night's Watch">Night's Watch</entidade> swiftly overcome their enemy and <entidade "Jon Snow">Jon</entidade> confronts <entidade "Karl">Karl</entidade> in single combat.
+<entidade "Karl">Karl</entidade>'s use of dirty tactics learned in his criminal past give him the upper hand.
+Before he can finish <entidade "Jon.​">Jon</entidade>,one of <entidade "Craster's Keep">Craster</entidade>'s wives,<entidade "Sissy">Sissy</entidade>,stabs him from behind.
+When <entidade "Karl">Karl</entidade> rounds on her,<entidade "Jon Snow">Jon</entidade> gets back to his feet and drives <entidade "Longclaw">Longclaw</entidade> through the back of <entidade "Karl">Karl</entidade>'s skull,killing him.
+In the aftermath of the battle,four brothers of the <entidade "Night's Watch">Night's Watch</entidade>,including <entidade "Locke">Locke</entidade>,are found to have died,while all the traitors but one are accounted for.
+The sole survivor,<entidade "Rast">Rast</entidade>,runs in terror through the forest until he reaches the cage where <entidade "Ghost">Ghost</entidade> was held.
 He notices someone has opened the cage but before he can do more than absorb this fact,the direwolf lunges out of nowhere and kills him.
-<entidade " Ghost"> Ghost</entidade> then finds his way back to <entidade " Jon Snow"> Jon</entidade>,who is overjoyed to see his companion again.
-Speaking to <entidade " Craster's Keep"> Craster</entidade>'s wives,<entidade " Jon Snow"> Jon</entidade> warns them that <entidade " Mance Rayder"> Mance Rayder</entidade>'s army and worse besides will soon reach their location and offers to take them to safety south of the <entidade " Wall"> Wall</entidade>,but the women refuse,preferring to set out on their own.
-Before departing back for <entidade " Castle Black"> Castle Black</entidade>,<entidade " Jon Snow"> Jon</entidade> has <entidade " Craster's Keep"> Craster's Keep</entidade> burned to the ground,along with the bodies of all those who died there.
+<entidade "Ghost">Ghost</entidade> then finds his way back to <entidade "Jon.​">Jon</entidade>,who is overjoyed to see his companion again.
+Speaking to <entidade "Craster's Keep">Craster</entidade>'s wives,<entidade "Jon Snow">Jon</entidade> warns them that <entidade "Mance Rayder">Mance Rayder</entidade>'s army and worse besides will soon reach their location and offers to take them to safety south of the <entidade "Wall">Wall</entidade>,but the women refuse,preferring to set out on their own.
+Before departing back for <entidade "Castle Black">Castle Black</entidade>,<entidade "Jon.​">Jon</entidade> has <entidade "Craster's Keep">Craster's Keep</entidade> burned to the ground,along with the bodies of all those who died there.
 

@@ -1,120 +1,120 @@
-<entidade " David Benioff"> David Benioff</entidade> & <entidade " D.B"> D.B</entidade>.
+<entidade "David Benioff">David Benioff</entidade> & <entidade "D.B">D.B</entidade>.
 Weiss 
 
-<entidade " Michelle MacLaren"> Michelle MacLaren</entidade> 
+<entidade "Michelle MacLaren">Michelle MacLaren</entidade> 
 
-The <entidade " Bear"> Bear</entidade> and the <entidade " Maiden Fair"> Maiden Fair</entidade> 
-The <entidade " Rains of Castamere"> Rains of Castamere</entidade> 
+The <entidade "Bear">Bear</entidade> and the <entidade "Maiden Fair">Maiden Fair</entidade> 
+The <entidade "Rains of Castamere">Rains of Castamere</entidade> 
 
-Second <entidade " Sons"> Sons</entidade> is the eighth episode of the third season of <entidade " Game of Thrones"> Game of Thrones</entidade>.
+Second <entidade "Sons">Sons</entidade> is the eighth episode of the third season of <entidade "Game of Thrones">Game of Thrones</entidade>.
 It is the twenty-eighth episode of the series overall.
-It premiered on <entidade " May 19, 2013"> May 19, 2013</entidade>.
-It was written by executive producers <entidade " David Benioff"> David Benioff</entidade> & <entidade " D.B"> D.B</entidade>.
-<entidade " Weiss"> Weiss</entidade> and directed by <entidade " Michelle MacLaren"> Michelle MacLaren</entidade>.
+It premiered on <entidade "May 19, 2013">May 19, 2013</entidade>.
+It was written by executive producers <entidade "David Benioff">David Benioff</entidade> & <entidade "D.B">D.B</entidade>.
+<entidade "Weiss">Weiss</entidade> and directed by <entidade "Michelle MacLaren">Michelle MacLaren</entidade>.
 
-King's Landing hosts a wedding,and <entidade " Tyrion"> Tyrion</entidade> and <entidade " Sansa"> Sansa</entidade> spend the night together.
-<entidade " Dany"> Dany</entidade> meets the <entidade " Titan's Bastard"> Titan's Bastard</entidade>.
-<entidade " Davos"> Davos</entidade> demands proof from <entidade " Melisandre"> Melisandre</entidade>.
-<entidade " Sam"> Sam</entidade> and <entidade " Gilly"> Gilly</entidade> meet an older gentleman.
+King's Landing hosts a wedding,and <entidade "Tyrion">Tyrion</entidade> and <entidade "Sansa">Sansa</entidade> spend the night together.
+<entidade "Dany">Dany</entidade> meets the <entidade "Titan's Bastard">Titan's Bastard</entidade>.
+<entidade "Davos">Davos</entidade> demands proof from <entidade "Melisandre">Melisandre</entidade>.
+<entidade "Sam">Sam</entidade> and <entidade "Gilly">Gilly</entidade> meet an older gentleman.
 
-Across the <entidade " Narrow Sea"> Narrow Sea</entidade> 
-<entidade " Daenerys"> Daenerys</entidade>,<entidade " Jorah"> Jorah</entidade> and <entidade " Barristan"> Barristan</entidade> hide behind a ruined building to spy on the encampment of the <entidade " Second Sons"> Second Sons</entidade>,a professional mercenary company,the powerful friends the Yunkish have employed.
-<entidade " Barristan"> Barristan</entidade> explains that although there are only 2,000 of them,the Second Sons are armored and mounted,enough to cause trouble for the <entidade " Unsullied"> Unsullied</entidade>.
-<entidade " Daenerys"> Daenerys</entidade> tells <entidade " Barristan"> Barristan</entidade> to organize a meeting with the Second <entidade " Sons"> Sons</entidade>' captains,saying that men who fight for gold can't afford to lose to a girl.
-Shortly thereafter,<entidade " Daenerys"> Daenerys</entidade> hosts the captains <entidade " Mero"> Mero</entidade>,a <entidade " Braavosi"> Braavosi</entidade> also known as the <entidade " Titan's Bastard"> Titan's Bastard</entidade>,and <entidade " Prendahl"> Prendahl</entidade> na <entidade " Ghezn"> Ghezn</entidade>,a <entidade " Ghiscari"> Ghiscari</entidade>.
-Also in attendance is <entidade " Prendahl"> Prendahl</entidade>'s capable and striking lieutenant,<entidade " Daario Naharis"> Daario Naharis</entidade>.
-The uncouth and sexually vulgar <entidade " Mero"> Mero</entidade> makes himself at home,observes that <entidade " Daenerys"> Daenerys</entidade> looks like a whore he knows in <entidade " Lys"> Lys</entidade> and feels up <entidade " Missandei"> Missandei</entidade>,although the surprisingly gracious queen shrugs his insults off.
-<entidade " Prendahl"> Prendahl</entidade> and <entidade " Mero"> Mero</entidade> refuse <entidade " Daenerys"> Daenerys</entidade>' offer of an alliance,pointing out they will not get their rewards until she reclaims the <entidade " Iron Throne"> Iron Throne</entidade>,which is still a distant prospect.
+Across the <entidade "Narrow Sea">Narrow Sea</entidade> 
+<entidade "Daenerys">Daenerys</entidade>,<entidade "Jorah">Jorah</entidade> and <entidade "Barristan">Barristan</entidade> hide behind a ruined building to spy on the encampment of the <entidade "Second Sons">Second Sons</entidade>,a professional mercenary company,the powerful friends the Yunkish have employed.
+<entidade "Barristan">Barristan</entidade> explains that although there are only 2,000 of them,the Second Sons are armored and mounted,enough to cause trouble for the <entidade "Unsullied">Unsullied</entidade>.
+<entidade "Daenerys">Daenerys</entidade> tells <entidade "Barristan">Barristan</entidade> to organize a meeting with the Second <entidade "Sons">Sons</entidade>' captains,saying that men who fight for gold can't afford to lose to a girl.
+Shortly thereafter,<entidade "Daenerys">Daenerys</entidade> hosts the captains <entidade "Mero">Mero</entidade>,a <entidade "Braavosi">Braavosi</entidade> also known as the <entidade "Titan's Bastard">Titan's Bastard</entidade>,and <entidade "Prendahl">Prendahl</entidade> na <entidade "Ghezn">Ghezn</entidade>,a <entidade "Ghiscari">Ghiscari</entidade>.
+Also in attendance is <entidade "Prendahl">Prendahl</entidade>'s capable and striking lieutenant,<entidade "Daario Naharis">Daario Naharis</entidade>.
+The uncouth and sexually vulgar <entidade "Mero">Mero</entidade> makes himself at home,observes that <entidade "Daenerys">Daenerys</entidade> looks like a whore he knows in <entidade "Lys">Lys</entidade> and feels up <entidade "Missandei">Missandei</entidade>,although the surprisingly gracious queen shrugs his insults off.
+<entidade "Prendahl">Prendahl</entidade> and <entidade "Mero">Mero</entidade> refuse <entidade "Daenerys">Daenerys</entidade>' offer of an alliance,pointing out they will not get their rewards until she reclaims the <entidade "Iron Throne">Iron Throne</entidade>,which is still a distant prospect.
 With aplomb she replies that a fortnight previous she had no army,and a year before that she had no dragons.
-Smiling gently she gives them two days to make a decision and sends them off with a barrel of wine <entidade " Mero"> Mero</entidade> had demanded.
+Smiling gently she gives them two days to make a decision and sends them off with a barrel of wine <entidade "Mero">Mero</entidade> had demanded.
 Daario smiles over his back at her as they depart.
-Once the sellswords are gone,<entidade " Daenerys"> Daenerys</entidade> drops her pretence of cordiality and while glowering at <entidade " Mero"> Mero</entidade>'s back,instructs <entidade " Barristan"> Barristan</entidade> that if they must fight the <entidade " Second Sons"> Second Sons</entidade>,he is to kill <entidade " Mero"> Mero</entidade> first.
-<entidade " Selmy"> Selmy</entidade> replies that he would be glad to do so.
-At the mercenary camp,<entidade " Mero"> Mero</entidade> fondles a Yunkish pleasure-slave while discussing the situation with <entidade " Prendahl"> Prendahl</entidade> and <entidade " Daario Naharis"> Daario</entidade>.
-It swiftly becomes apparent that <entidade " Daario Naharis"> Daario</entidade> and <entidade " Mero"> Mero</entidade> do not agree,but <entidade " Prendahl"> Prendahl</entidade> cuts off their philosophical discussion to call for action over the dragon bitch.
-They eventually decide to simply assassinate <entidade " Daenerys"> Daenerys</entidade> and be done with it.
-<entidade " Mero"> Mero</entidade> gives the slave three coins,one each from <entidade " Volantis"> Volantis</entidade>,<entidade " Meereen"> Meereen</entidade>,and <entidade " Braavosi"> Braavos</entidade>,and tells her to randomly give them to the three mercenaries the one who gets the <entidade " Braavosi"> Braavosi</entidade> coin will kill the queen.
+Once the sellswords are gone,<entidade "Daenerys">Daenerys</entidade> drops her pretence of cordiality and while glowering at <entidade "Mero">Mero</entidade>'s back,instructs <entidade "Barristan">Barristan</entidade> that if they must fight the <entidade "Second Sons">Second Sons</entidade>,he is to kill <entidade "Mero">Mero</entidade> first.
+<entidade "Selmy">Selmy</entidade> replies that he would be glad to do so.
+At the mercenary camp,<entidade "Mero">Mero</entidade> fondles a Yunkish pleasure-slave while discussing the situation with <entidade "Prendahl">Prendahl</entidade> and <entidade "Daario Naharis">Daario</entidade>.
+It swiftly becomes apparent that <entidade "Daario Naharis">Daario</entidade> and <entidade "Mero">Mero</entidade> do not agree,but <entidade "Prendahl">Prendahl</entidade> cuts off their philosophical discussion to call for action over the dragon bitch.
+They eventually decide to simply assassinate <entidade "Daenerys">Daenerys</entidade> and be done with it.
+<entidade "Mero">Mero</entidade> gives the slave three coins,one each from <entidade "Volantis">Volantis</entidade>,<entidade "Meereen">Meereen</entidade>,and <entidade "Braavosi">Braavos</entidade>,and tells her to randomly give them to the three mercenaries the one who gets the <entidade "Braavosi">Braavosi</entidade> coin will kill the queen.
 
-<entidade " Daario Naharis"> Daario</entidade> ( dressed as an <entidade " Unsullied"> Unsullied</entidade> ) holds a knife at <entidade " Missandei"> Missandei</entidade>'s throat.
-That night,as <entidade " Daenerys"> Daenerys</entidade> bathes,she is surprised to learn that <entidade " Missandei"> Missandei</entidade> speaks no fewer than nineteen languages.
-<entidade " Missandei"> Missandei</entidade> says this shouldn't be that odd,since it only took <entidade " Daenerys"> Daenerys</entidade> a year to gain a reasonable grasp of <entidade " Dothraki"> Dothraki</entidade>.
-The khaleesi bristles at the idea she speaks only reasonable <entidade " Dothraki"> Dothraki</entidade> and switches to the language to teach <entidade " Missandei"> Missandei</entidade> a lesson,only to have her pronunciation corrected.
-Suddenly,an Unsullied enters and hold a knife to <entidade " Missandei"> Missandei</entidade>'s throat,advising the women not to scream.
-He removes his helmet,revealing himself as <entidade " Daario Naharis"> Daario</entidade>.
-He explains that he is here to kill <entidade " Daenerys"> Daenerys</entidade> on orders from his captains,but they ran into a philosophical disagreement over her beauty.
+<entidade "Daario Naharis">Daario</entidade> ( dressed as an <entidade "Unsullied">Unsullied</entidade> ) holds a knife at <entidade "Missandei">Missandei</entidade>'s throat.
+That night,as <entidade "Daenerys">Daenerys</entidade> bathes,she is surprised to learn that <entidade "Missandei">Missandei</entidade> speaks no fewer than nineteen languages.
+<entidade "Missandei">Missandei</entidade> says this shouldn't be that odd,since it only took <entidade "Daenerys">Daenerys</entidade> a year to gain a reasonable grasp of <entidade "Dothraki">Dothraki</entidade>.
+The khaleesi bristles at the idea she speaks only reasonable <entidade "Dothraki">Dothraki</entidade> and switches to the language to teach <entidade "Missandei">Missandei</entidade> a lesson,only to have her pronunciation corrected.
+Suddenly,an Unsullied enters and hold a knife to <entidade "Missandei">Missandei</entidade>'s throat,advising the women not to scream.
+He removes his helmet,revealing himself as <entidade "Daario Naharis">Daario</entidade>.
+He explains that he is here to kill <entidade "Daenerys">Daenerys</entidade> on orders from his captains,but they ran into a philosophical disagreement over her beauty.
 He then produces their severed heads.
-Intrigued,<entidade " Daenerys"> Daenerys</entidade> rises from her bath and asks if <entidade " Daario Naharis"> Daario</entidade> will swear fealty to her.
-He bends the knee and swears his sword,his men and his heart to <entidade " Daenerys"> Daenerys</entidade>.
+Intrigued,<entidade "Daenerys">Daenerys</entidade> rises from her bath and asks if <entidade "Daario Naharis">Daario</entidade> will swear fealty to her.
+He bends the knee and swears his sword,his men and his heart to <entidade "Daenerys">Daenerys</entidade>.
 
-Beyond the <entidade " Wall"> Wall</entidade> 
-<entidade " Sam"> Sam</entidade> slays a <entidade " White Walker"> White Walker</entidade>.
-<entidade " Samwell Tarly"> Samwell Tarly</entidade> and <entidade " Gilly"> Gilly</entidade> continue on their journey to <entidade " Castle Black"> Castle Black</entidade>,taking refuge in a destroyed cabin next to a heart tree.
+Beyond the <entidade "Wall">Wall</entidade> 
+<entidade "Sam">Sam</entidade> slays a <entidade "White Walker">White Walker</entidade>.
+<entidade "Samwell Tarly">Samwell Tarly</entidade> and <entidade "Gilly">Gilly</entidade> continue on their journey to <entidade "Castle Black">Castle Black</entidade>,taking refuge in a destroyed cabin next to a heart tree.
 Before they enter,two crows land on a branch on the heart tree,and begin to squawk loudly.
-Later at night,<entidade " Samwell Tarly"> Sam</entidade> tries to light a fire,but is frustrated in his attempts ; <entidade " Gilly"> Gilly</entidade> tries and does it easily.
-Meanwhile,<entidade " Samwell Tarly"> Sam</entidade> suggests that <entidade " Gilly"> Gilly</entidade> name her son,but she does not know any boy names.
-<entidade " Samwell Tarly"> Sam</entidade> gives her some examples,and also explains the difference between first and last names.
-Gilly likes the name <entidade " Randyll"> Randyll</entidade>,<entidade " Sam's"> Sam's</entidade> father's first name,but <entidade " Samwell Tarly"> Sam</entidade> asks her not to give the child that name.
-<entidade " Samwell Tarly"> Sam</entidade> shares the truth about his father and his upbringing marked by cruelty which they both have in common.
+Later at night,<entidade "Samwell Tarly">Sam</entidade> tries to light a fire,but is frustrated in his attempts ; <entidade "Gilly">Gilly</entidade> tries and does it easily.
+Meanwhile,<entidade "Samwell Tarly">Sam</entidade> suggests that <entidade "Gilly">Gilly</entidade> name her son,but she does not know any boy names.
+<entidade "Samwell Tarly">Sam</entidade> gives her some examples,and also explains the difference between first and last names.
+Gilly likes the name <entidade "Randyll">Randyll</entidade>,<entidade "Sam's">Sam's</entidade> father's first name,but <entidade "Samwell Tarly">Sam</entidade> asks her not to give the child that name.
+<entidade "Sam's">Sam</entidade> shares the truth about his father and his upbringing marked by cruelty which they both have in common.
 Suddenly,they are interrupted by a thunderous squawking of the crows.
-<entidade " Samwell Tarly"> Sam</entidade> and <entidade " Gilly"> Gilly</entidade> go outside to investigate,and discover hundreds of crows filling the nearby tree and on the structure itself screeching violently.
-Gilly is then horrified to see a <entidade " White Walker"> White Walker</entidade> approaching them,and knows that it is after her child.
-<entidade " Samwell Tarly"> Sam</entidade> tries to halt its advance,but the <entidade " Walker"> Walker</entidade> shatters his sword with its bare hand and knocks him aside,then continues to bear down upon her.
-As the monster reaches out to seize the infant,<entidade " Samwell Tarly"> Sam</entidade> staggers back to his feet,pulls out his dragonglass dagger,and attacks the <entidade " Walker"> Walker</entidade>,stabbing it in the back.
-The <entidade " Walker"> Walker</entidade> howls in pain as its whole body begins to freeze from the point at which it was stabbed.
+<entidade "Samwell Tarly">Sam</entidade> and <entidade "Gilly">Gilly</entidade> go outside to investigate,and discover hundreds of crows filling the nearby tree and on the structure itself screeching violently.
+Gilly is then horrified to see a <entidade "White Walker">White Walker</entidade> approaching them,and knows that it is after her child.
+<entidade "Sam's">Sam</entidade> tries to halt its advance,but the <entidade "Walker">Walker</entidade> shatters his sword with its bare hand and knocks him aside,then continues to bear down upon her.
+As the monster reaches out to seize the infant,<entidade "Samwell Tarly">Sam</entidade> staggers back to his feet,pulls out his dragonglass dagger,and attacks the <entidade "Walker">Walker</entidade>,stabbing it in the back.
+The <entidade "Walker">Walker</entidade> howls in pain as its whole body begins to freeze from the point at which it was stabbed.
 It falls to its knees,and shatters,leaving nothing but white dust and the dagger.
-The dagger is left behind as <entidade " Samwell Tarly"> Sam</entidade> and <entidade " Gilly"> Gilly</entidade> race away in a panic.
+The dagger is left behind as <entidade "Sam's">Sam</entidade> and <entidade "Gilly">Gilly</entidade> race away in a panic.
 The crows fly out of the trees and chase them,screaming their hatred.
 
-In the <entidade " Seven Kingdoms"> Seven Kingdoms</entidade> 
-<entidade " Arya Stark"> Arya Stark</entidade>,now a captive of <entidade " Sandor Clegane"> Sandor Clegane</entidade> after he kidnapped her from the <entidade " Brotherhood Without Banners"> Brotherhood Without Banners</entidade>,picks up a rock and stands over him planning to strike.
+In the <entidade "Seven Kingdoms">Seven Kingdoms</entidade> 
+<entidade "Arya Stark">Arya Stark</entidade>,now a captive of <entidade "Sandor Clegane">Sandor Clegane</entidade> after he kidnapped her from the <entidade "Brotherhood Without Banners">Brotherhood Without Banners</entidade>,picks up a rock and stands over him planning to strike.
 She thinks he is sound asleep.
 He opens his eyes and tells her she has one chance to hit him,and kill him,but if she fails he will break her hands.
 Later she sits on the horse with him sullen and refusing food he offers her.
-<entidade " Sandor Clegane"> Sandor</entidade> points out that for all she hates him,<entidade " Arya Stark"> Arya</entidade> could have been taken captive by someone far worse.
-He tells her about <entidade " Sansa"> Sansa</entidade> and how he rescued her from a group of would-be rapists.
-<entidade " Arya Stark"> Arya</entidade> disbelieves this,but <entidade " Sandor Clegane"> Sandor</entidade> says Ask your sister if you ever see her again.
-They arrive at a river which <entidade " Arya Stark"> Arya</entidade> initially thinks to be the <entidade " Blackwater"> Blackwater</entidade>.
-Rather confused with her lack of understanding he points out that the river is the <entidade " Red Fork of the Trident"> Red Fork of the Trident</entidade>.
-Arya believed he was taking her back to <entidade " King's Landing"> King's Landing</entidade>,but he reveals that he is in fact taking her to The <entidade " Twins"> Twins</entidade>,where her mother and brother will shortly be attending her uncle's wedding,and he will ransom her to them.
+<entidade "Sandor Clegane">Sandor</entidade> points out that for all she hates him,<entidade "Arya Stark">Arya</entidade> could have been taken captive by someone far worse.
+He tells her about <entidade "Sansa">Sansa</entidade> and how he rescued her from a group of would-be rapists.
+<entidade "Arya Stark">Arya</entidade> disbelieves this,but <entidade "Sandor Clegane">Sandor</entidade> says Ask your sister if you ever see her again.
+They arrive at a river which <entidade "Arya Stark">Arya</entidade> initially thinks to be the <entidade "Blackwater">Blackwater</entidade>.
+Rather confused with her lack of understanding he points out that the river is the <entidade "Red Fork of the Trident">Red Fork of the Trident</entidade>.
+Arya believed he was taking her back to <entidade "King's Landing">King's Landing</entidade>,but he reveals that he is in fact taking her to The <entidade "Twins">Twins</entidade>,where her mother and brother will shortly be attending her uncle's wedding,and he will ransom her to them.
 He tells her ruefully that if she wasn't so busy trying to kill him they might make it in time for the wedding.
-<entidade " Arya Stark"> Arya</entidade> has a small and hidden smile as the <entidade " Hound"> Hound</entidade> spurs the horse to a gallop.
-<entidade " Melisandre"> Melisandre</entidade> finally arrives back at  Dragonstone with Gendry in tow.
-<entidade " Stannis"> Stannis</entidade> is less than impressed by the sight of the bastard boy who is technically his nephew and is bemused when <entidade " Melisandre"> Melisandre</entidade> orders him fed,bathed and clothed.
-He believes it is pointless as they intend to sacrifice him,but <entidade " Melisandre"> Melisandre</entidade> reveals it is merely a sham to keep <entidade " Gendry"> Gendry</entidade> feeling secure,in much the same way as keeping a sacrificial lamb from seeing the blade of the knife.
-Meanwhile,<entidade " Davos Seaworth"> Davos Seaworth</entidade>,still languishing in his cell,is paid a visit by <entidade " Stannis"> Stannis</entidade> ; <entidade " Davos Seaworth"> Davos</entidade> is told of the impending sacrifice of <entidade " Gendry"> Gendry</entidade>.
-<entidade " Davos Seaworth"> Davos</entidade> protests this saying that unlike <entidade " Renly"> Renly</entidade> who was a rebel against his rightful king,<entidade " Gendry"> Gendry</entidade> is an innocent who has never done him any wrong.
-<entidade " Stannis"> Stannis</entidade> argues that the sacrifice of one bastard boy will usher in his victory,which <entidade " Stannis"> Stannis</entidade> believes is the only way to save every man,woman and child in <entidade " Westeros"> Westeros</entidade> from the coming darkness that will devour everything in its path.
-He asks how <entidade " Davos Seaworth"> Davos</entidade> can doubt the power of <entidade " Melisandre's God"> Melisandre's God</entidade> when <entidade " Stannis"> Stannis</entidade> has seen visions of a great battle in the snow and <entidade " Davos Seaworth"> Davos</entidade> saw the creature she gave birth to.
-<entidade " Davos Seaworth"> Davos</entidade> speculates that the real reason <entidade " Stannis"> Stannis</entidade> came is because deep down,a part of him knows what he's about to do is wrong and he knew <entidade " Davos Seaworth"> Davos</entidade> would tell him the truth he needs to hear,regardless of how it would be taken.
-After extracting a promise from <entidade " Davos Seaworth"> Davos</entidade> that he won't act against <entidade " Melisandre's God"> Melisandre</entidade> again,<entidade " Stannis"> Stannis</entidade> has him released.
+<entidade "Arya Stark">Arya</entidade> has a small and hidden smile as the <entidade "Hound">Hound</entidade> spurs the horse to a gallop.
+<entidade "Melisandre">Melisandre</entidade> finally arrives back at Dragonstone with Gendry in tow.
+<entidade "Stannis">Stannis</entidade> is less than impressed by the sight of the bastard boy who is technically his nephew and is bemused when <entidade "Melisandre">Melisandre</entidade> orders him fed,bathed and clothed.
+He believes it is pointless as they intend to sacrifice him,but <entidade "Melisandre">Melisandre</entidade> reveals it is merely a sham to keep <entidade "Gendry">Gendry</entidade> feeling secure,in much the same way as keeping a sacrificial lamb from seeing the blade of the knife.
+Meanwhile,<entidade "Davos Seaworth">Davos Seaworth</entidade>,still languishing in his cell,is paid a visit by <entidade "Stannis">Stannis</entidade> ; <entidade "Davos Seaworth">Davos</entidade> is told of the impending sacrifice of <entidade "Gendry">Gendry</entidade>.
+<entidade "Davos Seaworth">Davos</entidade> protests this saying that unlike <entidade "Renly">Renly</entidade> who was a rebel against his rightful king,<entidade "Gendry">Gendry</entidade> is an innocent who has never done him any wrong.
+<entidade "Stannis">Stannis</entidade> argues that the sacrifice of one bastard boy will usher in his victory,which <entidade "Stannis">Stannis</entidade> believes is the only way to save every man,woman and child in <entidade "Westeros">Westeros</entidade> from the coming darkness that will devour everything in its path.
+He asks how <entidade "Davos Seaworth">Davos</entidade> can doubt the power of <entidade "Melisandre's God">Melisandre's God</entidade> when <entidade "Stannis">Stannis</entidade> has seen visions of a great battle in the snow and <entidade "Davos Seaworth">Davos</entidade> saw the creature she gave birth to.
+<entidade "Davos Seaworth">Davos</entidade> speculates that the real reason <entidade "Stannis">Stannis</entidade> came is because deep down,a part of him knows what he's about to do is wrong and he knew <entidade "Davos Seaworth">Davos</entidade> would tell him the truth he needs to hear,regardless of how it would be taken.
+After extracting a promise from <entidade "Davos Seaworth">Davos</entidade> that he won't act against <entidade "Melisandre's God">Melisandre</entidade> again,<entidade "Stannis">Stannis</entidade> has him released.
 
-<entidade " Stannis"> Stannis</entidade> naming the 3 usurpers.
-In <entidade " Gendry"> Gendry</entidade>'s quarters,<entidade " Melisandre's God"> Melisandre</entidade> seduces <entidade " Gendry"> Gendry</entidade> long enough to distract him,then promptly ties him to the bed and places leeches on his body.
-She explains as <entidade " Stannis"> Stannis</entidade> and <entidade " Davos Seaworth"> Davos</entidade> enter the room that <entidade " Davos Seaworth"> Davos</entidade> wanted a demonstration of the power in king's blood,then removes the leeches and lights a fire in a nearby brazier.
-As part of the magical ritual that follows,<entidade " Stannis"> Stannis</entidade> throws the leeches into the flames at <entidade " Melisandre's God"> Melisandre</entidade>'s direction,and recites the names of three people he wants dead as they burn : The usurper <entidade " Robb Stark"> Robb Stark</entidade>,the usurper <entidade " Balon Greyjoy"> Balon Greyjoy</entidade>,the usurper <entidade " Joffrey Baratheon"> Joffrey Baratheon</entidade>.
-At <entidade " King's Landing"> King's Landing</entidade>,<entidade " Tyrion"> Tyrion</entidade> speaks with <entidade " Sansa"> Sansa</entidade> before their wedding at the <entidade " Great Sept of Baelor"> Great Sept of Baelor</entidade> ; though he knows the girl is not thrilled at the prospect of marrying him.
-Tyrion promises Sansa that he will not mistreat her,and <entidade " Sansa"> Sansa</entidade> agrees there are worse <entidade " Lannisters"> Lannisters</entidade> she could be wed to.
-Prior to the wedding,<entidade " Margaery Tyrell"> Margaery Tyrell</entidade> tries to ingratiate herself to <entidade " Cersei"> Cersei</entidade>,commenting they will technically be sisters soon ; <entidade " Cersei"> Cersei</entidade> responds by telling <entidade " Margaery Tyrell"> Margaery</entidade> the story behind the <entidade " Rains of Castamere"> Rains of Castamere</entidade>,relating how it refers to the destruction of <entidade " House Reyne of Castamere"> House Reyne of Castamere</entidade> after their failed rebellion against <entidade " House Lannister"> House Lannister</entidade> ( inferring similarities between the ambitions and position of <entidade " Houses Reyne"> Houses Reyne</entidade> and <entidade " Tyrell"> Tyrell</entidade> and that the same fate may fall upon <entidade " House Tyrell"> House Tyrell</entidade> if they plot against the <entidade " Lannisters"> Lannisters</entidade> ) and concludes by threatening to have <entidade " Margaery Tyrell"> Margaery</entidade> strangled in her sleep if she ever dares call <entidade " Cersei"> Cersei</entidade> sister again.
-The ceremony is a grim affair ; <entidade " Joffrey Baratheon"> Joffrey</entidade> smugly escorts <entidade " Sansa"> Sansa</entidade> to the altar in place of her father and petulantly removes the stool upon which <entidade " Tyrion"> Tyrion</entidade> was to stand on to cloak  Sansa in Lannister colors as part of the ceremony,eliciting snickers from the congregation ( though the scowl of <entidade " Lord Tywin"> Lord Tywin</entidade> quickly silences them ).
-Tyrion in the face of humiliation asks <entidade " Sansa"> Sansa</entidade> to kneel and he places the cloak around her shoulders.
-The new <entidade " High Septon"> High Septon</entidade> begins the ceremony.
+<entidade "Stannis">Stannis</entidade> naming the 3 usurpers.
+In <entidade "Gendry">Gendry</entidade>'s quarters,<entidade "Melisandre's God">Melisandre</entidade> seduces <entidade "Gendry">Gendry</entidade> long enough to distract him,then promptly ties him to the bed and places leeches on his body.
+She explains as <entidade "Stannis">Stannis</entidade> and <entidade "Davos Seaworth">Davos</entidade> enter the room that <entidade "Davos Seaworth">Davos</entidade> wanted a demonstration of the power in king's blood,then removes the leeches and lights a fire in a nearby brazier.
+As part of the magical ritual that follows,<entidade "Stannis">Stannis</entidade> throws the leeches into the flames at <entidade "Melisandre's God">Melisandre</entidade>'s direction,and recites the names of three people he wants dead as they burn : The usurper <entidade "Robb Stark">Robb Stark</entidade>,the usurper <entidade "Balon Greyjoy">Balon Greyjoy</entidade>,the usurper <entidade "Joffrey Baratheon">Joffrey Baratheon</entidade>.
+At <entidade "King's Landing">King's Landing</entidade>,<entidade "Tyrion">Tyrion</entidade> speaks with <entidade "Sansa">Sansa</entidade> before their wedding at the <entidade "Great Sept of Baelor">Great Sept of Baelor</entidade> ; though he knows the girl is not thrilled at the prospect of marrying him.
+Tyrion promises Sansa that he will not mistreat her,and <entidade "Sansa">Sansa</entidade> agrees there are worse <entidade "Lannisters">Lannisters</entidade> she could be wed to.
+Prior to the wedding,<entidade "Margaery Tyrell">Margaery Tyrell</entidade> tries to ingratiate herself to <entidade "Cersei">Cersei</entidade>,commenting they will technically be sisters soon ; <entidade "Cersei">Cersei</entidade> responds by telling <entidade "Margaery Tyrell">Margaery</entidade> the story behind the <entidade "Rains of Castamere">Rains of Castamere</entidade>,relating how it refers to the destruction of <entidade "House Reyne of Castamere">House Reyne of Castamere</entidade> after their failed rebellion against <entidade "House Lannister">House Lannister</entidade> ( inferring similarities between the ambitions and position of <entidade "Houses Reyne">Houses Reyne</entidade> and <entidade "Tyrell">Tyrell</entidade> and that the same fate may fall upon <entidade "House Tyrell">House Tyrell</entidade> if they plot against the <entidade "Lannisters">Lannisters</entidade> ) and concludes by threatening to have <entidade "Margaery Tyrell">Margaery</entidade> strangled in her sleep if she ever dares call <entidade "Cersei">Cersei</entidade> sister again.
+The ceremony is a grim affair ; <entidade "Joffrey Baratheon">Joffrey</entidade> smugly escorts <entidade "Sansa">Sansa</entidade> to the altar in place of her father and petulantly removes the stool upon which <entidade "Tyrion">Tyrion</entidade> was to stand on to cloak Sansa in Lannister colors as part of the ceremony,eliciting snickers from the congregation ( though the scowl of <entidade "Tywin">Lord Tywin</entidade> quickly silences them ).
+Tyrion in the face of humiliation asks <entidade "Sansa">Sansa</entidade> to kneel and he places the cloak around her shoulders.
+The new <entidade "High Septon">High Septon</entidade> begins the ceremony.
 Later as man and wife they have their reception dinner,which also proves a grim and miserable affair.
 
-Tyrions threatens <entidade " Joffrey Baratheon"> Joffrey</entidade>.
+Tyrions threatens <entidade "Joffrey Baratheon">Joffrey</entidade>.
 Tyrion spends the wedding feast mostly by getting deeply drunk and making light of his father's insistence that his inebriated state will render him unfit to impregnate his wife.
-Tyrion,drunkenly proclaiming himself the god of tits and wine,reminds his father that <entidade " Tywin"> Tywin</entidade> has long called him a drunken little lust-filled beast,so doing his duty in the marriage bed will not pose a problem.
-At the same time,<entidade " Joffrey Baratheon"> Joffrey</entidade> is himself drinking too much wine,and losing what few inhibitions he has,his behavior becomes increasingly offensive to both <entidade " Sansa"> Sansa</entidade> and <entidade " Tyrion"> Tyrion</entidade>.
-<entidade " Against Cersei"> Against Cersei</entidade>'s ineffectual protests,<entidade " Joffrey Baratheon"> Joffrey</entidade> gets up and,flanked by his <entidade " Kingsguard"> Kingsguard</entidade>,taunts Sansa that she's still found a way to marry a <entidade " Lannisters"> Lannister</entidade>.
-<entidade " Joffrey Baratheon"> Joffrey</entidade> then ponders that it doesn't matter which <entidade " Lannisters"> Lannister</entidade> gets her pregnant,and openly says he might want to rape her after Tyrion is done with her,while the <entidade " Kingsguard"> Kingsguard</entidade> hold her down.
-<entidade " Joffrey Baratheon"> Joffrey</entidade> then declares it time for the bedding ceremony ( which involves the men at the wedding stripping the bride and the women stripping the groom before carrying them off to the marriage bed ) but <entidade " Tyrion"> Tyrion</entidade> angrily insists there will be no bedding ceremony.
-When <entidade " Joffrey Baratheon"> Joffrey</entidade> keeps pushing the matter,<entidade " Tyrion"> Tyrion</entidade> slams his dagger into the table and threatens that <entidade " Joffrey Baratheon"> Joffrey</entidade> will be fucking his own bride with a wooden cock if he doesn't let it drop.
-As the court stands in shocked silence,<entidade " Joffrey Baratheon"> Joffrey</entidade> seethes with outrage and <entidade " Tyrion"> Tyrion</entidade> defiantly glares at his nephew with pure hatred.
-After a tense moment,<entidade " Tywin"> Tywin</entidade> defuses the situation by agreeing that there will be no bedding ceremony,and placates <entidade " Joffrey Baratheon"> Joffrey</entidade> by claiming <entidade " Tyrion"> Tyrion</entidade>'s outburst is merely the result of his being extremely drunk.
-Taking the hint,<entidade " Tyrion"> Tyrion</entidade> visibly swallows his anger and begins to act far more drunk than he actually is,intentionally humiliating himself,and says he only made a bad joke.
-It isn't clear if anyone in the room,including <entidade " Tywin"> Tywin</entidade> or <entidade " Joffrey Baratheon"> Joffrey</entidade>,think that <entidade " Tyrion"> Tyrion</entidade>'s outburst was simply due to being very drunk,but everyone plays along anyway to help the tension pass.
+Tyrion,drunkenly proclaiming himself the god of tits and wine,reminds his father that <entidade "Tywin">Tywin</entidade> has long called him a drunken little lust-filled beast,so doing his duty in the marriage bed will not pose a problem.
+At the same time,<entidade "Joffrey Baratheon">Joffrey</entidade> is himself drinking too much wine,and losing what few inhibitions he has,his behavior becomes increasingly offensive to both <entidade "Sansa">Sansa</entidade> and <entidade "Tyrion">Tyrion</entidade>.
+<entidade "Against Cersei">Against Cersei</entidade>'s ineffectual protests,<entidade "Joffrey Baratheon">Joffrey</entidade> gets up and,flanked by his <entidade "Kingsguard">Kingsguard</entidade>,taunts Sansa that she's still found a way to marry a <entidade "Lannisters">Lannister</entidade>.
+<entidade "Joffrey Baratheon">Joffrey</entidade> then ponders that it doesn't matter which <entidade "Lannisters">Lannister</entidade> gets her pregnant,and openly says he might want to rape her after Tyrion is done with her,while the <entidade "Kingsguard">Kingsguard</entidade> hold her down.
+<entidade "Joffrey Baratheon">Joffrey</entidade> then declares it time for the bedding ceremony ( which involves the men at the wedding stripping the bride and the women stripping the groom before carrying them off to the marriage bed ) but <entidade "Tyrion">Tyrion</entidade> angrily insists there will be no bedding ceremony.
+When <entidade "Joffrey Baratheon">Joffrey</entidade> keeps pushing the matter,<entidade "Tyrion">Tyrion</entidade> slams his dagger into the table and threatens that <entidade "Joffrey Baratheon">Joffrey</entidade> will be fucking his own bride with a wooden cock if he doesn't let it drop.
+As the court stands in shocked silence,<entidade "Joffrey Baratheon">Joffrey</entidade> seethes with outrage and <entidade "Tyrion">Tyrion</entidade> defiantly glares at his nephew with pure hatred.
+After a tense moment,<entidade "Tywin">Tywin</entidade> defuses the situation by agreeing that there will be no bedding ceremony,and placates <entidade "Joffrey Baratheon">Joffrey</entidade> by claiming <entidade "Tyrion">Tyrion</entidade>'s outburst is merely the result of his being extremely drunk.
+Taking the hint,<entidade "Tyrion">Tyrion</entidade> visibly swallows his anger and begins to act far more drunk than he actually is,intentionally humiliating himself,and says he only made a bad joke.
+It isn't clear if anyone in the room,including <entidade "Tywin">Tywin</entidade> or <entidade "Joffrey Baratheon">Joffrey</entidade>,think that <entidade "Tyrion">Tyrion</entidade>'s outburst was simply due to being very drunk,but everyone plays along anyway to help the tension pass.
 Tyrion,while pretending to be so drunk he can barely stand,escorts Sansa to their bedchamber.
-Once they are alone in their quarters,a tense moment passes as <entidade " Sansa"> Sansa</entidade> nervously and slowly undresses.
-<entidade " Tyrion"> Tyrion</entidade> ultimately tells her to stop,deciding that he will not consummate the marriage if she does not want to,and only will if she changes her mind.
-When <entidade " Sansa"> Sansa</entidade> questions what he will do if she never does,<entidade " Tyrion"> Tyrion</entidade> sarcastically jokes And so my watch begins - implying that his marriage will be celibate for all time like a brother of the <entidade " Night's Watch"> Night's Watch</entidade> - and then abruptly passes out on a nearby couch.
-The following morning,<entidade " Shae"> Shae</entidade> notices with a hint of a smile that <entidade " Sansa"> Sansa</entidade>'s bed sheets are not stained with blood and <entidade " Tyrion"> Tyrion</entidade>'s virgin bride is still a virgin.
+Once they are alone in their quarters,a tense moment passes as <entidade "Sansa">Sansa</entidade> nervously and slowly undresses.
+<entidade "Tyrion">Tyrion</entidade> ultimately tells her to stop,deciding that he will not consummate the marriage if she does not want to,and only will if she changes her mind.
+When <entidade "Sansa">Sansa</entidade> questions what he will do if she never does,<entidade "Tyrion">Tyrion</entidade> sarcastically jokes And so my watch begins - implying that his marriage will be celibate for all time like a brother of the <entidade "Night's Watch">Night's Watch</entidade> - and then abruptly passes out on a nearby couch.
+The following morning,<entidade "Shae">Shae</entidade> notices with a hint of a smile that <entidade "Sansa">Sansa</entidade>'s bed sheets are not stained with blood and <entidade "Tyrion">Tyrion</entidade>'s virgin bride is still a virgin.
 

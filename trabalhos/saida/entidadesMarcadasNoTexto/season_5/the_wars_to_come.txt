@@ -1,104 +1,104 @@
-<entidade " David BenioffD.B"> David BenioffD.B</entidade>.
+<entidade "David BenioffD.B">David BenioffD.B</entidade>.
 Weiss 
 
-<entidade " Michael Slovis"> Michael Slovis</entidade> 
+<entidade "Michael Slovis">Michael Slovis</entidade> 
 
-The <entidade " Children"> Children</entidade> 
-The <entidade " House of Black"> House of Black</entidade> and <entidade " White"> White</entidade> 
+The <entidade "Children">Children</entidade> 
+The <entidade "House of Black">House of Black</entidade> and <entidade "White">White</entidade> 
 
-The <entidade " Wars"> Wars</entidade> to <entidade " Come"> Come</entidade> is the first episode of the fifth season of <entidade " Game of Thrones"> Game of Thrones</entidade>.
+The <entidade "Wars">Wars</entidade> to <entidade "Come">Come</entidade> is the first episode of the fifth season of <entidade "Game of Thrones">Game of Thrones</entidade>.
 It is the forty-first episode of the series overall.
-It premiered on <entidade " April 12, 2015"> April 12, 2015</entidade>.
-It was written by <entidade " David BenioffD.B"> David Benioff</entidade> and <entidade " D.B"> D.B</entidade>.
-<entidade " Weiss"> Weiss</entidade>,and directed by <entidade " Michael Slovis"> Michael Slovis</entidade>.
+It premiered on <entidade "April 12, 2015">April 12, 2015</entidade>.
+It was written by <entidade "David BenioffD.B">David Benioff</entidade> and <entidade "D.B">D.B</entidade>.
+<entidade "Weiss">Weiss</entidade>,and directed by <entidade "Michael Slovis">Michael Slovis</entidade>.
 
-<entidade " Cersei"> Cersei</entidade> and <entidade " Jaime"> Jaime</entidade> adjust to a world without <entidade " Tywin"> Tywin</entidade>.
-Varys reveals a conspiracy to <entidade " Tyrion"> Tyrion</entidade>.
-<entidade " Dany"> Dany</entidade> faces a new threat to her rule.
-<entidade " Jon"> Jon</entidade> is caught between two kings.
+<entidade "Cersei">Cersei</entidade> and <entidade "Jaime">Jaime</entidade> adjust to a world without <entidade "Tywin">Tywin</entidade>.
+Varys reveals a conspiracy to <entidade "Tyrion">Tyrion</entidade>.
+<entidade "Dany">Dany</entidade> faces a new threat to her rule.
+<entidade "Jon">Jon</entidade> is caught between two kings.
 
-<entidade " Prologue"> Prologue</entidade> - about 25 years ago,In the Westerlands 
-<entidade " Young Cersei"> Young Cersei</entidade> and <entidade " Melara"> Melara</entidade>,in the <entidade " Prologue"> Prologue</entidade> flashback 
-A young <entidade " Cersei Lannister"> Cersei Lannister</entidade> and her wary tag-along <entidade " Melara Hetherspoon"> Melara Hetherspoon</entidade> are creeping through the woods of the <entidade " Westerlands"> Westerlands</entidade>.
-<entidade " Melara Hetherspoon"> Melara</entidade> doesn't want to continue,but young <entidade " Cersei Lannister"> Cersei</entidade> eggs her on.
-They reach a hut within the woods,which belongs to a <entidade " Woods"> Woods</entidade> witch named <entidade " Maggy"> Maggy</entidade>.
-<entidade " Unafraid"> Unafraid</entidade>,<entidade " Cersei Lannister"> Cersei</entidade> walks in first.
-Upon meeting this witch,<entidade " Cersei Lannister"> Cersei</entidade> demands to have her future read.
-<entidade " Maggy"> Maggy</entidade> is hesitant at first,but after <entidade " Cersei Lannister"> Cersei</entidade> threatens to have her eyes gouged out,the witch relents.
-She says she will need a drop of <entidade " Cersei Lannister"> Cersei</entidade>'s blood,so Cersei pricks her finger on a dagger.
+<entidade "Prologue">Prologue</entidade> - about 25 years ago,In the Westerlands 
+<entidade "Young Cersei">Young Cersei</entidade> and <entidade "Melara">Melara</entidade>,in the <entidade "Prologue">Prologue</entidade> flashback 
+A young <entidade "Cersei Lannister">Cersei Lannister</entidade> and her wary tag-along <entidade "Melara Hetherspoon">Melara Hetherspoon</entidade> are creeping through the woods of the <entidade "Westerlands">Westerlands</entidade>.
+<entidade "Melara Hetherspoon">Melara</entidade> doesn't want to continue,but young <entidade "Cersei Lannister">Cersei</entidade> eggs her on.
+They reach a hut within the woods,which belongs to a <entidade "Woods">Woods</entidade> witch named <entidade "Maggy">Maggy</entidade>.
+<entidade "Unafraid">Unafraid</entidade>,<entidade "Cersei Lannister">Cersei</entidade> walks in first.
+Upon meeting this witch,<entidade "Cersei Lannister">Cersei</entidade> demands to have her future read.
+<entidade "Maggy">Maggy</entidade> is hesitant at first,but after <entidade "Cersei Lannister">Cersei</entidade> threatens to have her eyes gouged out,the witch relents.
+She says she will need a drop of <entidade "Cersei Lannister">Cersei</entidade>'s blood,so Cersei pricks her finger on a dagger.
 Maggy tastes her blood and offers the young girl three questions.
-<entidade " Cersei Lannister"> Cersei</entidade>'s first question was if she will marry the prince.
-<entidade " Maggy"> Maggy</entidade> says she will not marry the prince,though she will marry the king,and become queen.
-She then asks if she and the king will have children,and <entidade " Maggy"> Maggy</entidade> tells her that the king will have twenty children,but she will have three : gold will be their crowns - and gold their burial shrouds ( indicating that all three will predecease their mother ).
-Finally,she tells <entidade " Cersei Lannister"> Cersei</entidade> that her reign will not last : she will be queen,but eventually a younger and more beautiful queen is fated to take her place,along with everything she holds dear.
+<entidade "Cersei Lannister">Cersei</entidade>'s first question was if she will marry the prince.
+<entidade "Maggy">Maggy</entidade> says she will not marry the prince,though she will marry the king,and become queen.
+She then asks if she and the king will have children,and <entidade "Maggy">Maggy</entidade> tells her that the king will have twenty children,but she will have three : gold will be their crowns - and gold their burial shrouds ( indicating that all three will predecease their mother ).
+Finally,she tells <entidade "Cersei Lannister">Cersei</entidade> that her reign will not last : she will be queen,but eventually a younger and more beautiful queen is fated to take her place,along with everything she holds dear.
 
-In <entidade " King"> King</entidade>'s Landing 
-<entidade " Cersei Lannister"> Cersei</entidade> kissing her deceased father <entidade " Tywin"> Tywin</entidade>.
-In the present,<entidade " Cersei Lannister"> Cersei</entidade> arrives at the <entidade " Great Sept of Baelor"> Great Sept of Baelor</entidade> to pay respect to her deceased father <entidade " Tywin"> Tywin</entidade>.
-Once inside the <entidade " Sept"> Sept</entidade>,she chastises her brother <entidade " Jaime"> Jaime</entidade> for freeing their brother Tyrion and indirectly causing their father's death.
-At <entidade " Tywin"> Tywin</entidade>'s wake,<entidade " Cersei Lannister"> Cersei</entidade> is approached by <entidade " Lancel Lannister"> Lancel Lannister</entidade>.
-He has become a devout member of the <entidade " Sparrows"> Sparrows</entidade>,a religious cult,and asks <entidade " Cersei Lannister"> Cersei</entidade>'s forgiveness for their adulterous relationship,as well as getting her husband <entidade " Robert Baratheon"> Robert Baratheon</entidade> obscenely drunk on the day he died.
-<entidade " Cersei Lannister"> Cersei</entidade> denies any knowledge of her husband's murder,and shrugs off <entidade " Lancel Lannister"> Lancel</entidade>.
+In <entidade "King">King</entidade>'s Landing 
+<entidade "Cersei Lannister">Cersei</entidade> kissing her deceased father <entidade "Tywin">Tywin</entidade>.
+In the present,<entidade "Cersei Lannister">Cersei</entidade> arrives at the <entidade "Great Sept of Baelor">Great Sept of Baelor</entidade> to pay respect to her deceased father <entidade "Tywin">Tywin</entidade>.
+Once inside the <entidade "Sept">Sept</entidade>,she chastises her brother <entidade "Jaime">Jaime</entidade> for freeing their brother Tyrion and indirectly causing their father's death.
+At <entidade "Tywin">Tywin</entidade>'s wake,<entidade "Cersei Lannister">Cersei</entidade> is approached by <entidade "Lancel Lannister">Lancel Lannister</entidade>.
+He has become a devout member of the <entidade "Sparrows">Sparrows</entidade>,a religious cult,and asks <entidade "Cersei Lannister">Cersei</entidade>'s forgiveness for their adulterous relationship,as well as getting her husband <entidade "Robert Baratheon">Robert Baratheon</entidade> obscenely drunk on the day he died.
+<entidade "Cersei Lannister">Cersei</entidade> denies any knowledge of her husband's murder,and shrugs off <entidade "Lancel Lannister">Lancel</entidade>.
 
-Loras in bed with <entidade " Olyvar"> Olyvar</entidade>.
-While in bed together,<entidade " Loras"> Loras</entidade> and the male prostitute <entidade " Olyvar"> Olyvar</entidade> contemplate a birthmark on <entidade " Loras"> Loras</entidade>'s thigh which looks a little like <entidade " Dorne"> Dorne</entidade>.
-<entidade " Margaery"> Margaery</entidade> walks in on them,complains about his lack of discretion and sends <entidade " Olyvar"> Olyvar</entidade> away.
-<entidade " Loras"> Loras</entidade> retorts that since his sexuality is an open secret anyway,there isn't much point in discretion.
-He also opines that as <entidade " Tywin"> Tywin</entidade> is dead,no one will force <entidade " Cersei Lannister"> Cersei</entidade> to marry him anymore.
-He points out how this will leave  Cersei in King's <entidade " Landing"> Landing</entidade>,free to harass <entidade " Margaery"> Margaery</entidade>.
-<entidade " Margaery"> Margaery</entidade> simply replies with perhaps.
+Loras in bed with <entidade "Olyvar">Olyvar</entidade>.
+While in bed together,<entidade "Loras">Loras</entidade> and the male prostitute <entidade "Olyvar">Olyvar</entidade> contemplate a birthmark on <entidade "Loras">Loras</entidade>'s thigh which looks a little like <entidade "Dorne">Dorne</entidade>.
+<entidade "Margaery">Margaery</entidade> walks in on them,complains about his lack of discretion and sends <entidade "Olyvar">Olyvar</entidade> away.
+<entidade "Loras">Loras</entidade> retorts that since his sexuality is an open secret anyway,there isn't much point in discretion.
+He also opines that as <entidade "Tywin">Tywin</entidade> is dead,no one will force <entidade "Cersei Lannister">Cersei</entidade> to marry him anymore.
+He points out how this will leave Cersei in King's <entidade "Landing">Landing</entidade>,free to harass <entidade "Margaery">Margaery</entidade>.
+<entidade "Margaery">Margaery</entidade> simply replies with perhaps.
 
 In the Free Cities 
-In <entidade " Pentos"> Pentos</entidade>,<entidade " Varys"> Varys</entidade> speaks to Tyrion about his future.
-Tyrion arrives in <entidade " Pentos"> Pentos</entidade>,with the aid of <entidade " Varys"> Varys</entidade>.
-<entidade " Varys"> Varys</entidade> tells Tyrion that he and <entidade " Illyrio Mopatis"> Illyrio Mopatis</entidade> had worked together in secret to restore <entidade " House Targaryen"> House Targaryen</entidade> to the rule of <entidade " Westeros"> Westeros</entidade>,but that their errors have left them in <entidade " Pentos"> Pentos</entidade>,unable to return to <entidade " King's Landing"> King's Landing</entidade>.
-Tyrion has descended into bitterness and self-loathing,seemingly determined to drink himself to death,but <entidade " Varys"> Varys</entidade> angrily snaps him out of his self pity,telling Tyrion that he still has talents that may yet be of use ; talents that he could use to seat the right candidate on the <entidade " Iron Throne"> Iron Throne</entidade>.
-<entidade " Varys"> Varys</entidade> states that <entidade " Westeros"> Westeros</entidade> is mired in chaos and on the brink of ruin ; the <entidade " Seven Kingdoms"> Seven Kingdoms</entidade> requires a ruler,one stronger than <entidade " Tommen"> Tommen</entidade> yet gentler than <entidade " Stannis"> Stannis</entidade>,beloved by the people,able to please the common folk and keep the nobility in line.
-When Tyrion retorts that such a man does not exist,<entidade " Varys"> Varys</entidade> points out that he never said this ruler would be a man.
-<entidade " Varys"> Varys</entidade> offers <entidade " Tyrion"> Tyrion</entidade> the choice of either drinking himself to death in <entidade " Pentos"> Pentos</entidade>,or travelling with him to <entidade " Meereen"> Meereen</entidade> to support <entidade " Daenerys Targaryen"> Daenerys Targaryen</entidade>.
-After a moment,<entidade " Tyrion"> Tyrion</entidade> agrees.
+In <entidade "Pentos">Pentos</entidade>,<entidade "Varys">Varys</entidade> speaks to Tyrion about his future.
+Tyrion arrives in <entidade "Pentos">Pentos</entidade>,with the aid of <entidade "Varys">Varys</entidade>.
+<entidade "Varys">Varys</entidade> tells Tyrion that he and <entidade "Illyrio Mopatis">Illyrio Mopatis</entidade> had worked together in secret to restore <entidade "House Targaryen">House Targaryen</entidade> to the rule of <entidade "Westeros">Westeros</entidade>,but that their errors have left them in <entidade "Pentos">Pentos</entidade>,unable to return to <entidade "King's Landing">King's Landing</entidade>.
+Tyrion has descended into bitterness and self-loathing,seemingly determined to drink himself to death,but <entidade "Varys">Varys</entidade> angrily snaps him out of his self pity,telling Tyrion that he still has talents that may yet be of use ; talents that he could use to seat the right candidate on the <entidade "Iron Throne">Iron Throne</entidade>.
+<entidade "Varys">Varys</entidade> states that <entidade "Westeros">Westeros</entidade> is mired in chaos and on the brink of ruin ; the <entidade "Seven Kingdoms">Seven Kingdoms</entidade> requires a ruler,one stronger than <entidade "Tommen">Tommen</entidade> yet gentler than <entidade "Stannis">Stannis</entidade>,beloved by the people,able to please the common folk and keep the nobility in line.
+When Tyrion retorts that such a man does not exist,<entidade "Varys">Varys</entidade> points out that he never said this ruler would be a man.
+<entidade "Varys">Varys</entidade> offers <entidade "Tyrion">Tyrion</entidade> the choice of either drinking himself to death in <entidade "Pentos">Pentos</entidade>,or travelling with him to <entidade "Meereen">Meereen</entidade> to support <entidade "Daenerys Targaryen">Daenerys Targaryen</entidade>.
+After a moment,<entidade "Tyrion">Tyrion</entidade> agrees.
 
-In <entidade " Slaver"> Slaver</entidade>'s Bay 
-The <entidade " Unsullied"> Unsullied</entidade> remove the large gold harpy from the top of the  Great Pyramid in Meereen to show the Meereenese people they are under <entidade " Targaryen"> Targaryen</entidade> rule now and their old traditions are gone.
-One of the <entidade " Unsullied"> Unsullied</entidade>,<entidade " White Rat"> White Rat</entidade>,is seen walking into a brothel and pays a prostitute to lie with him and comfort him.
-He is subsequently murdered by a member of the <entidade " Sons of the Harpy"> Sons of the Harpy</entidade>,a resistance group operating in <entidade " Meereen"> Meereen</entidade>.
-Upon being presented with the murderer's mask ( left at the scene ),<entidade " Daenerys Targaryen"> Daenerys</entidade> orders <entidade " Grey Worm"> Grey Worm</entidade> to find those responsible,and for the murdered soldier to be buried in the <entidade " Temple of the Graces"> Temple of the Graces</entidade> as a statement.
+In <entidade "Slaver">Slaver</entidade>'s Bay 
+The <entidade "Unsullied">Unsullied</entidade> remove the large gold harpy from the top of the Great Pyramid in Meereen to show the Meereenese people they are under <entidade "Targaryen">Targaryen</entidade> rule now and their old traditions are gone.
+One of the <entidade "Unsullied">Unsullied</entidade>,<entidade "White Rat">White Rat</entidade>,is seen walking into a brothel and pays a prostitute to lie with him and comfort him.
+He is subsequently murdered by a member of the <entidade "Sons of the Harpy">Sons of the Harpy</entidade>,a resistance group operating in <entidade "Meereen">Meereen</entidade>.
+Upon being presented with the murderer's mask ( left at the scene ),<entidade "Daenerys Targaryen">Daenerys</entidade> orders <entidade "Grey Worm">Grey Worm</entidade> to find those responsible,and for the murdered soldier to be buried in the <entidade "Temple of the Graces">Temple of the Graces</entidade> as a statement.
 
-<entidade " Dany"> Dany</entidade> attempts to visit her dragons.
-<entidade " Hizdahr zo Loraq"> Hizdahr zo Loraq</entidade> and <entidade " Daario Naharis"> Daario Naharis</entidade> return to <entidade " Meereen"> Meereen</entidade> and declare that their mission to <entidade " Yunkai"> Yunkai</entidade> has been successful,and that the <entidade " Wise Masters"> Wise Masters</entidade> will turn over power to a council of former slaves and former slave owners.
-In exchange,the <entidade " Wise Masters"> Wise Masters</entidade> have asked that <entidade " Daenerys Targaryen"> Daenerys</entidade> consent to the reopening of the fighting pits,an arena where slaves used to fight to the death.
-<entidade " Daenerys Targaryen"> Daenerys</entidade> denies the request.
-Later,<entidade " Daario Naharis"> Daario</entidade> convinces her to reconsider,as his youth fighting in the pits gave him the fighting skills necessary for him to join the Second <entidade " Sons of the Harpy"> Sons</entidade>,where he met <entidade " Daenerys Targaryen"> Daenerys</entidade>.
-Upon hearing that <entidade " Drogon"> Drogon</entidade> hasn't been seen in weeks,<entidade " Daario Naharis"> Daario</entidade> muses on the irony of a dragon-queen with no dragons.
-Later,<entidade " Daenerys Targaryen"> Daenerys</entidade> attempts to visit <entidade " Viserion"> Viserion</entidade> and <entidade " Rhaegal"> Rhaegal</entidade>,whom she locked underground in the Meereenese catacombs to prevent them from killing innocents or fleeing ( both of which <entidade " Drogon"> Drogon</entidade> did ).
+<entidade "Dany">Dany</entidade> attempts to visit her dragons.
+<entidade "Hizdahr zo Loraq">Hizdahr zo Loraq</entidade> and <entidade "Daario Naharis">Daario Naharis</entidade> return to <entidade "Meereen">Meereen</entidade> and declare that their mission to <entidade "Yunkai">Yunkai</entidade> has been successful,and that the <entidade "Wise Masters">Wise Masters</entidade> will turn over power to a council of former slaves and former slave owners.
+In exchange,the <entidade "Wise Masters">Wise Masters</entidade> have asked that <entidade "Daenerys Targaryen">Daenerys</entidade> consent to the reopening of the fighting pits,an arena where slaves used to fight to the death.
+<entidade "Daenerys Targaryen">Daenerys</entidade> denies the request.
+Later,<entidade "Daario Naharis">Daario</entidade> convinces her to reconsider,as his youth fighting in the pits gave him the fighting skills necessary for him to join the Second <entidade "Sons of the Harpy">Sons</entidade>,where he met <entidade "Daenerys Targaryen">Daenerys</entidade>.
+Upon hearing that <entidade "Drogon">Drogon</entidade> hasn't been seen in weeks,<entidade "Daario Naharis">Daario</entidade> muses on the irony of a dragon-queen with no dragons.
+Later,<entidade "Daenerys Targaryen">Daenerys</entidade> attempts to visit <entidade "Viserion">Viserion</entidade> and <entidade "Rhaegal">Rhaegal</entidade>,whom she locked underground in the Meereenese catacombs to prevent them from killing innocents or fleeing ( both of which <entidade "Drogon">Drogon</entidade> did ).
 When she approaches them,they attempt to attack her,forcing her to briskly escape the room.
 
-In the <entidade " Vale"> Vale</entidade> 
-<entidade " Littlefinger"> Littlefinger</entidade>,<entidade " Sansa"> Sansa</entidade>,<entidade " Sweetrobin Arryn"> Sweetrobin Arryn</entidade>,and <entidade " Lord Royce"> Lord Royce</entidade> at  Runestone in the Vale.
-<entidade " Littlefinger"> Littlefinger</entidade> and <entidade " Sansa"> Sansa</entidade> watch over <entidade " Lord Robin Arryn"> Lord Robin Arryn</entidade>'s struggles while sparring with another young boy.
-While watching <entidade " Robin"> Robin</entidade> spar,<entidade " Sansa"> Sansa</entidade> witnesses <entidade " Baelish"> Baelish</entidade> receive a message,which he quickly hides.
-<entidade " Lord Yohn Royce"> Lord Yohn Royce</entidade> has agreed to take <entidade " Robin"> Robin</entidade> as his ward and train him to fight,but is not optimistic of his abilities,stating he swings a sword like a girl with palsy.
-Though <entidade " Littlefinger"> Littlefinger</entidade> told <entidade " Lord Royce"> Lord Royce</entidade> that he and <entidade " Sansa"> Sansa</entidade> would be traveling to the Fingers,they instead head west.
-<entidade " Sansa"> Sansa</entidade> asks if they have anything to fear from <entidade " Lord Yohn Royce"> Lord Yohn</entidade> ; <entidade " Littlefinger"> Littlefinger</entidade> explains that he doesn't trust the retainers and soldiers who saw them,and is taking <entidade " Sansa"> Sansa</entidade> somewhere the <entidade " Lannisters"> Lannisters</entidade> will never find her.
-<entidade " Podrick Payne"> Podrick Payne</entidade> attempts to plan the next move for himself and <entidade " Brienne of Tarth"> Brienne of Tarth</entidade>,but <entidade " Brienne of Tarth"> Brienne</entidade> tells him that she doesn't want anyone following her.
-He reminds her of the oath she swore to <entidade " Jaime"> Jaime</entidade> to find the <entidade " Stark"> Stark</entidade> girls,but she states that <entidade " Arya"> Arya</entidade> did not want her protection.
-<entidade " Brienne of Tarth"> Brienne</entidade> also points out that <entidade " Podrick Payne"> Pod</entidade> was not safe in <entidade " King's Landing"> King's Landing</entidade> and now that they are far away from the capital,he is safe and they can go their separate ways.
-<entidade " Littlefinger"> Littlefinger</entidade> and <entidade " Sansa"> Sansa</entidade>'s carriage passes them,<entidade " Brienne of Tarth"> Brienne</entidade> unaware of how close her goal is.
+In the <entidade "Vale">Vale</entidade> 
+<entidade "Littlefinger">Littlefinger</entidade>,<entidade "Sansa">Sansa</entidade>,<entidade "Sweetrobin Arryn">Sweetrobin Arryn</entidade>,and <entidade "Royce">Lord Royce</entidade> at Runestone in the Vale.
+<entidade "Littlefinger">Littlefinger</entidade> and <entidade "Sansa">Sansa</entidade> watch over <entidade "Robin Arryn">Lord Robin Arryn</entidade>'s struggles while sparring with another young boy.
+While watching <entidade "Robin Arryn">Robin</entidade> spar,<entidade "Sansa">Sansa</entidade> witnesses <entidade "Baelish">Baelish</entidade> receive a message,which he quickly hides.
+<entidade "Yohn Royce">Lord Yohn Royce</entidade> has agreed to take <entidade "Robin Arryn">Robin</entidade> as his ward and train him to fight,but is not optimistic of his abilities,stating he swings a sword like a girl with palsy.
+Though <entidade "Littlefinger">Littlefinger</entidade> told <entidade "Royce">Lord Royce</entidade> that he and <entidade "Sansa">Sansa</entidade> would be traveling to the Fingers,they instead head west.
+<entidade "Sansa">Sansa</entidade> asks if they have anything to fear from <entidade "Yohn Royce">Lord Yohn</entidade> ; <entidade "Littlefinger">Littlefinger</entidade> explains that he doesn't trust the retainers and soldiers who saw them,and is taking <entidade "Sansa">Sansa</entidade> somewhere the <entidade "Lannisters">Lannisters</entidade> will never find her.
+<entidade "Podrick Payne">Podrick Payne</entidade> attempts to plan the next move for himself and <entidade "Brienne of Tarth">Brienne of Tarth</entidade>,but <entidade "Brienne of Tarth">Brienne</entidade> tells him that she doesn't want anyone following her.
+He reminds her of the oath she swore to <entidade "Jaime">Jaime</entidade> to find the <entidade "Stark">Stark</entidade> girls,but she states that <entidade "Arya">Arya</entidade> did not want her protection.
+<entidade "Brienne of Tarth">Brienne</entidade> also points out that <entidade "Podrick Payne">Pod</entidade> was not safe in <entidade "King's Landing">King's Landing</entidade> and now that they are far away from the capital,he is safe and they can go their separate ways.
+<entidade "Littlefinger">Littlefinger</entidade> and <entidade "Sansa">Sansa</entidade>'s carriage passes them,<entidade "Brienne of Tarth">Brienne</entidade> unaware of how close her goal is.
 
-At the <entidade " Wall"> Wall</entidade> 
-<entidade " Jon"> Jon</entidade> relay's <entidade " Stannis"> Stannis</entidade>' offer to <entidade " Mance"> Mance</entidade>.
-<entidade " Jon Snow"> Jon Snow</entidade>'s attempts at training <entidade " Olly"> Olly</entidade> are interrupted by <entidade " Melisandre"> Melisandre</entidade>,who has been sent to fetch <entidade " Jon Snow"> Jon</entidade> for an audience with <entidade " Stannis"> Stannis</entidade>.
-On the ride to the top of the <entidade " Wall"> Wall</entidade>,<entidade " Jon Snow"> Jon</entidade> is discomfited by <entidade " Melisandre"> Melisandre</entidade>'s presence and questions.
-<entidade " Stannis"> Stannis</entidade> explains that he intends to retake the  North from Lord Roose Bolton,but needs an army,and desires the Free <entidade " Folk"> Folk</entidade> to fight for him.
-He wants <entidade " Jon Snow"> Jon</entidade> to convince <entidade " Mance Rayder"> Mance Rayder</entidade> to bend the knee and have the wildlings fight for him ; in exchange,he would set them free and give them their own land within <entidade " Westeros"> Westeros</entidade>.
-<entidade " Jon Snow"> Jon</entidade> relays this message to <entidade " Mance Rayder"> Mance</entidade>,but he refuses to bend the knee ; to do so would be to show unforgivable weakness in the eyes of his people.
-Because he will not fight for <entidade " Stannis"> Stannis</entidade>,his punishment is death by being burned alive.
-On the night of his execution,<entidade " Mance Rayder"> Mance</entidade> stands before <entidade " Stannis"> Stannis</entidade>,and although he can not bend the knee,he offers him luck in the wars to come.
+At the <entidade "Wall">Wall</entidade> 
+<entidade "Jon">Jon</entidade> relay's <entidade "Stannis">Stannis</entidade>' offer to <entidade "Mance">Mance</entidade>.
+<entidade "Jon Snow">Jon Snow</entidade>'s attempts at training <entidade "Olly">Olly</entidade> are interrupted by <entidade "Melisandre">Melisandre</entidade>,who has been sent to fetch <entidade "Jon Snow">Jon</entidade> for an audience with <entidade "Stannis">Stannis</entidade>.
+On the ride to the top of the <entidade "Wall">Wall</entidade>,<entidade "Jon Snow">Jon</entidade> is discomfited by <entidade "Melisandre">Melisandre</entidade>'s presence and questions.
+<entidade "Stannis">Stannis</entidade> explains that he intends to retake the North from Lord Roose Bolton,but needs an army,and desires the Free <entidade "Folk">Folk</entidade> to fight for him.
+He wants <entidade "Jon Snow">Jon</entidade> to convince <entidade "Mance Rayder">Mance Rayder</entidade> to bend the knee and have the wildlings fight for him ; in exchange,he would set them free and give them their own land within <entidade "Westeros">Westeros</entidade>.
+<entidade "Jon Snow">Jon</entidade> relays this message to <entidade "Mance Rayder">Mance</entidade>,but he refuses to bend the knee ; to do so would be to show unforgivable weakness in the eyes of his people.
+Because he will not fight for <entidade "Stannis">Stannis</entidade>,his punishment is death by being burned alive.
+On the night of his execution,<entidade "Mance Rayder">Mance</entidade> stands before <entidade "Stannis">Stannis</entidade>,and although he can not bend the knee,he offers him luck in the wars to come.
 Mance is led to the stake.
-<entidade " Melisandre"> Melisandre</entidade> lights the pyre,and <entidade " Mance Rayder"> Mance</entidade> slowly begins to feel the agonizing pain of the fire.
-Unable to watch him suffer any longer,<entidade " Jon Snow"> Jon</entidade> turns and storms off.
-Others turn away from the scene as well,including <entidade " Gilly"> Gilly</entidade> and <entidade " Shireen"> Shireen</entidade>.
+<entidade "Melisandre">Melisandre</entidade> lights the pyre,and <entidade "Mance Rayder">Mance</entidade> slowly begins to feel the agonizing pain of the fire.
+Unable to watch him suffer any longer,<entidade "Jon Snow">Jon</entidade> turns and storms off.
+Others turn away from the scene as well,including <entidade "Gilly">Gilly</entidade> and <entidade "Shireen">Shireen</entidade>.
 Just as Mance begins to give in and start screaming,an arrow pierces his chest.
-It is shot by <entidade " Jon Snow"> Jon</entidade>,giving the man he respected an easier death.
-<entidade " Mance Rayder"> Mance</entidade> dies before he feels the agony of the flames.
+It is shot by <entidade "Jon Snow">Jon</entidade>,giving the man he respected an easier death.
+<entidade "Mance Rayder">Mance</entidade> dies before he feels the agony of the flames.
 

@@ -1,86 +1,86 @@
-<entidade " David Benioff"> David Benioff</entidade> & <entidade " D.B"> D.B</entidade>.
+<entidade "David Benioff">David Benioff</entidade> & <entidade "D.B">D.B</entidade>.
 Weiss 
 
-<entidade " Alex"> Alex</entidade> Graves 
+<entidade "Alex">Alex</entidade> Graves 
 
-The <entidade " Lion"> Lion</entidade> and the <entidade " Rose"> Rose</entidade> 
+The <entidade "Lion">Lion</entidade> and the <entidade "Rose">Rose</entidade> 
 Oathkeeper 
 
-<entidade " Breaker of Chains"> Breaker of Chains</entidade> is the third episode of the fourth season of <entidade " Game of Thrones"> Game of Thrones</entidade>.
+<entidade "Breaker of Chains">Breaker of Chains</entidade> is the third episode of the fourth season of <entidade "Game of Thrones">Game of Thrones</entidade>.
 It is the thirty-third episode of the series overall.
-It premiered on <entidade " April 20, 2014"> April 20, 2014</entidade>.
-It was written by executive producers <entidade " David Benioff"> David Benioff</entidade> and <entidade " D.B"> D.B</entidade>.
-<entidade " Weiss"> Weiss</entidade> and directed by <entidade " Alex Graves"> Alex Graves</entidade>.
+It premiered on <entidade "April 20, 2014">April 20, 2014</entidade>.
+It was written by executive producers <entidade "David Benioff">David Benioff</entidade> and <entidade "D.B">D.B</entidade>.
+<entidade "Weiss">Weiss</entidade> and directed by <entidade "Alex Graves">Alex Graves</entidade>.
 
-In the frenzied aftermath of the royal wedding,<entidade " Tyrion"> Tyrion</entidade> gets a visit from a loyal subject.
-Meanwhile,<entidade " Tywin"> Tywin</entidade> offers to work for the common good with a presumed enemy ; <entidade " Sam"> Sam</entidade> takes stock of the personnel at <entidade " Castle Black"> Castle Black</entidade> ; the <entidade " Hound"> Hound</entidade> gives another life lesson to <entidade " Arya"> Arya</entidade> ; and <entidade " Daenerys"> Daenerys</entidade> makes a decision outside the walls of <entidade " Meereen"> Meereen</entidade>.
+In the frenzied aftermath of the royal wedding,<entidade "Tyrion">Tyrion</entidade> gets a visit from a loyal subject.
+Meanwhile,<entidade "Tywin">Tywin</entidade> offers to work for the common good with a presumed enemy ; <entidade "Sam">Sam</entidade> takes stock of the personnel at <entidade "Castle Black">Castle Black</entidade> ; the <entidade "Hound">Hound</entidade> gives another life lesson to <entidade "Arya">Arya</entidade> ; and <entidade "Daenerys">Daenerys</entidade> makes a decision outside the walls of <entidade "Meereen">Meereen</entidade>.
 
-At <entidade " King"> King</entidade>'s Landing 
-With <entidade " King Joffrey"> King Joffrey</entidade> dead,<entidade " Cersei"> Cersei</entidade> mourns the death of her elder son with the heir apparent and,still holding <entidade " Joffrey"> Joffrey</entidade> in her arms,demands that <entidade " Sansa Stark"> Sansa Stark</entidade> be found.
+At <entidade "King">King</entidade>'s Landing 
+With <entidade "King Joffrey">King Joffrey</entidade> dead,<entidade "Cersei">Cersei</entidade> mourns the death of her elder son with the heir apparent and,still holding <entidade "Joffrey">Joffrey</entidade> in her arms,demands that <entidade "Sansa Stark">Sansa Stark</entidade> be found.
 Her father seals the capital,so no one can leave.
-<entidade " Prince Tommen Baratheon"> Prince Tommen Baratheon</entidade>,in the <entidade " Great Sept of Baelor"> Great Sept of Baelor</entidade>.
-<entidade " Tywin Lannister"> Tywin Lannister</entidade>,also present,immediately begins instructing the young prince on the qualities of a good king.
-As <entidade " Tywin Lannister"> Tywin</entidade> and <entidade " Tommen"> Tommen</entidade> leave,<entidade " Jaime"> Jaime</entidade> enters to see <entidade " Cersei"> Cersei</entidade> calling for the death of the accused Tyrion and his wife,<entidade " Sansa Stark"> Sansa Stark</entidade>.
-<entidade " Jaime"> Jaime</entidade> sends the septon and septas away so he can be alone with <entidade " Cersei"> Cersei</entidade>.
+<entidade "Tommen Baratheon">Prince Tommen Baratheon</entidade>,in the <entidade "Great Sept of Baelor">Great Sept of Baelor</entidade>.
+<entidade "Tywin Lannister">Tywin Lannister</entidade>,also present,immediately begins instructing the young prince on the qualities of a good king.
+As <entidade "Tywin Lannister">Tywin</entidade> and <entidade "Tommen Baratheon">Tommen</entidade> leave,<entidade "Jaime">Jaime</entidade> enters to see <entidade "Cersei">Cersei</entidade> calling for the death of the accused Tyrion and his wife,<entidade "Sansa Stark">Sansa Stark</entidade>.
+<entidade "Jaime">Jaime</entidade> sends the septon and septas away so he can be alone with <entidade "Cersei">Cersei</entidade>.
 He tries to comfort her through his affections.
-She refuses initially,but <entidade " Jaime"> Jaime</entidade> is aggressive.
-<entidade " Cersei"> Cersei</entidade> insists that the sept during a private viewing of their son's corpse is a highly inappropriate place for sex,and asks <entidade " Jaime"> Jaime</entidade> to stop,saying It isn't right,it isn't right ... and <entidade " Jaime"> Jaime</entidade> refuses to stop,saying,I don't care,I don't care ....
+She refuses initially,but <entidade "Jaime">Jaime</entidade> is aggressive.
+<entidade "Cersei">Cersei</entidade> insists that the sept during a private viewing of their son's corpse is a highly inappropriate place for sex,and asks <entidade "Jaime">Jaime</entidade> to stop,saying It isn't right,it isn't right ... and <entidade "Jaime">Jaime</entidade> refuses to stop,saying,I don't care,I don't care ....
 They then have sex next to their dead son's corpse.
-A flashback to the wedding reveals <entidade " Sansa Stark"> Sansa</entidade> escaping with  Ser Dontos Hollard from King's <entidade " Landing"> Landing</entidade> to a ship off the coast.
-As <entidade " Sansa Stark"> Sansa</entidade> is taken aboard,she is greeted by <entidade " Lord Petyr Littlefinger Baelish"> Lord Petyr Littlefinger Baelish</entidade>.
-He remembers that he still owes <entidade " Dontos"> Dontos</entidade> his fee,but <entidade " Baelish"> Baelish</entidade> has two men kill him with crossbows.
-He explains to Sansa that <entidade " Ser Dontos"> Ser Dontos</entidade> was a drunken fool and an unreliable ally who only helped <entidade " Sansa Stark"> Sansa</entidade> for money and would turn her in for money.
-To prove his point,he shows that the priceless necklace <entidade " Dontos"> Dontos</entidade> gave her was actually made a few weeks ago on <entidade " Baelish"> Baelish</entidade>'s orders.
-<entidade " Sansa Stark"> Sansa</entidade> is confused and horrified,but <entidade " Baelish"> Baelish</entidade> promises to keep her safe.
-<entidade " Tywin Lannister"> Tywin</entidade> interrupts <entidade " Oberyn Martell"> Oberyn Martell</entidade> and his group sex act with <entidade " Ellaria Sand"> Ellaria Sand</entidade> and <entidade " Olyvar"> Olyvar</entidade> to discuss <entidade " Tyrion"> Tyrion</entidade>'s up-coming trial for the murder of <entidade " Joffrey"> Joffrey</entidade>.
-<entidade " Tywin Lannister"> Tywin</entidade> brings up <entidade " Oberyn Martell"> Oberyn</entidade>'s knowledge of poisons and the link between that and <entidade " Joffrey"> Joffrey</entidade>'s death as some say the <entidade " King Joffrey"> King</entidade> was poisoned and wonders whether <entidade " Oberyn Martell"> Oberyn</entidade> had helped <entidade " Tyrion"> Tyrion</entidade>.
-The topic changes to the murder of <entidade " Oberyn Martell"> Oberyn</entidade>'s sister  Elia by Tywin's pet,the <entidade " Mountain"> Mountain</entidade>,during the <entidade " Sack of King"> Sack of King</entidade>'s <entidade " Landing"> Landing</entidade>.
-<entidade " Tywin Lannister"> Tywin</entidade> denies ordering her death,but promises to arrange a meeting between <entidade " Oberyn Martell"> Oberyn</entidade> and the <entidade " Mountain"> Mountain</entidade> so he can have his justice.
-He also offers <entidade " Oberyn Martell"> Oberyn</entidade> a position on the <entidade " Small Council"> Small Council</entidade>,if <entidade " Oberyn Martell"> Oberyn</entidade> agrees to be the third judge at <entidade " Tyrion"> Tyrion</entidade>'s trial.
-He explains that he is eager to bring <entidade " Dorne"> Dorne</entidade> back into the fold,wanting to unite the <entidade " Seven Kingdoms"> Seven Kingdoms</entidade> against more obvious threats ; the <entidade " Greyjoys"> Greyjoys</entidade> are in rebellion,a <entidade " Wildling"> Wildling</entidade> army is advancing on the <entidade " Wall"> Wall</entidade>,and there is a <entidade " Targaryen"> Targaryen</entidade> girl in the <entidade " East"> East</entidade> with a powerful army and three dragons,who will eventually threaten <entidade " Westeros"> Westeros</entidade>.
-<entidade " Tywin Lannister"> Tywin</entidade> observes that only the <entidade " Dornish"> Dornish</entidade> successfully resisted <entidade " Aegon Targaryen"> Aegon Targaryen</entidade>'s dragons during his invasion of <entidade " Westeros"> Westeros</entidade> three centuries ago ; <entidade " Oberyn Martell"> Oberyn</entidade> dryly notes it must be hard for <entidade " Tywin Lannister"> Tywin</entidade> to admit he needs the Dornish for help.
-Tyrion is in a cell in <entidade " King's Landing"> King's Landing</entidade>.
-He is visited by his squire,<entidade " Podrick Payne"> Podrick Payne</entidade>,who has smuggled in some food and other items for him.
-<entidade " Podrick Payne"> Pod</entidade> has been asked to compile a list of <entidade " Tyrion"> Tyrion</entidade>'s witnesses.
-He names his wife,<entidade " Sansa"> Sansa</entidade>,but <entidade " Podrick Payne"> Pod</entidade> informs him that she disappeared moments after <entidade " Joffrey"> Joffrey</entidade>'s death.
-He can not speak to <entidade " Bronn"> Bronn</entidade> either because,as a close associate of <entidade " Tyrion"> Tyrion</entidade>,he is also under investigation.
-Pod confirms that there has been no word of <entidade " Shae"> Shae</entidade>,which <entidade " Tyrion"> Tyrion</entidade> takes as good news.
-Tyrion then asks to speak with <entidade " Jaime"> Jaime</entidade>.
-He also warns <entidade " Podrick Payne"> Pod</entidade> to be aware of his surroundings and watch out for They,They being the spies of <entidade " Tywin Lannister"> Tywin</entidade>,<entidade " Cersei"> Cersei</entidade>,<entidade " Varys"> Varys</entidade> or more or less anyone else.
-He opines that many people had a motive for killing <entidade " Joffrey"> Joffrey</entidade>.
-<entidade " Cersei"> Cersei</entidade> is the only person he rules out.
-He urges <entidade " Podrick Payne"> Pod</entidade> to get out of <entidade " King's Landing"> King's Landing</entidade> as he would be in much danger due to his close relations with <entidade " Tyrion"> Tyrion</entidade>,especially after refusing to testify against <entidade " Tyrion"> Tyrion</entidade>,despite the offer of a knighthood.
-As <entidade " Podrick Payne"> Pod</entidade> is about to leave,<entidade " Tyrion"> Tyrion</entidade> calls him back and tells him that there has never lived a more loyal squire.
+A flashback to the wedding reveals <entidade "Sansa Stark">Sansa</entidade> escaping with Ser Dontos Hollard from King's <entidade "Landing">Landing</entidade> to a ship off the coast.
+As <entidade "Sansa Stark">Sansa</entidade> is taken aboard,she is greeted by <entidade "Petyr Littlefinger Baelish">Lord Petyr Littlefinger Baelish</entidade>.
+He remembers that he still owes <entidade "Dontos">Dontos</entidade> his fee,but <entidade "Baelish">Baelish</entidade> has two men kill him with crossbows.
+He explains to Sansa that <entidade "Dontos">Ser Dontos</entidade> was a drunken fool and an unreliable ally who only helped <entidade "Sansa Stark">Sansa</entidade> for money and would turn her in for money.
+To prove his point,he shows that the priceless necklace <entidade "Dontos">Dontos</entidade> gave her was actually made a few weeks ago on <entidade "Baelish">Baelish</entidade>'s orders.
+<entidade "Sansa Stark">Sansa</entidade> is confused and horrified,but <entidade "Baelish">Baelish</entidade> promises to keep her safe.
+<entidade "Tywin Lannister">Tywin</entidade> interrupts <entidade "Oberyn Martell">Oberyn Martell</entidade> and his group sex act with <entidade "Ellaria Sand">Ellaria Sand</entidade> and <entidade "Olyvar">Olyvar</entidade> to discuss <entidade "Tyrion">Tyrion</entidade>'s up-coming trial for the murder of <entidade "Joffrey">Joffrey</entidade>.
+<entidade "Tywin Lannister">Tywin</entidade> brings up <entidade "Oberyn Martell">Oberyn</entidade>'s knowledge of poisons and the link between that and <entidade "Joffrey">Joffrey</entidade>'s death as some say the <entidade "King Joffrey">King</entidade> was poisoned and wonders whether <entidade "Oberyn Martell">Oberyn</entidade> had helped <entidade "Tyrion">Tyrion</entidade>.
+The topic changes to the murder of <entidade "Oberyn Martell">Oberyn</entidade>'s sister Elia by Tywin's pet,the <entidade "Mountain">Mountain</entidade>,during the <entidade "Sack of King">Sack of King</entidade>'s <entidade "Landing">Landing</entidade>.
+<entidade "Tywin Lannister">Tywin</entidade> denies ordering her death,but promises to arrange a meeting between <entidade "Oberyn Martell">Oberyn</entidade> and the <entidade "Mountain">Mountain</entidade> so he can have his justice.
+He also offers <entidade "Oberyn Martell">Oberyn</entidade> a position on the <entidade "Small Council">Small Council</entidade>,if <entidade "Oberyn Martell">Oberyn</entidade> agrees to be the third judge at <entidade "Tyrion">Tyrion</entidade>'s trial.
+He explains that he is eager to bring <entidade "Dorne">Dorne</entidade> back into the fold,wanting to unite the <entidade "Seven Kingdoms">Seven Kingdoms</entidade> against more obvious threats ; the <entidade "Greyjoys">Greyjoys</entidade> are in rebellion,a <entidade "Wildling">Wildling</entidade> army is advancing on the <entidade "Wall">Wall</entidade>,and there is a <entidade "Targaryen">Targaryen</entidade> girl in the <entidade "East">East</entidade> with a powerful army and three dragons,who will eventually threaten <entidade "Westeros">Westeros</entidade>.
+<entidade "Tywin Lannister">Tywin</entidade> observes that only the <entidade "Dornish">Dornish</entidade> successfully resisted <entidade "Aegon Targaryen">Aegon Targaryen</entidade>'s dragons during his invasion of <entidade "Westeros">Westeros</entidade> three centuries ago ; <entidade "Oberyn Martell">Oberyn</entidade> dryly notes it must be hard for <entidade "Tywin Lannister">Tywin</entidade> to admit he needs the Dornish for help.
+Tyrion is in a cell in <entidade "King's Landing">King's Landing</entidade>.
+He is visited by his squire,<entidade "Podrick Payne">Podrick Payne</entidade>,who has smuggled in some food and other items for him.
+<entidade "Podrick Payne">Pod</entidade> has been asked to compile a list of <entidade "Tyrion">Tyrion</entidade>'s witnesses.
+He names his wife,<entidade "Sansa Stark">Sansa</entidade>,but <entidade "Podrick Payne">Pod</entidade> informs him that she disappeared moments after <entidade "Joffrey">Joffrey</entidade>'s death.
+He can not speak to <entidade "Bronn">Bronn</entidade> either because,as a close associate of <entidade "Tyrion">Tyrion</entidade>,he is also under investigation.
+Pod confirms that there has been no word of <entidade "Shae">Shae</entidade>,which <entidade "Tyrion">Tyrion</entidade> takes as good news.
+Tyrion then asks to speak with <entidade "Jaime">Jaime</entidade>.
+He also warns <entidade "Podrick Payne">Pod</entidade> to be aware of his surroundings and watch out for They,They being the spies of <entidade "Tywin Lannister">Tywin</entidade>,<entidade "Cersei">Cersei</entidade>,<entidade "Varys">Varys</entidade> or more or less anyone else.
+He opines that many people had a motive for killing <entidade "Joffrey">Joffrey</entidade>.
+<entidade "Cersei">Cersei</entidade> is the only person he rules out.
+He urges <entidade "Podrick Payne">Pod</entidade> to get out of <entidade "King's Landing">King's Landing</entidade> as he would be in much danger due to his close relations with <entidade "Tyrion">Tyrion</entidade>,especially after refusing to testify against <entidade "Tyrion">Tyrion</entidade>,despite the offer of a knighthood.
+As <entidade "Podrick Payne">Pod</entidade> is about to leave,<entidade "Tyrion">Tyrion</entidade> calls him back and tells him that there has never lived a more loyal squire.
 
 In the Riverlands 
-Meanwhile,<entidade " Arya Stark"> Arya Stark</entidade> and the <entidade " Hound"> Hound</entidade>,crossing the <entidade " Riverlands"> Riverlands</entidade>,are spotted by a farmer and his young daughter while making their way to the <entidade " Vale"> Vale</entidade> where <entidade " Arya Stark"> Arya</entidade> can be ransomed to her rich aunt,<entidade " Lysa Tully"> Lysa Tully</entidade>.
-<entidade " Arya Stark"> Arya</entidade> quickly fabricates a story that the <entidade " Hound"> Hound</entidade> and she are father and daughter,with <entidade " Clegane"> Clegane</entidade> as a knight in service of <entidade " House Tully"> House Tully</entidade>.
+Meanwhile,<entidade "Arya Stark">Arya Stark</entidade> and the <entidade "Hound">Hound</entidade>,crossing the <entidade "Riverlands">Riverlands</entidade>,are spotted by a farmer and his young daughter while making their way to the <entidade "Vale">Vale</entidade> where <entidade "Arya Stark">Arya</entidade> can be ransomed to her rich aunt,<entidade "Lysa Tully">Lysa Tully</entidade>.
+<entidade "Arya Stark">Arya</entidade> quickly fabricates a story that the <entidade "Hound">Hound</entidade> and she are father and daughter,with <entidade "Clegane">Clegane</entidade> as a knight in service of <entidade "House Tully">House Tully</entidade>.
 The farmer believes it and allows the pair to stay the night in his home and share a meal.
-<entidade " Famished"> Famished</entidade>,<entidade " Arya Stark"> Arya</entidade> and the <entidade " Hound"> Hound</entidade> scarf the food down hastily.
-<entidade " Arya Stark"> Arya</entidade> wakes the following morning to hear the farmer's daughter screaming.
-<entidade " Clegane"> Clegane</entidade> has assaulted the farmer and taken his silver.
-Confused and horrified,<entidade " Arya Stark"> Arya</entidade> demands to know why <entidade " Clegane"> Clegane</entidade> did that.
+<entidade "Famished">Famished</entidade>,<entidade "Arya Stark">Arya</entidade> and the <entidade "Hound">Hound</entidade> scarf the food down hastily.
+<entidade "Arya Stark">Arya</entidade> wakes the following morning to hear the farmer's daughter screaming.
+<entidade "Clegane">Clegane</entidade> has assaulted the farmer and taken his silver.
+Confused and horrified,<entidade "Arya Stark">Arya</entidade> demands to know why <entidade "Clegane">Clegane</entidade> did that.
 He simply states,a dead man doesn't need his silver,claiming the farmer is weak and he and his daughter will not survive the upcoming winter.
 
-At <entidade " Dragonstone"> Dragonstone</entidade> 
-On <entidade " Dragonstone Isle"> Dragonstone Isle</entidade>,<entidade " Stannis Baratheon"> Stannis Baratheon</entidade> learns of <entidade " Joffrey"> Joffrey</entidade>'s death and warns <entidade " Ser Davos"> Ser Davos</entidade> that their time to lay claim to the <entidade " Iron"> Iron</entidade> throne dwindles if no army can be secured to wage war again.
-Shortly after,when <entidade " Ser Davos"> Ser Davos</entidade> begins his reading lessons with princess <entidade " Shireen Baratheon"> Shireen Baratheon</entidade>,he realizes a possible ally across the <entidade " Narrow Sea"> Narrow Sea</entidade>,the <entidade " Iron Bank of Braavos."> Iron Bank of Braavos.</entidade> 
+At <entidade "Dragonstone">Dragonstone</entidade> 
+On <entidade "Dragonstone Isle">Dragonstone Isle</entidade>,<entidade "Stannis Baratheon">Stannis Baratheon</entidade> learns of <entidade "Joffrey">Joffrey</entidade>'s death and warns <entidade "Davos">Ser Davos</entidade> that their time to lay claim to the <entidade "Iron">Iron</entidade> throne dwindles if no army can be secured to wage war again.
+Shortly after,when <entidade "Davos">Ser Davos</entidade> begins his reading lessons with princess <entidade "Shireen Baratheon">Shireen Baratheon</entidade>,he realizes a possible ally across the <entidade "Narrow Sea">Narrow Sea</entidade>,the <entidade "Iron Bank of Braavos.">Iron Bank of Braavos.</entidade> 
 
-At the <entidade " Wall"> Wall</entidade> and the <entidade " North"> North</entidade> 
-At <entidade " Castle Black"> Castle Black</entidade>,<entidade " Samwell Tarly"> Samwell Tarly</entidade> fears for the safety of <entidade " Gilly"> Gilly</entidade> and moves her to a vassal town that frequently services the <entidade " Nights Watch"> Nights Watch</entidade> brothers in bodily vices.
-<entidade " Samwell Tarly"> Sam</entidade> is resolute in keeping <entidade " Gilly"> Gilly</entidade> safe from all harm however and pledges to visit <entidade " Gilly"> Gilly</entidade> as much as possible,instructing the inn at which he leaves her,that she will not be touched.
-Meanwhile,a village south of the wall is attacked by raiding wildlings under <entidade " Tormund"> Tormund</entidade> and the cannibalistic <entidade " Thenns"> Thenns</entidade>.
-While the village is massacred,a lone boy is sent by the <entidade " Styr"> Styr</entidade> as a messenger to <entidade " Castle Black"> Castle Black</entidade> to relay an account of the massacre and also a warning that more would follow.
-The <entidade " Lord Commander"> Lord Commander</entidade> states that they do not have the manpower to afford venturing away from the <entidade " Wall"> Wall</entidade>.
-They are interrupted when two rangers,<entidade " Edd"> Edd</entidade> and <entidade " Grenn"> Grenn</entidade>,arrive back at <entidade " Castle Black"> Castle Black</entidade> after escaping <entidade " Craster's Keep"> Craster's Keep</entidade>.
-Jon reveals he told <entidade " Mance Rayder"> Mance Rayder</entidade> that a thousand men armed <entidade " Castle Black"> Castle Black</entidade> and therefore points out that when <entidade " Mance Rayder"> Mance</entidade> reaches <entidade " Craster's Keep"> Craster's Keep</entidade>,<entidade " Rast"> Rast</entidade> and <entidade " Karl"> Karl</entidade> will not hesitate in revealing the truth.
-<entidade " Jon"> Jon</entidade> then insists the <entidade " Night's Watch"> Night's Watch</entidade> send a party to <entidade " Craster's Keep"> Craster's Keep</entidade> to kill their traitor brothers before <entidade " Mance Rayder"> Mance</entidade> gets to them first.
+At the <entidade "Wall">Wall</entidade> and the <entidade "North">North</entidade> 
+At <entidade "Castle Black">Castle Black</entidade>,<entidade "Samwell Tarly">Samwell Tarly</entidade> fears for the safety of <entidade "Gilly">Gilly</entidade> and moves her to a vassal town that frequently services the <entidade "Nights Watch">Nights Watch</entidade> brothers in bodily vices.
+<entidade "Samwell Tarly">Sam</entidade> is resolute in keeping <entidade "Gilly">Gilly</entidade> safe from all harm however and pledges to visit <entidade "Gilly">Gilly</entidade> as much as possible,instructing the inn at which he leaves her,that she will not be touched.
+Meanwhile,a village south of the wall is attacked by raiding wildlings under <entidade "Tormund">Tormund</entidade> and the cannibalistic <entidade "Thenns">Thenns</entidade>.
+While the village is massacred,a lone boy is sent by the <entidade "Styr">Styr</entidade> as a messenger to <entidade "Castle Black">Castle Black</entidade> to relay an account of the massacre and also a warning that more would follow.
+The <entidade "Commander">Lord Commander</entidade> states that they do not have the manpower to afford venturing away from the <entidade "Wall">Wall</entidade>.
+They are interrupted when two rangers,<entidade "Edd">Edd</entidade> and <entidade "Grenn">Grenn</entidade>,arrive back at <entidade "Castle Black">Castle Black</entidade> after escaping <entidade "Craster's Keep">Craster's Keep</entidade>.
+Jon reveals he told <entidade "Mance Rayder">Mance Rayder</entidade> that a thousand men armed <entidade "Castle Black">Castle Black</entidade> and therefore points out that when <entidade "Mance Rayder">Mance</entidade> reaches <entidade "Craster's Keep">Craster's Keep</entidade>,<entidade "Rast">Rast</entidade> and <entidade "Karl">Karl</entidade> will not hesitate in revealing the truth.
+<entidade "Jon">Jon</entidade> then insists the <entidade "Night's Watch">Night's Watch</entidade> send a party to <entidade "Craster's Keep">Craster's Keep</entidade> to kill their traitor brothers before <entidade "Mance Rayder">Mance</entidade> gets to them first.
 
-​Across the <entidade " Narrow Sea"> Narrow Sea</entidade> 
-In <entidade " Slaver's Bay"> Slaver's Bay</entidade>,<entidade " Daenerys Targaryen"> Daenerys Targaryen</entidade> marches on the city of <entidade " Meereen"> Meereen</entidade> as she begins her siege of the slave city.
-She is faced with a champion's duel where a riding knight of <entidade " Meereen"> Meereen</entidade> challenges her to choose a champion that will fight for her.
-<entidade " Grey Worm"> Grey Worm</entidade>,<entidade " Jorah"> Jorah</entidade> and <entidade " Barristan"> Barristan</entidade> all volunteer to stand as her champion ; she refuses all three as too valuable to her.
-<entidade " Daario Naharis"> Daario Naharis</entidade>,commander of the <entidade " Second Sons"> Second Sons</entidade>,then volunteers to be <entidade " Dany"> Dany</entidade>'s champion,and she accepts.
-As <entidade " Naharis"> Naharis</entidade> quickly dispatches the <entidade " Meereen"> Meereen</entidade> champion,<entidade " Dany"> Dany</entidade> begins her siege of the city by speaking of freedom to the gathered slaves and then catapulting the broken chains of those she has freed across the city walls,demonstrating her previous successes.
-As the slaves examine the broken chains,the <entidade " Great"> Great</entidade> <entidade " Masters"> Masters</entidade> look on,perhaps in fear.
+​Across the <entidade "Narrow Sea">Narrow Sea</entidade> 
+In <entidade "Slaver's Bay">Slaver's Bay</entidade>,<entidade "Daenerys Targaryen">Daenerys Targaryen</entidade> marches on the city of <entidade "Meereen">Meereen</entidade> as she begins her siege of the slave city.
+She is faced with a champion's duel where a riding knight of <entidade "Meereen">Meereen</entidade> challenges her to choose a champion that will fight for her.
+<entidade "Grey Worm">Grey Worm</entidade>,<entidade "Jorah">Jorah</entidade> and <entidade "Barristan">Barristan</entidade> all volunteer to stand as her champion ; she refuses all three as too valuable to her.
+<entidade "Daario Naharis">Daario Naharis</entidade>,commander of the <entidade "Second Sons">Second Sons</entidade>,then volunteers to be <entidade "Dany">Dany</entidade>'s champion,and she accepts.
+As <entidade "Naharis">Naharis</entidade> quickly dispatches the <entidade "Meereen">Meereen</entidade> champion,<entidade "Dany">Dany</entidade> begins her siege of the city by speaking of freedom to the gathered slaves and then catapulting the broken chains of those she has freed across the city walls,demonstrating her previous successes.
+As the slaves examine the broken chains,the <entidade "Great">Great</entidade> <entidade "Masters">Masters</entidade> look on,perhaps in fear.
 

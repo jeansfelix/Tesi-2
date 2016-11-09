@@ -1,99 +1,99 @@
-<entidade " David Benioff"> David Benioff</entidade> & <entidade " D.B"> D.B</entidade>.
+<entidade "David Benioff">David Benioff</entidade> & <entidade "D.B">D.B</entidade>.
 Weiss 
 
-<entidade " Tim Van Patten"> Tim Van Patten</entidade> 
+<entidade "Tim Van Patten">Tim Van Patten</entidade> 
 
 Winter is Coming 
-<entidade " Lord Snow"> Lord Snow</entidade> 
+<entidade "Snow">Lord Snow</entidade> 
 
-The <entidade " Kingsroad"> Kingsroad</entidade> is the second episode of the first season of <entidade " Game of Thrones"> Game of Thrones</entidade>.
+The <entidade "Kingsroad">Kingsroad</entidade> is the second episode of the first season of <entidade "Game of Thrones">Game of Thrones</entidade>.
 It is the second episode of the series overall.
-It first aired on <entidade " April 24, 2011"> April 24, 2011</entidade>.
-It was written by executive producers <entidade " David Benioff"> David Benioff</entidade> & <entidade " D.B"> D.B</entidade>.
-<entidade " Weiss"> Weiss</entidade> and directed by <entidade " Tim Van Patten"> Tim Van Patten</entidade>.
+It first aired on <entidade "April 24, 2011">April 24, 2011</entidade>.
+It was written by executive producers <entidade "David Benioff">David Benioff</entidade> & <entidade "D.B">D.B</entidade>.
+<entidade "Weiss">Weiss</entidade> and directed by <entidade "Tim Van Patten">Tim Van Patten</entidade>.
 
-<entidade " Jon Snow"> Jon Snow</entidade> prepares to depart for the <entidade " Wall"> Wall</entidade>.
-<entidade " Jon Snow"> Jon Snow</entidade> and <entidade " Tyrion Lannister"> Tyrion Lannister</entidade> depart  Winterfell for the Wall,and along the way <entidade " Jon Snow"> Jon</entidade> discovers his ideas of the <entidade " Night's Watch"> Night's Watch</entidade> may not match the reality.
-<entidade " Eddard Stark"> Eddard Stark</entidade> and his daughters depart for <entidade " King's Landing"> King's Landing</entidade>,but an incident on the <entidade " Kingsroad"> Kingsroad</entidade> threatens to drive a wedge between him and <entidade " King Robert"> King Robert</entidade>.
+<entidade "Jon Snow">Jon Snow</entidade> prepares to depart for the <entidade "Wall">Wall</entidade>.
+<entidade "Jon Snow">Jon Snow</entidade> and <entidade "Tyrion Lannister">Tyrion Lannister</entidade> depart Winterfell for the Wall,and along the way <entidade "Jon Snow">Jon</entidade> discovers his ideas of the <entidade "Night's Watch">Night's Watch</entidade> may not match the reality.
+<entidade "Eddard Stark">Eddard Stark</entidade> and his daughters depart for <entidade "King's Landing">King's Landing</entidade>,but an incident on the <entidade "Kingsroad">Kingsroad</entidade> threatens to drive a wedge between him and <entidade "King Robert">King Robert</entidade>.
 
-Across the <entidade " Narrow Sea"> Narrow Sea</entidade> 
-The <entidade " Dothraki"> Dothraki</entidade> khalasar led by <entidade " Khal Drogo"> Khal Drogo</entidade> have departed <entidade " Pentos"> Pentos</entidade> and are heading east.
-They travel away from the Free <entidade " Cities"> Cities</entidade> and into the <entidade " Dothraki"> Dothraki</entidade> sea,the long-grassed plains that the <entidade " Dothraki"> Dothraki</entidade> call home.
-<entidade " Viserys Targaryen"> Viserys Targaryen</entidade> accompanies the khalasar,meaning to stay with <entidade " Drogo"> Drogo</entidade> until he fulfills his end of the bargain and provides him with an army with which to invade <entidade " Westeros"> Westeros</entidade>,despite <entidade " Ser Jorah Mormont"> Ser Jorah Mormont</entidade>'s suggestion.
-He tells Viserys that he offended his liege lord,<entidade " Eddard Stark"> Eddard Stark</entidade>,by selling poachers into slavery.
-When he received word that <entidade " Eddard Stark"> Eddard</entidade> meant to execute him for the crime ( slavery has been illegal in <entidade " Westeros"> Westeros</entidade> for centuries ),he fled to <entidade " Essos"> Essos</entidade>.
-<entidade " Viserys Targaryen"> Viserys</entidade> laughs at the notion,saying such trivialities would not be punished under his reign.
-<entidade " Daenerys"> Daenerys</entidade> is finding adapting to her new role as khaleesi to be a huge challenge.
-Only <entidade " Mormont"> Mormont</entidade> offers her some solace ; saying it will become easier.
+Across the <entidade "Narrow Sea">Narrow Sea</entidade> 
+The <entidade "Dothraki">Dothraki</entidade> khalasar led by <entidade "Khal Drogo">Khal Drogo</entidade> have departed <entidade "Pentos">Pentos</entidade> and are heading east.
+They travel away from the Free <entidade "Cities">Cities</entidade> and into the <entidade "Dothraki">Dothraki</entidade> sea,the long-grassed plains that the <entidade "Dothraki">Dothraki</entidade> call home.
+<entidade "Viserys Targaryen">Viserys Targaryen</entidade> accompanies the khalasar,meaning to stay with <entidade "Drogo">Drogo</entidade> until he fulfills his end of the bargain and provides him with an army with which to invade <entidade "Westeros">Westeros</entidade>,despite <entidade "Jorah Mormont">Ser Jorah Mormont</entidade>'s suggestion.
+He tells Viserys that he offended his liege lord,<entidade "Eddard Stark">Eddard Stark</entidade>,by selling poachers into slavery.
+When he received word that <entidade "Eddard Stark">Eddard</entidade> meant to execute him for the crime ( slavery has been illegal in <entidade "Westeros">Westeros</entidade> for centuries ),he fled to <entidade "Essos">Essos</entidade>.
+<entidade "Viserys Targaryen">Viserys</entidade> laughs at the notion,saying such trivialities would not be punished under his reign.
+<entidade "Daenerys">Daenerys</entidade> is finding adapting to her new role as khaleesi to be a huge challenge.
+Only <entidade "Mormont">Mormont</entidade> offers her some solace ; saying it will become easier.
 Daenerys is however fearful of her new husband and it is revealed that their first sexual encounter has left her slightly injured.
-Fascinated with her gift from <entidade " Illyrio"> Illyrio</entidade>,<entidade " Dany"> Dany</entidade> asks her handmaidens if they have ever heard of dragons surviving in the east.
-They reply no,but <entidade " Doreah"> Doreah</entidade>,a former pleasure-girl from <entidade " Lys"> Lys</entidade>,tells her an old story about how there used to be two moons in the sky.
+Fascinated with her gift from <entidade "Illyrio">Illyrio</entidade>,<entidade "Dany">Dany</entidade> asks her handmaidens if they have ever heard of dragons surviving in the east.
+They reply no,but <entidade "Doreah">Doreah</entidade>,a former pleasure-girl from <entidade "Lys">Lys</entidade>,tells her an old story about how there used to be two moons in the sky.
 One wandered too close to the sun and cracked like an egg,spilling out thousands of dragons into the world.
-<entidade " Dany's Dothraki"> Dany's Dothraki</entidade> handmaidens <entidade " Irri"> Irri</entidade> and <entidade " Jhiqui"> Jhiqui</entidade> dismiss the story,saying that the moon is a goddess,wife to the sun.
-<entidade " Daenerys"> Daenerys</entidade> seeks the advice of her handmaid <entidade " Doreah"> Doreah</entidade>.
-<entidade " Doreah"> Doreah</entidade> instructs <entidade " Daenerys"> Daenerys</entidade> on how to please <entidade " Drogo"> Drogo</entidade> in bed but also how to use her skills to gain respect from him.
+<entidade "Dany's Dothraki">Dany's Dothraki</entidade> handmaidens <entidade "Irri">Irri</entidade> and <entidade "Jhiqui">Jhiqui</entidade> dismiss the story,saying that the moon is a goddess,wife to the sun.
+<entidade "Daenerys">Daenerys</entidade> seeks the advice of her handmaid <entidade "Doreah">Doreah</entidade>.
+<entidade "Doreah">Doreah</entidade> instructs <entidade "Daenerys">Daenerys</entidade> on how to please <entidade "Drogo">Drogo</entidade> in bed but also how to use her skills to gain respect from him.
 Reminding her,you are no slave and should not have sex like one.
-<entidade " Daenerys"> Daenerys</entidade> nervously puts these plans into action and is surprised to find <entidade " Drogo"> Drogo</entidade> responsive,particularly once she starts using her body in combination with the <entidade " Dothraki"> Dothraki</entidade> language to speak to him.
+<entidade "Daenerys">Daenerys</entidade> nervously puts these plans into action and is surprised to find <entidade "Drogo">Drogo</entidade> responsive,particularly once she starts using her body in combination with the <entidade "Dothraki">Dothraki</entidade> language to speak to him.
 
-In the <entidade " Seven Kingdoms"> Seven Kingdoms</entidade> 
-<entidade " Robb Stark"> Robb Stark</entidade> says farewell to <entidade " Jon Snow"> Jon</entidade>.
-In <entidade " Winterfell"> Winterfell</entidade>,<entidade " Bran Stark"> Bran Stark</entidade> lies unconscious and badly wounded,his mother by his side.
-Tyrion <entidade " Lannister"> Lannister</entidade> insists that his nephew <entidade " Joffrey"> Joffrey</entidade> pay his respects to <entidade " Lord"> Lord</entidade> and <entidade " Lady Stark"> Lady Stark</entidade>,since his absence has been noted.
-When <entidade " Joffrey"> Joffrey</entidade> refuses,saying the boy means nothing to him,<entidade " Tyrion"> Tyrion</entidade> slaps him three times until he accepts his uncle's suggestion.
-Tyrion then breakfasts with his other family members,informing them of his decision to journey north to see the <entidade " Wall"> Wall</entidade> before returning to <entidade " King's Landing"> King's Landing</entidade>.
-He also tells them that <entidade " Bran Stark"> Bran</entidade> is expected to live and notes <entidade " Cersei"> Cersei</entidade> and <entidade " Jaime"> Jaime</entidade>'s guarded reactions.
-<entidade " Cersei"> Cersei</entidade> visits <entidade " Catelyn Stark"> Catelyn Stark</entidade>,sitting by her son's side,and tells her that her first child,a beautiful,black-haired boy,died of a fever.
-She and <entidade " Robert"> Robert</entidade> were grief-stricken and her prayers and tears were for naught.
-She offers to pray for <entidade " Bran Stark"> Bran</entidade>'s survival,hoping that this time the gods will listen.
-<entidade " Jon Snow"> Jon Snow</entidade> has <entidade " Winterfell"> Winterfell</entidade>'s blacksmith,<entidade " Mikken"> Mikken</entidade>,forge a light sword for his sister,<entidade " Arya"> Arya</entidade>.
-<entidade " Arya"> Arya</entidade> is excited by the gift and names it <entidade " Needle"> Needle</entidade>.
-<entidade " Jon Snow"> Jon</entidade> also gives her advice on how to best use the weapon : <entidade " Stick"> Stick</entidade> them with the pointy end.
-<entidade " Jon Snow"> Jon</entidade> urges <entidade " Arya"> Arya</entidade> to practice every chance she gets.
-<entidade " Jon Snow"> Jon</entidade> then says goodbye to the comatose <entidade " Bran Stark"> Bran</entidade>,before departing at his stepmother's cold request.
-<entidade " Eddard"> Eddard</entidade> then says his goodbyes to his son and to <entidade " Catelyn Stark"> Catelyn</entidade>,who is angered at his departure while <entidade " Bran Stark"> Bran</entidade> remains ill.
+In the <entidade "Seven Kingdoms">Seven Kingdoms</entidade> 
+<entidade "Robb Stark">Robb Stark</entidade> says farewell to <entidade "Jon Snow">Jon</entidade>.
+In <entidade "Winterfell">Winterfell</entidade>,<entidade "Bran Stark">Bran Stark</entidade> lies unconscious and badly wounded,his mother by his side.
+Tyrion <entidade "Lannister">Lannister</entidade> insists that his nephew <entidade "Joffrey">Joffrey</entidade> pay his respects to <entidade "Lord">Lord</entidade> and <entidade "Lady Stark">Lady Stark</entidade>,since his absence has been noted.
+When <entidade "Joffrey">Joffrey</entidade> refuses,saying the boy means nothing to him,<entidade "Tyrion">Tyrion</entidade> slaps him three times until he accepts his uncle's suggestion.
+Tyrion then breakfasts with his other family members,informing them of his decision to journey north to see the <entidade "Wall">Wall</entidade> before returning to <entidade "King's Landing">King's Landing</entidade>.
+He also tells them that <entidade "Bran Stark">Bran</entidade> is expected to live and notes <entidade "Cersei">Cersei</entidade> and <entidade "Jaime">Jaime</entidade>'s guarded reactions.
+<entidade "Cersei">Cersei</entidade> visits <entidade "Catelyn Stark">Catelyn Stark</entidade>,sitting by her son's side,and tells her that her first child,a beautiful,black-haired boy,died of a fever.
+She and <entidade "Robert">Robert</entidade> were grief-stricken and her prayers and tears were for naught.
+She offers to pray for <entidade "Bran Stark">Bran</entidade>'s survival,hoping that this time the gods will listen.
+<entidade "Jon Snow">Jon Snow</entidade> has <entidade "Winterfell">Winterfell</entidade>'s blacksmith,<entidade "Mikken">Mikken</entidade>,forge a light sword for his sister,<entidade "Arya">Arya</entidade>.
+<entidade "Arya">Arya</entidade> is excited by the gift and names it <entidade "Needle">Needle</entidade>.
+<entidade "Jon Snow">Jon</entidade> also gives her advice on how to best use the weapon : <entidade "Stick">Stick</entidade> them with the pointy end.
+<entidade "Jon Snow">Jon</entidade> urges <entidade "Arya">Arya</entidade> to practice every chance she gets.
+<entidade "Jon Snow">Jon</entidade> then says goodbye to the comatose <entidade "Bran Stark">Bran</entidade>,before departing at his stepmother's cold request.
+<entidade "Eddard">Eddard</entidade> then says his goodbyes to his son and to <entidade "Catelyn Stark">Catelyn</entidade>,who is angered at his departure while <entidade "Bran Stark">Bran</entidade> remains ill.
 
-The two parties depart <entidade " Winterfell"> Winterfell</entidade>.
-The parties depart <entidade " Winterfell"> Winterfell</entidade> : <entidade " Jon Snow"> Jon</entidade>,<entidade " Tyrion"> Tyrion</entidade> and <entidade " Benjen Stark"> Benjen Stark</entidade> to the <entidade " Wall"> Wall</entidade> ; and <entidade " Eddard"> Eddard</entidade>,<entidade " Arya"> Arya</entidade>,<entidade " Sansa"> Sansa</entidade> and the royal party south to <entidade " King's Landing"> King's Landing</entidade>.
-At their parting <entidade " Eddard"> Eddard</entidade> tells <entidade " Jon Snow"> Jon</entidade> that,though he does not have <entidade " Eddard"> Eddard</entidade>'s name,he has his blood.
-He also promises <entidade " Jon Snow"> Jon</entidade> to tell him about his mother the next time they meet.
+The two parties depart <entidade "Winterfell">Winterfell</entidade>.
+The parties depart <entidade "Winterfell">Winterfell</entidade> : <entidade "Jon Snow">Jon</entidade>,<entidade "Tyrion">Tyrion</entidade> and <entidade "Benjen Stark">Benjen Stark</entidade> to the <entidade "Wall">Wall</entidade> ; and <entidade "Eddard">Eddard</entidade>,<entidade "Arya">Arya</entidade>,<entidade "Sansa">Sansa</entidade> and the royal party south to <entidade "King's Landing">King's Landing</entidade>.
+At their parting <entidade "Eddard">Eddard</entidade> tells <entidade "Jon Snow">Jon</entidade> that,though he does not have <entidade "Eddard">Eddard</entidade>'s name,he has his blood.
+He also promises <entidade "Jon Snow">Jon</entidade> to tell him about his mother the next time they meet.
 
-<entidade " Eddard Stark"> Eddard Stark</entidade> says goodbye to his bastard son.
-Days later,on the <entidade " Kingsroad"> Kingsroad</entidade> south to the capital,<entidade " King Robert Baratheon"> King Robert Baratheon</entidade> calls a halt to discuss with <entidade " Eddard Stark"> Eddard</entidade> some dire news that has just arrived.
-<entidade " Robert"> Robert</entidade>'s spies have learned of <entidade " Daenerys Targaryen"> Daenerys Targaryen</entidade>'s marriage to <entidade " Khal Drogo"> Khal Drogo</entidade>,whose khalasar is reported to number over one hundred thousand warriors.
-<entidade " Eddard Stark"> Eddard</entidade> points out that the <entidade " Dothraki"> Dothraki</entidade> can not cross the <entidade " Narrow Sea"> Narrow Sea</entidade>,as they have no ships,but <entidade " Robert"> Robert</entidade> is concerned that the <entidade " Seven Kingdoms"> Seven Kingdoms</entidade> will soon face another war.
-A curious <entidade " Robert"> Robert</entidade> asks  Eddard about Wylla,the mother of his bastard son,but <entidade " Eddard Stark"> Eddard</entidade> refuses to enlighten him.
-<entidade " Robert"> Robert</entidade> reminds him that they were in the middle of a war and no one knew if they would ever return to their families.
-In <entidade " Winterfell"> Winterfell</entidade>,<entidade " Catelyn Stark"> Catelyn</entidade>'s refusal to leave <entidade " Bran Stark"> Bran</entidade>'s side is starting to cause problems for the smooth running of the castle.
-<entidade " Robb"> Robb</entidade> offers to work with <entidade " Maester Luwin"> Maester Luwin</entidade> to put the castle to rights.
-There is then a fire in part of the castle,but this proves to be a distraction to allow an assassin to attempt to finish off <entidade " Bran Stark"> Bran</entidade>.
-<entidade " Catelyn Stark"> Catelyn</entidade> holds the assassin off long enough for <entidade " Bran Stark"> Bran</entidade>'s direwolf to enter the chamber and tear out the assassin's throat.
+<entidade "Eddard Stark">Eddard Stark</entidade> says goodbye to his bastard son.
+Days later,on the <entidade "Kingsroad">Kingsroad</entidade> south to the capital,<entidade "King Robert Baratheon">King Robert Baratheon</entidade> calls a halt to discuss with <entidade "Eddard Stark">Eddard</entidade> some dire news that has just arrived.
+<entidade "Robert">Robert</entidade>'s spies have learned of <entidade "Daenerys Targaryen">Daenerys Targaryen</entidade>'s marriage to <entidade "Khal Drogo">Khal Drogo</entidade>,whose khalasar is reported to number over one hundred thousand warriors.
+<entidade "Eddard Stark">Eddard</entidade> points out that the <entidade "Dothraki">Dothraki</entidade> can not cross the <entidade "Narrow Sea">Narrow Sea</entidade>,as they have no ships,but <entidade "Robert">Robert</entidade> is concerned that the <entidade "Seven Kingdoms">Seven Kingdoms</entidade> will soon face another war.
+A curious <entidade "Robert">Robert</entidade> asks Eddard about Wylla,the mother of his bastard son,but <entidade "Eddard Stark">Eddard</entidade> refuses to enlighten him.
+<entidade "Robert">Robert</entidade> reminds him that they were in the middle of a war and no one knew if they would ever return to their families.
+In <entidade "Winterfell">Winterfell</entidade>,<entidade "Catelyn Stark">Catelyn</entidade>'s refusal to leave <entidade "Bran Stark">Bran</entidade>'s side is starting to cause problems for the smooth running of the castle.
+<entidade "Robb Stark">Robb</entidade> offers to work with <entidade "Luwin">Maester Luwin</entidade> to put the castle to rights.
+There is then a fire in part of the castle,but this proves to be a distraction to allow an assassin to attempt to finish off <entidade "Bran Stark">Bran</entidade>.
+<entidade "Catelyn Stark">Catelyn</entidade> holds the assassin off long enough for <entidade "Bran Stark">Bran</entidade>'s direwolf to enter the chamber and tear out the assassin's throat.
 
-<entidade " Jon Snow"> Jon</entidade> and <entidade " Tyrion"> Tyrion</entidade> discussing matters.
-Traveling north,<entidade " Jon Snow"> Jon</entidade> and <entidade " Tyrion"> Tyrion</entidade> talk,and <entidade " Tyrion"> Tyrion</entidade> reveals that he reads books to sharpen his mind,his greatest asset and weapon.
+<entidade "Jon Snow">Jon</entidade> and <entidade "Tyrion">Tyrion</entidade> discussing matters.
+Traveling north,<entidade "Jon Snow">Jon</entidade> and <entidade "Tyrion">Tyrion</entidade> talk,and <entidade "Tyrion">Tyrion</entidade> reveals that he reads books to sharpen his mind,his greatest asset and weapon.
 As it travels north,the party is joined by several,new recruits rapists who chose to take the black,rather than face the knife.
-Tyrion tells  Jon that the Night's <entidade " Watch"> Watch</entidade> is not a noble institution of glorious knights defending the realm against the horrors lurking beyond the <entidade " Wall"> Wall</entidade>,but a dumping ground for the unwanted and for criminals.
-In <entidade " Winterfell"> Winterfell</entidade>,<entidade " Catelyn Stark"> Catelyn</entidade> goes to the tower from where <entidade " Bran Stark"> Bran</entidade> fell and finds a strand of blonde hair on the floor.
-She summons <entidade " Robb"> Robb</entidade>,<entidade " Theon"> Theon</entidade>,<entidade " Luwin"> Luwin</entidade> and the castle master at arms,<entidade " Ser Rodrik Cassel"> Ser Rodrik Cassel</entidade> and tells them that she suspects that the <entidade " Lannisters"> Lannisters</entidade> tried to kill <entidade " Bran Stark"> Bran</entidade> because he might have seen something in the tower.
-<entidade " Robb"> Robb</entidade> and <entidade " Theon"> Theon</entidade> are all for making war,but <entidade " Luwin"> Luwin</entidade> schools them to caution.
-<entidade " Catelyn Stark"> Catelyn</entidade> decides that <entidade " Ned"> Ned</entidade> must know the truth and resolves to travel south to <entidade " King's Landing"> King's Landing</entidade> and meet him there.
-<entidade " Ser Rodrik Cassel"> Ser Rodrik</entidade> will go as escort,while <entidade " Robb"> Robb</entidade> will take charge of the castle in her absence.
+Tyrion tells Jon that the Night's <entidade "Watch">Watch</entidade> is not a noble institution of glorious knights defending the realm against the horrors lurking beyond the <entidade "Wall">Wall</entidade>,but a dumping ground for the unwanted and for criminals.
+In <entidade "Winterfell">Winterfell</entidade>,<entidade "Catelyn Stark">Catelyn</entidade> goes to the tower from where <entidade "Bran Stark">Bran</entidade> fell and finds a strand of blonde hair on the floor.
+She summons <entidade "Robb Stark">Robb</entidade>,<entidade "Theon">Theon</entidade>,<entidade "Luwin">Luwin</entidade> and the castle master at arms,<entidade "Rodrik Cassel">Ser Rodrik Cassel</entidade> and tells them that she suspects that the <entidade "Lannisters">Lannisters</entidade> tried to kill <entidade "Bran Stark">Bran</entidade> because he might have seen something in the tower.
+<entidade "Robb Stark">Robb</entidade> and <entidade "Theon">Theon</entidade> are all for making war,but <entidade "Luwin">Luwin</entidade> schools them to caution.
+<entidade "Catelyn Stark">Catelyn</entidade> decides that <entidade "Ned">Ned</entidade> must know the truth and resolves to travel south to <entidade "King's Landing">King's Landing</entidade> and meet him there.
+<entidade "Rodrik Cassel">Ser Rodrik</entidade> will go as escort,while <entidade "Robb Stark">Robb</entidade> will take charge of the castle in her absence.
 
-The <entidade " Wall"> Wall</entidade>,as seen by <entidade " Jon Snow"> Jon</entidade>'s party.
-<entidade " Jon Snow"> Jon</entidade>'s party crests a rise and sees the <entidade " Wall"> Wall</entidade> before them.
-<entidade " Benjen"> Benjen</entidade> welcomes them,and <entidade " Tyrion"> Tyrion</entidade> seems impressed by the <entidade " Wall"> Wall</entidade>'s sheer size.
-On the <entidade " Kingsroad"> Kingsroad</entidade>,the royal party reaches the <entidade " Crossroads Inn"> Crossroads Inn</entidade>,a noted waystop on the way south to the capital.
-<entidade " Prince Joffrey"> Prince Joffrey</entidade>'s bodyguard,<entidade " Sandor Clegane"> Sandor Clegane</entidade>,known as the <entidade " Hound"> Hound</entidade>,a man with half his face burned in a mysterious accident,introduces <entidade " Sansa"> Sansa</entidade> to <entidade " Ser Ilyn Payne"> Ser Ilyn Payne</entidade>,the king's headsman,a frightening-looking man who had his tongue torn out on the orders of the <entidade " Mad King"> Mad King</entidade> many years ago.
-<entidade " Joffrey"> Joffrey</entidade> saves <entidade " Sansa"> Sansa</entidade> from this unpleasantness and takes her for a walk along the riverbank.
-They find Arya practicing her sword work with the son of the party's butcher,<entidade " Mycah"> Mycah</entidade>.
-<entidade " Joffrey"> Joffrey</entidade> pretends to take offense at <entidade " Mycah"> Mycah</entidade> using a sword on the sister of his betrothed and starts to gleefully cut <entidade " Mycah"> Mycah</entidade>'s face with his sword,but an outraged <entidade " Arya"> Arya</entidade> hits him on the head with a stick.
-<entidade " Joffrey"> Joffrey</entidade> quickly becomes violent and threatens <entidade " Arya"> Arya</entidade> at sword point,but before he can hurt her,<entidade " Arya"> Arya</entidade>'s direwolf,<entidade " Nymeria"> Nymeria</entidade>,attacks <entidade " Joffrey"> Joffrey</entidade>,biting at his arm.
-<entidade " Mycah"> Mycah</entidade> runs off,and <entidade " Arya"> Arya</entidade> throws <entidade " Joffrey"> Joffrey</entidade>'s sword in the river before running off herself.
-<entidade " Sansa"> Sansa</entidade> tries to help <entidade " Joffrey"> Joffrey</entidade>,but he spitefully tells her to leave him alone and go for help.
-<entidade " Arya"> Arya</entidade>,knowing that <entidade " Nymeria"> Nymeria</entidade> will be punished for injuring the prince,forces the direwolf to flee by throwing a rock at her.
-She is then taken before the <entidade " King's Landing"> King</entidade>,who is angered that a minor fracas has become a major incident,with his wife and new <entidade " Hand"> Hand</entidade> blaming one another's children.
-He decides to let <entidade " Ned"> Ned</entidade> discipline <entidade " Arya"> Arya</entidade> while he will do the same to <entidade " Joffrey"> Joffrey</entidade>,but <entidade " Cersei"> Cersei</entidade> demands that the direwolf be executed.
-When <entidade " Nymeria"> Nymeria</entidade> can not be found,<entidade " Cersei"> Cersei</entidade> spitefully requests that <entidade " Sansa"> Sansa</entidade>'s direwolf <entidade " Lady"> Lady</entidade> be killed instead,and <entidade " Robert"> Robert</entidade> acquiesces,upsetting <entidade " Sansa"> Sansa</entidade> and angering <entidade " Arya"> Arya</entidade>.
-<entidade " Furious"> Furious</entidade>,<entidade " Eddard"> Eddard</entidade> attends to the matter himself,passing the <entidade " Hound"> Hound</entidade> arriving with <entidade " Mycah"> Mycah</entidade>'s bloodied corpse.
-<entidade " Eddard"> Eddard</entidade> is shocked and disgusted,and when he asks if the <entidade " Hound"> Hound</entidade> ran <entidade " Mycah"> Mycah</entidade> down,the <entidade " Hound"> Hound</entidade> responds He ran,but not very fast.
-<entidade " Eddard"> Eddard</entidade> kills <entidade " Lady"> Lady</entidade> with a dagger,and hundreds of miles away,<entidade " Bran"> Bran</entidade> awakens.
+The <entidade "Wall">Wall</entidade>,as seen by <entidade "Jon Snow">Jon</entidade>'s party.
+<entidade "Jon Snow">Jon</entidade>'s party crests a rise and sees the <entidade "Wall">Wall</entidade> before them.
+<entidade "Benjen Stark">Benjen</entidade> welcomes them,and <entidade "Tyrion">Tyrion</entidade> seems impressed by the <entidade "Wall">Wall</entidade>'s sheer size.
+On the <entidade "Kingsroad">Kingsroad</entidade>,the royal party reaches the <entidade "Crossroads Inn">Crossroads Inn</entidade>,a noted waystop on the way south to the capital.
+<entidade "Joffrey">Prince Joffrey</entidade>'s bodyguard,<entidade "Sandor Clegane">Sandor Clegane</entidade>,known as the <entidade "Hound">Hound</entidade>,a man with half his face burned in a mysterious accident,introduces <entidade "Sansa">Sansa</entidade> to <entidade "Ilyn Payne">Ser Ilyn Payne</entidade>,the king's headsman,a frightening-looking man who had his tongue torn out on the orders of the <entidade "Mad King">Mad King</entidade> many years ago.
+<entidade "Joffrey">Joffrey</entidade> saves <entidade "Sansa">Sansa</entidade> from this unpleasantness and takes her for a walk along the riverbank.
+They find Arya practicing her sword work with the son of the party's butcher,<entidade "Mycah">Mycah</entidade>.
+<entidade "Joffrey">Joffrey</entidade> pretends to take offense at <entidade "Mycah">Mycah</entidade> using a sword on the sister of his betrothed and starts to gleefully cut <entidade "Mycah">Mycah</entidade>'s face with his sword,but an outraged <entidade "Arya">Arya</entidade> hits him on the head with a stick.
+<entidade "Joffrey">Joffrey</entidade> quickly becomes violent and threatens <entidade "Arya">Arya</entidade> at sword point,but before he can hurt her,<entidade "Arya">Arya</entidade>'s direwolf,<entidade "Nymeria">Nymeria</entidade>,attacks <entidade "Joffrey">Joffrey</entidade>,biting at his arm.
+<entidade "Mycah">Mycah</entidade> runs off,and <entidade "Arya">Arya</entidade> throws <entidade "Joffrey">Joffrey</entidade>'s sword in the river before running off herself.
+<entidade "Sansa">Sansa</entidade> tries to help <entidade "Joffrey">Joffrey</entidade>,but he spitefully tells her to leave him alone and go for help.
+<entidade "Arya">Arya</entidade>,knowing that <entidade "Nymeria">Nymeria</entidade> will be punished for injuring the prince,forces the direwolf to flee by throwing a rock at her.
+She is then taken before the <entidade "King's Landing">King</entidade>,who is angered that a minor fracas has become a major incident,with his wife and new <entidade "Hand">Hand</entidade> blaming one another's children.
+He decides to let <entidade "Ned">Ned</entidade> discipline <entidade "Arya">Arya</entidade> while he will do the same to <entidade "Joffrey">Joffrey</entidade>,but <entidade "Cersei">Cersei</entidade> demands that the direwolf be executed.
+When <entidade "Nymeria">Nymeria</entidade> can not be found,<entidade "Cersei">Cersei</entidade> spitefully requests that <entidade "Sansa">Sansa</entidade>'s direwolf <entidade "Lady">Lady</entidade> be killed instead,and <entidade "Robert">Robert</entidade> acquiesces,upsetting <entidade "Sansa">Sansa</entidade> and angering <entidade "Arya">Arya</entidade>.
+<entidade "Furious">Furious</entidade>,<entidade "Eddard">Eddard</entidade> attends to the matter himself,passing the <entidade "Hound">Hound</entidade> arriving with <entidade "Mycah">Mycah</entidade>'s bloodied corpse.
+<entidade "Eddard">Eddard</entidade> is shocked and disgusted,and when he asks if the <entidade "Hound">Hound</entidade> ran <entidade "Mycah">Mycah</entidade> down,the <entidade "Hound">Hound</entidade> responds He ran,but not very fast.
+<entidade "Eddard">Eddard</entidade> kills <entidade "Lady">Lady</entidade> with a dagger,and hundreds of miles away,<entidade "Bran Stark">Bran</entidade> awakens.
 

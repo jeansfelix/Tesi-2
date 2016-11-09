@@ -1,76 +1,76 @@
-<entidade " David Benioff"> David Benioff</entidade> & <entidade " D.B"> D.B</entidade>.
+<entidade "David Benioff">David Benioff</entidade> & <entidade "D.B">D.B</entidade>.
 Weiss 
 
-<entidade " Alan Taylor"> Alan Taylor</entidade> 
+<entidade "Alan Taylor">Alan Taylor</entidade> 
 
-The <entidade " North"> North</entidade> Remembers 
-What is Dead <entidade " May Never Die"> May Never Die</entidade> 
+The <entidade "North">North</entidade> Remembers 
+What is Dead <entidade "May Never Die">May Never Die</entidade> 
 
-The <entidade " Night Lands"> Night Lands</entidade> is the second episode of the second season of <entidade " Game of Thrones"> Game of Thrones</entidade>.
+The <entidade "Night Lands">Night Lands</entidade> is the second episode of the second season of <entidade "Game of Thrones">Game of Thrones</entidade>.
 It is the twelfth episode of the series overall.
-It premiered on <entidade " April 8, 2012"> April 8, 2012</entidade>.
-It was written by executive producers <entidade " David Benioff"> David Benioff</entidade> & <entidade " D.B"> D.B</entidade>.
-<entidade " Weiss"> Weiss</entidade> and directed by co-executive producer <entidade " Alan Taylor"> Alan Taylor</entidade>.
+It premiered on <entidade "April 8, 2012">April 8, 2012</entidade>.
+It was written by executive producers <entidade "David Benioff">David Benioff</entidade> & <entidade "D.B">D.B</entidade>.
+<entidade "Weiss">Weiss</entidade> and directed by co-executive producer <entidade "Alan Taylor">Alan Taylor</entidade>.
 
-<entidade " Stannis"> Stannis</entidade> uses <entidade " Ser Davos"> Ser Davos</entidade> to seek out new allies for his war with the Lannisters.
-On the road north,<entidade " Arya"> Arya</entidade> confides in <entidade " Gendry"> Gendry</entidade>.
-<entidade " Robb Stark"> Robb Stark</entidade> sends <entidade " Theon Greyjoy"> Theon Greyjoy</entidade> to win an alliance with his father and the fierce warriors of the <entidade " Iron Islands"> Iron Islands</entidade>.
-<entidade " Cersei"> Cersei</entidade> and <entidade " Tyrion"> Tyrion</entidade> clash on how to rule in <entidade " King's Landing"> King's Landing</entidade>.
+<entidade "Stannis">Stannis</entidade> uses <entidade "Davos">Ser Davos</entidade> to seek out new allies for his war with the Lannisters.
+On the road north,<entidade "Arya">Arya</entidade> confides in <entidade "Gendry">Gendry</entidade>.
+<entidade "Robb Stark">Robb Stark</entidade> sends <entidade "Theon Greyjoy">Theon Greyjoy</entidade> to win an alliance with his father and the fierce warriors of the <entidade "Iron Islands">Iron Islands</entidade>.
+<entidade "Cersei">Cersei</entidade> and <entidade "Tyrion">Tyrion</entidade> clash on how to rule in <entidade "King's Landing">King's Landing</entidade>.
 
-In the <entidade " Seven Kingdoms"> Seven Kingdoms</entidade> 
-In the <entidade " Riverlands"> Riverlands</entidade>,<entidade " Arya Stark"> Arya Stark</entidade> continues to pose as a boy while traveling north with <entidade " Yoren"> Yoren</entidade> and his <entidade " Night's Watch"> Night's Watch</entidade> recruits,and urinates privately.
-She is drawn to the caged prisoners ( <entidade " Jaqen H'ghar"> Jaqen H'ghar</entidade>,<entidade " Rorge"> Rorge</entidade> and <entidade " Biter"> Biter</entidade> ) when <entidade " Jaqen H'ghar"> Jaqen</entidade> asks her for water and introduces himself.
-A pair of <entidade " Gold Cloaks"> Gold Cloaks</entidade> approach the party and <entidade " Arya Stark"> Arya</entidade> hides,believing that they have come for her.
-They deliver a warrant for the <entidade " Royal"> Royal</entidade> bastard <entidade " Gendry"> Gendry</entidade> but <entidade " Yoren"> Yoren</entidade> intimidates them into leaving empty handed.
+In the <entidade "Seven Kingdoms">Seven Kingdoms</entidade> 
+In the <entidade "Riverlands">Riverlands</entidade>,<entidade "Arya Stark">Arya Stark</entidade> continues to pose as a boy while traveling north with <entidade "Yoren">Yoren</entidade> and his <entidade "Night's Watch">Night's Watch</entidade> recruits,and urinates privately.
+She is drawn to the caged prisoners ( <entidade "Jaqen H'ghar">Jaqen H'ghar</entidade>,<entidade "Rorge">Rorge</entidade> and <entidade "Biter">Biter</entidade> ) when <entidade "Jaqen H'ghar">Jaqen</entidade> asks her for water and introduces himself.
+A pair of <entidade "Gold Cloaks">Gold Cloaks</entidade> approach the party and <entidade "Arya Stark">Arya</entidade> hides,believing that they have come for her.
+They deliver a warrant for the <entidade "Royal">Royal</entidade> bastard <entidade "Gendry">Gendry</entidade> but <entidade "Yoren">Yoren</entidade> intimidates them into leaving empty handed.
 They promise to return with more men.
-<entidade " Arya Stark"> Arya</entidade> asks <entidade " Gendry"> Gendry</entidade> why he is wanted and he admits that he does not know.
-He tells her that he was questioned by <entidade " Lord Jon Arryn"> Lord Jon Arryn</entidade> and <entidade " Lord Eddard Stark"> Lord Eddard Stark</entidade> in the months before he fled <entidade " King's Landing"> King's Landing</entidade>.
+<entidade "Arya Stark">Arya</entidade> asks <entidade "Gendry">Gendry</entidade> why he is wanted and he admits that he does not know.
+He tells her that he was questioned by <entidade "Jon Arryn">Lord Jon Arryn</entidade> and <entidade "Eddard Stark">Lord Eddard Stark</entidade> in the months before he fled <entidade "King's Landing">King's Landing</entidade>.
 He questions why she thought that they had come for her and tells her that he has seen through her disguise.
 Arya reveals her identity to him and swears him to secrecy.
-In <entidade " King's Landing"> King's Landing</entidade>,<entidade " Varys"> Varys</entidade> discovers <entidade " Shae"> Shae</entidade> living with  Tyrion Lannister in the Tower of the Hand and makes implied threats about revealing her presence.
-Tyrion warns <entidade " Varys"> Varys</entidade> not to underestimate him.
-<entidade " Alton Lannister"> Alton Lannister</entidade> delivers <entidade " King Robb Stark"> King Robb Stark</entidade>'s peace terms to the small council and <entidade " Queen Regent Cersei Lannister"> Queen Regent Cersei Lannister</entidade> rejects them.
-<entidade " Grand Maester Pycelle"> Grand Maester Pycelle</entidade> relays a message from the <entidade " Night's Watch"> Night's Watch</entidade> requesting manpower and warning of wights.
+In <entidade "King's Landing">King's Landing</entidade>,<entidade "Varys">Varys</entidade> discovers <entidade "Shae">Shae</entidade> living with Tyrion Lannister in the Tower of the Hand and makes implied threats about revealing her presence.
+Tyrion warns <entidade "Varys">Varys</entidade> not to underestimate him.
+<entidade "Alton Lannister">Alton Lannister</entidade> delivers <entidade "King Robb Stark">King Robb Stark</entidade>'s peace terms to the small council and <entidade "Regent Cersei Lannister">Queen Regent Cersei Lannister</entidade> rejects them.
+<entidade "Pycelle">Grand Maester Pycelle</entidade> relays a message from the <entidade "Night's Watch">Night's Watch</entidade> requesting manpower and warning of wights.
 Tyrion is the only one to take the warning seriously.
-<entidade " Ros"> Ros</entidade> struggles to continue her work as a prostitute having witnessed the murder of the infant royal bastard <entidade " Barra"> Barra</entidade>.
-<entidade " Petyr Baelish"> Petyr Baelish</entidade> threatens her with a tale about selling an unhappy girl to a depraved customer in order to recoup his investment.
+<entidade "Ros">Ros</entidade> struggles to continue her work as a prostitute having witnessed the murder of the infant royal bastard <entidade "Barra">Barra</entidade>.
+<entidade "Petyr Baelish">Petyr Baelish</entidade> threatens her with a tale about selling an unhappy girl to a depraved customer in order to recoup his investment.
 He orders her to return happy after a night off.
-Tyrion has <entidade " Lord Janos Slynt"> Lord Janos Slynt</entidade> for dinner and questions him about the massacre of the royal bastards.
-<entidade " Janos"> Janos</entidade> freely admits his involvement but will not reveal who ordered the attack.
-Tyrion has Janos arrested and exiled to the <entidade " Night's Watch"> Night's Watch</entidade> and installs <entidade " Bronn"> Bronn</entidade> as <entidade " Commander of the City Watch"> Commander of the City Watch</entidade> in his place.
-<entidade " Cersei"> Cersei</entidade> confronts Tyrion about his actions.
+Tyrion has <entidade "Janos Slynt">Lord Janos Slynt</entidade> for dinner and questions him about the massacre of the royal bastards.
+<entidade "Janos Slynt">Janos</entidade> freely admits his involvement but will not reveal who ordered the attack.
+Tyrion has Janos arrested and exiled to the <entidade "Night's Watch">Night's Watch</entidade> and installs <entidade "Bronn">Bronn</entidade> as <entidade "Commander of the City Watch">Commander of the City Watch</entidade> in his place.
+<entidade "Cersei">Cersei</entidade> confronts Tyrion about his actions.
 He warns that she is losing the support of the people but she claims that she does not care.
-He concludes that <entidade " Joffrey"> Joffrey</entidade> ordered the massacre,having initially suspected that it was <entidade " Cersei"> Cersei</entidade>.
-He jokes about her relationship with <entidade " Jaime"> Jaime</entidade> and she says that he has always been funny.
+He concludes that <entidade "Joffrey">Joffrey</entidade> ordered the massacre,having initially suspected that it was <entidade "Cersei">Cersei</entidade>.
+He jokes about her relationship with <entidade "Jaime">Jaime</entidade> and she says that he has always been funny.
 She ends the discussion with the barb that his finest joke was killing their mother when he was born.
-On <entidade " Dragonstone"> Dragonstone</entidade>,<entidade " Davos"> Davos</entidade> recruits the <entidade " Lysene"> Lysene</entidade> sellsail <entidade " Salladhor Saan"> Salladhor Saan</entidade> and his fleet of thirty ships to <entidade " King Stannis Baratheon"> King Stannis Baratheon</entidade>'s cause.
-His son <entidade " Matthos Seaworth"> Matthos Seaworth</entidade> encourages him to learn to read so that he can study the holy texts of the <entidade " Lord of Light"> Lord of Light</entidade> but <entidade " Davos"> Davos</entidade> is happy to put his faith solely in <entidade " Stannis"> Stannis</entidade>.
-<entidade " Melisandre"> Melisandre</entidade> seduces <entidade " Stannis"> Stannis</entidade> with the promise of a son.
-At first,<entidade " Stannis"> Stannis</entidade> hesitates claiming he has a wife but <entidade " Melisandre"> Melisandre</entidade> still manages to successfully seduce <entidade " Stannis"> Stannis</entidade>.
-<entidade " Theon Greyjoy"> Theon Greyjoy</entidade> travels to the <entidade " Iron Islands"> Iron Islands</entidade> on a merchant ship and sleeps with the <entidade " Captain"> Captain</entidade>'s daughter.
-He tells her that he is expecting a warm reception and is crushed when there is no one to meet him when he disembarks in <entidade " Lordsport"> Lordsport</entidade>.
-A woman offers him a ride to <entidade " Pyke"> Pyke</entidade> and he attempts to seduce her throughout the journey.
-He is further disappointed when his father <entidade " Balon"> Balon</entidade> questions his loyalty and his memory of his roots having spent nine years as a ward of <entidade " House Stark"> House Stark</entidade>.
-He delivers <entidade " Robb Stark"> Robb Stark</entidade>'s letter suggesting an alliance against <entidade " House Lannister"> House Lannister</entidade>,for which <entidade " Robb Stark"> Robb</entidade> will make <entidade " Balon King of the Iron Islands"> Balon King of the Iron Islands</entidade> again.
-His guide enters and he is shocked to realize that she is his sister <entidade " Yara"> Yara</entidade> when <entidade " Balon King of the Iron Islands"> Balon</entidade> greets her warmly.
-<entidade " Balon King of the Iron Islands"> Balon</entidade> rejects the proposal and compares <entidade " Theon Greyjoy"> Theon</entidade> unfavourably to his sister.
+On <entidade "Dragonstone">Dragonstone</entidade>,<entidade "Davos">Davos</entidade> recruits the <entidade "Lysene">Lysene</entidade> sellsail <entidade "Salladhor Saan">Salladhor Saan</entidade> and his fleet of thirty ships to <entidade "King Stannis Baratheon">King Stannis Baratheon</entidade>'s cause.
+His son <entidade "Matthos Seaworth">Matthos Seaworth</entidade> encourages him to learn to read so that he can study the holy texts of the <entidade "Lord of Light">Lord of Light</entidade> but <entidade "Davos">Davos</entidade> is happy to put his faith solely in <entidade "Stannis">Stannis</entidade>.
+<entidade "Melisandre">Melisandre</entidade> seduces <entidade "Stannis">Stannis</entidade> with the promise of a son.
+At first,<entidade "Stannis">Stannis</entidade> hesitates claiming he has a wife but <entidade "Melisandre">Melisandre</entidade> still manages to successfully seduce <entidade "Stannis">Stannis</entidade>.
+<entidade "Theon Greyjoy">Theon Greyjoy</entidade> travels to the <entidade "Iron Islands">Iron Islands</entidade> on a merchant ship and sleeps with the <entidade "Captain">Captain</entidade>'s daughter.
+He tells her that he is expecting a warm reception and is crushed when there is no one to meet him when he disembarks in <entidade "Lordsport">Lordsport</entidade>.
+A woman offers him a ride to <entidade "Pyke">Pyke</entidade> and he attempts to seduce her throughout the journey.
+He is further disappointed when his father <entidade "Balon">Balon</entidade> questions his loyalty and his memory of his roots having spent nine years as a ward of <entidade "House Stark">House Stark</entidade>.
+He delivers <entidade "Robb Stark">Robb Stark</entidade>'s letter suggesting an alliance against <entidade "House Lannister">House Lannister</entidade>,for which <entidade "Robb Stark">Robb</entidade> will make <entidade "Balon King of the Iron Islands">Balon King of the Iron Islands</entidade> again.
+His guide enters and he is shocked to realize that she is his sister <entidade "Yara">Yara</entidade> when <entidade "Balon King of the Iron Islands">Balon</entidade> greets her warmly.
+<entidade "Balon King of the Iron Islands">Balon</entidade> rejects the proposal and compares <entidade "Theon Greyjoy">Theon</entidade> unfavourably to his sister.
 He insists that he will follow the ironborn tradition of paying the iron price ( meaning to take something through force ) and says that no one will give him his crown.
-When <entidade " Theon Greyjoy"> Theon</entidade> warns his father that he will not defeat the <entidade " Lannisters"> Lannisters</entidade>,<entidade " Balon King of the Iron Islands"> Balon</entidade> retorts that he has no intention of fighting the <entidade " Lannisters"> Lannisters</entidade>.
+When <entidade "Theon Greyjoy">Theon</entidade> warns his father that he will not defeat the <entidade "Lannisters">Lannisters</entidade>,<entidade "Balon King of the Iron Islands">Balon</entidade> retorts that he has no intention of fighting the <entidade "Lannisters">Lannisters</entidade>.
 
-Across the <entidade " Narrow Sea"> Narrow Sea</entidade> 
-<entidade " Daenerys"> Daenerys</entidade> waits for news 
-<entidade " Daenerys Targaryen"> Daenerys Targaryen</entidade> and her khalasar lie exhausted in the heat,their water dwindling as they wait for the return of her bloodriders.
-<entidade " Rakharo"> Rakharo</entidade>'s horse returns riderless and <entidade " Ser Jorah Mormont"> Ser Jorah Mormont</entidade> discovers his head and severed braid in its saddle bag.
-He surmises that <entidade " Rakharo"> Rakharo</entidade> was caught and killed by a rival khalasar.
-<entidade " Irri"> Irri</entidade> is devastated by the death and believes the mutilation will prevent <entidade " Rakharo"> Rakharo</entidade> from entering the <entidade " Night Lands"> Night Lands</entidade>,the <entidade " Dothraki"> Dothraki</entidade> land of the dead.
-Daenerys promises to hold a funeral for <entidade " Rakharo"> Rakharo</entidade>.
+Across the <entidade "Narrow Sea">Narrow Sea</entidade> 
+<entidade "Daenerys">Daenerys</entidade> waits for news 
+<entidade "Daenerys Targaryen">Daenerys Targaryen</entidade> and her khalasar lie exhausted in the heat,their water dwindling as they wait for the return of her bloodriders.
+<entidade "Rakharo">Rakharo</entidade>'s horse returns riderless and <entidade "Jorah Mormont">Ser Jorah Mormont</entidade> discovers his head and severed braid in its saddle bag.
+He surmises that <entidade "Rakharo">Rakharo</entidade> was caught and killed by a rival khalasar.
+<entidade "Irri">Irri</entidade> is devastated by the death and believes the mutilation will prevent <entidade "Rakharo">Rakharo</entidade> from entering the <entidade "Night Lands">Night Lands</entidade>,the <entidade "Dothraki">Dothraki</entidade> land of the dead.
+Daenerys promises to hold a funeral for <entidade "Rakharo">Rakharo</entidade>.
 
-Beyond the <entidade " Wall"> Wall</entidade> 
-<entidade " Samwell Tarly"> Samwell Tarly</entidade> rescues one of <entidade " Craster"> Craster</entidade>'s wives,<entidade " Gilly"> Gilly</entidade>,from Ghost when he bothers her for food.
-She confides her desire to flee from the keep because of her fear for what <entidade " Craster"> Craster</entidade> will do if her unborn child is a boy.
-<entidade " Samwell Tarly"> Sam</entidade> takes her to <entidade " Jon"> Jon</entidade> and she begs him to take her with the ranging but will not say what she is afraid of.
-<entidade " Jon"> Jon</entidade> refuses to aid her because of the <entidade " Lord Commander"> Lord Commander</entidade>'s orders not to get involved with <entidade " Craster"> Craster</entidade>'s wives.
-<entidade " Jon"> Jon</entidade> notices <entidade " Craster"> Craster</entidade> taking a baby into the woods at night.
-He follows him and sees him leave the child to the <entidade " White"> White</entidade> <entidade " Walkers"> Walkers</entidade>.
-Before he can intervene <entidade " Craster"> Craster</entidade> surprises him and knocks him out.
+Beyond the <entidade "Wall">Wall</entidade> 
+<entidade "Samwell Tarly">Samwell Tarly</entidade> rescues one of <entidade "Craster">Craster</entidade>'s wives,<entidade "Gilly">Gilly</entidade>,from Ghost when he bothers her for food.
+She confides her desire to flee from the keep because of her fear for what <entidade "Craster">Craster</entidade> will do if her unborn child is a boy.
+<entidade "Samwell Tarly">Sam</entidade> takes her to <entidade "Jon">Jon</entidade> and she begs him to take her with the ranging but will not say what she is afraid of.
+<entidade "Jon">Jon</entidade> refuses to aid her because of the <entidade "Commander">Lord Commander</entidade>'s orders not to get involved with <entidade "Craster">Craster</entidade>'s wives.
+<entidade "Jon">Jon</entidade> notices <entidade "Craster">Craster</entidade> taking a baby into the woods at night.
+He follows him and sees him leave the child to the <entidade "White">White</entidade> <entidade "Walkers">Walkers</entidade>.
+Before he can intervene <entidade "Craster">Craster</entidade> surprises him and knocks him out.
 

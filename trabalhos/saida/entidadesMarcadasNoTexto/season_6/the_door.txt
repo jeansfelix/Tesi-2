@@ -1,134 +1,134 @@
-<entidade " David BenioffD.B"> David BenioffD.B</entidade>.
+<entidade "David BenioffD.B">David BenioffD.B</entidade>.
 Weiss 
 
-<entidade " Jack Bender"> Jack Bender</entidade> 
+<entidade "Jack Bender">Jack Bender</entidade> 
 
-<entidade " Book of the Stranger"> Book of the Stranger</entidade> 
-Blood of <entidade " My Blood"> My Blood</entidade> 
+<entidade "Book of the Stranger">Book of the Stranger</entidade> 
+Blood of <entidade "My Blood">My Blood</entidade> 
 
-The <entidade " Door"> Door</entidade> is the fifth episode of the sixth season of <entidade " Game of Thrones"> Game of Thrones</entidade>.
+The <entidade "Door">Door</entidade> is the fifth episode of the sixth season of <entidade "Game of Thrones">Game of Thrones</entidade>.
 It is the fifty-fifth episode of the series overall.
-It premiered on <entidade " May 22, 2016"> May 22, 2016</entidade>.
-It was written by <entidade " David BenioffD.B"> David Benioff</entidade> and <entidade " D.B"> D.B</entidade>.
-<entidade " Weiss"> Weiss</entidade>,and directed by <entidade " Jack Bender"> Jack Bender</entidade>.
+It premiered on <entidade "May 22, 2016">May 22, 2016</entidade>.
+It was written by <entidade "David BenioffD.B">David Benioff</entidade> and <entidade "D.B">D.B</entidade>.
+<entidade "Weiss">Weiss</entidade>,and directed by <entidade "Jack Bender">Jack Bender</entidade>.
 
 Plot 
 Tyrion seeks a strange ally.
-<entidade " Bran"> Bran</entidade> learns a great deal.
-<entidade " Brienne"> Brienne</entidade> goes on a mission.
-<entidade " Arya"> Arya</entidade> is given a chance to prove herself.
+<entidade "Bran">Bran</entidade> learns a great deal.
+<entidade "Brienne">Brienne</entidade> goes on a mission.
+<entidade "Arya">Arya</entidade> is given a chance to prove herself.
 
 Summary 
-At the <entidade " Wall"> Wall</entidade> 
-<entidade " Sansa"> Sansa</entidade> refuses <entidade " Littlefinger"> Littlefinger</entidade>'s offer.
-<entidade " Sansa Stark"> Sansa Stark</entidade> receives a message bearing the sigil of <entidade " House Baelish"> House Baelish</entidade>,asking her to a meeting in <entidade " Mole's Town"> Mole's Town</entidade>.
-Accompanied by <entidade " Brienne"> Brienne</entidade>,<entidade " Sansa Stark"> Sansa</entidade> furiously confronts <entidade " Petyr Baelish"> Petyr Baelish</entidade>,asking if he was aware what <entidade " Ramsay Bolton"> Ramsay Bolton</entidade> was capable of.
-Baelish deflects,saying he has the knights of The <entidade " Vale"> Vale</entidade> waiting at <entidade " Moat Cailin"> Moat Cailin</entidade> to aid <entidade " Sansa Stark"> Sansa</entidade>.
-She is mistrustful of him when he claims he had no idea of <entidade " Ramsay Bolton"> Ramsay</entidade>'s abusive treatment of her.
-She doubts <entidade " Baelish"> Baelish</entidade>'s ability to protect her or even himself,threatening to have <entidade " Brienne"> Brienne</entidade> kill him.
-He says he'll do whatever she asks and <entidade " Sansa Stark"> Sansa</entidade> tells him to leave and never come back for her.
-He obeys,but not before informing that her great-uncle <entidade " Brynden Tully"> Brynden Tully</entidade> has recaptured <entidade " Riverrun"> Riverrun</entidade> and recommending she seek him out and the remaining loyal <entidade " Tully"> Tully</entidade> forces.
-<entidade " Sansa Stark"> Sansa</entidade> says she already has an army,her brother <entidade " Jon Snow"> Jon Snow</entidade>'s army of wildlings.
-<entidade " Half-brother"> Half-brother</entidade>,<entidade " Baelish"> Baelish</entidade> clarifies as he walks away,reminding her that <entidade " Jon Snow"> Jon</entidade> is only her half brother.
-At <entidade " Castle Black"> Castle Black</entidade>,a war council is called,and is attended by <entidade " Sansa Stark"> Sansa</entidade>,<entidade " Brienne"> Brienne</entidade>,<entidade " Podrick"> Podrick</entidade>,<entidade " Jon Snow"> Jon</entidade>,<entidade " Davos"> Davos</entidade>,<entidade " Melisandre"> Melisandre</entidade>,<entidade " Tormund"> Tormund</entidade> and <entidade " Eddison Tollett"> Eddison Tollett</entidade>,who discuss the need for more men to defend <entidade " Castle Black"> Castle Black</entidade>,since the <entidade " Karstarks"> Karstarks</entidade> and <entidade " Umbers"> Umbers</entidade>,two major Houses in the <entidade " North"> North</entidade>,have declared for <entidade " Ramsay Bolton"> Ramsay</entidade>.
-<entidade " Jon Snow"> Jon</entidade> points out that they can summon the rest of the minor <entidade " Houses"> Houses</entidade>,such as the <entidade " Mormonts"> Mormonts</entidade>,<entidade " Glovers"> Glovers</entidade>,<entidade " Cerwyns"> Cerwyns</entidade>,and <entidade " Mazins"> Mazins</entidade>,to rival their enemies,and <entidade " Sansa Stark"> Sansa</entidade> reveals <entidade " Brynden Tully"> Brynden</entidade>'s successful retaking of <entidade " Riverrun"> Riverrun</entidade>,though she claims she learned via one of <entidade " Ramsay Bolton"> Ramsay</entidade>'s ravens in order to stop <entidade " Jon Snow"> Jon</entidade> from pursuing <entidade " Littlefinger"> Littlefinger</entidade>.
-<entidade " Sansa Stark"> Sansa</entidade> subsequently tasks <entidade " Brienne"> Brienne</entidade> and <entidade " Podrick"> Podrick</entidade> with securing <entidade " Brynden Tully"> Brynden</entidade>'s help while the rest of them leave <entidade " Castle Black"> Castle Black</entidade> to start building their army.
-Before leaving <entidade " Castle Black"> Castle Black</entidade>,<entidade " Sansa Stark"> Sansa</entidade> presents <entidade " Jon Snow"> Jon</entidade> with a new cloak like their father's,carrying the <entidade " Stark"> Stark</entidade> sigil.
+At the <entidade "Wall">Wall</entidade> 
+<entidade "Sansa">Sansa</entidade> refuses <entidade "Littlefinger">Littlefinger</entidade>'s offer.
+<entidade "Sansa Stark">Sansa Stark</entidade> receives a message bearing the sigil of <entidade "House Baelish">House Baelish</entidade>,asking her to a meeting in <entidade "Mole's Town">Mole's Town</entidade>.
+Accompanied by <entidade "Brienne">Brienne</entidade>,<entidade "Sansa Stark">Sansa</entidade> furiously confronts <entidade "Petyr Baelish">Petyr Baelish</entidade>,asking if he was aware what <entidade "Ramsay Bolton">Ramsay Bolton</entidade> was capable of.
+Baelish deflects,saying he has the knights of The <entidade "Vale">Vale</entidade> waiting at <entidade "Moat Cailin">Moat Cailin</entidade> to aid <entidade "Sansa Stark">Sansa</entidade>.
+She is mistrustful of him when he claims he had no idea of <entidade "Ramsay Bolton">Ramsay</entidade>'s abusive treatment of her.
+She doubts <entidade "Baelish">Baelish</entidade>'s ability to protect her or even himself,threatening to have <entidade "Brienne">Brienne</entidade> kill him.
+He says he'll do whatever she asks and <entidade "Sansa Stark">Sansa</entidade> tells him to leave and never come back for her.
+He obeys,but not before informing that her great-uncle <entidade "Brynden Tully">Brynden Tully</entidade> has recaptured <entidade "Riverrun">Riverrun</entidade> and recommending she seek him out and the remaining loyal <entidade "Tully">Tully</entidade> forces.
+<entidade "Sansa Stark">Sansa</entidade> says she already has an army,her brother <entidade "Jon Snow">Jon Snow</entidade>'s army of wildlings.
+<entidade "Half-brother">Half-brother</entidade>,<entidade "Baelish">Baelish</entidade> clarifies as he walks away,reminding her that <entidade "Jon Snow">Jon</entidade> is only her half brother.
+At <entidade "Castle Black">Castle Black</entidade>,a war council is called,and is attended by <entidade "Sansa Stark">Sansa</entidade>,<entidade "Brienne">Brienne</entidade>,<entidade "Podrick">Podrick</entidade>,<entidade "Jon Snow">Jon</entidade>,<entidade "Davos">Davos</entidade>,<entidade "Melisandre">Melisandre</entidade>,<entidade "Tormund">Tormund</entidade> and <entidade "Eddison Tollett">Eddison Tollett</entidade>,who discuss the need for more men to defend <entidade "Castle Black">Castle Black</entidade>,since the <entidade "Karstarks">Karstarks</entidade> and <entidade "Umbers">Umbers</entidade>,two major Houses in the <entidade "North">North</entidade>,have declared for <entidade "Ramsay Bolton">Ramsay</entidade>.
+<entidade "Jon Snow">Jon</entidade> points out that they can summon the rest of the minor <entidade "Houses">Houses</entidade>,such as the <entidade "Mormonts">Mormonts</entidade>,<entidade "Glovers">Glovers</entidade>,<entidade "Cerwyns">Cerwyns</entidade>,and <entidade "Mazins">Mazins</entidade>,to rival their enemies,and <entidade "Sansa Stark">Sansa</entidade> reveals <entidade "Brynden Tully">Brynden</entidade>'s successful retaking of <entidade "Riverrun">Riverrun</entidade>,though she claims she learned via one of <entidade "Ramsay Bolton">Ramsay</entidade>'s ravens in order to stop <entidade "Jon Snow">Jon</entidade> from pursuing <entidade "Littlefinger">Littlefinger</entidade>.
+<entidade "Sansa Stark">Sansa</entidade> subsequently tasks <entidade "Brienne">Brienne</entidade> and <entidade "Podrick">Podrick</entidade> with securing <entidade "Brynden Tully">Brynden</entidade>'s help while the rest of them leave <entidade "Castle Black">Castle Black</entidade> to start building their army.
+Before leaving <entidade "Castle Black">Castle Black</entidade>,<entidade "Sansa Stark">Sansa</entidade> presents <entidade "Jon Snow">Jon</entidade> with a new cloak like their father's,carrying the <entidade "Stark">Stark</entidade> sigil.
 
-In <entidade " Braavos"> Braavos</entidade> 
-The <entidade " Waif"> Waif</entidade> continues to drill <entidade " Arya"> Arya</entidade>,mocking her high-born origins.
-<entidade " Jaqen H'ghar"> Jaqen H'ghar</entidade> explains that the <entidade " Faceless Men"> Faceless Men</entidade> were slaves in <entidade " Valyria"> Valyria</entidade> before establishing the <entidade " Free City of Braavos"> Free City of Braavos</entidade> and the <entidade " House of Black"> House of Black</entidade> & <entidade " White"> White</entidade>.
-Handing <entidade " Arya"> Arya</entidade> a vial,<entidade " Jaqen H'ghar"> Jaqen</entidade> tells her an actress,<entidade " Lady Crane"> Lady Crane</entidade>,will be the next to receive the <entidade " Many-Faced God"> Many-Faced God</entidade>'s gift.
+In <entidade "Braavos">Braavos</entidade> 
+The <entidade "Waif">Waif</entidade> continues to drill <entidade "Arya">Arya</entidade>,mocking her high-born origins.
+<entidade "Jaqen H'ghar">Jaqen H'ghar</entidade> explains that the <entidade "Faceless Men">Faceless Men</entidade> were slaves in <entidade "Valyria">Valyria</entidade> before establishing the <entidade "Free City of Braavos">Free City of Braavos</entidade> and the <entidade "House of Black">House of Black</entidade> & <entidade "White">White</entidade>.
+Handing <entidade "Arya">Arya</entidade> a vial,<entidade "Jaqen H'ghar">Jaqen</entidade> tells her an actress,<entidade "Lady Crane">Lady Crane</entidade>,will be the next to receive the <entidade "Many-Faced God">Many-Faced God</entidade>'s gift.
 
-<entidade " Arya"> Arya</entidade> watches The <entidade " Bloody Hand"> Bloody Hand</entidade>,a stage-play in <entidade " Braavos"> Braavos</entidade> loosely based on the recent civil wars in <entidade " Westeros"> Westeros</entidade>.
-<entidade " Arya"> Arya</entidade> enjoys the spectacle of the actors re-enacting the <entidade " War of the Five Kings"> War of the Five Kings</entidade>,playing Baratheons and <entidade " Lannisters"> Lannisters</entidade>,but her pleasure ceases when her father,and his execution,are inaccurately caricatured.
-<entidade " Eddard"> Eddard</entidade> is portrayed as a buffoon,and the actress who plays <entidade " Sansa Stark"> Sansa</entidade> has her breasts bared to the audience.
-<entidade " Arya"> Arya</entidade> sneaks into the dressing room after the play to observe her target the actress playing <entidade " Cersei"> Cersei</entidade> who appears to be a clever,decent woman.
-<entidade " Arya"> Arya</entidade> later shares with <entidade " Jaqen H'ghar"> Jaqen</entidade> her plan to poison <entidade " Lady Crane"> Lady Crane</entidade>'s rum,which no one else in the troupe drinks.
-<entidade " Arya"> Arya</entidade> suspects that a jealous younger actress,<entidade " Bianca"> Bianca</entidade>,has commissioned the kill.
-<entidade " Jaqen H'ghar"> Jaqen</entidade> cuts her off,reminding her a servant does not question.
+<entidade "Arya">Arya</entidade> watches The <entidade "Bloody Hand">Bloody Hand</entidade>,a stage-play in <entidade "Braavos">Braavos</entidade> loosely based on the recent civil wars in <entidade "Westeros">Westeros</entidade>.
+<entidade "Arya">Arya</entidade> enjoys the spectacle of the actors re-enacting the <entidade "War of the Five Kings">War of the Five Kings</entidade>,playing Baratheons and <entidade "Lannisters">Lannisters</entidade>,but her pleasure ceases when her father,and his execution,are inaccurately caricatured.
+<entidade "Eddard">Eddard</entidade> is portrayed as a buffoon,and the actress who plays <entidade "Sansa Stark">Sansa</entidade> has her breasts bared to the audience.
+<entidade "Arya">Arya</entidade> sneaks into the dressing room after the play to observe her target the actress playing <entidade "Cersei">Cersei</entidade> who appears to be a clever,decent woman.
+<entidade "Arya">Arya</entidade> later shares with <entidade "Jaqen H'ghar">Jaqen</entidade> her plan to poison <entidade "Lady Crane">Lady Crane</entidade>'s rum,which no one else in the troupe drinks.
+<entidade "Arya">Arya</entidade> suspects that a jealous younger actress,<entidade "Bianca">Bianca</entidade>,has commissioned the kill.
+<entidade "Jaqen H'ghar">Jaqen</entidade> cuts her off,reminding her a servant does not question.
 
-In the <entidade " Dothraki Sea"> Dothraki Sea</entidade> 
-Jorah shows his arm to <entidade " Daenerys"> Daenerys</entidade>.
-<entidade " Daenerys"> Daenerys</entidade> is unsure of what to do with <entidade " Jorah"> Jorah</entidade>,having banished him twice,seeing him defiantly return twice,and him twice saving her life.
-<entidade " Jorah"> Jorah</entidade> finally confesses his love for <entidade " Daenerys"> Daenerys</entidade>,but also reveals his spreading greyscale infection,and says that this time,he needs to leave for good.
-He starts to leave and states his plan to take his own life well before the greyscale envelops him,but <entidade " Daenerys"> Daenerys</entidade> tearfully commands him to find a cure and come back to her side when she conquers <entidade " Westeros"> Westeros</entidade>.
-<entidade " Jorah"> Jorah</entidade> then departs while <entidade " Daenerys"> Daenerys</entidade> and <entidade " Daario Naharis"> Daario Naharis</entidade> lead the <entidade " Dothraki Sea"> Dothraki</entidade> horde back to <entidade " Meereen"> Meereen</entidade>.
+In the <entidade "Dothraki Sea">Dothraki Sea</entidade> 
+Jorah shows his arm to <entidade "Daenerys">Daenerys</entidade>.
+<entidade "Daenerys">Daenerys</entidade> is unsure of what to do with <entidade "Jorah">Jorah</entidade>,having banished him twice,seeing him defiantly return twice,and him twice saving her life.
+<entidade "Jorah">Jorah</entidade> finally confesses his love for <entidade "Daenerys">Daenerys</entidade>,but also reveals his spreading greyscale infection,and says that this time,he needs to leave for good.
+He starts to leave and states his plan to take his own life well before the greyscale envelops him,but <entidade "Daenerys">Daenerys</entidade> tearfully commands him to find a cure and come back to her side when she conquers <entidade "Westeros">Westeros</entidade>.
+<entidade "Jorah">Jorah</entidade> then departs while <entidade "Daenerys">Daenerys</entidade> and <entidade "Daario Naharis">Daario Naharis</entidade> lead the <entidade "Dothraki Sea">Dothraki</entidade> horde back to <entidade "Meereen">Meereen</entidade>.
 
-In <entidade " Meereen"> Meereen</entidade> 
-<entidade " Kinvara"> Kinvara</entidade>,the <entidade " High Red Priestess"> High Red Priestess</entidade>.
-While the rulers of <entidade " Meereen"> Meereen</entidade> enjoy a tenuous peace,<entidade " Tyrion"> Tyrion</entidade> reminds them of the need to convince the <entidade " Meereenese"> Meereenese</entidade> that everything has been done with <entidade " Daenerys"> Daenerys</entidade>'s blessing,as the <entidade " Masters"> Masters</entidade> could use <entidade " Tyrion"> Tyrion</entidade> and <entidade " Varys"> Varys</entidade>'s foreign status against them to reclaim <entidade " Slaver's Bay"> Slaver's Bay</entidade>.
-To that end,<entidade " Tyrion"> Tyrion</entidade> invites <entidade " Kinvara"> Kinvara</entidade>,<entidade " High Priestess of the Red Temple"> High Priestess of the Red Temple</entidade> of <entidade " Volantis"> Volantis</entidade>,to negotiate spreading the word of <entidade " Daenerys"> Daenerys</entidade>'s accomplishments.
-To <entidade " Tyrion"> Tyrion</entidade>'s surprise,<entidade " Kinvara"> Kinvara</entidade> appears to be highly accommodating in supporting <entidade " Tyrion"> Tyrion</entidade>'s goals,as she firmly believes that <entidade " Daenerys"> Daenerys</entidade> is The Prince That <entidade " Was"> Was</entidade> Promised.
-<entidade " Varys"> Varys</entidade> is more skeptical,being suspicious of any practitioners of magic,and points out that <entidade " Melisandre"> Melisandre</entidade> had already declared <entidade " Stannis Baratheon"> Stannis Baratheon</entidade> to be the <entidade " Prince"> Prince</entidade>,only for him to be defeated twice.
-<entidade " Kinvara"> Kinvara</entidade> says that while the <entidade " Lord of Light"> Lord of Light</entidade> has a plan,the humans following him do occasionally make errors.
-She then unnerves <entidade " Varys"> Varys</entidade> by revealing that she knows <entidade " Varys"> Varys</entidade> was emasculated by a second-rate sorcerer and offers to repeat the words he heard in the flames,and identify who it was that spoke.
-<entidade " Varys"> Varys</entidade> is uncharacteristically unsettled by this revelation.
-<entidade " Kinvara"> Kinvara</entidade> then assures Tyrion that she will send the preachers and priests best suited to the task at hand.
+In <entidade "Meereen">Meereen</entidade> 
+<entidade "Kinvara">Kinvara</entidade>,the <entidade "High Red Priestess">High Red Priestess</entidade>.
+While the rulers of <entidade "Meereen">Meereen</entidade> enjoy a tenuous peace,<entidade "Tyrion">Tyrion</entidade> reminds them of the need to convince the <entidade "Meereenese">Meereenese</entidade> that everything has been done with <entidade "Daenerys">Daenerys</entidade>'s blessing,as the <entidade "Masters">Masters</entidade> could use <entidade "Tyrion">Tyrion</entidade> and <entidade "Varys">Varys</entidade>'s foreign status against them to reclaim <entidade "Slaver's Bay">Slaver's Bay</entidade>.
+To that end,<entidade "Tyrion">Tyrion</entidade> invites <entidade "Kinvara">Kinvara</entidade>,<entidade "High Priestess of the Red Temple">High Priestess of the Red Temple</entidade> of <entidade "Volantis">Volantis</entidade>,to negotiate spreading the word of <entidade "Daenerys">Daenerys</entidade>'s accomplishments.
+To <entidade "Tyrion">Tyrion</entidade>'s surprise,<entidade "Kinvara">Kinvara</entidade> appears to be highly accommodating in supporting <entidade "Tyrion">Tyrion</entidade>'s goals,as she firmly believes that <entidade "Daenerys">Daenerys</entidade> is The Prince That <entidade "Was">Was</entidade> Promised.
+<entidade "Varys">Varys</entidade> is more skeptical,being suspicious of any practitioners of magic,and points out that <entidade "Melisandre">Melisandre</entidade> had already declared <entidade "Stannis Baratheon">Stannis Baratheon</entidade> to be the <entidade "Prince">Prince</entidade>,only for him to be defeated twice.
+<entidade "Kinvara">Kinvara</entidade> says that while the <entidade "Lord of Light">Lord of Light</entidade> has a plan,the humans following him do occasionally make errors.
+She then unnerves <entidade "Varys">Varys</entidade> by revealing that she knows <entidade "Varys">Varys</entidade> was emasculated by a second-rate sorcerer and offers to repeat the words he heard in the flames,and identify who it was that spoke.
+<entidade "Varys">Varys</entidade> is uncharacteristically unsettled by this revelation.
+<entidade "Kinvara">Kinvara</entidade> then assures Tyrion that she will send the preachers and priests best suited to the task at hand.
 
-In the <entidade " Iron Islands"> Iron Islands</entidade> 
-As the <entidade " Kingsmoot"> Kingsmoot</entidade> is held,<entidade " Yara Greyjoy"> Yara Greyjoy</entidade> is the first to lay claim to the <entidade " Salt Throne"> Salt Throne</entidade>.
-<entidade " Yara Greyjoy"> Yara</entidade> argues that raiding the mainland is not enough for their people,and that they need to use military force to teach the mainlanders a lesson.
-An <entidade " Ironborn"> Ironborn</entidade> man challenges <entidade " Yara Greyjoy"> Yara</entidade>'s candidacy on the grounds that she is a woman and points out that her brother <entidade " Theon Greyjoy"> Theon Greyjoy</entidade> has returned.
-Theon endorses his older sister and urges the gathering to do the same ; stressing that she is a warrior,a reaver,and an <entidade " Ironborn"> Ironborn</entidade>.
-Many shout for <entidade " Yara Greyjoy"> Yara</entidade> to be their <entidade " Queen"> Queen</entidade>.
-Before they can crown <entidade " Yara Greyjoy"> Yara</entidade>,<entidade " Euron Greyjoy"> Euron Greyjoy</entidade> joins the gathering to lay claim to the <entidade " Salt Throne"> Salt Throne</entidade>.
-He openly mocks <entidade " Theon Greyjoy"> Theon</entidade> for his military failures and emasculation before deriding <entidade " Yara Greyjoy"> Yara</entidade> as a woman.
-Yara in turn accuses <entidade " Euron Greyjoy"> Euron</entidade> of killing their King and her father <entidade " Balon"> Balon</entidade>.
-To her surprise,<entidade " Euron Greyjoy"> Euron</entidade> admits killing <entidade " Balon"> Balon</entidade> but then defends his actions on the grounds that <entidade " Balon"> Balon</entidade> was leading them to defeat in the <entidade " North"> North</entidade>.
-When <entidade " Euron Greyjoy"> Euron</entidade> states that his only regret is not killing <entidade " Balon"> Balon</entidade> years earlier,he is met by resounding cheers from the crowd.
-Theon then counters that <entidade " Euron Greyjoy"> Euron</entidade> had spent years gallivanting overseas while <entidade " Yara Greyjoy"> Yara</entidade> was commanding <entidade " Ironborn"> Ironborn</entidade> ships and men.
-Yara then suggests building a massive fleet to attack and make their mark on <entidade " Westeros"> Westeros</entidade>.
+In the <entidade "Iron Islands">Iron Islands</entidade> 
+As the <entidade "Kingsmoot">Kingsmoot</entidade> is held,<entidade "Yara Greyjoy">Yara Greyjoy</entidade> is the first to lay claim to the <entidade "Salt Throne">Salt Throne</entidade>.
+<entidade "Yara Greyjoy">Yara</entidade> argues that raiding the mainland is not enough for their people,and that they need to use military force to teach the mainlanders a lesson.
+An <entidade "Ironborn">Ironborn</entidade> man challenges <entidade "Yara Greyjoy">Yara</entidade>'s candidacy on the grounds that she is a woman and points out that her brother <entidade "Theon Greyjoy">Theon Greyjoy</entidade> has returned.
+Theon endorses his older sister and urges the gathering to do the same ; stressing that she is a warrior,a reaver,and an <entidade "Ironborn">Ironborn</entidade>.
+Many shout for <entidade "Yara Greyjoy">Yara</entidade> to be their <entidade "Queen">Queen</entidade>.
+Before they can crown <entidade "Yara Greyjoy">Yara</entidade>,<entidade "Euron Greyjoy">Euron Greyjoy</entidade> joins the gathering to lay claim to the <entidade "Salt Throne">Salt Throne</entidade>.
+He openly mocks <entidade "Theon Greyjoy">Theon</entidade> for his military failures and emasculation before deriding <entidade "Yara Greyjoy">Yara</entidade> as a woman.
+Yara in turn accuses <entidade "Euron Greyjoy">Euron</entidade> of killing their King and her father <entidade "Balon">Balon</entidade>.
+To her surprise,<entidade "Euron Greyjoy">Euron</entidade> admits killing <entidade "Balon">Balon</entidade> but then defends his actions on the grounds that <entidade "Balon">Balon</entidade> was leading them to defeat in the <entidade "North">North</entidade>.
+When <entidade "Euron Greyjoy">Euron</entidade> states that his only regret is not killing <entidade "Balon">Balon</entidade> years earlier,he is met by resounding cheers from the crowd.
+Theon then counters that <entidade "Euron Greyjoy">Euron</entidade> had spent years gallivanting overseas while <entidade "Yara Greyjoy">Yara</entidade> was commanding <entidade "Ironborn">Ironborn</entidade> ships and men.
+Yara then suggests building a massive fleet to attack and make their mark on <entidade "Westeros">Westeros</entidade>.
 
-<entidade " Euron Greyjoy"> Euron Greyjoy</entidade>,<entidade " King of the Iron Islands"> King of the Iron Islands</entidade>.
-In response,<entidade " Euron Greyjoy"> Euron</entidade> announces that he also supports expanding the <entidade " Ironborn"> Ironborn</entidade> fleet.
-Revealing a trick up his sleeve,he then proposes to marry <entidade " Daenerys Targaryen"> Daenerys Targaryen</entidade> and then carry her army and dragons back to <entidade " Westeros"> Westeros</entidade>.
-The <entidade " Ironborn"> Ironborn</entidade> support <entidade " Euron Greyjoy"> Euron</entidade>'s plan and declare him king.
-The Drowned <entidade " Men"> Men</entidade> priest <entidade " Aeron Greyjoy"> Aeron Greyjoy</entidade> then leads <entidade " Euron Greyjoy"> Euron</entidade> down to the sea to be drowned and reborn,as is the custom.
-Knowing that <entidade " Euron Greyjoy"> Euron</entidade> will kill them as soon as he is able,<entidade " Yara Greyjoy"> Yara</entidade>,<entidade " Theon Greyjoy"> Theon</entidade>,and many of their loyalists flee the  Iron Islands during Euron's coronation,taking much of the <entidade " Iron Fleet"> Iron Fleet</entidade> with them.
-After <entidade " Euron Greyjoy"> Euron</entidade> revives himself,he is crowned by his brother <entidade " Aeron Greyjoy"> Aeron</entidade>.
-After learning that his niece and nephew have fled with their best ships,<entidade " Euron Greyjoy"> Euron</entidade> calls on his followers to build their own ships so that he may pursue the pair and kill them.
+<entidade "Euron Greyjoy">Euron Greyjoy</entidade>,<entidade "King of the Iron Islands">King of the Iron Islands</entidade>.
+In response,<entidade "Euron Greyjoy">Euron</entidade> announces that he also supports expanding the <entidade "Ironborn">Ironborn</entidade> fleet.
+Revealing a trick up his sleeve,he then proposes to marry <entidade "Daenerys Targaryen">Daenerys Targaryen</entidade> and then carry her army and dragons back to <entidade "Westeros">Westeros</entidade>.
+The <entidade "Ironborn">Ironborn</entidade> support <entidade "Euron Greyjoy">Euron</entidade>'s plan and declare him king.
+The Drowned <entidade "Men">Men</entidade> priest <entidade "Aeron Greyjoy">Aeron Greyjoy</entidade> then leads <entidade "Euron Greyjoy">Euron</entidade> down to the sea to be drowned and reborn,as is the custom.
+Knowing that <entidade "Euron Greyjoy">Euron</entidade> will kill them as soon as he is able,<entidade "Yara Greyjoy">Yara</entidade>,<entidade "Theon Greyjoy">Theon</entidade>,and many of their loyalists flee the Iron Islands during Euron's coronation,taking much of the <entidade "Iron Fleet">Iron Fleet</entidade> with them.
+After <entidade "Euron Greyjoy">Euron</entidade> revives himself,he is crowned by his brother <entidade "Aeron Greyjoy">Aeron</entidade>.
+After learning that his niece and nephew have fled with their best ships,<entidade "Euron Greyjoy">Euron</entidade> calls on his followers to build their own ships so that he may pursue the pair and kill them.
 
-Beyond the <entidade " Wall"> Wall</entidade> 
-The <entidade " Three-eyed Raven"> Three-eyed Raven</entidade> shows <entidade " Bran"> Bran</entidade> a vision of a heart tree amid spirals of standing stones in a lush green valley.
-His vision shows <entidade " Leaf"> Leaf</entidade> and other <entidade " Children of the Forest"> Children of the Forest</entidade> talking amongst themselves,then looking eagerly at a captive bound to the tree.
-<entidade " Leaf"> Leaf</entidade> approaches and forces a <entidade " Dragonglass"> Dragonglass</entidade> dagger into the captive's chest.
-The captive screams,but does not die,instead becoming the first <entidade " White Walker"> White Walker</entidade>.
-<entidade " Bran"> Bran</entidade> immediately confronts Leaf about creating the <entidade " White Walker"> White</entidade> <entidade " Walkers"> Walkers</entidade> in the first place.
-<entidade " Leaf"> Leaf</entidade> tries to explain that they were at war with the <entidade " First Men"> First Men</entidade> and were desperate.
-Later,<entidade " Bran"> Bran</entidade> is the only one in the cave awake and is anxious to warg back into the <entidade " Weirwood"> Weirwood</entidade> tree.
-<entidade " Bran"> Bran</entidade> wargs into the tree by himself and sees the <entidade " Army of the Dead"> Army of the Dead</entidade>.
-He slowly walks through the army until he comes to a space occupied by four <entidade " White Walker"> White</entidade> <entidade " Walkers"> Walkers</entidade>,including the <entidade " Night King"> Night King</entidade>.
-As <entidade " Bran"> Bran</entidade> becomes aware that the The <entidade " Night King"> Night King</entidade> and the dead are now able to see him,the <entidade " Night King"> Night King</entidade> grabs his arm,branding him with an icy mark.
+Beyond the <entidade "Wall">Wall</entidade> 
+The <entidade "Three-eyed Raven">Three-eyed Raven</entidade> shows <entidade "Bran">Bran</entidade> a vision of a heart tree amid spirals of standing stones in a lush green valley.
+His vision shows <entidade "Leaf">Leaf</entidade> and other <entidade "Children of the Forest">Children of the Forest</entidade> talking amongst themselves,then looking eagerly at a captive bound to the tree.
+<entidade "Leaf">Leaf</entidade> approaches and forces a <entidade "Dragonglass">Dragonglass</entidade> dagger into the captive's chest.
+The captive screams,but does not die,instead becoming the first <entidade "White Walker">White Walker</entidade>.
+<entidade "Bran">Bran</entidade> immediately confronts Leaf about creating the <entidade "White Walker">White</entidade> <entidade "Walkers">Walkers</entidade> in the first place.
+<entidade "Leaf">Leaf</entidade> tries to explain that they were at war with the <entidade "First Men">First Men</entidade> and were desperate.
+Later,<entidade "Bran">Bran</entidade> is the only one in the cave awake and is anxious to warg back into the <entidade "Weirwood">Weirwood</entidade> tree.
+<entidade "Bran">Bran</entidade> wargs into the tree by himself and sees the <entidade "Army of the Dead">Army of the Dead</entidade>.
+He slowly walks through the army until he comes to a space occupied by four <entidade "White Walker">White</entidade> <entidade "Walkers">Walkers</entidade>,including the <entidade "Night King">Night King</entidade>.
+As <entidade "Bran">Bran</entidade> becomes aware that the The <entidade "Night King">Night King</entidade> and the dead are now able to see him,the <entidade "Night King">Night King</entidade> grabs his arm,branding him with an icy mark.
 He breaks out of the vision with a scream waking the others.
-The <entidade " Three-eyed Raven"> Three-eyed Raven</entidade> tells <entidade " Bran"> Bran</entidade>,<entidade " Meera"> Meera</entidade> and  Hodor that the Night King is now able to locate <entidade " Bran"> Bran</entidade> and able to bypass the powerful magic keeping the <entidade " White Walker"> White</entidade> <entidade " Walkers"> Walkers</entidade> and the wights out of the cave.
-As a result,they must leave now and <entidade " Bran"> Bran</entidade> must become the Three-eyed <entidade " Raven"> Raven</entidade>.
-<entidade " Bran"> Bran</entidade> asks whether he is ready,and the <entidade " Raven"> Raven</entidade> says <entidade " No"> No</entidade> at which point <entidade " Bran"> Bran</entidade>'s eyes whiten as he enters another vision.
-As <entidade " Meera"> Meera</entidade> and <entidade " Hodor"> Hodor</entidade> are preparing to leave they notice the air is so cold their breath is visible,indicating the arrival of the <entidade " Army of the Dead"> Army of the Dead</entidade> outside of the cave.
-The <entidade " Night King"> Night King</entidade> and three <entidade " White Walker"> White</entidade> <entidade " Walkers"> Walkers</entidade> start marching towards the cave.
-The <entidade " Children of the Forest"> Children of the Forest</entidade> try using magic projectiles to fend the <entidade " Walkers"> Walkers</entidade> off,but are overwhelmed.
-They light a fire around the entrance which prevents the wights from entering but the <entidade " Walkers"> Walkers</entidade> extinguish a pathway and walk through.
-The wights end up climbing over the <entidade " Weirwood"> Weirwood</entidade> and dropping through roots at the top of the cave.
-<entidade " Meera"> Meera</entidade> desperately tries to get <entidade " Bran"> Bran</entidade> out of the vision and attempts to get the frightened <entidade " Hodor"> Hodor</entidade> to carry <entidade " Bran"> Bran</entidade> away to no avail.
-Using a dragonglass-tipped spear,<entidade " Meera"> Meera</entidade> kills the first <entidade " White Walker"> White Walker</entidade> that enters,and fights alongside the remaining <entidade " Children of the Forest"> Children of the Forest</entidade> to try to fend off the wights until <entidade " Bran"> Bran</entidade> wakes up.
-Wights begin to swarm the cave,killing all of the <entidade " Children of the Forest"> Children of the Forest</entidade> except for <entidade " Leaf"> Leaf</entidade>,as <entidade " Meera"> Meera</entidade> starts yelling at <entidade " Bran"> Bran</entidade> to warg into <entidade " Hodor"> Hodor</entidade>.
-In the vision,<entidade " Bran"> Bran</entidade> is at <entidade " Winterfell"> Winterfell</entidade> watching <entidade " Ned Stark"> Ned Stark</entidade> say goodbye to his father,<entidade " Rickard Stark"> Rickard Stark</entidade>,before being sent to the <entidade " Vale"> Vale</entidade> as a ward.
-While still in the vision,<entidade " Bran"> Bran</entidade> hears <entidade " Meera"> Meera</entidade>'s cries to warg into <entidade " Hodor"> Hodor</entidade> and the <entidade " Three-eyed Raven"> Three-eyed Raven</entidade> tells him to listen to her.
-<entidade " Bran"> Bran</entidade> wargs into both the present-day <entidade " Hodor"> Hodor</entidade> in the cave <entidade " AND Wylis"> AND Wylis</entidade>,the young version of <entidade " Hodor"> Hodor</entidade> in his vision.
+The <entidade "Three-eyed Raven">Three-eyed Raven</entidade> tells <entidade "Bran">Bran</entidade>,<entidade "Meera">Meera</entidade> and Hodor that the Night King is now able to locate <entidade "Bran">Bran</entidade> and able to bypass the powerful magic keeping the <entidade "White Walker">White</entidade> <entidade "Walkers">Walkers</entidade> and the wights out of the cave.
+As a result,they must leave now and <entidade "Bran">Bran</entidade> must become the Three-eyed <entidade "Raven">Raven</entidade>.
+<entidade "Bran">Bran</entidade> asks whether he is ready,and the <entidade "Raven">Raven</entidade> says <entidade "North">No</entidade> at which point <entidade "Bran">Bran</entidade>'s eyes whiten as he enters another vision.
+As <entidade "Meera">Meera</entidade> and <entidade "Hodor">Hodor</entidade> are preparing to leave they notice the air is so cold their breath is visible,indicating the arrival of the <entidade "Army of the Dead">Army of the Dead</entidade> outside of the cave.
+The <entidade "Night King">Night King</entidade> and three <entidade "White Walker">White</entidade> <entidade "Walkers">Walkers</entidade> start marching towards the cave.
+The <entidade "Children of the Forest">Children of the Forest</entidade> try using magic projectiles to fend the <entidade "Walkers">Walkers</entidade> off,but are overwhelmed.
+They light a fire around the entrance which prevents the wights from entering but the <entidade "Walkers">Walkers</entidade> extinguish a pathway and walk through.
+The wights end up climbing over the <entidade "Weirwood">Weirwood</entidade> and dropping through roots at the top of the cave.
+<entidade "Meera">Meera</entidade> desperately tries to get <entidade "Bran">Bran</entidade> out of the vision and attempts to get the frightened <entidade "Hodor">Hodor</entidade> to carry <entidade "Bran">Bran</entidade> away to no avail.
+Using a dragonglass-tipped spear,<entidade "Meera">Meera</entidade> kills the first <entidade "White Walker">White Walker</entidade> that enters,and fights alongside the remaining <entidade "Children of the Forest">Children of the Forest</entidade> to try to fend off the wights until <entidade "Bran">Bran</entidade> wakes up.
+Wights begin to swarm the cave,killing all of the <entidade "Children of the Forest">Children of the Forest</entidade> except for <entidade "Leaf">Leaf</entidade>,as <entidade "Meera">Meera</entidade> starts yelling at <entidade "Bran">Bran</entidade> to warg into <entidade "Hodor">Hodor</entidade>.
+In the vision,<entidade "Bran">Bran</entidade> is at <entidade "Winterfell">Winterfell</entidade> watching <entidade "Ned Stark">Ned Stark</entidade> say goodbye to his father,<entidade "Rickard Stark">Rickard Stark</entidade>,before being sent to the <entidade "Vale">Vale</entidade> as a ward.
+While still in the vision,<entidade "Bran">Bran</entidade> hears <entidade "Meera">Meera</entidade>'s cries to warg into <entidade "Hodor">Hodor</entidade> and the <entidade "Three-eyed Raven">Three-eyed Raven</entidade> tells him to listen to her.
+<entidade "Bran">Bran</entidade> wargs into both the present-day <entidade "Hodor">Hodor</entidade> in the cave <entidade "AND Wylis">AND Wylis</entidade>,the young version of <entidade "Hodor">Hodor</entidade> in his vision.
 
-<entidade " Wylis"> Wylis</entidade> seizing,as his words hold the door evolve into <entidade " Hodor"> Hodor</entidade>.
-The <entidade " Hodor"> Hodor</entidade> in the cave puts <entidade " Bran"> Bran</entidade>'s body on a sled and starts hauling him down a tunnel leading out of the cave with <entidade " Leaf"> Leaf</entidade> and <entidade " Meera"> Meera</entidade>,as <entidade " Bran"> Bran</entidade>'s direwolf <entidade " Summer"> Summer</entidade> is killed attacking the wights.
-As the wights are closing in on them,<entidade " Leaf"> Leaf</entidade> sacrifices herself,using magic to cause a huge explosion,buying the other three enough time to get to a door at the end of the tunnel.
-While the <entidade " Three-eyed Raven"> Three-eyed Raven</entidade> and <entidade " Bran"> Bran</entidade> are still sharing a vision,the <entidade " Night King"> Night King</entidade> kills the <entidade " Three-Eyed Raven"> Three-Eyed Raven</entidade>,and his figure within <entidade " Bran"> Bran</entidade>'s vision blows away as ashes and rags.
-With some difficulty <entidade " Hodor"> Hodor</entidade> pushes the door open and pulls <entidade " Bran"> Bran</entidade> through,coming back to help <entidade " Meera"> Meera</entidade> close the door just as the wights approach.
-<entidade " Meera"> Meera</entidade> grabs <entidade " Bran"> Bran</entidade>'s sled and tells <entidade " Hodor"> Hodor</entidade> to bar the exit,shouting to Hold the door !.
-<entidade " Inside Bran"> Inside Bran</entidade>'s vision,<entidade " Wylis"> Wylis</entidade> notices <entidade " Bran"> Bran</entidade>,who links the present <entidade " Hodor"> Hodor</entidade> to the past <entidade " Wylis"> Wylis</entidade>.
-<entidade " Wylis"> Wylis</entidade> begins to seize when he enters the mind of his future self.
-As <entidade " Meera"> Meera</entidade> continues to yell <entidade " Hold"> Hold</entidade> the door ! 
-to present-day <entidade " Hodor"> Hodor</entidade>,within <entidade " Bran"> Bran</entidade>'s vision <entidade " Wylis"> Wylis</entidade> falls to the ground convulsing and starts repeating this same sentence in the midst of his seizure.
-Eventually,hold the door slurs into <entidade " Hodor"> Hodor</entidade>,as his condition deteriorates and it becomes apparent this is the moment <entidade " Hodor"> Hodor</entidade> lost the ability to say any other words,and his destiny was fixed.
-Present-day <entidade " Hodor"> Hodor</entidade> braces himself against the door long enough for <entidade " Meera"> Meera</entidade> to disappear into the snow with <entidade " Bran"> Bran</entidade>'s unconscious body on the sled.
-Inevitably,the wights break through parts of the wood and begin scratching and stabbing a visibly distressed <entidade " Hodor"> Hodor</entidade>.
-With no possibility of escape,all that is shown at the end is young <entidade " Wylis"> Wylis</entidade> in the past seizing and crying out <entidade " Hodor"> Hodor</entidade>.
+<entidade "Wylis">Wylis</entidade> seizing,as his words hold the door evolve into <entidade "Hodor">Hodor</entidade>.
+The <entidade "Hodor">Hodor</entidade> in the cave puts <entidade "Bran">Bran</entidade>'s body on a sled and starts hauling him down a tunnel leading out of the cave with <entidade "Leaf">Leaf</entidade> and <entidade "Meera">Meera</entidade>,as <entidade "Bran">Bran</entidade>'s direwolf <entidade "Summer">Summer</entidade> is killed attacking the wights.
+As the wights are closing in on them,<entidade "Leaf">Leaf</entidade> sacrifices herself,using magic to cause a huge explosion,buying the other three enough time to get to a door at the end of the tunnel.
+While the <entidade "Three-eyed Raven">Three-eyed Raven</entidade> and <entidade "Bran">Bran</entidade> are still sharing a vision,the <entidade "Night King">Night King</entidade> kills the <entidade "Three-Eyed Raven">Three-Eyed Raven</entidade>,and his figure within <entidade "Bran">Bran</entidade>'s vision blows away as ashes and rags.
+With some difficulty <entidade "Hodor">Hodor</entidade> pushes the door open and pulls <entidade "Bran">Bran</entidade> through,coming back to help <entidade "Meera">Meera</entidade> close the door just as the wights approach.
+<entidade "Meera">Meera</entidade> grabs <entidade "Bran">Bran</entidade>'s sled and tells <entidade "Hodor">Hodor</entidade> to bar the exit,shouting to Hold the door !.
+<entidade "Inside Bran">Inside Bran</entidade>'s vision,<entidade "Wylis">Wylis</entidade> notices <entidade "Bran">Bran</entidade>,who links the present <entidade "Hodor">Hodor</entidade> to the past <entidade "Wylis">Wylis</entidade>.
+<entidade "Wylis">Wylis</entidade> begins to seize when he enters the mind of his future self.
+As <entidade "Meera">Meera</entidade> continues to yell <entidade "Hold">Hold</entidade> the door ! 
+to present-day <entidade "Hodor">Hodor</entidade>,within <entidade "Bran">Bran</entidade>'s vision <entidade "Wylis">Wylis</entidade> falls to the ground convulsing and starts repeating this same sentence in the midst of his seizure.
+Eventually,hold the door slurs into <entidade "Hodor">Hodor</entidade>,as his condition deteriorates and it becomes apparent this is the moment <entidade "Hodor">Hodor</entidade> lost the ability to say any other words,and his destiny was fixed.
+Present-day <entidade "Hodor">Hodor</entidade> braces himself against the door long enough for <entidade "Meera">Meera</entidade> to disappear into the snow with <entidade "Bran">Bran</entidade>'s unconscious body on the sled.
+Inevitably,the wights break through parts of the wood and begin scratching and stabbing a visibly distressed <entidade "Hodor">Hodor</entidade>.
+With no possibility of escape,all that is shown at the end is young <entidade "Wylis">Wylis</entidade> in the past seizing and crying out <entidade "Hodor">Hodor</entidade>.
 
 

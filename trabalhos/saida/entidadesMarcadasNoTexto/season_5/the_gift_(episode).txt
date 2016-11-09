@@ -1,123 +1,123 @@
-<entidade " David Benioff"> David Benioff</entidade> and <entidade " D.B"> D.B</entidade>.
+<entidade "David Benioff">David Benioff</entidade> and <entidade "D.B">D.B</entidade>.
 Weiss 
 
-<entidade " Miguel Sapochnik"> Miguel Sapochnik</entidade> 
+<entidade "Miguel Sapochnik">Miguel Sapochnik</entidade> 
 
-<entidade " Unbowed"> Unbowed</entidade>,<entidade " Unbent"> Unbent</entidade>,<entidade " Unbroken"> Unbroken</entidade> 
+<entidade "Unbowed">Unbowed</entidade>,<entidade "Unbent">Unbent</entidade>,<entidade "Unbroken">Unbroken</entidade> 
 Hardhome 
 
-The <entidade " Gift"> Gift</entidade> is the seventh episode of the fifth season of <entidade " Game of Thrones"> Game of Thrones</entidade>.
+The <entidade "Gift">Gift</entidade> is the seventh episode of the fifth season of <entidade "Game of Thrones">Game of Thrones</entidade>.
 It is the forty-seventh episode of the series overall.
-It premiered on <entidade " May 24, 2015"> May 24, 2015</entidade>.
-It was written by <entidade " David Benioff"> David Benioff</entidade> and <entidade " D.B"> D.B</entidade>.
-<entidade " Weiss"> Weiss</entidade>,and directed by <entidade " Miguel Sapochnik"> Miguel Sapochnik</entidade>.
+It premiered on <entidade "May 24, 2015">May 24, 2015</entidade>.
+It was written by <entidade "David Benioff">David Benioff</entidade> and <entidade "D.B">D.B</entidade>.
+<entidade "Weiss">Weiss</entidade>,and directed by <entidade "Miguel Sapochnik">Miguel Sapochnik</entidade>.
 
-<entidade " Jon"> Jon</entidade> prepares for conflict.
-<entidade " Sansa"> Sansa</entidade> tries to talk to <entidade " Theon"> Theon</entidade>.
-<entidade " Brienne"> Brienne</entidade> waits for a sign.
+<entidade "Jon">Jon</entidade> prepares for conflict.
+<entidade "Sansa">Sansa</entidade> tries to talk to <entidade "Theon">Theon</entidade>.
+<entidade "Brienne">Brienne</entidade> waits for a sign.
 Stannis remains stubborn.
 Jaime attempts to reconnect with family.
 
-At the <entidade " Wall"> Wall</entidade> 
-<entidade " Jon"> Jon</entidade> departs for  Hardhome with Tormund and a group of rangers,after speaking with <entidade " Ser Alliser Thorne"> Ser Alliser Thorne</entidade> and <entidade " Sam"> Sam</entidade>.
-Before they leave,<entidade " Sam"> Sam</entidade> gives <entidade " Jon"> Jon</entidade> some of his dragonglass weapons,reminding him of their use against the <entidade " White"> White</entidade> <entidade " Walkers"> Walkers</entidade>.
-<entidade " Afterward"> Afterward</entidade>,<entidade " Sam"> Sam</entidade> and <entidade " Gilly"> Gilly</entidade> visit <entidade " Maester Aemon"> Maester Aemon</entidade>,who is bedridden and dying from old age.
-Gilly brings her baby <entidade " Little Sam"> Little Sam</entidade> for him to hold and cheer him up a little.
-<entidade " Aemon"> Aemon</entidade> happily notes that her son has a laugh just like his little brother <entidade " Egg"> Egg</entidade> ( <entidade " King Aegon V"> King Aegon V</entidade> ) had when he was a baby.
-In a moment of clarity,<entidade " Aemon"> Aemon</entidade> gravely warns <entidade " Gilly"> Gilly</entidade> that she and her son must leave the <entidade " Wall"> Wall</entidade> while they still can,before winter comes ( and the <entidade " White"> White</entidade> <entidade " Walkers"> Walkers</entidade> with it ).
-<entidade " Aemon"> Aemon</entidade>'s condition steadily deteriorates during the night,and he fades in and out of consciousness.
+At the <entidade "Wall">Wall</entidade> 
+<entidade "Jon">Jon</entidade> departs for Hardhome with Tormund and a group of rangers,after speaking with <entidade "Alliser Thorne">Ser Alliser Thorne</entidade> and <entidade "Sam">Sam</entidade>.
+Before they leave,<entidade "Sam">Sam</entidade> gives <entidade "Jon">Jon</entidade> some of his dragonglass weapons,reminding him of their use against the <entidade "White">White</entidade> <entidade "Walkers">Walkers</entidade>.
+<entidade "Afterward">Afterward</entidade>,<entidade "Sam">Sam</entidade> and <entidade "Gilly">Gilly</entidade> visit <entidade "Aemon">Maester Aemon</entidade>,who is bedridden and dying from old age.
+Gilly brings her baby <entidade "Little Sam">Little Sam</entidade> for him to hold and cheer him up a little.
+<entidade "Aemon">Aemon</entidade> happily notes that her son has a laugh just like his little brother <entidade "Egg">Egg</entidade> ( <entidade "King Aegon V">King Aegon V</entidade> ) had when he was a baby.
+In a moment of clarity,<entidade "Aemon">Aemon</entidade> gravely warns <entidade "Gilly">Gilly</entidade> that she and her son must leave the <entidade "Wall">Wall</entidade> while they still can,before winter comes ( and the <entidade "White">White</entidade> <entidade "Walkers">Walkers</entidade> with it ).
+<entidade "Aemon">Aemon</entidade>'s condition steadily deteriorates during the night,and he fades in and out of consciousness.
 Near the end he wakes up delirious from a dream,still lost in memory from his youth : he calls out to his brother Egg,and says that he had a strange dream that he was an old man.
 Aemon passes away soon afterwards.
 
-<entidade " Samwell"> Samwell</entidade> loses his virginity with <entidade " Gilly"> Gilly</entidade>.
-In the courtyard of <entidade " Castle Black"> Castle Black</entidade>,<entidade " Samwell"> Sam</entidade> eulogizes <entidade " Aemon"> Aemon</entidade> before lighting his funeral pyre,declaring for all to hear that he was the blood of the dragon - but now his watch is ended.
-<entidade " Ser Alliser Thorne"> Ser Alliser</entidade> whispers that <entidade " Samwell"> Sam</entidade>'s friends are abandoning him one by one.
-<entidade " Afterward"> Afterward</entidade>,<entidade " Gilly"> Gilly</entidade> is attacked in the dining hall by two brothers,but <entidade " Samwell"> Sam</entidade> and <entidade " Jon"> Jon</entidade>'s direwolf,<entidade " Ghost"> Ghost</entidade>,come to her rescue.
-<entidade " Samwell"> Sam</entidade> is badly beaten,and <entidade " Gilly"> Gilly</entidade> tends to his injuries.
-Still in grief at <entidade " Aemon"> Aemon</entidade>'s death and impressed by <entidade " Samwell"> Sam</entidade> defending her,<entidade " Gilly"> Gilly</entidade> climbs on top of him and they have sex.
+<entidade "Samwell">Samwell</entidade> loses his virginity with <entidade "Gilly">Gilly</entidade>.
+In the courtyard of <entidade "Castle Black">Castle Black</entidade>,<entidade "Samwell">Sam</entidade> eulogizes <entidade "Aemon">Aemon</entidade> before lighting his funeral pyre,declaring for all to hear that he was the blood of the dragon - but now his watch is ended.
+<entidade "Alliser Thorne">Ser Alliser</entidade> whispers that <entidade "Samwell">Sam</entidade>'s friends are abandoning him one by one.
+<entidade "Afterward">Afterward</entidade>,<entidade "Gilly">Gilly</entidade> is attacked in the dining hall by two brothers,but <entidade "Samwell">Sam</entidade> and <entidade "Jon">Jon</entidade>'s direwolf,<entidade "Ghost">Ghost</entidade>,come to her rescue.
+<entidade "Samwell">Sam</entidade> is badly beaten,and <entidade "Gilly">Gilly</entidade> tends to his injuries.
+Still in grief at <entidade "Aemon">Aemon</entidade>'s death and impressed by <entidade "Samwell">Sam</entidade> defending her,<entidade "Gilly">Gilly</entidade> climbs on top of him and they have sex.
 
-In the <entidade " North"> North</entidade> 
-At <entidade " Winterfell"> Winterfell</entidade>,<entidade " Reek"> Reek</entidade> brings food to <entidade " Sansa"> Sansa</entidade>.
-She begs him for help,telling him how she has been locked in her bedchamber since her wedding and is visited by <entidade " Ramsay"> Ramsay</entidade> every night and he forces himself on her.
-<entidade " Reek"> Reek</entidade> simply tells her to obey <entidade " Ramsay"> Ramsay</entidade> or else he would do worse things to her.
-<entidade " Sansa"> Sansa</entidade> asks what <entidade " Ramsay"> Ramsay</entidade> did to Reek to break him to such an extent,but he can't bring himself to tell her.
-He tries to leave but <entidade " Sansa"> Sansa</entidade> grabs and reminds him that he betrayed her family,making Reek apologize profusely.
-<entidade " Sansa"> Sansa</entidade> informs him that her family still has allies in the <entidade " North"> North</entidade> and tells him to light a candle at the top of the <entidade " Broken Tower"> Broken Tower</entidade> which will signal them that she is in danger.
-When Reek refuses to do it,<entidade " Sansa"> Sansa</entidade> reminds him of his true name,<entidade " Theon Greyjoy"> Theon Greyjoy</entidade>,and makes him promise that he'll help her.
-<entidade " Reek"> Reek</entidade> hesitantly agrees.
-He trudges through the snow with the candle,up a flight of stairs and into <entidade " Ramsay"> Ramsay</entidade>'s room.
-Later,<entidade " Sansa"> Sansa</entidade> is taken to see <entidade " Ramsay"> Ramsay</entidade> on the ramparts,which are still under construction.
-While he is distracted,<entidade " Sansa"> Sansa</entidade> grabs a workman's tool lying on a nearby barrel and pockets it.
-<entidade " Ramsay"> Ramsay</entidade> speaks of his thoughts on how they will easily defeat <entidade " Stannis"> Stannis</entidade>'s army since their soldiers,unlike <entidade " Stannis"> Stannis</entidade>'s,are trained to fight in the snow,and how he'll one day be the <entidade " Lord of Winterfell"> Lord of Winterfell</entidade> and the <entidade " Warden of the North"> Warden of the North</entidade>.
-<entidade " Sansa"> Sansa</entidade> reminds him of the unborn baby,who,if a boy,will have a stronger claim on the <entidade " North"> North</entidade> since he'll be a true-born.
-<entidade " Ramsay"> Ramsay</entidade> tells her that he is <entidade " Roose Bolton"> Roose Bolton</entidade>'s eldest son,legitimized by the king,who <entidade " Sansa"> Sansa</entidade> reminds him is another bastard.
-<entidade " Ramsay"> Ramsay</entidade> is obviously angered by <entidade " Sansa"> Sansa</entidade>'s remarks,but doesn't act on it,simply stating that bastards can rise in the world too,informing her of <entidade " Jon"> Jon</entidade>'s appointment as <entidade " Lord Commander of the Night"> Lord Commander of the Night</entidade>'s <entidade " Watch"> Watch</entidade>.
-<entidade " Ramsay"> Ramsay</entidade> then brings up the reason why he summoned her,and shows her the crucified and partly flayed corpse of the old woman who promised to help Sansa if she lit a candle in the <entidade " Broken Tower"> Broken Tower</entidade>.
-<entidade " Ramsay"> Ramsay</entidade> then reveals to Sansa that <entidade " Reek"> Reek</entidade>,who seems miserable to have squashed <entidade " Sansa"> Sansa</entidade>'s only hope of an escape,came to him and told him everything.
-<entidade " Sansa"> Sansa</entidade> chokes back tears as a gleeful <entidade " Ramsay"> Ramsay</entidade> orders his men to take her back to her chamber.
-Meanwhile,<entidade " Brienne"> Brienne</entidade> stares intently at <entidade " Winterfell"> Winterfell</entidade> castle from her room in the inn,waiting for the sign to rescue <entidade " Sansa"> Sansa</entidade>.
-<entidade " Stannis"> Stannis</entidade>'s troops make camp during a violent snowstorm.
-<entidade " Davos Seaworth"> Davos Seaworth</entidade> meets with <entidade " Stannis"> Stannis</entidade> and informs him that forty horses died the previous night and more will die come sunset.
-The <entidade " Stormcrows"> Stormcrows</entidade>,a sellsword company,have fled in the night.
-<entidade " Davos Seaworth"> Davos</entidade> thinks that they should go back to <entidade " Castle Black"> Castle Black</entidade> and wait out the weather since they do not have enough food,but <entidade " Stannis"> Stannis</entidade> stubbornly tells him that they will not retreat to <entidade " Castle Black"> Castle Black</entidade> because he will not risk being known as the <entidade " King"> King</entidade> who <entidade " Ran"> Ran</entidade>.
-As winter will soon arrive,they also run the risk of being stuck at <entidade " Castle Black"> Castle Black</entidade> for years,during which the <entidade " Boltons"> Boltons</entidade> will regain their strength.
-Seeing no other way to convince <entidade " Stannis"> Stannis</entidade> otherwise,<entidade " Davos Seaworth"> Davos</entidade> leaves.
-<entidade " Stannis"> Stannis</entidade> asks <entidade " Melisandre"> Melisandre</entidade> if she is sure of their victory at <entidade " Winterfell"> Winterfell</entidade>.
-<entidade " Melisandre"> Melisandre</entidade> assures him,reminding him that he also saw the vision of his victory in the flames,but <entidade " Stannis"> Stannis</entidade> is not so sure what he saw anymore.
-<entidade " Melisandre"> Melisandre</entidade> reassures him that her visions will come true,but also states that a sacrifice,one with <entidade " King"> King</entidade>'s blood,must be made in order to ensure their victory,implying that they sacrifice <entidade " Shireen"> Shireen</entidade>.
-<entidade " Stannis"> Stannis</entidade> is infuriated by the suggestion and orders her to leave.
+In the <entidade "North">North</entidade> 
+At <entidade "Winterfell">Winterfell</entidade>,<entidade "Reek">Reek</entidade> brings food to <entidade "Sansa">Sansa</entidade>.
+She begs him for help,telling him how she has been locked in her bedchamber since her wedding and is visited by <entidade "Ramsay">Ramsay</entidade> every night and he forces himself on her.
+<entidade "Reek">Reek</entidade> simply tells her to obey <entidade "Ramsay">Ramsay</entidade> or else he would do worse things to her.
+<entidade "Sansa">Sansa</entidade> asks what <entidade "Ramsay">Ramsay</entidade> did to Reek to break him to such an extent,but he can't bring himself to tell her.
+He tries to leave but <entidade "Sansa">Sansa</entidade> grabs and reminds him that he betrayed her family,making Reek apologize profusely.
+<entidade "Sansa">Sansa</entidade> informs him that her family still has allies in the <entidade "North">North</entidade> and tells him to light a candle at the top of the <entidade "Broken Tower">Broken Tower</entidade> which will signal them that she is in danger.
+When Reek refuses to do it,<entidade "Sansa">Sansa</entidade> reminds him of his true name,<entidade "Theon Greyjoy">Theon Greyjoy</entidade>,and makes him promise that he'll help her.
+<entidade "Reek">Reek</entidade> hesitantly agrees.
+He trudges through the snow with the candle,up a flight of stairs and into <entidade "Ramsay">Ramsay</entidade>'s room.
+Later,<entidade "Sansa">Sansa</entidade> is taken to see <entidade "Ramsay">Ramsay</entidade> on the ramparts,which are still under construction.
+While he is distracted,<entidade "Sansa">Sansa</entidade> grabs a workman's tool lying on a nearby barrel and pockets it.
+<entidade "Ramsay">Ramsay</entidade> speaks of his thoughts on how they will easily defeat <entidade "Stannis">Stannis</entidade>'s army since their soldiers,unlike <entidade "Stannis">Stannis</entidade>'s,are trained to fight in the snow,and how he'll one day be the <entidade "Lord of Winterfell">Lord of Winterfell</entidade> and the <entidade "Warden of the North">Warden of the North</entidade>.
+<entidade "Sansa">Sansa</entidade> reminds him of the unborn baby,who,if a boy,will have a stronger claim on the <entidade "North">North</entidade> since he'll be a true-born.
+<entidade "Ramsay">Ramsay</entidade> tells her that he is <entidade "Roose Bolton">Roose Bolton</entidade>'s eldest son,legitimized by the king,who <entidade "Sansa">Sansa</entidade> reminds him is another bastard.
+<entidade "Ramsay">Ramsay</entidade> is obviously angered by <entidade "Sansa">Sansa</entidade>'s remarks,but doesn't act on it,simply stating that bastards can rise in the world too,informing her of <entidade "Jon">Jon</entidade>'s appointment as <entidade "Lord Commander of the Night">Lord Commander of the Night</entidade>'s <entidade "Watch">Watch</entidade>.
+<entidade "Ramsay">Ramsay</entidade> then brings up the reason why he summoned her,and shows her the crucified and partly flayed corpse of the old woman who promised to help Sansa if she lit a candle in the <entidade "Broken Tower">Broken Tower</entidade>.
+<entidade "Ramsay">Ramsay</entidade> then reveals to Sansa that <entidade "Reek">Reek</entidade>,who seems miserable to have squashed <entidade "Sansa">Sansa</entidade>'s only hope of an escape,came to him and told him everything.
+<entidade "Sansa">Sansa</entidade> chokes back tears as a gleeful <entidade "Ramsay">Ramsay</entidade> orders his men to take her back to her chamber.
+Meanwhile,<entidade "Brienne">Brienne</entidade> stares intently at <entidade "Winterfell">Winterfell</entidade> castle from her room in the inn,waiting for the sign to rescue <entidade "Sansa">Sansa</entidade>.
+<entidade "Stannis">Stannis</entidade>'s troops make camp during a violent snowstorm.
+<entidade "Davos Seaworth">Davos Seaworth</entidade> meets with <entidade "Stannis">Stannis</entidade> and informs him that forty horses died the previous night and more will die come sunset.
+The <entidade "Stormcrows">Stormcrows</entidade>,a sellsword company,have fled in the night.
+<entidade "Davos Seaworth">Davos</entidade> thinks that they should go back to <entidade "Castle Black">Castle Black</entidade> and wait out the weather since they do not have enough food,but <entidade "Stannis">Stannis</entidade> stubbornly tells him that they will not retreat to <entidade "Castle Black">Castle Black</entidade> because he will not risk being known as the <entidade "King Aegon V">King</entidade> who <entidade "Ran">Ran</entidade>.
+As winter will soon arrive,they also run the risk of being stuck at <entidade "Castle Black">Castle Black</entidade> for years,during which the <entidade "Boltons">Boltons</entidade> will regain their strength.
+Seeing no other way to convince <entidade "Stannis">Stannis</entidade> otherwise,<entidade "Davos Seaworth">Davos</entidade> leaves.
+<entidade "Stannis">Stannis</entidade> asks <entidade "Melisandre">Melisandre</entidade> if she is sure of their victory at <entidade "Winterfell">Winterfell</entidade>.
+<entidade "Melisandre">Melisandre</entidade> assures him,reminding him that he also saw the vision of his victory in the flames,but <entidade "Stannis">Stannis</entidade> is not so sure what he saw anymore.
+<entidade "Melisandre">Melisandre</entidade> reassures him that her visions will come true,but also states that a sacrifice,one with <entidade "King Aegon V">King</entidade>'s blood,must be made in order to ensure their victory,implying that they sacrifice <entidade "Shireen">Shireen</entidade>.
+<entidade "Stannis">Stannis</entidade> is infuriated by the suggestion and orders her to leave.
 
-In <entidade " Dorne"> Dorne</entidade> 
-Prince <entidade " Doran"> Doran</entidade> has <entidade " Areo Hotah"> Areo Hotah</entidade> bring <entidade " Myrcella"> Myrcella</entidade> to <entidade " Jaime"> Jaime</entidade> in the quarters where he is confined,as <entidade " Jaime"> Jaime</entidade> is concerned for her safety.
-Displaying a somewhat more critical mind than her brothers,<entidade " Myrcella"> Myrcella</entidade> is suspicious about <entidade " Jaime"> Jaime</entidade>'s diplomatic mission to bring her back to <entidade " King's Landing"> King's Landing</entidade>,to which <entidade " Jaime"> Jaime</entidade> only replies that there are complicated matters involved.
-<entidade " Myrcella"> Myrcella</entidade> flatly refuses to return with him,stating her intent to marry <entidade " Trystane"> Trystane</entidade>.
-<entidade " Bronn"> Bronn</entidade> is singing The <entidade " Dornishman's Wife"> Dornishman's Wife</entidade> in his jail cell,while in the adjoining cell,the <entidade " Sand Snakes"> Sand Snakes</entidade> listen with a mix of annoyance from <entidade " Obara"> Obara</entidade> and <entidade " Nymeria"> Nymeria</entidade> and amusement from <entidade " Tyene"> Tyene</entidade>.
-After he finishes,the two parties trade barbs,and <entidade " Tyene"> Tyene</entidade> inquires about <entidade " Bronn"> Bronn</entidade>'s arm,which she cut with her daggers during their earlier fight,with <entidade " Bronn"> Bronn</entidade> brushing it off as a new scar.
-The two begin to talk about <entidade " Tyene"> Tyene</entidade>'s beauty,which <entidade " Bronn"> Bronn</entidade> dismisses until she begins to disrobe.
-<entidade " Bronn"> Bronn</entidade> stares intently,and begins to change his mind about her.
-<entidade " Tyene"> Tyene</entidade> once again inquires about his arm,and then his head,at which point <entidade " Bronn"> Bronn</entidade>'s nose starts bleeding and his vision blurs.
-<entidade " Bronn"> Bronn</entidade> collapses and tries to play off his sudden illness,but <entidade " Tyene"> Tyene</entidade> reveals that her daggers were coated with a slow-acting poison called The <entidade " Long Farewell"> Long Farewell</entidade>,and her attempts to seduce <entidade " Bronn"> Bronn</entidade> were to get his heart pumping faster,thereby allowing the poison to act quicker.
-She points to an ampoule on her necklace,which contains the antidote,but only offers to give it to <entidade " Bronn"> Bronn</entidade> on the condition that he agrees that she is the most beautiful woman in the world.
-Growing weaker,<entidade " Bronn"> Bronn</entidade> barely manages to reply affirmatively,and she tosses the ampoule to a relieved <entidade " Bronn"> Bronn</entidade>.
-<entidade " Tyene"> Tyene</entidade> smiles smugly at him and remarks that she finds him handsome as well,before re-robing and sitting down next to her mildly amused half-sisters.
+In <entidade "Dorne">Dorne</entidade> 
+Prince <entidade "Doran">Doran</entidade> has <entidade "Areo Hotah">Areo Hotah</entidade> bring <entidade "Myrcella">Myrcella</entidade> to <entidade "Jaime">Jaime</entidade> in the quarters where he is confined,as <entidade "Jaime">Jaime</entidade> is concerned for her safety.
+Displaying a somewhat more critical mind than her brothers,<entidade "Myrcella">Myrcella</entidade> is suspicious about <entidade "Jaime">Jaime</entidade>'s diplomatic mission to bring her back to <entidade "King's Landing">King's Landing</entidade>,to which <entidade "Jaime">Jaime</entidade> only replies that there are complicated matters involved.
+<entidade "Myrcella">Myrcella</entidade> flatly refuses to return with him,stating her intent to marry <entidade "Trystane">Trystane</entidade>.
+<entidade "Bronn">Bronn</entidade> is singing The <entidade "Dornishman's Wife">Dornishman's Wife</entidade> in his jail cell,while in the adjoining cell,the <entidade "Sand Snakes">Sand Snakes</entidade> listen with a mix of annoyance from <entidade "Obara">Obara</entidade> and <entidade "Nymeria">Nymeria</entidade> and amusement from <entidade "Tyene">Tyene</entidade>.
+After he finishes,the two parties trade barbs,and <entidade "Tyene">Tyene</entidade> inquires about <entidade "Bronn">Bronn</entidade>'s arm,which she cut with her daggers during their earlier fight,with <entidade "Bronn">Bronn</entidade> brushing it off as a new scar.
+The two begin to talk about <entidade "Tyene">Tyene</entidade>'s beauty,which <entidade "Bronn">Bronn</entidade> dismisses until she begins to disrobe.
+<entidade "Bronn">Bronn</entidade> stares intently,and begins to change his mind about her.
+<entidade "Tyene">Tyene</entidade> once again inquires about his arm,and then his head,at which point <entidade "Bronn">Bronn</entidade>'s nose starts bleeding and his vision blurs.
+<entidade "Bronn">Bronn</entidade> collapses and tries to play off his sudden illness,but <entidade "Tyene">Tyene</entidade> reveals that her daggers were coated with a slow-acting poison called The <entidade "Long Farewell">Long Farewell</entidade>,and her attempts to seduce <entidade "Bronn">Bronn</entidade> were to get his heart pumping faster,thereby allowing the poison to act quicker.
+She points to an ampoule on her necklace,which contains the antidote,but only offers to give it to <entidade "Bronn">Bronn</entidade> on the condition that he agrees that she is the most beautiful woman in the world.
+Growing weaker,<entidade "Bronn">Bronn</entidade> barely manages to reply affirmatively,and she tosses the ampoule to a relieved <entidade "Bronn">Bronn</entidade>.
+<entidade "Tyene">Tyene</entidade> smiles smugly at him and remarks that she finds him handsome as well,before re-robing and sitting down next to her mildly amused half-sisters.
 
-In <entidade " King's Landing"> King</entidade>'s Landing 
-In the <entidade " Great Sept of Baelor"> Great Sept of Baelor</entidade>,<entidade " Lady Olenna"> Lady Olenna</entidade> meets with the <entidade " High Sparrow"> High Sparrow</entidade> to discuss the imprisonment of her grandchildren,<entidade " Ser Loras"> Ser Loras</entidade> and <entidade " Queen Margaery"> Queen Margaery</entidade>.
+In <entidade "King Aegon V">King</entidade>'s Landing 
+In the <entidade "Great Sept of Baelor">Great Sept of Baelor</entidade>,<entidade "Lady Olenna">Lady Olenna</entidade> meets with the <entidade "High Sparrow">High Sparrow</entidade> to discuss the imprisonment of her grandchildren,<entidade "Loras">Ser Loras</entidade> and <entidade "Margaery">Queen Margaery</entidade>.
 Although they briefly bond over the infirmities of age,she demands that he release them and he declines,stating they will be punished for their crimes.
-The <entidade " High Sparrow"> High Sparrow</entidade> tells her that the <entidade " Gods' Laws"> Gods' Laws</entidade> must be applied to everyone equally.
-<entidade " Olenna"> Olenna</entidade> first tries to bribe him,but learning that he can not be bought,threatens to end the <entidade " Tyrell"> Tyrell</entidade> support for the capital by ending shipments of food.
-Again the <entidade " High Sparrow"> High Sparrow</entidade> is unfazed,remarking that the nobility of <entidade " Westeros"> Westeros</entidade> have forgotten they are outnumbered by the common folk and tells <entidade " Olenna"> Olenna</entidade> to ponder what happens when the many stop fearing the few.
-Returning to her palanquin,<entidade " Olenna"> Olenna</entidade> receives a letter bearing <entidade " Petyr Baelish"> Petyr Baelish</entidade>'s seal.
-Meanwhile,in the <entidade " Red Keep"> Red Keep</entidade>,<entidade " King Tommen"> King Tommen</entidade> rails over his inability to help <entidade " Margaery"> Margaery</entidade>.
-He wants to start a war for <entidade " Margaery"> Margaery</entidade>,declaring his love for her to a dumbstruck <entidade " Cersei"> Cersei</entidade>.
-To maintain control of the situation,she offers to speak with the <entidade " High Sparrow"> High Sparrow</entidade> for him and advocate for <entidade " Margaery"> Margaery</entidade> and <entidade " Loras"> Loras</entidade>'s release.
-Although clearly suspicious,the still-overwhelmed <entidade " Tommen"> Tommen</entidade> agrees.
-<entidade " Littlefinger"> Littlefinger</entidade> meets with <entidade " Olenna"> Olenna</entidade> in his ransacked brothel,where they share a tense conversation.
-<entidade " Olenna"> Olenna</entidade> reminds him of the role they both played in <entidade " Joffrey"> Joffrey</entidade>'s murder,and that,should her <entidade " House"> House</entidade> fall,she will have no reason to keep his involvement a secret.
-<entidade " Littlefinger"> Littlefinger</entidade> explains why he returned to <entidade " King's Landing"> King's Landing</entidade> - he dared not refuse <entidade " Cersei"> Cersei</entidade>'s summons,and was obliged to give her information.
-He tells Olenna that he will give her the same thing he gave <entidade " Cersei"> Cersei</entidade> : a handsome young man implied,in this instance,to be <entidade " Lancel"> Lancel</entidade>.
-In the <entidade " Sept"> Sept</entidade>'s cells,<entidade " Cersei"> Cersei</entidade> meets with <entidade " Margaery"> Margaery</entidade> and brings her food but <entidade " Margaery"> Margaery</entidade> refuses,revealing that she knows her mother-in-law is responsible for having her and <entidade " Loras"> Loras</entidade> imprisoned.
-<entidade " Cersei"> Cersei</entidade>,fearful of being overheard,denies this.
-Margaery mocks <entidade " Cersei"> Cersei</entidade> for her unconvincing lies of trying to save her,going as far as to say that while she knows how to lie and scheme,she doesn't understand innocence and decency,which <entidade " Margaery"> Margaery</entidade> suspects is why <entidade " Tommen"> Tommen</entidade> loves her,<entidade " Margaery"> Margaery</entidade>,and was willing to send <entidade " Cersei"> Cersei</entidade> back to <entidade " Casterly Rock"> Casterly Rock</entidade>.
-<entidade " Cersei"> Cersei</entidade>,concealing her fury,tells <entidade " Margaery"> Margaery</entidade> her trial will soon begin and that her son needs his mother more than ever.
-Margaery throws the stew at <entidade " Cersei"> Cersei</entidade>,and yells at her to get out.
-<entidade " Cersei"> Cersei</entidade> leaves the cell,smiling smugly at <entidade " Margaery"> Margaery</entidade>.
-On her way out,a still gleeful <entidade " Cersei"> Cersei</entidade> meets with the <entidade " High Sparrow"> High Sparrow</entidade> in a chapel that predates the <entidade " Great Sept of Baelor"> Great Sept</entidade>.
-The pair briefly discuss the legal process that <entidade " Margaery"> Margaery</entidade> and <entidade " Loras"> Loras</entidade> will face.
-As the conversation goes on,however,it's clear that the <entidade " High Sparrow"> High Sparrow</entidade> is about to turn the tables on <entidade " Cersei"> Cersei</entidade>.
-When <entidade " Brother Lancel"> Brother Lancel</entidade> appears,<entidade " Cersei"> Cersei</entidade> realizes what is about to happen,and her triumphant smile begins to crack.
-The <entidade " High Sparrow"> High Sparrow</entidade> has an irate <entidade " Cersei"> Cersei</entidade> taken into custody by a group of <entidade " Septas"> Septas</entidade> who ignore <entidade " Cersei"> Cersei</entidade>'s threats and lock her in a cell.
+The <entidade "High Sparrow">High Sparrow</entidade> tells her that the <entidade "Gods' Laws">Gods' Laws</entidade> must be applied to everyone equally.
+<entidade "Olenna">Olenna</entidade> first tries to bribe him,but learning that he can not be bought,threatens to end the <entidade "Tyrell">Tyrell</entidade> support for the capital by ending shipments of food.
+Again the <entidade "High Sparrow">High Sparrow</entidade> is unfazed,remarking that the nobility of <entidade "Westeros">Westeros</entidade> have forgotten they are outnumbered by the common folk and tells <entidade "Olenna">Olenna</entidade> to ponder what happens when the many stop fearing the few.
+Returning to her palanquin,<entidade "Olenna">Olenna</entidade> receives a letter bearing <entidade "Petyr Baelish">Petyr Baelish</entidade>'s seal.
+Meanwhile,in the <entidade "Red Keep">Red Keep</entidade>,<entidade "King Tommen">King Tommen</entidade> rails over his inability to help <entidade "Margaery">Margaery</entidade>.
+He wants to start a war for <entidade "Margaery">Margaery</entidade>,declaring his love for her to a dumbstruck <entidade "Cersei">Cersei</entidade>.
+To maintain control of the situation,she offers to speak with the <entidade "High Sparrow">High Sparrow</entidade> for him and advocate for <entidade "Margaery">Margaery</entidade> and <entidade "Loras">Loras</entidade>'s release.
+Although clearly suspicious,the still-overwhelmed <entidade "Tommen">Tommen</entidade> agrees.
+<entidade "Littlefinger">Littlefinger</entidade> meets with <entidade "Olenna">Olenna</entidade> in his ransacked brothel,where they share a tense conversation.
+<entidade "Olenna">Olenna</entidade> reminds him of the role they both played in <entidade "Joffrey">Joffrey</entidade>'s murder,and that,should her <entidade "House">House</entidade> fall,she will have no reason to keep his involvement a secret.
+<entidade "Littlefinger">Littlefinger</entidade> explains why he returned to <entidade "King's Landing">King's Landing</entidade> - he dared not refuse <entidade "Cersei">Cersei</entidade>'s summons,and was obliged to give her information.
+He tells Olenna that he will give her the same thing he gave <entidade "Cersei">Cersei</entidade> : a handsome young man implied,in this instance,to be <entidade "Lancel">Lancel</entidade>.
+In the <entidade "Sept">Sept</entidade>'s cells,<entidade "Cersei">Cersei</entidade> meets with <entidade "Margaery">Margaery</entidade> and brings her food but <entidade "Margaery">Margaery</entidade> refuses,revealing that she knows her mother-in-law is responsible for having her and <entidade "Loras">Loras</entidade> imprisoned.
+<entidade "Cersei">Cersei</entidade>,fearful of being overheard,denies this.
+Margaery mocks <entidade "Cersei">Cersei</entidade> for her unconvincing lies of trying to save her,going as far as to say that while she knows how to lie and scheme,she doesn't understand innocence and decency,which <entidade "Margaery">Margaery</entidade> suspects is why <entidade "Tommen">Tommen</entidade> loves her,<entidade "Margaery">Margaery</entidade>,and was willing to send <entidade "Cersei">Cersei</entidade> back to <entidade "Casterly Rock">Casterly Rock</entidade>.
+<entidade "Cersei">Cersei</entidade>,concealing her fury,tells <entidade "Margaery">Margaery</entidade> her trial will soon begin and that her son needs his mother more than ever.
+Margaery throws the stew at <entidade "Cersei">Cersei</entidade>,and yells at her to get out.
+<entidade "Cersei">Cersei</entidade> leaves the cell,smiling smugly at <entidade "Margaery">Margaery</entidade>.
+On her way out,a still gleeful <entidade "Cersei">Cersei</entidade> meets with the <entidade "High Sparrow">High Sparrow</entidade> in a chapel that predates the <entidade "Great Sept of Baelor">Great Sept</entidade>.
+The pair briefly discuss the legal process that <entidade "Margaery">Margaery</entidade> and <entidade "Loras">Loras</entidade> will face.
+As the conversation goes on,however,it's clear that the <entidade "High Sparrow">High Sparrow</entidade> is about to turn the tables on <entidade "Cersei">Cersei</entidade>.
+When <entidade "Brother Lancel">Brother Lancel</entidade> appears,<entidade "Cersei">Cersei</entidade> realizes what is about to happen,and her triumphant smile begins to crack.
+The <entidade "High Sparrow">High Sparrow</entidade> has an irate <entidade "Cersei">Cersei</entidade> taken into custody by a group of <entidade "Septas">Septas</entidade> who ignore <entidade "Cersei">Cersei</entidade>'s threats and lock her in a cell.
 
-In <entidade " Meereen"> Meereen</entidade> 
-<entidade " Jorah"> Jorah</entidade> is sold by <entidade " Malko"> Malko</entidade> to <entidade " Yezzan zo Qaggaz"> Yezzan zo Qaggaz</entidade>.
-Before <entidade " Yezzan zo Qaggaz"> Yezzan</entidade> leaves,<entidade " Tyrion"> Tyrion</entidade> convinces him that <entidade " Jorah"> Jorah</entidade> and he are a team,and is also bought.
-In <entidade " Meereen"> Meereen</entidade>,<entidade " Daenerys"> Daenerys</entidade> and <entidade " Daario"> Daario</entidade> discuss her impending marriage to <entidade " Hizdahr zo Loraq"> Hizdahr zo Loraq</entidade>.
-After rejecting his suggestion that she marry him instead,<entidade " Daario"> Daario</entidade> advises her that,on the day the fighting pits are reopened,she should gather all the <entidade " Great Sept of Baelor"> Great</entidade>,<entidade " Wise"> Wise</entidade> and <entidade " Good Masters"> Good Masters</entidade> and kill them.
-<entidade " Dany"> Dany</entidade> is reluctant to do so,as she believes it will give her the reputation of a butcher,to which <entidade " Daario"> Daario</entidade> replies that all rulers are either butchers or meat.
-<entidade " Yezzan zo Qaggaz"> Yezzan</entidade> takes his fighters to <entidade " Meereen"> Meereen</entidade>,to test them in the lower pits and seek out those who are worthy to fight in the <entidade " Great Pit of Daznak"> Great Pit of Daznak</entidade>.
-They fight in front of a reluctant <entidade " Daenerys"> Daenerys</entidade>,as <entidade " Hizdahr zo Loraq"> Hizdahr</entidade> has convinced her that <entidade " Meereen"> Meereen</entidade>'s ruler occasionally makes the rounds to the lower pits ahead of the main tournament.
-<entidade " Jorah"> Jorah</entidade> enters the <entidade " Pits"> Pits</entidade> early,upon realizing that she is watching and will be repulsed by what she's seeing,and elbows down <entidade " Yezzan zo Qaggaz"> Yezzan</entidade> who tried to berate him.
-<entidade " Jorah"> Jorah</entidade> easily defeats the other fighters without killing them,impressing <entidade " Dany"> Dany</entidade> enough to prevent her from leaving.
+In <entidade "Meereen">Meereen</entidade> 
+<entidade "Jorah">Jorah</entidade> is sold by <entidade "Malko">Malko</entidade> to <entidade "Yezzan zo Qaggaz">Yezzan zo Qaggaz</entidade>.
+Before <entidade "Yezzan zo Qaggaz">Yezzan</entidade> leaves,<entidade "Tyrion">Tyrion</entidade> convinces him that <entidade "Jorah">Jorah</entidade> and he are a team,and is also bought.
+In <entidade "Meereen">Meereen</entidade>,<entidade "Daenerys">Daenerys</entidade> and <entidade "Daario">Daario</entidade> discuss her impending marriage to <entidade "Hizdahr zo Loraq">Hizdahr zo Loraq</entidade>.
+After rejecting his suggestion that she marry him instead,<entidade "Daario">Daario</entidade> advises her that,on the day the fighting pits are reopened,she should gather all the <entidade "Great Sept of Baelor">Great</entidade>,<entidade "Wise">Wise</entidade> and <entidade "Good Masters">Good Masters</entidade> and kill them.
+<entidade "Dany">Dany</entidade> is reluctant to do so,as she believes it will give her the reputation of a butcher,to which <entidade "Daario">Daario</entidade> replies that all rulers are either butchers or meat.
+<entidade "Yezzan zo Qaggaz">Yezzan</entidade> takes his fighters to <entidade "Meereen">Meereen</entidade>,to test them in the lower pits and seek out those who are worthy to fight in the <entidade "Great Pit of Daznak">Great Pit of Daznak</entidade>.
+They fight in front of a reluctant <entidade "Daenerys">Daenerys</entidade>,as <entidade "Hizdahr zo Loraq">Hizdahr</entidade> has convinced her that <entidade "Meereen">Meereen</entidade>'s ruler occasionally makes the rounds to the lower pits ahead of the main tournament.
+<entidade "Jorah">Jorah</entidade> enters the <entidade "Pits">Pits</entidade> early,upon realizing that she is watching and will be repulsed by what she's seeing,and elbows down <entidade "Yezzan zo Qaggaz">Yezzan</entidade> who tried to berate him.
+<entidade "Jorah">Jorah</entidade> easily defeats the other fighters without killing them,impressing <entidade "Dany">Dany</entidade> enough to prevent her from leaving.
 When he reveals his identity,however,her face swiftly twists into a scowl and she orders him taken away.
-Before the <entidade " Unsullied"> Unsullied</entidade> can comply,<entidade " Jorah"> Jorah</entidade> declares that he brought her a gift,and <entidade " Tyrion"> Tyrion</entidade> enters the arena and reveals his identity to the astonished <entidade " Queen"> Queen</entidade>.
+Before the <entidade "Unsullied">Unsullied</entidade> can comply,<entidade "Jorah">Jorah</entidade> declares that he brought her a gift,and <entidade "Tyrion">Tyrion</entidade> enters the arena and reveals his identity to the astonished <entidade "Queen">Queen</entidade>.
 

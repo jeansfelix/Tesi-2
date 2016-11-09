@@ -1,95 +1,95 @@
-<entidade " Vanessa Taylor"> Vanessa Taylor</entidade> 
+<entidade "Vanessa Taylor">Vanessa Taylor</entidade> 
 
-<entidade " David Nutter"> David Nutter</entidade> 
+<entidade "David Nutter">David Nutter</entidade> 
 
-The <entidade " Ghost of Harrenhal"> Ghost of Harrenhal</entidade> 
-A Man Without <entidade " Honor"> Honor</entidade> 
+The <entidade "Ghost of Harrenhal">Ghost of Harrenhal</entidade> 
+A Man Without <entidade "Honor">Honor</entidade> 
 
-The <entidade " Old Gods"> Old Gods</entidade> and the <entidade " New"> New</entidade> is the sixth episode of the second season of <entidade " Game of Thrones"> Game of Thrones</entidade>.
+The <entidade "Old Gods">Old Gods</entidade> and the <entidade "New">New</entidade> is the sixth episode of the second season of <entidade "Game of Thrones">Game of Thrones</entidade>.
 It is the sixteenth episode of the series overall.
-It premiered on <entidade " May 6, 2012"> May 6, 2012</entidade>.
-It was written by co-executive producer <entidade " Vanessa Taylor"> Vanessa Taylor</entidade> and directed by <entidade " David Nutter"> David Nutter</entidade>.
-The episode won a Creative  Arts Emmy Award for Make-Up ( Non-Prosthetic ) in <entidade " September"> September</entidade> 20121.
+It premiered on <entidade "May 6, 2012">May 6, 2012</entidade>.
+It was written by co-executive producer <entidade "Vanessa Taylor">Vanessa Taylor</entidade> and directed by <entidade "David Nutter">David Nutter</entidade>.
+The episode won a Creative Arts Emmy Award for Make-Up ( Non-Prosthetic ) in <entidade "September">September</entidade> 20121.
 
-<entidade " Arya"> Arya</entidade> has a surprise visitor ; <entidade " Dany"> Dany</entidade> vows to take what is hers ; <entidade " Joffrey"> Joffrey</entidade> meets his subjects ; <entidade " Qhorin"> Qhorin</entidade> gives <entidade " Jon"> Jon</entidade> a chance to prove himself.
+<entidade "Arya">Arya</entidade> has a surprise visitor ; <entidade "Dany">Dany</entidade> vows to take what is hers ; <entidade "Joffrey">Joffrey</entidade> meets his subjects ; <entidade "Qhorin">Qhorin</entidade> gives <entidade "Jon">Jon</entidade> a chance to prove himself.
 
-In the <entidade " North"> North</entidade> 
-Theon approaches <entidade " Bran"> Bran</entidade>,then takes over <entidade " Winterfell"> Winterfell</entidade>.
-At <entidade " Winterfell"> Winterfell</entidade>,<entidade " Maester Luwin"> Maester Luwin</entidade> frantically sends off a messenger raven just as a band of raiders from <entidade " House Greyjoy"> House Greyjoy</entidade>,led by <entidade " Theon Greyjoy"> Theon Greyjoy</entidade>,take over the undefended castle.
-Theon had lured the defenders away with a feint at <entidade " Torrhen's Square"> Torrhen's Square</entidade> and then infiltrated the castle using grappling claws.
-<entidade " Theon Greyjoy"> Theon</entidade> tells <entidade " Bran Stark"> Bran Stark</entidade> to surrender the castle to him to save his people.
-<entidade " Bran Stark"> Bran</entidade> submits in front of his assembled people.
-<entidade " Ser Rodrik Cassel"> Ser Rodrik Cassel</entidade> is captured by <entidade " Theon Greyjoy"> Theon</entidade>'s men as he is returning from <entidade " Torrhen's Square"> Torrhen's Square</entidade>.
-He spits in <entidade " Theon Greyjoy"> Theon</entidade>'s face,and <entidade " Dagmer Cleftjaw"> Dagmer Cleftjaw</entidade> insists that <entidade " Theon Greyjoy"> Theon</entidade> must kill him,or lose face in front of his ironborn raiders.
-Theon botches the beheading of <entidade " Ser Rodrik Cassel"> Ser Rodrik</entidade>,requiring several hacks and a kick,horrifying the people of <entidade " Winterfell"> Winterfell</entidade>.
-Later that night,<entidade " Osha"> Osha</entidade> the wildling has sex with <entidade " Theon Greyjoy"> Theon</entidade>,but then sneaks out of his room while he is asleep.
-<entidade " Osha"> Osha</entidade> frees <entidade " Bran Stark"> Bran</entidade>,<entidade " Rickon Stark"> Rickon Stark</entidade>,<entidade " Hodor"> Hodor</entidade>,and their direwolves,<entidade " Summer"> Summer</entidade> and <entidade " Shaggydog"> Shaggydog</entidade>,smuggling them out of the castle and killing one of <entidade " Theon Greyjoy"> Theon</entidade>'s guards in the process.
+In the <entidade "North">North</entidade> 
+Theon approaches <entidade "Bran">Bran</entidade>,then takes over <entidade "Winterfell">Winterfell</entidade>.
+At <entidade "Winterfell">Winterfell</entidade>,<entidade "Luwin">Maester Luwin</entidade> frantically sends off a messenger raven just as a band of raiders from <entidade "House Greyjoy">House Greyjoy</entidade>,led by <entidade "Theon Greyjoy">Theon Greyjoy</entidade>,take over the undefended castle.
+Theon had lured the defenders away with a feint at <entidade "Torrhen's Square">Torrhen's Square</entidade> and then infiltrated the castle using grappling claws.
+<entidade "Theon Greyjoy">Theon</entidade> tells <entidade "Bran Stark">Bran Stark</entidade> to surrender the castle to him to save his people.
+<entidade "Bran Stark">Bran</entidade> submits in front of his assembled people.
+<entidade "Rodrik Cassel">Ser Rodrik Cassel</entidade> is captured by <entidade "Theon Greyjoy">Theon</entidade>'s men as he is returning from <entidade "Torrhen's Square">Torrhen's Square</entidade>.
+He spits in <entidade "Theon Greyjoy">Theon</entidade>'s face,and <entidade "Dagmer Cleftjaw">Dagmer Cleftjaw</entidade> insists that <entidade "Theon Greyjoy">Theon</entidade> must kill him,or lose face in front of his ironborn raiders.
+Theon botches the beheading of <entidade "Rodrik Cassel">Ser Rodrik</entidade>,requiring several hacks and a kick,horrifying the people of <entidade "Winterfell">Winterfell</entidade>.
+Later that night,<entidade "Osha">Osha</entidade> the wildling has sex with <entidade "Theon Greyjoy">Theon</entidade>,but then sneaks out of his room while he is asleep.
+<entidade "Osha">Osha</entidade> frees <entidade "Bran Stark">Bran</entidade>,<entidade "Rickon Stark">Rickon Stark</entidade>,<entidade "Hodor">Hodor</entidade>,and their direwolves,<entidade "Summer">Summer</entidade> and <entidade "Shaggydog">Shaggydog</entidade>,smuggling them out of the castle and killing one of <entidade "Theon Greyjoy">Theon</entidade>'s guards in the process.
 
 In the Westerlands 
-At <entidade " King Robb Stark"> King Robb Stark</entidade>'s army camp,<entidade " Robb"> Robb</entidade> chats with <entidade " Talisa"> Talisa</entidade>,who has followed his forces on their campaign.
-<entidade " Robb"> Robb</entidade> introduces <entidade " Talisa"> Talisa</entidade> to his mother <entidade " Catelyn Stark"> Catelyn Stark</entidade>,who has returned from the <entidade " Stormlands"> Stormlands</entidade> along with <entidade " Brienne of Tarth"> Brienne of Tarth</entidade>.
-They are interrupted when <entidade " Lord Roose Bolton"> Lord Roose Bolton</entidade> arrives with the terrible news sent by <entidade " Luwin"> Luwin</entidade>'s last messenger raven.
-Furious at <entidade " Theon Greyjoy"> Theon</entidade>'s betrayal,<entidade " Robb"> Robb</entidade> intends to march his army back to the <entidade " North"> North</entidade> to repel the invasion.
-Roose advises that the few hundred soldiers left scattered in the <entidade " North"> North</entidade> can be rallied by his bastard son,<entidade " Ramsay Snow"> Ramsay Snow</entidade>,who is in the  North at the Dreadfort.
-They could overcome the small <entidade " Ironborn"> Ironborn</entidade> invasion force.
-<entidade " Roose"> Roose</entidade> warns that retreating the entire <entidade " Northern"> Northern</entidade> army group would lose everything they have gained.
-<entidade " Robb"> Robb</entidade> agrees,but insists that <entidade " Bolton"> Bolton</entidade>'s men take <entidade " Theon Greyjoy"> Theon</entidade> alive so <entidade " Robb"> Robb</entidade> can look him in the eyes and ask Why ? 
+At <entidade "King Robb Stark">King Robb Stark</entidade>'s army camp,<entidade "Robb">Robb</entidade> chats with <entidade "Talisa">Talisa</entidade>,who has followed his forces on their campaign.
+<entidade "Robb">Robb</entidade> introduces <entidade "Talisa">Talisa</entidade> to his mother <entidade "Catelyn Stark">Catelyn Stark</entidade>,who has returned from the <entidade "Stormlands">Stormlands</entidade> along with <entidade "Brienne of Tarth">Brienne of Tarth</entidade>.
+They are interrupted when <entidade "Roose Bolton">Lord Roose Bolton</entidade> arrives with the terrible news sent by <entidade "Luwin">Luwin</entidade>'s last messenger raven.
+Furious at <entidade "Theon Greyjoy">Theon</entidade>'s betrayal,<entidade "Robb">Robb</entidade> intends to march his army back to the <entidade "North">North</entidade> to repel the invasion.
+Roose advises that the few hundred soldiers left scattered in the <entidade "North">North</entidade> can be rallied by his bastard son,<entidade "Ramsay Snow">Ramsay Snow</entidade>,who is in the North at the Dreadfort.
+They could overcome the small <entidade "Ironborn">Ironborn</entidade> invasion force.
+<entidade "Roose Bolton">Roose</entidade> warns that retreating the entire <entidade "Northern">Northern</entidade> army group would lose everything they have gained.
+<entidade "Robb">Robb</entidade> agrees,but insists that <entidade "Bolton">Bolton</entidade>'s men take <entidade "Theon Greyjoy">Theon</entidade> alive so <entidade "Robb">Robb</entidade> can look him in the eyes and ask Why ? 
 before personally executing him.
 
 In the Riverlands 
-At <entidade " Harrenhal"> Harrenhal</entidade>,the main base camp for the <entidade " House Lannister"> House Lannister</entidade> army in the <entidade " Riverlands"> Riverlands</entidade>,<entidade " Tywin Lannister"> Tywin Lannister</entidade> berates <entidade " Ser Amory Lorch"> Ser Amory Lorch</entidade> for delivering a letter to their enemies instead of their allies,because he can not read properly.
-He discovers that his cupbearer <entidade " Arry"> Arry</entidade> ( secretly <entidade " Arya Stark"> Arya Stark</entidade> ) can read.
+At <entidade "Harrenhal">Harrenhal</entidade>,the main base camp for the <entidade "House Lannister">House Lannister</entidade> army in the <entidade "Riverlands">Riverlands</entidade>,<entidade "Tywin Lannister">Tywin Lannister</entidade> berates <entidade "Amory Lorch">Ser Amory Lorch</entidade> for delivering a letter to their enemies instead of their allies,because he can not read properly.
+He discovers that his cupbearer <entidade "Arry">Arry</entidade> ( secretly <entidade "Arya Stark">Arya Stark</entidade> ) can read.
 
-<entidade " Joffrey"> Joffrey</entidade> has excrement thrown on him by rioting peasants.
-<entidade " Petyr Littlefinger Baelish"> Petyr Littlefinger Baelish</entidade> arrives at camp and meets with <entidade " Tywin Lannister"> Tywin</entidade>.
-<entidade " Arya Stark"> Arya</entidade> tries to hide her face to prevent <entidade " Littlefinger"> Littlefinger</entidade> from identifying her.
-Baelish discusses the assassination of <entidade " Renly Baratheon"> Renly Baratheon</entidade>,and the subsequent rallying of the noble Houses from the <entidade " Stormlands"> Stormlands</entidade> under the banner of his older brother <entidade " Stannis Baratheon"> Stannis Baratheon</entidade>.
-However,<entidade " House Tyrell of the Reach"> House Tyrell of the Reach</entidade> has retreated its large army back to their capital at <entidade " Highgarden"> Highgarden</entidade>,and has not joined <entidade " Stannis Baratheon"> Stannis</entidade>.
-Baelish discusses with <entidade " Tywin Lannister"> Tywin</entidade> the possibility of forming an alliance between <entidade " House Lannister"> House Lannister</entidade> and <entidade " House Tyrell of the Reach"> House Tyrell</entidade>.
-Later <entidade " Tywin Lannister"> Tywin</entidade> questions Arya about her origins.
-While <entidade " Tywin Lannister"> Tywin</entidade> is distracted,<entidade " Arya Stark"> Arya</entidade> sees that a letter on his table is about her older brother <entidade " Robb Stark"> Robb Stark</entidade>,so she snatches it.
-After asking Tywin about his own father,<entidade " Tywin Lannister"> Tywin</entidade> sends her to fetch more firewood.
-She takes this opportunity to read the letter,but unfortunately bumps into <entidade " Amory Lorch"> Amory Lorch</entidade> who sees that she is carrying the letter and grows suspicious.
-<entidade " Arya Stark"> Arya</entidade> runs away and <entidade " Amory Lorch"> Amory</entidade> heads to tell <entidade " Tywin Lannister"> Tywin</entidade>.
-<entidade " Arya Stark"> Arya</entidade> runs to find <entidade " Jaqen H'ghar"> Jaqen H'ghar</entidade>,telling him that <entidade " Amory Lorch"> Amory Lorch</entidade> is the second name he owes her.
-Just as <entidade " Amory Lorch"> Amory Lorch</entidade> reaches <entidade " Tywin Lannister"> Tywin</entidade>'s quarters,he falls down dead with a poisoned dart lodged in his neck.
+<entidade "Joffrey">Joffrey</entidade> has excrement thrown on him by rioting peasants.
+<entidade "Petyr Littlefinger Baelish">Petyr Littlefinger Baelish</entidade> arrives at camp and meets with <entidade "Tywin Lannister">Tywin</entidade>.
+<entidade "Arya Stark">Arya</entidade> tries to hide her face to prevent <entidade "Littlefinger">Littlefinger</entidade> from identifying her.
+Baelish discusses the assassination of <entidade "Renly Baratheon">Renly Baratheon</entidade>,and the subsequent rallying of the noble Houses from the <entidade "Stormlands">Stormlands</entidade> under the banner of his older brother <entidade "Stannis Baratheon">Stannis Baratheon</entidade>.
+However,<entidade "House Tyrell of the Reach">House Tyrell of the Reach</entidade> has retreated its large army back to their capital at <entidade "Highgarden">Highgarden</entidade>,and has not joined <entidade "Stannis Baratheon">Stannis</entidade>.
+Baelish discusses with <entidade "Tywin Lannister">Tywin</entidade> the possibility of forming an alliance between <entidade "House Lannister">House Lannister</entidade> and <entidade "House Tyrell of the Reach">House Tyrell</entidade>.
+Later <entidade "Tywin Lannister">Tywin</entidade> questions Arya about her origins.
+While <entidade "Tywin Lannister">Tywin</entidade> is distracted,<entidade "Arya Stark">Arya</entidade> sees that a letter on his table is about her older brother <entidade "Robb Stark">Robb Stark</entidade>,so she snatches it.
+After asking Tywin about his own father,<entidade "Tywin Lannister">Tywin</entidade> sends her to fetch more firewood.
+She takes this opportunity to read the letter,but unfortunately bumps into <entidade "Amory Lorch">Amory Lorch</entidade> who sees that she is carrying the letter and grows suspicious.
+<entidade "Arya Stark">Arya</entidade> runs away and <entidade "Amory Lorch">Amory</entidade> heads to tell <entidade "Tywin Lannister">Tywin</entidade>.
+<entidade "Arya Stark">Arya</entidade> runs to find <entidade "Jaqen H'ghar">Jaqen H'ghar</entidade>,telling him that <entidade "Amory Lorch">Amory Lorch</entidade> is the second name he owes her.
+Just as <entidade "Amory Lorch">Amory Lorch</entidade> reaches <entidade "Tywin Lannister">Tywin</entidade>'s quarters,he falls down dead with a poisoned dart lodged in his neck.
 
-In <entidade " King"> King</entidade>'s Landing 
-The royal court including <entidade " King Joffrey Baratheon"> King Joffrey Baratheon</entidade>,<entidade " Queen Regent Cersei Lannister"> Queen Regent Cersei Lannister</entidade>,<entidade " Prince Tommen Baratheon"> Prince Tommen Baratheon</entidade>,and <entidade " Sansa Stark"> Sansa Stark</entidade> are at the docks seeing off <entidade " Princess Myrcella Baratheon"> Princess Myrcella Baratheon</entidade> as she departs in a ship bound for <entidade " Dorne"> Dorne</entidade>.
-<entidade " Cersei"> Cersei</entidade> is heartbroken and warns Tyrion that she will not forgive him for sending away her only daughter.
-As per <entidade " Tyrion"> Tyrion</entidade>'s plans,<entidade " Myrcella"> Myrcella</entidade> will stay in  Dorne with House Martell until she comes of age to fulfill the marriage alliance to their youngest son,<entidade " Trystane Martell"> Trystane Martell</entidade>.
-The <entidade " High Septon of the Faith of the Seven"> High Septon of the Faith of the Seven</entidade> offers a blessing for her departure.
-The streets of the capital city are overflowing with starving refugees from the <entidade " War of the Five Kings"> War of the Five Kings</entidade>,as <entidade " Cersei"> Cersei</entidade> ignored both <entidade " Tyrion"> Tyrion</entidade> and <entidade " Janos Slynt"> Janos Slynt</entidade>'s earlier warnings that something had to be done to care for the starving peasants or there would be mounting discontent with her son's rule.
-As the royal party travels back to the <entidade " Red Keep"> Red Keep</entidade> through the crowded streets,the starving refugees and commoners of <entidade " King's Landing"> King's Landing</entidade> plead for bread and hurl insults at <entidade " King Joffrey Baratheon"> King Joffrey</entidade>,and ultimately,someone throws cow excrement into <entidade " Joffrey"> Joffrey</entidade>'s face.
-Despite being accompanied by only a few dozen guards facing hundreds of peasants,<entidade " Joffrey"> Joffrey</entidade> impetuously orders his soldiers to kill the entire crowd.
+In <entidade "King Robb Stark">King</entidade>'s Landing 
+The royal court including <entidade "King Joffrey Baratheon">King Joffrey Baratheon</entidade>,<entidade "Regent Cersei Lannister">Queen Regent Cersei Lannister</entidade>,<entidade "Tommen Baratheon">Prince Tommen Baratheon</entidade>,and <entidade "Sansa Stark">Sansa Stark</entidade> are at the docks seeing off <entidade "Myrcella Baratheon">Princess Myrcella Baratheon</entidade> as she departs in a ship bound for <entidade "Dorne">Dorne</entidade>.
+<entidade "Cersei">Cersei</entidade> is heartbroken and warns Tyrion that she will not forgive him for sending away her only daughter.
+As per <entidade "Tyrion">Tyrion</entidade>'s plans,<entidade "Myrcella Baratheon">Myrcella</entidade> will stay in Dorne with House Martell until she comes of age to fulfill the marriage alliance to their youngest son,<entidade "Trystane Martell">Trystane Martell</entidade>.
+The <entidade "High Septon of the Faith of the Seven">High Septon of the Faith of the Seven</entidade> offers a blessing for her departure.
+The streets of the capital city are overflowing with starving refugees from the <entidade "War of the Five Kings">War of the Five Kings</entidade>,as <entidade "Cersei">Cersei</entidade> ignored both <entidade "Tyrion">Tyrion</entidade> and <entidade "Janos Slynt">Janos Slynt</entidade>'s earlier warnings that something had to be done to care for the starving peasants or there would be mounting discontent with her son's rule.
+As the royal party travels back to the <entidade "Red Keep">Red Keep</entidade> through the crowded streets,the starving refugees and commoners of <entidade "King's Landing">King's Landing</entidade> plead for bread and hurl insults at <entidade "King Joffrey Baratheon">King Joffrey</entidade>,and ultimately,someone throws cow excrement into <entidade "Joffrey">Joffrey</entidade>'s face.
+Despite being accompanied by only a few dozen guards facing hundreds of peasants,<entidade "Joffrey">Joffrey</entidade> impetuously orders his soldiers to kill the entire crowd.
 
-<entidade " Sansa Stark"> Sansa</entidade> is almost raped.
+<entidade "Sansa Stark">Sansa</entidade> is almost raped.
 A riot subsequently erupts and spreads throughout the city.
-The royal party's guards are soon overwhelmed,and <entidade " Joffrey"> Joffrey</entidade>,<entidade " Cersei"> Cersei</entidade> and <entidade " Tyrion"> Tyrion</entidade> barely make it back to the castle unscathed.
-The <entidade " High Septon of the Faith of the Seven"> High Septon</entidade> is literally torn apart by the mob.
-Tyrion is enraged by <entidade " Joffrey"> Joffrey</entidade>'s shocking stupidity,for massively overreacting to having cow dung thrown at him,and for not realizing that his orders would cause a riot among the starving peasants and endanger the entire royal party.
-<entidade " Joffrey"> Joffrey</entidade>,still manically cursing the mob and demanding they all be killed,shrieks that Tyrion can not speak to him in that way and petulantly reminds his uncle that he is talking to a king.
-Tyrion then contemptuously slaps his nephew across the face but <entidade " Joffrey"> Joffrey</entidade> does not retaliate.
-The scant two thousand <entidade " City Watch"> City Watch</entidade> guards have difficulty containing the riot,and chaos reigns throughout the city.
-Tyrion realizes to his horror that <entidade " Sansa Stark"> Sansa Stark</entidade> was lost in the crowd.
-<entidade " Joffrey"> Joffrey</entidade> petulantly refuses to send his men after her,oblivious to her importance as a hostage or the fact that if any harm comes to her,the <entidade " Starks"> Starks</entidade> may retaliate by executing his uncle <entidade " Jaime"> Jaime</entidade>.
-<entidade " Outside"> Outside</entidade>,<entidade " Sansa Stark"> Sansa</entidade> is dragged away by a mob of angry men and is about to be raped,when <entidade " Sandor"> Sandor</entidade> The <entidade " Hound Clegane"> Hound Clegane</entidade> arrives and slays her assailants.
-He carries <entidade " Sansa Stark"> Sansa</entidade> to the castle and orders handmaids to take care of her.
-<entidade " Tyrion"> Tyrion</entidade> thanks him for saving <entidade " Sansa Stark"> Sansa</entidade>'s life,but <entidade " Sandor"> Sandor</entidade> bluntly responds that he didn't do it for him.
+The royal party's guards are soon overwhelmed,and <entidade "Joffrey">Joffrey</entidade>,<entidade "Cersei">Cersei</entidade> and <entidade "Tyrion">Tyrion</entidade> barely make it back to the castle unscathed.
+The <entidade "High Septon of the Faith of the Seven">High Septon</entidade> is literally torn apart by the mob.
+Tyrion is enraged by <entidade "Joffrey">Joffrey</entidade>'s shocking stupidity,for massively overreacting to having cow dung thrown at him,and for not realizing that his orders would cause a riot among the starving peasants and endanger the entire royal party.
+<entidade "Joffrey">Joffrey</entidade>,still manically cursing the mob and demanding they all be killed,shrieks that Tyrion can not speak to him in that way and petulantly reminds his uncle that he is talking to a king.
+Tyrion then contemptuously slaps his nephew across the face but <entidade "Joffrey">Joffrey</entidade> does not retaliate.
+The scant two thousand <entidade "City Watch">City Watch</entidade> guards have difficulty containing the riot,and chaos reigns throughout the city.
+Tyrion realizes to his horror that <entidade "Sansa Stark">Sansa Stark</entidade> was lost in the crowd.
+<entidade "Joffrey">Joffrey</entidade> petulantly refuses to send his men after her,oblivious to her importance as a hostage or the fact that if any harm comes to her,the <entidade "Starks">Starks</entidade> may retaliate by executing his uncle <entidade "Jaime">Jaime</entidade>.
+<entidade "Outside">Outside</entidade>,<entidade "Sansa Stark">Sansa</entidade> is dragged away by a mob of angry men and is about to be raped,when <entidade "Sandor">Sandor</entidade> The <entidade "Hound Clegane">Hound Clegane</entidade> arrives and slays her assailants.
+He carries <entidade "Sansa Stark">Sansa</entidade> to the castle and orders handmaids to take care of her.
+<entidade "Tyrion">Tyrion</entidade> thanks him for saving <entidade "Sansa Stark">Sansa</entidade>'s life,but <entidade "Sandor">Sandor</entidade> bluntly responds that he didn't do it for him.
 
-Beyond the <entidade " Wall"> Wall</entidade> 
-<entidade " Jon"> Jon</entidade> first lays eyes on <entidade " Ygritte"> Ygritte</entidade>.
-The scouting party of the <entidade " Night's Watch"> Night's Watch</entidade> led by <entidade " Qhorin Halfhand"> Qhorin Halfhand</entidade> has left the expeditionary base their main force set up at the <entidade " Fist of the First Men"> Fist of the First Men</entidade>,and continues searching for the wildlings in the <entidade " Frostfangs"> Frostfangs</entidade> mountain range.
-They encounter a small group of wildling scouts and engage them in combat,killing all except one : a red-haired young woman named <entidade " Ygritte"> Ygritte</entidade>.
-Qhorin orders <entidade " Jon Snow"> Jon Snow</entidade> to execute her while the rest of them continue on up the mountain.
-<entidade " Jon Snow"> Jon</entidade> hesitates,giving <entidade " Ygritte"> Ygritte</entidade> enough time to make a run for it.
-<entidade " Jon Snow"> Jon</entidade> pursues and captures <entidade " Ygritte"> Ygritte</entidade>,but they have become separated from <entidade " Qhorin Halfhand"> Qhorin</entidade>'s scouting party.
-With darkness falling,<entidade " Jon Snow"> Jon</entidade> and his prisoner have to settle in for the night,hoping to link back up with <entidade " Qhorin Halfhand"> Qhorin</entidade> when daylight returns.
+Beyond the <entidade "Wall">Wall</entidade> 
+<entidade "Jon">Jon</entidade> first lays eyes on <entidade "Ygritte">Ygritte</entidade>.
+The scouting party of the <entidade "Night's Watch">Night's Watch</entidade> led by <entidade "Qhorin Halfhand">Qhorin Halfhand</entidade> has left the expeditionary base their main force set up at the <entidade "Fist of the First Men">Fist of the First Men</entidade>,and continues searching for the wildlings in the <entidade "Frostfangs">Frostfangs</entidade> mountain range.
+They encounter a small group of wildling scouts and engage them in combat,killing all except one : a red-haired young woman named <entidade "Ygritte">Ygritte</entidade>.
+Qhorin orders <entidade "Jon Snow">Jon Snow</entidade> to execute her while the rest of them continue on up the mountain.
+<entidade "Jon Snow">Jon</entidade> hesitates,giving <entidade "Ygritte">Ygritte</entidade> enough time to make a run for it.
+<entidade "Jon Snow">Jon</entidade> pursues and captures <entidade "Ygritte">Ygritte</entidade>,but they have become separated from <entidade "Qhorin Halfhand">Qhorin</entidade>'s scouting party.
+With darkness falling,<entidade "Jon Snow">Jon</entidade> and his prisoner have to settle in for the night,hoping to link back up with <entidade "Qhorin Halfhand">Qhorin</entidade> when daylight returns.
 
-Across the <entidade " Narrow Sea"> Narrow Sea</entidade> 
-<entidade " Daenerys"> Daenerys</entidade> discovers that her guards have been slain and her dragons are missing.
-In <entidade " Qarth"> Qarth</entidade>,<entidade " Daenerys Targaryen"> Daenerys Targaryen</entidade> tries to negotiate with the <entidade " Spice King"> Spice King</entidade> for ships to return to <entidade " Westeros"> Westeros</entidade>.
-However,he considers it to be too risky an investment considering that she has no army and has no open supporters in <entidade " Westeros"> Westeros</entidade> and she receives nothing.
-Returning with <entidade " Xaro Xhoan Daxos"> Xaro Xhoan Daxos</entidade> to his mansion,<entidade " Daenerys Targaryen"> Daenerys</entidade> finds her guards dead,<entidade " Irri"> Irri</entidade> strangled to death,and her dragons missing.
+Across the <entidade "Narrow Sea">Narrow Sea</entidade> 
+<entidade "Daenerys">Daenerys</entidade> discovers that her guards have been slain and her dragons are missing.
+In <entidade "Qarth">Qarth</entidade>,<entidade "Daenerys Targaryen">Daenerys Targaryen</entidade> tries to negotiate with the <entidade "Spice King">Spice King</entidade> for ships to return to <entidade "Westeros">Westeros</entidade>.
+However,he considers it to be too risky an investment considering that she has no army and has no open supporters in <entidade "Westeros">Westeros</entidade> and she receives nothing.
+Returning with <entidade "Xaro Xhoan Daxos">Xaro Xhoan Daxos</entidade> to his mansion,<entidade "Daenerys Targaryen">Daenerys</entidade> finds her guards dead,<entidade "Irri">Irri</entidade> strangled to death,and her dragons missing.
 A hooded figure carries the dragons in a covered box up steps towards a tower.
 

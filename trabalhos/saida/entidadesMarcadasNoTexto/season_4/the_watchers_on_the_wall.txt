@@ -1,129 +1,129 @@
-<entidade " David Benioff"> David Benioff</entidade> and <entidade " D.B"> D.B</entidade>.
+<entidade "David Benioff">David Benioff</entidade> and <entidade "D.B">D.B</entidade>.
 Weiss 
 
-<entidade " Neil Marshall"> Neil Marshall</entidade> 
+<entidade "Neil Marshall">Neil Marshall</entidade> 
 
-The <entidade " Mountain"> Mountain</entidade> and the <entidade " Viper"> Viper</entidade> 
-The <entidade " Children"> Children</entidade> 
+The <entidade "Mountain">Mountain</entidade> and the <entidade "Viper">Viper</entidade> 
+The <entidade "Children">Children</entidade> 
 
-The <entidade " Watchers on the Wall"> Watchers on the Wall</entidade> is the ninth episode of the fourth season of <entidade " Game of Thrones1"> Game of Thrones1</entidade>.
+The <entidade "Watchers on the Wall">Watchers on the Wall</entidade> is the ninth episode of the fourth season of <entidade "Game of Thrones1">Game of Thrones1</entidade>.
 It is the thirty-ninth episode of the series overall.
-It premiered on <entidade " June 8, 2014"> June 8, 2014</entidade>.
-It was written by producers <entidade " David Benioff"> David Benioff</entidade> and <entidade " D.B"> D.B</entidade>.
-<entidade " Weiss"> Weiss</entidade> and directed by <entidade " Neil Marshall"> Neil Marshall</entidade>.
+It premiered on <entidade "June 8, 2014">June 8, 2014</entidade>.
+It was written by producers <entidade "David Benioff">David Benioff</entidade> and <entidade "D.B">D.B</entidade>.
+<entidade "Weiss">Weiss</entidade> and directed by <entidade "Neil Marshall">Neil Marshall</entidade>.
 
-The <entidade " Night's Watch"> Night's Watch</entidade>,although hopelessly outnumbered,attempts to defend  Castle Black from Mance Rayder's massive wildling army,who plan to siege the fortress from the north.
-Meanwhile,a secret garrison of wildlings including <entidade " Tormund"> Tormund</entidade>,<entidade " Styr"> Styr</entidade>,and <entidade " Ygritte"> Ygritte</entidade> are poised to launch a surprise attack from the south of the <entidade " Wall"> Wall</entidade>.
+The <entidade "Night's Watch">Night's Watch</entidade>,although hopelessly outnumbered,attempts to defend Castle Black from Mance Rayder's massive wildling army,who plan to siege the fortress from the north.
+Meanwhile,a secret garrison of wildlings including <entidade "Tormund">Tormund</entidade>,<entidade "Styr">Styr</entidade>,and <entidade "Ygritte">Ygritte</entidade> are poised to launch a surprise attack from the south of the <entidade "Wall">Wall</entidade>.
 
-​​Jon and <entidade " Sam"> Sam</entidade> are standing watch atop the <entidade " Wall"> Wall</entidade>,staring out into the darkness of the north and awaiting the imminent wildling invasion.
-<entidade " Sam"> Sam</entidade> attempts to interrogate <entidade " Jon"> Jon</entidade> about what it was like to be with a woman,stating that as their deaths are likely imminent,it may be his last chance to find out.
-<entidade " Sam"> Sam</entidade> brings up that the vows of the <entidade " Night's Watch"> Night's Watch</entidade> only explicitly forbid members from taking wives or producing children,and that other activities are open to interpretation.
-<entidade " Jon"> Jon</entidade> replies glumly that <entidade " Alliser Thorne"> Alliser Thorne</entidade> most likely does not care about their interpretations.
-When further pressed by <entidade " Sam"> Sam</entidade> to describe lying down with <entidade " Ygritte"> Ygritte</entidade>,<entidade " Jon"> Jon</entidade> attempts to explain but is unable to properly express it,proclaiming exasperatedly that he's not a bleeding poet.
-<entidade " Jon"> Jon</entidade> offers to take the watch up alone so <entidade " Sam"> Sam</entidade> can go below,and as <entidade " Sam"> Sam</entidade> steps into the elevator and begins to descend the <entidade " Wall"> Wall</entidade>,an owl lands on top of the wall and begins hooting loudly.
-The owl is revealed to be controlled by a <entidade " Thenn"> Thenn</entidade> warg who is a member of the garrison of wildlings under command of <entidade " Tormund"> Tormund</entidade> and <entidade " Styr"> Styr</entidade>,who have set up camp just outside of the southern entrance to <entidade " Castle Black"> Castle Black</entidade>.
-Tormund boasts about a bear he supposedly had sex with,prompting <entidade " Ygritte"> Ygritte</entidade> to cut him short and cast her doubts on the validity of his claim.
+​​Jon and <entidade "Sam">Sam</entidade> are standing watch atop the <entidade "Wall">Wall</entidade>,staring out into the darkness of the north and awaiting the imminent wildling invasion.
+<entidade "Sam">Sam</entidade> attempts to interrogate <entidade "Jon">Jon</entidade> about what it was like to be with a woman,stating that as their deaths are likely imminent,it may be his last chance to find out.
+<entidade "Sam">Sam</entidade> brings up that the vows of the <entidade "Night's Watch">Night's Watch</entidade> only explicitly forbid members from taking wives or producing children,and that other activities are open to interpretation.
+<entidade "Jon">Jon</entidade> replies glumly that <entidade "Alliser Thorne">Alliser Thorne</entidade> most likely does not care about their interpretations.
+When further pressed by <entidade "Sam">Sam</entidade> to describe lying down with <entidade "Ygritte">Ygritte</entidade>,<entidade "Jon">Jon</entidade> attempts to explain but is unable to properly express it,proclaiming exasperatedly that he's not a bleeding poet.
+<entidade "Jon">Jon</entidade> offers to take the watch up alone so <entidade "Sam">Sam</entidade> can go below,and as <entidade "Sam">Sam</entidade> steps into the elevator and begins to descend the <entidade "Wall">Wall</entidade>,an owl lands on top of the wall and begins hooting loudly.
+The owl is revealed to be controlled by a <entidade "Thenn">Thenn</entidade> warg who is a member of the garrison of wildlings under command of <entidade "Tormund">Tormund</entidade> and <entidade "Styr">Styr</entidade>,who have set up camp just outside of the southern entrance to <entidade "Castle Black">Castle Black</entidade>.
+Tormund boasts about a bear he supposedly had sex with,prompting <entidade "Ygritte">Ygritte</entidade> to cut him short and cast her doubts on the validity of his claim.
 She tells him that she only cares about getting as many arrows through the hearts of crows as possible.
-She angrily talks about how the people south of the <entidade " Wall"> Wall</entidade> shut the the wildlings out by building it and hunting the wildlings as enemies ; she says that now the wildlings are the hunters and the southerners their prey.
-<entidade " Styr"> Styr</entidade> mockingly replies that <entidade " Ygritte"> Ygritte</entidade> has more words about killing than she has arrows.
-She defends herself by saying she killed just as many people at <entidade " Mole's Town"> Mole's Town</entidade> as he,but <entidade " Styr"> Styr</entidade> replies that none of them was her former lover.
+She angrily talks about how the people south of the <entidade "Wall">Wall</entidade> shut the the wildlings out by building it and hunting the wildlings as enemies ; she says that now the wildlings are the hunters and the southerners their prey.
+<entidade "Styr">Styr</entidade> mockingly replies that <entidade "Ygritte">Ygritte</entidade> has more words about killing than she has arrows.
+She defends herself by saying she killed just as many people at <entidade "Mole's Town">Mole's Town</entidade> as he,but <entidade "Styr">Styr</entidade> replies that none of them was her former lover.
 He further mocks her by saying that when she sees him,she'll likely just serve him a slice of ginger minge,causing her to jump to her feet in anger.
-Ygritte stares <entidade " Styr"> Styr</entidade> down,claiming that she wants to kill <entidade " Jon Snow"> Jon Snow</entidade> herself,then looks around the camp and warns the others that she has an arrow ready for anyone else who attempts to kill him.
+Ygritte stares <entidade "Styr">Styr</entidade> down,claiming that she wants to kill <entidade "Jon Snow">Jon Snow</entidade> herself,then looks around the camp and warns the others that she has an arrow ready for anyone else who attempts to kill him.
 Just outside the camp,a shaded person cradling something passes by the wildlings unnoticed.
 
-<entidade " Maester Aemon"> Maester Aemon</entidade> finds  Sam in the Castle Black library.
-​Meanwhile,<entidade " Sam"> Sam</entidade> is caught reading a book about wildlings by <entidade " Maester Aemon"> Maester Aemon</entidade>.
-<entidade " Aemon"> Aemon</entidade> correctly guesses that <entidade " Sam"> Sam</entidade> is reading the book because he wants to know what kind of fate might have befallen Gilly if she fell into wildling hands during the sack of <entidade " Mole's Town"> Mole's Town</entidade>.
-He also surmises that <entidade " Sam"> Sam</entidade> has shown such a keen interest in her fate because he is in love with her,despite <entidade " Sam"> Sam</entidade>'s protests to the contrary.
-<entidade " Aemon"> Aemon</entidade> muses about the girl he once loved,stating that he can still picture her as clear as day and that she is more real than <entidade " Sam"> Sam</entidade> is.
-After being dismissed by <entidade " Aemon"> Aemon</entidade>,<entidade " Sam"> Sam</entidade> leaves themaester's chambers only to hear <entidade " Gilly"> Gilly</entidade> at the gate begging to be allowed inside,revealing her survival of the <entidade " Mole's Town"> Mole's Town</entidade> massacre and her identity as the cloaked figure approaching <entidade " Castle Black"> Castle Black</entidade>.
-<entidade " Pypar"> Pypar</entidade> attempts to deny her passage into the castle,saying he is not allowed to open the gate under any circumstances.
-However,<entidade " Sam"> Sam</entidade> roars at <entidade " Pypar"> Pyp</entidade> to allow her in,causing <entidade " Pypar"> Pyp</entidade> to relent and let her in.
-<entidade " Sam"> Sam</entidade> promises <entidade " Gilly"> Gilly</entidade> wherever she goes next he will go too,but their reunion is cut short by two blows from the horn,indicating that <entidade " Mance's"> Mance's</entidade> wildling army has finally begun their assault.
-<entidade " Sam"> Sam</entidade> rushes to get <entidade " Gilly"> Gilly</entidade> safely inside the castle while other brothers of the <entidade " Night's Watch"> Night's Watch</entidade> prepare for the imminent attack by wildlings.
-<entidade " Jon Snow"> Jon</entidade> looking off the top of the <entidade " Wall"> Wall</entidade>.
-On top of the <entidade " Wall"> Wall</entidade>,<entidade " Jon Snow"> Jon</entidade> hears the horn blowing and looks north,witnessing a tremendous conflagration to the <entidade " North"> North</entidade>,just as <entidade " Mance's"> Mance</entidade> had promised.
-<entidade " South of the Wall"> South of the Wall</entidade>,the <entidade " Thenn"> Thenn</entidade> warg's owl also spots the fire and informs <entidade " Styr"> Styr</entidade> and <entidade " Tormund"> Tormund</entidade> that the time has come to attack <entidade " Castle Black"> Castle Black</entidade>.
-<entidade " Jon Snow"> Jon</entidade> approaches <entidade " Ser Alliser Thorne"> Ser Alliser Thorne</entidade>,who finally relents and admits that they should have heeded <entidade " Jon Snow"> Jon</entidade>'s advice and blocked the gates.
+<entidade "Aemon">Maester Aemon</entidade> finds Sam in the Castle Black library.
+​Meanwhile,<entidade "Sam">Sam</entidade> is caught reading a book about wildlings by <entidade "Aemon">Maester Aemon</entidade>.
+<entidade "Aemon">Aemon</entidade> correctly guesses that <entidade "Sam">Sam</entidade> is reading the book because he wants to know what kind of fate might have befallen Gilly if she fell into wildling hands during the sack of <entidade "Mole's Town">Mole's Town</entidade>.
+He also surmises that <entidade "Sam">Sam</entidade> has shown such a keen interest in her fate because he is in love with her,despite <entidade "Sam">Sam</entidade>'s protests to the contrary.
+<entidade "Aemon">Aemon</entidade> muses about the girl he once loved,stating that he can still picture her as clear as day and that she is more real than <entidade "Sam">Sam</entidade> is.
+After being dismissed by <entidade "Aemon">Aemon</entidade>,<entidade "Sam">Sam</entidade> leaves themaester's chambers only to hear <entidade "Gilly">Gilly</entidade> at the gate begging to be allowed inside,revealing her survival of the <entidade "Mole's Town">Mole's Town</entidade> massacre and her identity as the cloaked figure approaching <entidade "Castle Black">Castle Black</entidade>.
+<entidade "Pypar">Pypar</entidade> attempts to deny her passage into the castle,saying he is not allowed to open the gate under any circumstances.
+However,<entidade "Sam">Sam</entidade> roars at <entidade "Pypar">Pyp</entidade> to allow her in,causing <entidade "Pypar">Pyp</entidade> to relent and let her in.
+<entidade "Sam">Sam</entidade> promises <entidade "Gilly">Gilly</entidade> wherever she goes next he will go too,but their reunion is cut short by two blows from the horn,indicating that <entidade "Mance's">Mance's</entidade> wildling army has finally begun their assault.
+<entidade "Sam">Sam</entidade> rushes to get <entidade "Gilly">Gilly</entidade> safely inside the castle while other brothers of the <entidade "Night's Watch">Night's Watch</entidade> prepare for the imminent attack by wildlings.
+<entidade "Jon Snow">Jon</entidade> looking off the top of the <entidade "Wall">Wall</entidade>.
+On top of the <entidade "Wall">Wall</entidade>,<entidade "Jon Snow">Jon</entidade> hears the horn blowing and looks north,witnessing a tremendous conflagration to the <entidade "North">North</entidade>,just as <entidade "Mance's">Mance</entidade> had promised.
+<entidade "South of the Wall">South of the Wall</entidade>,the <entidade "Thenn">Thenn</entidade> warg's owl also spots the fire and informs <entidade "Styr">Styr</entidade> and <entidade "Tormund">Tormund</entidade> that the time has come to attack <entidade "Castle Black">Castle Black</entidade>.
+<entidade "Jon Snow">Jon</entidade> approaches <entidade "Alliser Thorne">Ser Alliser Thorne</entidade>,who finally relents and admits that they should have heeded <entidade "Jon Snow">Jon</entidade>'s advice and blocked the gates.
 He grimly muses that leadership often means being second-guessed by every clever little twat with a mouth and when a man in charge second-guesses himself,all is doomed.
-Steeling himself for the impending siege,<entidade " Thorne"> Thorne</entidade> begins barking orders to the archers,preparing them to fire upon the attackers massing below.
+Steeling himself for the impending siege,<entidade "Thorne">Thorne</entidade> begins barking orders to the archers,preparing them to fire upon the attackers massing below.
 
-<entidade " Sam"> Sam</entidade> and <entidade " Gilly"> Gilly</entidade> share a kiss.
-<entidade " Sam"> Sam</entidade> brings <entidade " Gilly​"> Gilly​</entidade> and her baby to a storage room where she can hide.
-<entidade " Gilly​"> Gilly</entidade> wants <entidade " Sam"> Sam</entidade> to stay with her as he promised,but he can not as he swore to defend the <entidade " Wall"> Wall</entidade> as a brother of the <entidade " Night's Watch"> Night's Watch</entidade>.
-Before he leaves her,<entidade " Gilly​"> Gilly</entidade> begs <entidade " Sam"> Sam</entidade> to promise her that he won't die and the two finally share a kiss.
-As <entidade " Sam"> Sam</entidade> and <entidade " Pypar"> Pypar</entidade> are preparing arrows at the southern gate,<entidade " Pypar"> Pypar</entidade> laments that he has never seen a real battle before or ever even held an edged blade.
-<entidade " Pypar"> Pypar</entidade> asks how <entidade " Sam"> Sam</entidade> is not afraid,but <entidade " Sam"> Sam</entidade> replies that he is,as there are thousands of wildlings about to overrun them.
-<entidade " Pypar"> Pypar</entidade> asks how he managed to kill a <entidade " White Walker"> White Walker</entidade> while being afraid,and <entidade " Sam"> Sam</entidade> says that at that moment,he just had to do something or <entidade " Gilly​"> Gilly</entidade> would have been killed and her baby would have been taken.
-<entidade " Sam"> Sam</entidade> further explains that at that moment,he wasn't himself ; he was nothing,and when you are nothing there is nothing to be afraid of.
+<entidade "Sam">Sam</entidade> and <entidade "Gilly">Gilly</entidade> share a kiss.
+<entidade "Sam">Sam</entidade> brings <entidade "Gilly​">Gilly​</entidade> and her baby to a storage room where she can hide.
+<entidade "Gilly​">Gilly</entidade> wants <entidade "Sam">Sam</entidade> to stay with her as he promised,but he can not as he swore to defend the <entidade "Wall">Wall</entidade> as a brother of the <entidade "Night's Watch">Night's Watch</entidade>.
+Before he leaves her,<entidade "Gilly​">Gilly</entidade> begs <entidade "Sam">Sam</entidade> to promise her that he won't die and the two finally share a kiss.
+As <entidade "Sam">Sam</entidade> and <entidade "Pypar">Pypar</entidade> are preparing arrows at the southern gate,<entidade "Pypar">Pypar</entidade> laments that he has never seen a real battle before or ever even held an edged blade.
+<entidade "Pypar">Pypar</entidade> asks how <entidade "Sam">Sam</entidade> is not afraid,but <entidade "Sam">Sam</entidade> replies that he is,as there are thousands of wildlings about to overrun them.
+<entidade "Pypar">Pypar</entidade> asks how he managed to kill a <entidade "White Walker">White Walker</entidade> while being afraid,and <entidade "Sam">Sam</entidade> says that at that moment,he just had to do something or <entidade "Gilly​">Gilly</entidade> would have been killed and her baby would have been taken.
+<entidade "Sam">Sam</entidade> further explains that at that moment,he wasn't himself ; he was nothing,and when you are nothing there is nothing to be afraid of.
 However,he explains the reason he is afraid now is because I'm not nothing anymore.
 
-Meanwhile,<entidade " Ygritte"> Ygritte</entidade> spies on the <entidade " Castle Black"> Castle</entidade> to scout numbers of defenders.
-She tells the other wildlings that most of the guards are at the top of the <entidade " Wall"> Wall</entidade> and that few are left in the <entidade " Castle Black"> Castle</entidade>.
-The group immediately take off towards <entidade " Castle Black"> Castle Black</entidade>'s southern gate,while <entidade " Ygritte"> Ygritte</entidade> seems to have second thoughts.
-North of the <entidade " Wall"> Wall</entidade>,the massive wildling army emerges from the woods,their numbers including giants riding atop mammoths.
-<entidade " Alliser"> Alliser</entidade> orders the archers on the <entidade " Wall"> Wall</entidade> to nock their arrows,but they draw instead while <entidade " Grenn"> Grenn</entidade> accidentally drops a barrel down the <entidade " Wall"> Wall</entidade>.
-<entidade " Alliser"> Alliser</entidade> angrily drills his men on properly following orders when another horn blows from down below at <entidade " Castle Black"> Castle Black</entidade>,signalling the unanticipated appearance of <entidade " Tormund's"> Tormund's</entidade> band of wildlings at the castle's southern entrance.
-Realizing the dire need for experienced men to defend the keep from the surprise attack,<entidade " Alliser"> Alliser</entidade> orders <entidade " Janos Slynt"> Janos Slynt</entidade> to assume command of the <entidade " Wall"> Wall</entidade>'s defenses and heads below to join the melee.
-Below,<entidade " Tormund's"> Tormund</entidade> and <entidade " Styr's"> Styr's</entidade> forces charge the gate while <entidade " Ygritte"> Ygritte</entidade>,acting as a sniper,manages to pick off several men defending the gate with her bow.
-<entidade " Pypar"> Pypar</entidade> is firing a crossbow as <entidade " Sam"> Sam</entidade> assists by reloading another crossbow,but <entidade " Pypar's"> Pypar's</entidade> aim is poor due to inexperience and nerves and he repeatedly misses his shots.
-The band of wildlings manage to reach <entidade " Castle Black"> Castle Black</entidade>'s walls and begin scaling them using grappling hooks and ropes,forcing <entidade " Sam"> Sam</entidade> and <entidade " Pypar"> Pyp</entidade> to retreat.
-<entidade " Alliser Thorne"> Alliser Thorne</entidade> arrives with reinforcements from the top of the <entidade " Wall"> Wall</entidade> via the wooden lift system,which is being operated by <entidade " Olly"> Olly</entidade>.
-<entidade " Alliser Thorne"> Alliser</entidade> gives an impassioned speech,promising that the ancient order of the <entidade " Night's Watch"> Night's Watch</entidade> and <entidade " Castle Black"> Castle Black</entidade> will survive this battle.
-His speech rallies the black brothers and <entidade " Alliser Thorne"> Alliser</entidade> personally leads the charge against the wildlings who have breached <entidade " Castle Black"> Castle Black</entidade>'s defenses,causing an intense battle to erupt in the courtyard.
+Meanwhile,<entidade "Ygritte">Ygritte</entidade> spies on the <entidade "Castle Black">Castle</entidade> to scout numbers of defenders.
+She tells the other wildlings that most of the guards are at the top of the <entidade "Wall">Wall</entidade> and that few are left in the <entidade "Castle Black">Castle</entidade>.
+The group immediately take off towards <entidade "Castle Black">Castle Black</entidade>'s southern gate,while <entidade "Ygritte">Ygritte</entidade> seems to have second thoughts.
+North of the <entidade "Wall">Wall</entidade>,the massive wildling army emerges from the woods,their numbers including giants riding atop mammoths.
+<entidade "Alliser Thorne">Alliser</entidade> orders the archers on the <entidade "Wall">Wall</entidade> to nock their arrows,but they draw instead while <entidade "Grenn">Grenn</entidade> accidentally drops a barrel down the <entidade "Wall">Wall</entidade>.
+<entidade "Alliser Thorne">Alliser</entidade> angrily drills his men on properly following orders when another horn blows from down below at <entidade "Castle Black">Castle Black</entidade>,signalling the unanticipated appearance of <entidade "Tormund's">Tormund's</entidade> band of wildlings at the castle's southern entrance.
+Realizing the dire need for experienced men to defend the keep from the surprise attack,<entidade "Alliser Thorne">Alliser</entidade> orders <entidade "Janos Slynt">Janos Slynt</entidade> to assume command of the <entidade "Wall">Wall</entidade>'s defenses and heads below to join the melee.
+Below,<entidade "Tormund's">Tormund</entidade> and <entidade "Styr's">Styr's</entidade> forces charge the gate while <entidade "Ygritte">Ygritte</entidade>,acting as a sniper,manages to pick off several men defending the gate with her bow.
+<entidade "Pypar">Pypar</entidade> is firing a crossbow as <entidade "Sam">Sam</entidade> assists by reloading another crossbow,but <entidade "Pypar's">Pypar's</entidade> aim is poor due to inexperience and nerves and he repeatedly misses his shots.
+The band of wildlings manage to reach <entidade "Castle Black">Castle Black</entidade>'s walls and begin scaling them using grappling hooks and ropes,forcing <entidade "Sam">Sam</entidade> and <entidade "Pypar's">Pyp</entidade> to retreat.
+<entidade "Alliser Thorne">Alliser Thorne</entidade> arrives with reinforcements from the top of the <entidade "Wall">Wall</entidade> via the wooden lift system,which is being operated by <entidade "Olly">Olly</entidade>.
+<entidade "Alliser Thorne">Alliser</entidade> gives an impassioned speech,promising that the ancient order of the <entidade "Night's Watch">Night's Watch</entidade> and <entidade "Castle Black">Castle Black</entidade> will survive this battle.
+His speech rallies the black brothers and <entidade "Alliser Thorne">Alliser</entidade> personally leads the charge against the wildlings who have breached <entidade "Castle Black">Castle Black</entidade>'s defenses,causing an intense battle to erupt in the courtyard.
 
-​​On the northern side of the <entidade " Wall"> Wall</entidade>,a wildling strike force led by two giants ( one of which is riding a mammoth ) charge towards <entidade " Castle Black"> Castle Black</entidade>'s outer gate.
-On top of the <entidade " Wall"> Wall</entidade>,<entidade " Janos Slynt"> Janos Slynt</entidade>,having no true leadership experience,breaks down at the sight of the massive wildling army and begins fumbling his orders.
-<entidade " Grenn"> Grenn</entidade> steps in by falsely claiming that <entidade " Alliser Thorne"> Alliser</entidade> needs <entidade " Janos Slynt"> Janos</entidade> back down below.
-<entidade " Janos Slynt"> Janos</entidade> believes the lie and leaves,allowing <entidade " Jon Snow"> Jon</entidade> to take command of the <entidade " Wall"> Wall</entidade>'s defenses.
-The black brothers continue to rain down arrows on the advancing wildlings,even killing ones that are attempting to scale the <entidade " Wall"> Wall</entidade>.
-One giant,armed with a massive bow,manages to fire a huge arrow at one of the bunkers atop the <entidade " Wall"> Wall</entidade>,completely obliterating it and killing the black brother manning it -- the force of the giant's arrow carries the black brother off the wall on to the other side where he is shoved into ground with a tremendous amount of force.
-<entidade " Hobb"> Hobb</entidade> takes up his butcher's knife to defend the dining hall.
-Down in <entidade " Castle Black"> Castle Black</entidade>,the battle rages on between the wildlings and the <entidade " Night's Watch"> Night's Watch</entidade>.
-<entidade " Styr's"> Styr</entidade> and <entidade " Ygritte"> Ygritte</entidade> continue to slay numerous black brothers.
-At one point,a group of wildlings breach <entidade " Castle Black"> Castle Black</entidade>'s dining hall.
+​​On the northern side of the <entidade "Wall">Wall</entidade>,a wildling strike force led by two giants ( one of which is riding a mammoth ) charge towards <entidade "Castle Black">Castle Black</entidade>'s outer gate.
+On top of the <entidade "Wall">Wall</entidade>,<entidade "Janos Slynt">Janos Slynt</entidade>,having no true leadership experience,breaks down at the sight of the massive wildling army and begins fumbling his orders.
+<entidade "Grenn">Grenn</entidade> steps in by falsely claiming that <entidade "Alliser Thorne">Alliser</entidade> needs <entidade "Janos Slynt">Janos</entidade> back down below.
+<entidade "Janos Slynt">Janos</entidade> believes the lie and leaves,allowing <entidade "Jon Snow">Jon</entidade> to take command of the <entidade "Wall">Wall</entidade>'s defenses.
+The black brothers continue to rain down arrows on the advancing wildlings,even killing ones that are attempting to scale the <entidade "Wall">Wall</entidade>.
+One giant,armed with a massive bow,manages to fire a huge arrow at one of the bunkers atop the <entidade "Wall">Wall</entidade>,completely obliterating it and killing the black brother manning it -- the force of the giant's arrow carries the black brother off the wall on to the other side where he is shoved into ground with a tremendous amount of force.
+<entidade "Hobb">Hobb</entidade> takes up his butcher's knife to defend the dining hall.
+Down in <entidade "Castle Black">Castle Black</entidade>,the battle rages on between the wildlings and the <entidade "Night's Watch">Night's Watch</entidade>.
+<entidade "Styr's">Styr</entidade> and <entidade "Ygritte">Ygritte</entidade> continue to slay numerous black brothers.
+At one point,a group of wildlings breach <entidade "Castle Black">Castle Black</entidade>'s dining hall.
 One wildling is killed when a black brother throws boiling stew in his face and beats him to death with the pot.
-<entidade " Hobb"> Hobb</entidade>,<entidade " Castle Black"> Castle Black</entidade>'s cook,calmly enters the dining hall and kills a wildling with his massive butcher's knife.
-Meanwhile,<entidade " Janos Slynt"> Janos Slynt</entidade> cowardly retreats to a storage room where he discovers Gilly and her baby.
+<entidade "Hobb">Hobb</entidade>,<entidade "Castle Black">Castle Black</entidade>'s cook,calmly enters the dining hall and kills a wildling with his massive butcher's knife.
+Meanwhile,<entidade "Janos Slynt">Janos Slynt</entidade> cowardly retreats to a storage room where he discovers Gilly and her baby.
 
-<entidade " Samwell Tarly"> Samwell Tarly</entidade> comforts <entidade " Pypar"> Pypar</entidade> as he dies.
-<entidade " Pyp​"> Pyp​</entidade> manages to kill a wildling with his crossbow,but is then shot through the neck by <entidade " Ygritte"> Ygritte</entidade>.
-<entidade " Samwell Tarly"> Sam</entidade> comforts <entidade " Pypar"> Pyp</entidade> and stays with him until he dies.
-<entidade " Samwell Tarly"> Sam</entidade> is forced to leave <entidade " Pypar"> Pyp</entidade>'s body and as he heads to <entidade " Castle Black"> Castle Black</entidade>'s lift system,but he is spotted by the <entidade " Thenn"> Thenn</entidade> warg.
-The warg charges at <entidade " Samwell Tarly"> Sam</entidade> as he desperately attempts to load his crossbow,managing to do so and firing a bolt into the warg's head just before he reaches him.
-Meanwhile,<entidade " Alliser Thorne"> Alliser Thorne</entidade> is locked in a vicious duel with <entidade " Tormund"> Tormund</entidade> on the catwalks of <entidade " Castle Black"> Castle Black</entidade>,both seemingly evenly matched in skill.
-However,<entidade " Thorne"> Thorne</entidade> suffers a grievous wound and is forced to retreat,being dragged to safety as he continues to shout orders to his men.
+<entidade "Samwell Tarly">Samwell Tarly</entidade> comforts <entidade "Pypar's">Pypar</entidade> as he dies.
+<entidade "Pyp​">Pyp​</entidade> manages to kill a wildling with his crossbow,but is then shot through the neck by <entidade "Ygritte">Ygritte</entidade>.
+<entidade "Samwell Tarly">Sam</entidade> comforts <entidade "Pypar's">Pyp</entidade> and stays with him until he dies.
+<entidade "Samwell Tarly">Sam</entidade> is forced to leave <entidade "Pyp​">Pyp</entidade>'s body and as he heads to <entidade "Castle Black">Castle Black</entidade>'s lift system,but he is spotted by the <entidade "Thenn">Thenn</entidade> warg.
+The warg charges at <entidade "Samwell Tarly">Sam</entidade> as he desperately attempts to load his crossbow,managing to do so and firing a bolt into the warg's head just before he reaches him.
+Meanwhile,<entidade "Alliser Thorne">Alliser Thorne</entidade> is locked in a vicious duel with <entidade "Tormund's">Tormund</entidade> on the catwalks of <entidade "Castle Black">Castle Black</entidade>,both seemingly evenly matched in skill.
+However,<entidade "Thorne">Thorne</entidade> suffers a grievous wound and is forced to retreat,being dragged to safety as he continues to shout orders to his men.
 
-<entidade " Mag Mar Tun Doh Weg"> Mag Mar Tun Doh Weg</entidade> charges <entidade " Castle Black"> Castle Black</entidade>'s inner gate.
-The black brothers defending the <entidade " Wall"> Wall</entidade> manage to repel most of the wildlings attacking the outer gate,but one giant manages to make it through,greatly weakening the gate by repeatedly smashing it with his fists and managing to singlehandedly begin lifting the gate.
-<entidade " Jon Snow"> Jon</entidade>,knowing the inner gate won't hold against the massive giant,sends a group of black brothers led by <entidade " Grenn"> Grenn</entidade> to hold it at any cost.
-Arriving at the inner gate,<entidade " Hill"> Hill</entidade> cowers when faced by the giant charging at them,but <entidade " Grenn"> Grenn</entidade> bolsters his and the others courage by reciting the <entidade " Night's Watch"> Night's Watch</entidade> oath.
+<entidade "Mag Mar Tun Doh Weg">Mag Mar Tun Doh Weg</entidade> charges <entidade "Castle Black">Castle Black</entidade>'s inner gate.
+The black brothers defending the <entidade "Wall">Wall</entidade> manage to repel most of the wildlings attacking the outer gate,but one giant manages to make it through,greatly weakening the gate by repeatedly smashing it with his fists and managing to singlehandedly begin lifting the gate.
+<entidade "Jon Snow">Jon</entidade>,knowing the inner gate won't hold against the massive giant,sends a group of black brothers led by <entidade "Grenn">Grenn</entidade> to hold it at any cost.
+Arriving at the inner gate,<entidade "Hill">Hill</entidade> cowers when faced by the giant charging at them,but <entidade "Grenn">Grenn</entidade> bolsters his and the others courage by reciting the <entidade "Night's Watch">Night's Watch</entidade> oath.
 The black brothers ready their weapons just as the giant slams himself into the inner gate.
 
 
-<entidade " Samwell Tarly"> Sam</entidade> arrives atop the <entidade " Wall"> Wall</entidade> to ask <entidade " Jon Snow"> Jon</entidade> for more men to defend the castle,and <entidade " Jon Snow"> Jon</entidade> tasks <entidade " Samwell Tarly"> Sam</entidade> with releasing Ghost from his pen to assist in the fighting.
-<entidade " Jon Snow"> Jon</entidade> descends the <entidade " Wall"> Wall</entidade> and finally enters the fray,quickly dispatching several wildlings and catching the attention of <entidade " Styr's"> Styr</entidade> ; the two meet in a single combat.
-<entidade " Styr's"> Styr</entidade> eventually gets the upper hand by knocking <entidade " Longclaw"> Longclaw</entidade> away and brutally assaulting <entidade " Jon Snow"> Jon</entidade>,smashing his face into an anvil and tossing him into the blacksmith's forge.
-Styr picks <entidade " Jon Snow"> Jon</entidade> up and begins strangling him,but <entidade " Jon Snow"> Jon</entidade> spits blood in <entidade " Styr's"> Styr</entidade>'s face and distracts him long enough for <entidade " Jon Snow"> Jon</entidade> to grab the blacksmith's hammer lying next to him and buries it in <entidade " Styr's"> Styr</entidade>'s skull.
+<entidade "Samwell Tarly">Sam</entidade> arrives atop the <entidade "Wall">Wall</entidade> to ask <entidade "Jon Snow">Jon</entidade> for more men to defend the castle,and <entidade "Jon Snow">Jon</entidade> tasks <entidade "Samwell Tarly">Sam</entidade> with releasing Ghost from his pen to assist in the fighting.
+<entidade "Jon Snow">Jon</entidade> descends the <entidade "Wall">Wall</entidade> and finally enters the fray,quickly dispatching several wildlings and catching the attention of <entidade "Styr's">Styr</entidade> ; the two meet in a single combat.
+<entidade "Styr's">Styr</entidade> eventually gets the upper hand by knocking <entidade "Longclaw">Longclaw</entidade> away and brutally assaulting <entidade "Jon Snow">Jon</entidade>,smashing his face into an anvil and tossing him into the blacksmith's forge.
+Styr picks <entidade "Jon Snow">Jon</entidade> up and begins strangling him,but <entidade "Jon Snow">Jon</entidade> spits blood in <entidade "Styr's">Styr</entidade>'s face and distracts him long enough for <entidade "Jon Snow">Jon</entidade> to grab the blacksmith's hammer lying next to him and buries it in <entidade "Styr's">Styr</entidade>'s skull.
 
-<entidade " Jon Snow"> Jon</entidade> holds a dying Ygritte.
-Upon killing <entidade " Styr's"> Styr</entidade>,<entidade " Jon Snow"> Jon</entidade> turns around to find <entidade " Ygritte"> Ygritte</entidade> pointing her bow at him with an arrow drawn.
-He smiles at her,causing <entidade " Ygritte"> Ygritte</entidade> to hesitate.
-Before either can say anything,<entidade " Ygritte"> Ygritte</entidade> is shot near the heart by an arrow fired from <entidade " Olly"> Olly</entidade>,avenging the death of his father at <entidade " Ygritte"> Ygritte</entidade>'s hands during the wildling attack on his village.
-<entidade " Jon Snow"> Jon</entidade> holds her in his arms as she tells him that they should have never left the cave,and they lament circumstances that prevented them from being together as she succumbs to her wound.
-<entidade " Tormund"> Tormund</entidade> makes a last stand before he is subdued by <entidade " Jon Snow"> Jon</entidade> and the <entidade " Night's Watch"> Night's Watch</entidade>.
-Atop the <entidade " Wall"> Wall</entidade>,<entidade " Eddison Tollett"> Eddison Tollett</entidade>,who <entidade " Jon Snow"> Jon</entidade> left in command of the defenses,orders the men to drop the <entidade " 'scythe"> 'scythe</entidade>.' 
-A huge section of ice suddenly falls away from the wall revealing a massive anchor-like blade attached to a chain that swings along the <entidade " Wall"> Wall</entidade>,mowing through the wildlings attempting to climb its face.
-<entidade " Eddison Tollett"> Eddison</entidade> notices the wildling forces are beginning to withdraw into the <entidade " Haunted Forest"> Haunted Forest</entidade>,proclaiming that they have stopped them for now,but that the wildlings still outnumber the black brothers 1,000 to 1 and that <entidade " Mance"> Mance</entidade> was simply testing their defenses.
-Below,a heavily wounded <entidade " Tormund"> Tormund</entidade> is surrounded in the courtyard but continues to fight despite being the only wildling alive in <entidade " Castle Black"> Castle Black</entidade>.
-He is finally subdued by <entidade " Jon Snow"> Jon</entidade> with a crossbow and taken prisoner by the <entidade " Night's Watch"> Night's Watch</entidade> for interrogation.
-<entidade " Samwell Tarly"> Sam</entidade> returns to <entidade " Gilly"> Gilly</entidade> just like he promised and discovers <entidade " Janos Slynt"> Janos Slynt</entidade>,who hid in fear during the entire battle.
-Against all odds,the <entidade " Night's Watch"> Night's Watch</entidade> have repelled <entidade " Mance Rayder"> Mance Rayder</entidade>'s forces for the time being.
-The following morning,what is left of <entidade " Castle Black"> Castle Black</entidade>'s garrison begin to regroup and prepare for the inevitable next attack by <entidade " Mance Rayder"> Mance Rayder</entidade>.
-<entidade " Jon Snow"> Jon</entidade> discusses with <entidade " Samwell Tarly"> Sam</entidade> that he has a suicidal solution to end the wildling threat ; he plans to assassinate <entidade " Mance Rayder"> Mance Rayder</entidade>,noting that he is the only thing binding the disparate wildling clans that make up the army,and his death will rob them of that purpose and leadership.
-<entidade " Samwell Tarly"> Sam</entidade> tries to talk sense into <entidade " Jon Snow"> Jon</entidade>,but to no avail.
-As <entidade " Jon Snow"> Jon</entidade> prepares to leave via <entidade " Castle Black"> Castle Black</entidade>'s tunnel,they discover the bodies of the black brothers who held the inner gate against the giant.
-<entidade " Grenn"> Grenn</entidade> is amongst the casualties and <entidade " Jon Snow"> Jon</entidade> tells <entidade " Samwell Tarly"> Sam</entidade> that all bodies must be burned.
-Before <entidade " Jon Snow"> Jon</entidade> leaves,he remembers the promise he made to <entidade " Jeor Mormont"> Jeor Mormont</entidade> and decides to leave  Longclaw with Sam.
-<entidade " Samwell Tarly"> Sam</entidade> tells <entidade " Jon Snow"> Jon</entidade> to come back,and <entidade " Jon Snow"> Jon</entidade> looks at <entidade " Samwell Tarly"> Sam</entidade> and smiles unreassuringly before stepping out into the wilderness on the other side of the gate.
+<entidade "Jon Snow">Jon</entidade> holds a dying Ygritte.
+Upon killing <entidade "Styr's">Styr</entidade>,<entidade "Jon Snow">Jon</entidade> turns around to find <entidade "Ygritte">Ygritte</entidade> pointing her bow at him with an arrow drawn.
+He smiles at her,causing <entidade "Ygritte">Ygritte</entidade> to hesitate.
+Before either can say anything,<entidade "Ygritte">Ygritte</entidade> is shot near the heart by an arrow fired from <entidade "Olly">Olly</entidade>,avenging the death of his father at <entidade "Ygritte">Ygritte</entidade>'s hands during the wildling attack on his village.
+<entidade "Jon Snow">Jon</entidade> holds her in his arms as she tells him that they should have never left the cave,and they lament circumstances that prevented them from being together as she succumbs to her wound.
+<entidade "Tormund's">Tormund</entidade> makes a last stand before he is subdued by <entidade "Jon Snow">Jon</entidade> and the <entidade "Night's Watch">Night's Watch</entidade>.
+Atop the <entidade "Wall">Wall</entidade>,<entidade "Eddison Tollett">Eddison Tollett</entidade>,who <entidade "Jon Snow">Jon</entidade> left in command of the defenses,orders the men to drop the <entidade "'scythe">'scythe</entidade>.' 
+A huge section of ice suddenly falls away from the wall revealing a massive anchor-like blade attached to a chain that swings along the <entidade "Wall">Wall</entidade>,mowing through the wildlings attempting to climb its face.
+<entidade "Eddison Tollett">Eddison</entidade> notices the wildling forces are beginning to withdraw into the <entidade "Haunted Forest">Haunted Forest</entidade>,proclaiming that they have stopped them for now,but that the wildlings still outnumber the black brothers 1,000 to 1 and that <entidade "Mance's">Mance</entidade> was simply testing their defenses.
+Below,a heavily wounded <entidade "Tormund's">Tormund</entidade> is surrounded in the courtyard but continues to fight despite being the only wildling alive in <entidade "Castle Black">Castle Black</entidade>.
+He is finally subdued by <entidade "Jon Snow">Jon</entidade> with a crossbow and taken prisoner by the <entidade "Night's Watch">Night's Watch</entidade> for interrogation.
+<entidade "Samwell Tarly">Sam</entidade> returns to <entidade "Gilly​">Gilly</entidade> just like he promised and discovers <entidade "Janos Slynt">Janos Slynt</entidade>,who hid in fear during the entire battle.
+Against all odds,the <entidade "Night's Watch">Night's Watch</entidade> have repelled <entidade "Mance Rayder">Mance Rayder</entidade>'s forces for the time being.
+The following morning,what is left of <entidade "Castle Black">Castle Black</entidade>'s garrison begin to regroup and prepare for the inevitable next attack by <entidade "Mance Rayder">Mance Rayder</entidade>.
+<entidade "Jon Snow">Jon</entidade> discusses with <entidade "Samwell Tarly">Sam</entidade> that he has a suicidal solution to end the wildling threat ; he plans to assassinate <entidade "Mance Rayder">Mance Rayder</entidade>,noting that he is the only thing binding the disparate wildling clans that make up the army,and his death will rob them of that purpose and leadership.
+<entidade "Samwell Tarly">Sam</entidade> tries to talk sense into <entidade "Jon Snow">Jon</entidade>,but to no avail.
+As <entidade "Jon Snow">Jon</entidade> prepares to leave via <entidade "Castle Black">Castle Black</entidade>'s tunnel,they discover the bodies of the black brothers who held the inner gate against the giant.
+<entidade "Grenn">Grenn</entidade> is amongst the casualties and <entidade "Jon Snow">Jon</entidade> tells <entidade "Samwell Tarly">Sam</entidade> that all bodies must be burned.
+Before <entidade "Jon Snow">Jon</entidade> leaves,he remembers the promise he made to <entidade "Jeor Mormont">Jeor Mormont</entidade> and decides to leave Longclaw with Sam.
+<entidade "Samwell Tarly">Sam</entidade> tells <entidade "Jon Snow">Jon</entidade> to come back,and <entidade "Jon Snow">Jon</entidade> looks at <entidade "Samwell Tarly">Sam</entidade> and smiles unreassuringly before stepping out into the wilderness on the other side of the gate.
 

@@ -1,109 +1,109 @@
-<entidade " David Benioff"> David Benioff</entidade> & <entidade " D.B"> D.B</entidade>.
+<entidade "David Benioff">David Benioff</entidade> & <entidade "D.B">D.B</entidade>.
 Weiss 
 
-<entidade " Alan Taylor"> Alan Taylor</entidade> 
+<entidade "Alan Taylor">Alan Taylor</entidade> 
 
 Blackwater 
-Valar <entidade " Dohaeris"> Dohaeris</entidade> 
+Valar <entidade "Dohaeris">Dohaeris</entidade> 
 
-Valar <entidade " Morghulis"> Morghulis</entidade> is the tenth and final episode of the second season of <entidade " Game of Thrones"> Game of Thrones</entidade>.
+Valar <entidade "Morghulis">Morghulis</entidade> is the tenth and final episode of the second season of <entidade "Game of Thrones">Game of Thrones</entidade>.
 It is the twentieth episode of the series overall.
-It premiered on <entidade " June 3, 2012"> June 3, 2012</entidade>.
-It was written by executive producers <entidade " David Benioff"> David Benioff</entidade> & <entidade " D.B"> D.B</entidade>.
-<entidade " Weiss"> Weiss</entidade> and directed by co-executive producer <entidade " Alan Taylor"> Alan Taylor</entidade>.
-The episode won a Creative  Arts Emmy Award for Visual  Effects in September 2012 
+It premiered on <entidade "June 3, 2012">June 3, 2012</entidade>.
+It was written by executive producers <entidade "David Benioff">David Benioff</entidade> & <entidade "D.B">D.B</entidade>.
+<entidade "Weiss">Weiss</entidade> and directed by co-executive producer <entidade "Alan Taylor">Alan Taylor</entidade>.
+The episode won a Creative Arts Emmy Award for Visual Effects in September 2012 
 
 Tyrion awakens to a changed situation.
-King <entidade " Joffrey"> Joffrey</entidade> doles out rewards to his subjects.
-As <entidade " Theon"> Theon</entidade> stirs his men to action,<entidade " Luwin"> Luwin</entidade> offers some final advice.
-<entidade " Brienne"> Brienne</entidade> silences <entidade " Jaime"> Jaime</entidade> ; <entidade " Arya"> Arya</entidade> receives a gift from <entidade " Jaqen"> Jaqen</entidade> ; <entidade " Dany"> Dany</entidade> goes to a strange place ; <entidade " Jon"> Jon</entidade> proves himself to <entidade " Qhorin"> Qhorin</entidade>.
+King <entidade "Joffrey">Joffrey</entidade> doles out rewards to his subjects.
+As <entidade "Theon">Theon</entidade> stirs his men to action,<entidade "Luwin">Luwin</entidade> offers some final advice.
+<entidade "Brienne">Brienne</entidade> silences <entidade "Jaime">Jaime</entidade> ; <entidade "Arya">Arya</entidade> receives a gift from <entidade "Jaqen">Jaqen</entidade> ; <entidade "Dany">Dany</entidade> goes to a strange place ; <entidade "Jon">Jon</entidade> proves himself to <entidade "Qhorin">Qhorin</entidade>.
 
-In the <entidade " Seven Kingdoms"> Seven Kingdoms</entidade> 
-Tyrion <entidade " Lannister"> Lannister</entidade> convalesces from the wound he suffered during the <entidade " Battle of the Blackwater"> Battle of the Blackwater</entidade> at the hands of <entidade " Ser Mandon Moore"> Ser Mandon Moore</entidade>.
-He is informed by a gloating <entidade " Grand Maester Pycelle"> Grand Maester Pycelle</entidade> that he is no longer Acting <entidade " Hand of the King"> Hand of the King</entidade>,as his father <entidade " Tywin Lannister"> Tywin Lannister</entidade> has returned to the city and will take over his duties as <entidade " Hand of the King"> Hand</entidade>.
-<entidade " Varys"> Varys</entidade> visits and tells him that <entidade " Bronn"> Bronn</entidade> has been relieved of his command of the gold cloaks and his hill tribesmen have gone home with their plunder ; <entidade " Tyrion"> Tyrion</entidade> has lost all of his power.
-<entidade " Varys"> Varys</entidade> thanks <entidade " Tyrion"> Tyrion</entidade> for his part in defending the city,noting that no one else will do so.
-<entidade " Shae"> Shae</entidade> urges <entidade " Tyrion"> Tyrion</entidade> to leave with her for <entidade " Pentos"> Pentos</entidade>,but he refuses. 
-King <entidade " Joffrey"> Joffrey</entidade> rewards those who served him well in the battle.
-<entidade " Lord Tywin Lannister"> Lord Tywin Lannister</entidade> is officially named <entidade " Hand of the King"> Hand of the King</entidade> and <entidade " Savior of the City"> Savior of the City</entidade>.
-<entidade " Littlefinger"> Littlefinger</entidade> is awarded <entidade " Harrenhal"> Harrenhal</entidade> for brokering the alliance between <entidade " Houses Lannister"> Houses Lannister</entidade> and <entidade " Tyrell"> Tyrell</entidade>.
-<entidade " Loras Tyrell"> Loras Tyrell</entidade> asks that <entidade " Joffrey"> Joffrey</entidade> wed his sister <entidade " Margaery"> Margaery</entidade> to unite their houses.
-Queen <entidade " Cersei Lannister"> Cersei Lannister</entidade> and <entidade " Pycelle"> Pycelle</entidade> make a show of convincing <entidade " Joffrey"> Joffrey</entidade> to set aside his betrothal to <entidade " Sansa Stark"> Sansa Stark</entidade>,given the treachery of <entidade " House Stark"> House Stark</entidade>.
-<entidade " Joffrey"> Joffrey</entidade> plays along and agrees to wed <entidade " Margaery"> Margaery</entidade>.
-In private,<entidade " Sansa Stark"> Sansa</entidade> is overjoyed to be free,until <entidade " Littlefinger"> Littlefinger</entidade> points out that it will not stop <entidade " Joffrey"> Joffrey</entidade> from tormenting her ; however,he does assure her that he will help her escape,for the sake of her mother.
+In the <entidade "Seven Kingdoms">Seven Kingdoms</entidade> 
+Tyrion <entidade "Lannister">Lannister</entidade> convalesces from the wound he suffered during the <entidade "Battle of the Blackwater">Battle of the Blackwater</entidade> at the hands of <entidade "Mandon Moore">Ser Mandon Moore</entidade>.
+He is informed by a gloating <entidade "Pycelle">Grand Maester Pycelle</entidade> that he is no longer Acting <entidade "Hand of the King">Hand of the King</entidade>,as his father <entidade "Tywin Lannister">Tywin Lannister</entidade> has returned to the city and will take over his duties as <entidade "Hand of the King">Hand</entidade>.
+<entidade "Varys">Varys</entidade> visits and tells him that <entidade "Bronn">Bronn</entidade> has been relieved of his command of the gold cloaks and his hill tribesmen have gone home with their plunder ; <entidade "Tyrion">Tyrion</entidade> has lost all of his power.
+<entidade "Varys">Varys</entidade> thanks <entidade "Tyrion">Tyrion</entidade> for his part in defending the city,noting that no one else will do so.
+<entidade "Shae">Shae</entidade> urges <entidade "Tyrion">Tyrion</entidade> to leave with her for <entidade "Pentos">Pentos</entidade>,but he refuses. 
+King <entidade "Joffrey">Joffrey</entidade> rewards those who served him well in the battle.
+<entidade "Tywin Lannister">Lord Tywin Lannister</entidade> is officially named <entidade "Hand of the King">Hand of the King</entidade> and <entidade "Savior of the City">Savior of the City</entidade>.
+<entidade "Littlefinger">Littlefinger</entidade> is awarded <entidade "Harrenhal">Harrenhal</entidade> for brokering the alliance between <entidade "Houses Lannister">Houses Lannister</entidade> and <entidade "Tyrell">Tyrell</entidade>.
+<entidade "Loras Tyrell">Loras Tyrell</entidade> asks that <entidade "Joffrey">Joffrey</entidade> wed his sister <entidade "Margaery">Margaery</entidade> to unite their houses.
+Queen <entidade "Cersei Lannister">Cersei Lannister</entidade> and <entidade "Pycelle">Pycelle</entidade> make a show of convincing <entidade "Joffrey">Joffrey</entidade> to set aside his betrothal to <entidade "Sansa Stark">Sansa Stark</entidade>,given the treachery of <entidade "House Stark">House Stark</entidade>.
+<entidade "Joffrey">Joffrey</entidade> plays along and agrees to wed <entidade "Margaery">Margaery</entidade>.
+In private,<entidade "Sansa Stark">Sansa</entidade> is overjoyed to be free,until <entidade "Littlefinger">Littlefinger</entidade> points out that it will not stop <entidade "Joffrey">Joffrey</entidade> from tormenting her ; however,he does assure her that he will help her escape,for the sake of her mother.
 
-<entidade " Jaime"> Jaime</entidade> recognized by <entidade " Stark"> Stark</entidade> men 
-Following his defeat at the <entidade " Blackwater"> Blackwater</entidade>,<entidade " Stannis Baratheon"> Stannis Baratheon</entidade> has retreated back to <entidade " Dragonstone"> Dragonstone</entidade>.
-He rages at <entidade " Melisandre"> Melisandre</entidade> for not foreseeing his defeat,despite her claims to see the future.
-<entidade " Melisandre"> Melisandre</entidade> insists that the <entidade " Lord of Light"> Lord of Light</entidade> only allows her glimpses and that <entidade " Stannis Baratheon"> Stannis</entidade> can not abandon the war because of a single defeat.
+<entidade "Jaime">Jaime</entidade> recognized by <entidade "Stark">Stark</entidade> men 
+Following his defeat at the <entidade "Blackwater">Blackwater</entidade>,<entidade "Stannis Baratheon">Stannis Baratheon</entidade> has retreated back to <entidade "Dragonstone">Dragonstone</entidade>.
+He rages at <entidade "Melisandre">Melisandre</entidade> for not foreseeing his defeat,despite her claims to see the future.
+<entidade "Melisandre">Melisandre</entidade> insists that the <entidade "Lord of Light">Lord of Light</entidade> only allows her glimpses and that <entidade "Stannis Baratheon">Stannis</entidade> can not abandon the war because of a single defeat.
 Stannis accuses her of lying to him,of knowing nothing about war and angrily begins to strangle her.
-When <entidade " Melisandre"> Melisandre</entidade> insists her god is in him,<entidade " Stannis Baratheon"> Stannis</entidade> releases her,realizing she is talking about the creature they created to murder his brother.
-<entidade " Melisandre"> Melisandre</entidade> tells <entidade " Stannis Baratheon"> Stannis</entidade> he will betray his men,his family and his beliefs but in the end,it will be worth it ; she assures <entidade " Stannis Baratheon"> Stannis</entidade> that he is the <entidade " Lord's Chosen"> Lord's Chosen</entidade> and he will be king.
-<entidade " Stannis Baratheon"> Stannis</entidade> is skeptical,but <entidade " Melisandre"> Melisandre</entidade> has him look into a brazier ; <entidade " Stannis Baratheon"> Stannis</entidade> appears to have visions,restoring his faith in the <entidade " Red Priestess"> Red Priestess</entidade>.
-In the <entidade " Westerlands"> Westerlands</entidade>,<entidade " King Robb Stark"> King Robb Stark</entidade> speaks with his mother <entidade " Lady Catelyn"> Lady Catelyn</entidade> regarding his love affair with the woman <entidade " Talisa"> Talisa</entidade>.
-<entidade " Catelyn"> Catelyn</entidade> urges <entidade " Robb"> Robb</entidade> to remember his vow to wed a daughter of <entidade " House Frey"> House Frey</entidade>,or face severe consequences.
-She says that she and <entidade " Robb"> Robb</entidade>'s father didn't love each other when they first married,but that he grew to love her over time.
-She predicts that <entidade " Robb"> Robb</entidade> and his betrothed might build a similar love over time.
-<entidade " Robb"> Robb</entidade> disregards her advice and marries <entidade " Talisa"> Talisa</entidade> in private that night.
-Traveling east to <entidade " King's Landing"> King's Landing</entidade>,<entidade " Brienne of Tarth"> Brienne of Tarth</entidade> and <entidade " Jaime Lannister"> Jaime Lannister</entidade> come upon the bodies of three women,hanged by <entidade " Stark"> Stark</entidade> soldiers for having slept with <entidade " Lannister"> Lannister</entidade> soldiers.
+When <entidade "Melisandre">Melisandre</entidade> insists her god is in him,<entidade "Stannis Baratheon">Stannis</entidade> releases her,realizing she is talking about the creature they created to murder his brother.
+<entidade "Melisandre">Melisandre</entidade> tells <entidade "Stannis Baratheon">Stannis</entidade> he will betray his men,his family and his beliefs but in the end,it will be worth it ; she assures <entidade "Stannis Baratheon">Stannis</entidade> that he is the <entidade "Lord's Chosen">Lord's Chosen</entidade> and he will be king.
+<entidade "Stannis Baratheon">Stannis</entidade> is skeptical,but <entidade "Melisandre">Melisandre</entidade> has him look into a brazier ; <entidade "Stannis Baratheon">Stannis</entidade> appears to have visions,restoring his faith in the <entidade "Red Priestess">Red Priestess</entidade>.
+In the <entidade "Westerlands">Westerlands</entidade>,<entidade "King Robb Stark">King Robb Stark</entidade> speaks with his mother <entidade "Lady Catelyn">Lady Catelyn</entidade> regarding his love affair with the woman <entidade "Talisa">Talisa</entidade>.
+<entidade "Catelyn">Catelyn</entidade> urges <entidade "Robb">Robb</entidade> to remember his vow to wed a daughter of <entidade "House Frey">House Frey</entidade>,or face severe consequences.
+She says that she and <entidade "Robb">Robb</entidade>'s father didn't love each other when they first married,but that he grew to love her over time.
+She predicts that <entidade "Robb">Robb</entidade> and his betrothed might build a similar love over time.
+<entidade "Robb">Robb</entidade> disregards her advice and marries <entidade "Talisa">Talisa</entidade> in private that night.
+Traveling east to <entidade "King's Landing">King's Landing</entidade>,<entidade "Brienne of Tarth">Brienne of Tarth</entidade> and <entidade "Jaime Lannister">Jaime Lannister</entidade> come upon the bodies of three women,hanged by <entidade "Stark">Stark</entidade> soldiers for having slept with <entidade "Lannister">Lannister</entidade> soldiers.
 When the men return,the pair try to lie their way out of the situation.
-<entidade " Jaime Lannister"> Jaime</entidade> is recognized and <entidade " Brienne of Tarth"> Brienne</entidade> chose to kill the soldiers.
-In so doing she reveals her prowess as a fighter to <entidade " Jaime Lannister"> Jaime</entidade>.
-When <entidade " Jaime Lannister"> Jaime</entidade> reminds her that she killed <entidade " Stark"> Stark</entidade> men,<entidade " Brienne of Tarth"> Brienne</entidade> responds that she does not serve <entidade " House Stark"> House Stark</entidade>,but <entidade " Catelyn Stark"> Catelyn Stark</entidade>.
-In <entidade " Winterfell"> Winterfell</entidade>,<entidade " Theon Greyjoy"> Theon Greyjoy</entidade> is besieged by a northern army under command of <entidade " Roose Bolton"> Roose Bolton</entidade>'s bastard son.
-<entidade " Maester Luwin"> Maester Luwin</entidade> tells <entidade " Theon Greyjoy"> Theon</entidade> his chances of holding the castle with only twenty men are negligible.
-<entidade " Luwin"> Luwin</entidade> suggests that <entidade " Theon Greyjoy"> Theon</entidade> join the <entidade " Night's Watch"> Night's Watch</entidade>,gaining a chance to redeem himself.
-When <entidade " Theon Greyjoy"> Theon</entidade> refuses ( fearing that <entidade " Jon Snow"> Jon Snow</entidade> will kill him for his betrayal ) and tries to rally his men for battle,they betray him ; <entidade " Dagmer"> Dagmer</entidade> knocks <entidade " Theon Greyjoy"> Theon</entidade> out.
-When <entidade " Luwin"> Luwin</entidade> tries to intervene,<entidade " Dagmer"> Dagmer</entidade> stabs him with a spear.
-The ironmen place a bag on <entidade " Theon Greyjoy"> Theon</entidade> and depart <entidade " Winterfell"> Winterfell</entidade> to deliver him to the <entidade " Bolton"> Bolton</entidade> army.
-Some time later,<entidade " Bran"> Bran</entidade>,<entidade " Rickon"> Rickon</entidade>,<entidade " Osha"> Osha</entidade> and <entidade " Hodor"> Hodor</entidade> emerge from their hiding place in <entidade " Winterfell"> Winterfell</entidade>'s crypts and find the castle burning.
-They discover the dying <entidade " Luwin"> Luwin</entidade> in the godswood.
-He insists that the boys must go north to the <entidade " Wall"> Wall</entidade>,as there are too many enemies in the south and <entidade " Jon Snow"> Jon</entidade> will be able to keep them safe and tell their mother of their survival.
-Luwin affirms his pride at having served the <entidade " Starks"> Starks</entidade> before asking <entidade " Osha"> Osha</entidade> to give him a quick death.
-Traveling away from <entidade " Harrenhal"> Harrenhal</entidade>,<entidade " Arya"> Arya</entidade>,<entidade " Gendry"> Gendry</entidade> and <entidade " Hot Pie"> Hot Pie</entidade> cross paths with <entidade " Jaqen H'ghar"> Jaqen H'ghar</entidade>,who has been waiting for them.
-He offers to take <entidade " Arya"> Arya</entidade> with him to <entidade " Braavos"> Braavos</entidade>,where she can learn his skills of killing and find a way to kill those on her list.
+<entidade "Jaime Lannister">Jaime</entidade> is recognized and <entidade "Brienne of Tarth">Brienne</entidade> chose to kill the soldiers.
+In so doing she reveals her prowess as a fighter to <entidade "Jaime Lannister">Jaime</entidade>.
+When <entidade "Jaime Lannister">Jaime</entidade> reminds her that she killed <entidade "Stark">Stark</entidade> men,<entidade "Brienne of Tarth">Brienne</entidade> responds that she does not serve <entidade "House Stark">House Stark</entidade>,but <entidade "Catelyn Stark">Catelyn Stark</entidade>.
+In <entidade "Winterfell">Winterfell</entidade>,<entidade "Theon Greyjoy">Theon Greyjoy</entidade> is besieged by a northern army under command of <entidade "Roose Bolton">Roose Bolton</entidade>'s bastard son.
+<entidade "Luwin">Maester Luwin</entidade> tells <entidade "Theon Greyjoy">Theon</entidade> his chances of holding the castle with only twenty men are negligible.
+<entidade "Luwin">Luwin</entidade> suggests that <entidade "Theon Greyjoy">Theon</entidade> join the <entidade "Night's Watch">Night's Watch</entidade>,gaining a chance to redeem himself.
+When <entidade "Theon Greyjoy">Theon</entidade> refuses ( fearing that <entidade "Jon Snow">Jon Snow</entidade> will kill him for his betrayal ) and tries to rally his men for battle,they betray him ; <entidade "Dagmer">Dagmer</entidade> knocks <entidade "Theon Greyjoy">Theon</entidade> out.
+When <entidade "Luwin">Luwin</entidade> tries to intervene,<entidade "Dagmer">Dagmer</entidade> stabs him with a spear.
+The ironmen place a bag on <entidade "Theon Greyjoy">Theon</entidade> and depart <entidade "Winterfell">Winterfell</entidade> to deliver him to the <entidade "Bolton">Bolton</entidade> army.
+Some time later,<entidade "Bran">Bran</entidade>,<entidade "Rickon">Rickon</entidade>,<entidade "Osha">Osha</entidade> and <entidade "Hodor">Hodor</entidade> emerge from their hiding place in <entidade "Winterfell">Winterfell</entidade>'s crypts and find the castle burning.
+They discover the dying <entidade "Luwin">Luwin</entidade> in the godswood.
+He insists that the boys must go north to the <entidade "Wall">Wall</entidade>,as there are too many enemies in the south and <entidade "Jon Snow">Jon</entidade> will be able to keep them safe and tell their mother of their survival.
+Luwin affirms his pride at having served the <entidade "Starks">Starks</entidade> before asking <entidade "Osha">Osha</entidade> to give him a quick death.
+Traveling away from <entidade "Harrenhal">Harrenhal</entidade>,<entidade "Arya">Arya</entidade>,<entidade "Gendry">Gendry</entidade> and <entidade "Hot Pie">Hot Pie</entidade> cross paths with <entidade "Jaqen H'ghar">Jaqen H'ghar</entidade>,who has been waiting for them.
+He offers to take <entidade "Arya">Arya</entidade> with him to <entidade "Braavos">Braavos</entidade>,where she can learn his skills of killing and find a way to kill those on her list.
 She declines,wanting to be reunited with her family.
-<entidade " Jaqen H'ghar"> Jaqen</entidade> gives her an iron coin and the words <entidade " Valar Morghulis"> Valar Morghulis</entidade>,telling her to speak them to any man from <entidade " Braavos"> Braavos</entidade> should she ever need to find him again.
-<entidade " Jaqen H'ghar"> Jaqen</entidade> bids <entidade " Arya"> Arya</entidade> farewell,using her real name,and departs,changing his face to that of a different man as he leaves.
+<entidade "Jaqen H'ghar">Jaqen</entidade> gives her an iron coin and the words <entidade "Valar Morghulis">Valar Morghulis</entidade>,telling her to speak them to any man from <entidade "Braavos">Braavos</entidade> should she ever need to find him again.
+<entidade "Jaqen H'ghar">Jaqen</entidade> bids <entidade "Arya">Arya</entidade> farewell,using her real name,and departs,changing his face to that of a different man as he leaves.
 
-Across the <entidade " Narrow Sea"> Narrow Sea</entidade> 
-Daenerys in her vision of the <entidade " Iron Throne"> Iron Throne</entidade> room.
-<entidade " Daenerys Targaryen"> Daenerys Targaryen</entidade> arrives at <entidade " House of the Undying"> House of the Undying</entidade> and is magically separated from <entidade " Jorah"> Jorah</entidade> and <entidade " Kovarro"> Kovarro</entidade>.
+Across the <entidade "Narrow Sea">Narrow Sea</entidade> 
+Daenerys in her vision of the <entidade "Iron Throne">Iron Throne</entidade> room.
+<entidade "Daenerys Targaryen">Daenerys Targaryen</entidade> arrives at <entidade "House of the Undying">House of the Undying</entidade> and is magically separated from <entidade "Jorah">Jorah</entidade> and <entidade "Kovarro">Kovarro</entidade>.
 She finds herself in an empty circular room with many doors.
 She chooses one and opens it.
 She is presented with tempting visions.
-First the snowy,ruined throne room of <entidade " King"> King</entidade>'s Landing where she turns away from the <entidade " Iron Throne"> Iron Throne</entidade>.
-She then walks through the gates of the <entidade " Wall"> Wall</entidade> surrounded by more snow,and into <entidade " Drogo"> Drogo</entidade>'s tent.
-She finds <entidade " Drogo"> Drogo</entidade> and what would have been her infant son <entidade " Rhaego"> Rhaego</entidade>.
-They talk about whose dream they are in,and <entidade " Daenerys Targaryen"> Daenerys</entidade> silently leaves after touching <entidade " Rhaego"> Rhaego</entidade>'s hair.
+First the snowy,ruined throne room of <entidade "King">King</entidade>'s Landing where she turns away from the <entidade "Iron Throne">Iron Throne</entidade>.
+She then walks through the gates of the <entidade "Wall">Wall</entidade> surrounded by more snow,and into <entidade "Drogo">Drogo</entidade>'s tent.
+She finds <entidade "Drogo">Drogo</entidade> and what would have been her infant son <entidade "Rhaego">Rhaego</entidade>.
+They talk about whose dream they are in,and <entidade "Daenerys Targaryen">Daenerys</entidade> silently leaves after touching <entidade "Rhaego">Rhaego</entidade>'s hair.
 She returns to the room with many doors and finds her dragons chained to a pedestal in front of her.
-<entidade " Pyat Pree"> Pyat Pree</entidade> appears and explains that she and her brood are the source of his restored magic.
-<entidade " Daenerys Targaryen"> Daenerys</entidade> is also chained by <entidade " Pyat Pree"> Pyat</entidade>'s magic.
-The young queen is unconcerned however,and simply regards <entidade " Pree"> Pree</entidade> with a cool,almost lazy gaze.
-She calmly utters a single word : Dracarys ; after a couple of tries,all three dragons unleash their fiery breath,and <entidade " Pyat Pree"> Pyat Pree</entidade> is incinerated.
-<entidade " Daenerys Targaryen"> Daenerys</entidade> knows that Xaro has betrayed her.
-She returns to his palace to confront him and finds <entidade " Doreah"> Doreah</entidade> in bed with him.
-She takes his key and uses it to open his <entidade " Valyrian"> Valyrian</entidade> stone vault.
+<entidade "Pyat Pree">Pyat Pree</entidade> appears and explains that she and her brood are the source of his restored magic.
+<entidade "Daenerys Targaryen">Daenerys</entidade> is also chained by <entidade "Pyat Pree">Pyat</entidade>'s magic.
+The young queen is unconcerned however,and simply regards <entidade "Pree">Pree</entidade> with a cool,almost lazy gaze.
+She calmly utters a single word : Dracarys ; after a couple of tries,all three dragons unleash their fiery breath,and <entidade "Pyat Pree">Pyat Pree</entidade> is incinerated.
+<entidade "Daenerys Targaryen">Daenerys</entidade> knows that Xaro has betrayed her.
+She returns to his palace to confront him and finds <entidade "Doreah">Doreah</entidade> in bed with him.
+She takes his key and uses it to open his <entidade "Valyrian">Valyrian</entidade> stone vault.
 She is surprised when it is empty,but observes that this proves something can easily come from nothing.
-On her orders,<entidade " Doreah"> Doreah</entidade> and <entidade " Xaro"> Xaro</entidade> are locked into the empty vault to die,their pleas cut off by the closing door.
-<entidade " Daenerys Targaryen"> Daenerys</entidade> salvages enough from <entidade " Xaro"> Xaro</entidade>'s household to buy a ship.
-On <entidade " Jorah"> Jorah</entidade>'s orders,the <entidade " Dothraki"> Dothraki</entidade> seize <entidade " Xaro"> Xaro</entidade>'s gold and jewels while <entidade " Daenerys Targaryen"> Daenerys</entidade> triumphantly watches with her three dragons.
+On her orders,<entidade "Doreah">Doreah</entidade> and <entidade "Xaro">Xaro</entidade> are locked into the empty vault to die,their pleas cut off by the closing door.
+<entidade "Daenerys Targaryen">Daenerys</entidade> salvages enough from <entidade "Xaro">Xaro</entidade>'s household to buy a ship.
+On <entidade "Jorah">Jorah</entidade>'s orders,the <entidade "Dothraki">Dothraki</entidade> seize <entidade "Xaro">Xaro</entidade>'s gold and jewels while <entidade "Daenerys Targaryen">Daenerys</entidade> triumphantly watches with her three dragons.
 
-Beyond the <entidade " Wall"> Wall</entidade> 
-The <entidade " King-Beyond-the-Wall's Camp"> King-Beyond-the-Wall's Camp</entidade>.
-<entidade " Jon Snow"> Jon Snow</entidade> and <entidade " Qhorin Halfhand"> Qhorin Halfhand</entidade> are marched towards the camp of the <entidade " King-Beyond-the-Wall's Camp"> King-Beyond-the-Wall</entidade>,<entidade " Mance Rayder"> Mance Rayder</entidade>,as captives of the <entidade " Lord of Bones"> Lord of Bones</entidade>.
-<entidade " Qhorin Halfhand"> Qhorin</entidade> realizes that he will have to sacrifice himself in order to facilitate the ruse of <entidade " Jon Snow"> Jon</entidade> deserting to the wildlings,so he stuns one of his captors and acquires a sword,attacking <entidade " Jon Snow"> Jon</entidade> with the seeming intention of killing him for treachery.
-The <entidade " Lord of Bones"> Lord of Bones</entidade> lets them fight,and <entidade " Ygritte"> Ygritte</entidade> gives <entidade " Jon Snow"> Jon</entidade> back his sword.
-<entidade " Qhorin Halfhand"> Qhorin</entidade> enrages <entidade " Jon Snow"> Jon</entidade> by insulting his parentage.
-After a fierce duel,<entidade " Jon Snow"> Jon</entidade> mortally wounds  Qhorin per Qhorin's own instructions,who whispers to <entidade " Jon Snow"> Jon</entidade> We are the watchers on the <entidade " Wall"> Wall</entidade> before he breathes his last,signalling to him that he has done the right thing and reminding <entidade " Jon Snow"> Jon</entidade> that he must find out all he can about the wildlings' plans and get back to the <entidade " Wall"> Wall</entidade>.
-By killing <entidade " Qhorin Halfhand"> Qhorin</entidade>,the wildlings believe <entidade " Jon Snow"> Jon</entidade> has betrayed his oath and release him.
-Impressed,the <entidade " Lord of Bones"> Lord of Bones</entidade> cuts <entidade " Jon Snow"> Jon</entidade> free.
+Beyond the <entidade "Wall">Wall</entidade> 
+The <entidade "King-Beyond-the-Wall's Camp">King-Beyond-the-Wall's Camp</entidade>.
+<entidade "Jon Snow">Jon Snow</entidade> and <entidade "Qhorin Halfhand">Qhorin Halfhand</entidade> are marched towards the camp of the <entidade "King-Beyond-the-Wall's Camp">King-Beyond-the-Wall</entidade>,<entidade "Mance Rayder">Mance Rayder</entidade>,as captives of the <entidade "Lord of Bones">Lord of Bones</entidade>.
+<entidade "Qhorin Halfhand">Qhorin</entidade> realizes that he will have to sacrifice himself in order to facilitate the ruse of <entidade "Jon Snow">Jon</entidade> deserting to the wildlings,so he stuns one of his captors and acquires a sword,attacking <entidade "Jon Snow">Jon</entidade> with the seeming intention of killing him for treachery.
+The <entidade "Lord of Bones">Lord of Bones</entidade> lets them fight,and <entidade "Ygritte">Ygritte</entidade> gives <entidade "Jon Snow">Jon</entidade> back his sword.
+<entidade "Qhorin Halfhand">Qhorin</entidade> enrages <entidade "Jon Snow">Jon</entidade> by insulting his parentage.
+After a fierce duel,<entidade "Jon Snow">Jon</entidade> mortally wounds Qhorin per Qhorin's own instructions,who whispers to <entidade "Jon Snow">Jon</entidade> We are the watchers on the <entidade "Wall">Wall</entidade> before he breathes his last,signalling to him that he has done the right thing and reminding <entidade "Jon Snow">Jon</entidade> that he must find out all he can about the wildlings' plans and get back to the <entidade "Wall">Wall</entidade>.
+By killing <entidade "Qhorin Halfhand">Qhorin</entidade>,the wildlings believe <entidade "Jon Snow">Jon</entidade> has betrayed his oath and release him.
+Impressed,the <entidade "Lord of Bones">Lord of Bones</entidade> cuts <entidade "Jon Snow">Jon</entidade> free.
 Ygritte shows him their vast army,gathering in a valley below.
-She promises to take him to their <entidade " King-Beyond-the-Wall's Camp"> King</entidade> and,with no other choice,<entidade " Jon Snow"> Jon</entidade> follows her.
-At the <entidade " Fist of the First Men"> Fist of the First Men</entidade>,<entidade " Sam"> Sam</entidade>,<entidade " Grenn"> Grenn</entidade> and <entidade " Edd"> Edd</entidade> are foraging for fuel when they hear three horn blasts ; the warning call for <entidade " White"> White</entidade> <entidade " Walkers"> Walkers</entidade>.
-The three run back to the <entidade " Fist of the First Men"> Fist</entidade>.
-<entidade " Sam"> Sam</entidade> is left behind,caught in a sudden blizzard.
-Seeing shadowy figures moving through the blowing snow,<entidade " Sam"> Sam</entidade> hides behind a rock and watches as dozens of <entidade " Wights"> Wights</entidade> walk past him,led by a <entidade " White Walker"> White Walker</entidade> riding an undead horse-wight.
-<entidade " Sam"> Sam</entidade> cowers in fear,but the <entidade " White Walker"> White Walker</entidade> seemingly ignores him.
-Raising a spear with a blade of ice,the creature gives a piercing shriek,and the army of wights and <entidade " White Walkers"> White Walkers</entidade>,numbering several hundred,advances on the <entidade " Fist of the First Men"> Fist</entidade>.
+She promises to take him to their <entidade "King-Beyond-the-Wall's Camp">King</entidade> and,with no other choice,<entidade "Jon Snow">Jon</entidade> follows her.
+At the <entidade "Fist of the First Men">Fist of the First Men</entidade>,<entidade "Sam">Sam</entidade>,<entidade "Grenn">Grenn</entidade> and <entidade "Edd">Edd</entidade> are foraging for fuel when they hear three horn blasts ; the warning call for <entidade "White">White</entidade> <entidade "Walkers">Walkers</entidade>.
+The three run back to the <entidade "Fist of the First Men">Fist</entidade>.
+<entidade "Sam">Sam</entidade> is left behind,caught in a sudden blizzard.
+Seeing shadowy figures moving through the blowing snow,<entidade "Sam">Sam</entidade> hides behind a rock and watches as dozens of <entidade "Wights">Wights</entidade> walk past him,led by a <entidade "White Walker">White Walker</entidade> riding an undead horse-wight.
+<entidade "Sam">Sam</entidade> cowers in fear,but the <entidade "White Walker">White Walker</entidade> seemingly ignores him.
+Raising a spear with a blade of ice,the creature gives a piercing shriek,and the army of wights and <entidade "White Walkers">White Walkers</entidade>,numbering several hundred,advances on the <entidade "Fist of the First Men">Fist</entidade>.
 

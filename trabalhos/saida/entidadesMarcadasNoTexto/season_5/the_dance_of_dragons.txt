@@ -1,176 +1,176 @@
-<entidade " David BenioffD.B"> David BenioffD.B</entidade>.
+<entidade "David BenioffD.B">David BenioffD.B</entidade>.
 Weiss 
 
-<entidade " David Nutter"> David Nutter</entidade> 
+<entidade "David Nutter">David Nutter</entidade> 
 
 Hardhome 
-<entidade " Mother's Mercy"> Mother's Mercy</entidade> 
+<entidade "Mother's Mercy">Mother's Mercy</entidade> 
 
-The <entidade " Dance of Dragons"> Dance of Dragons</entidade> is the ninth episode of the fifth season of <entidade " Game of Thrones"> Game of Thrones</entidade>.
+The <entidade "Dance of Dragons">Dance of Dragons</entidade> is the ninth episode of the fifth season of <entidade "Game of Thrones">Game of Thrones</entidade>.
 It is the forty-ninth episode of the series overall.
-It premiered on <entidade " June 7, 2015"> June 7, 2015</entidade>.
-It was written by <entidade " David BenioffD.B"> David Benioff</entidade> and <entidade " D.B"> D.B</entidade>.
-<entidade " Weiss"> Weiss</entidade>,and directed by <entidade " David Nutter"> David Nutter</entidade>.
+It premiered on <entidade "June 7, 2015">June 7, 2015</entidade>.
+It was written by <entidade "David BenioffD.B">David Benioff</entidade> and <entidade "D.B">D.B</entidade>.
+<entidade "Weiss">Weiss</entidade>,and directed by <entidade "David Nutter">David Nutter</entidade>.
 
 Plot 
-<entidade " Stannis"> Stannis</entidade> confronts a troubling decision.
-<entidade " Jon"> Jon</entidade> returns to the <entidade " Wall"> Wall</entidade>.
-<entidade " Mace"> Mace</entidade> visits the <entidade " Iron Bank"> Iron Bank</entidade>.
-<entidade " Arya"> Arya</entidade> encounters someone from her past.
-<entidade " Dany"> Dany</entidade> reluctantly oversees a traditional celebration of athleticism.
+<entidade "Stannis">Stannis</entidade> confronts a troubling decision.
+<entidade "Jon">Jon</entidade> returns to the <entidade "Wall">Wall</entidade>.
+<entidade "Mace">Mace</entidade> visits the <entidade "Iron Bank">Iron Bank</entidade>.
+<entidade "Arya">Arya</entidade> encounters someone from her past.
+<entidade "Dany">Dany</entidade> reluctantly oversees a traditional celebration of athleticism.
 
-At the <entidade " Wall"> Wall</entidade> 
-<entidade " Jon"> Jon</entidade> watches wildlings enter inside <entidade " Castle Black"> Castle Black</entidade>.
-<entidade " Jon Snow"> Jon Snow</entidade>,<entidade " Tormund"> Tormund</entidade>,and the surviving few thousand wildlings from <entidade " Hardhome"> Hardhome</entidade> arrive at the <entidade " Wall"> Wall</entidade>,before the gates of <entidade " Castle Black"> Castle Black</entidade>.
-For a tense moment <entidade " Ser Alliser Thorne"> Ser Alliser Thorne</entidade> hesitates to let all of their old enemies through,but finally he gives the order to open the gate.
-Thousands of wildlings come through the <entidade " Wall"> Wall</entidade> to <entidade " Castle Black"> Castle Black</entidade> itself,including many women and children,and even the giant <entidade " Wun Wun"> Wun Wun</entidade>.
-Many men of the <entidade " Night's Watch"> Night's Watch</entidade> glare at them.
-<entidade " Alliser"> Alliser</entidade> coolly says to Jon that he has a good heart ( to save so many people ),but that it may end up getting them all killed.
-<entidade " Jon Snow"> Jon</entidade> reunites with <entidade " Samwell Tarly"> Samwell Tarly</entidade>,but is despondent,saying that the mission was a disaster and they only managed to save a small fraction of the wildlings at <entidade " Hardhome"> Hardhome</entidade>.
-<entidade " Samwell Tarly"> Sam</entidade> points to different wildlings passing by and notes that each of them would have died if he had done nothing at all,so it wasn't a complete failure.
+At the <entidade "Wall">Wall</entidade> 
+<entidade "Jon">Jon</entidade> watches wildlings enter inside <entidade "Castle Black">Castle Black</entidade>.
+<entidade "Jon Snow">Jon Snow</entidade>,<entidade "Tormund">Tormund</entidade>,and the surviving few thousand wildlings from <entidade "Hardhome">Hardhome</entidade> arrive at the <entidade "Wall">Wall</entidade>,before the gates of <entidade "Castle Black">Castle Black</entidade>.
+For a tense moment <entidade "Alliser Thorne">Ser Alliser Thorne</entidade> hesitates to let all of their old enemies through,but finally he gives the order to open the gate.
+Thousands of wildlings come through the <entidade "Wall">Wall</entidade> to <entidade "Castle Black">Castle Black</entidade> itself,including many women and children,and even the giant <entidade "Wun Wun">Wun Wun</entidade>.
+Many men of the <entidade "Night's Watch">Night's Watch</entidade> glare at them.
+<entidade "Alliser Thorne">Alliser</entidade> coolly says to Jon that he has a good heart ( to save so many people ),but that it may end up getting them all killed.
+<entidade "Jon Snow">Jon</entidade> reunites with <entidade "Samwell Tarly">Samwell Tarly</entidade>,but is despondent,saying that the mission was a disaster and they only managed to save a small fraction of the wildlings at <entidade "Hardhome">Hardhome</entidade>.
+<entidade "Samwell Tarly">Sam</entidade> points to different wildlings passing by and notes that each of them would have died if he had done nothing at all,so it wasn't a complete failure.
 
-In the <entidade " North"> North</entidade> 
-During the night at <entidade " Stannis Baratheon"> Stannis Baratheon</entidade>'s army camp,<entidade " Melisandre"> Melisandre</entidade> gazes intently into the flames of her tent's brazier hoping to receive visions from the <entidade " Lord of Light"> Lord of Light</entidade>.
+In the <entidade "North">North</entidade> 
+During the night at <entidade "Stannis Baratheon">Stannis Baratheon</entidade>'s army camp,<entidade "Melisandre">Melisandre</entidade> gazes intently into the flames of her tent's brazier hoping to receive visions from the <entidade "Lord of Light">Lord of Light</entidade>.
 In the distance,several tents burst into flames,sending confused men shouting,and one horse screams as he runs away on fire.
-During the night,<entidade " Ramsay Bolton"> Ramsay Bolton</entidade> and twenty men raided the camp,burning much of their food supplies and heavy siege weapons.
+During the night,<entidade "Ramsay Bolton">Ramsay Bolton</entidade> and twenty men raided the camp,burning much of their food supplies and heavy siege weapons.
 Hundreds of horses also died in the fire.
-<entidade " Davos"> Davos</entidade> notes that their situation is now dire : they don't have enough food to make the march back to <entidade " Castle Black"> Castle Black</entidade> or to advance to <entidade " Winterfell"> Winterfell</entidade>,and without their siege weapons they have little chance of storming the castle to take its food supplies anyway.
-<entidade " Stannis Baratheon"> Stannis</entidade> asks how this could happen and <entidade " Davos"> Davos</entidade> insists that the <entidade " Boltons"> Boltons</entidade> know the <entidade " North"> North</entidade>'s terrain better than they do so it was easy for a raiding party to sneak into camp.
-<entidade " Stannis Baratheon"> Stannis</entidade> suggests that the watchmen were either collaborating with the enemy or simply not attentive enough at their posts to allow such a disaster - either way he orders them to be executed.
-<entidade " Stannis Baratheon"> Stannis</entidade> says to slaughter the dead horses for their meat,which should at least buy them a little time.
-<entidade " Stannis Baratheon"> Stannis</entidade>'s demeanor becomes grave and half-stunned,as he believes there is only one course of action to take.
-He starts by ordering <entidade " Davos"> Davos</entidade> to return to <entidade " Castle Black"> Castle Black</entidade> to ask for more supplies from <entidade " Jon Snow"> Jon Snow</entidade>.
-<entidade " Davos"> Davos</entidade> is confused given that even if <entidade " Jon Snow"> Jon</entidade> did decide to resupply them the provisions probably wouldn't reach them in time,and wonders why <entidade " Stannis Baratheon"> Stannis</entidade> would send him instead of just a messenger.
-<entidade " Stannis Baratheon"> Stannis</entidade> insists that it is because he needs his Hand of the <entidade " King"> King</entidade> to engage in diplomacy to win <entidade " Jon Snow"> Jon</entidade> over - but in reality,<entidade " Stannis Baratheon"> Stannis</entidade> sends <entidade " Davos"> Davos</entidade> away so he wouldn't be around to stop what <entidade " Stannis Baratheon"> Stannis</entidade> was planning on doing next.
-<entidade " Davos"> Davos</entidade> visits the tent of <entidade " Stannis Baratheon"> Stannis</entidade>'s daughter <entidade " Shireen Baratheon"> Shireen Baratheon</entidade> to say goodbye.
-She is enjoying reading a book by  Grand Maester Munkun about the Dance of the Dragons,a major civil war in the history of the <entidade " Seven Kingdoms"> Seven Kingdoms</entidade>.
-They share a laugh about how a knight tried to kill the dragon <entidade " Vhagar"> Vhagar</entidade> by sneaking up on it with a mirrored shield,but it didn't fool the dragon,who promptly roasted the knight.
-<entidade " Davos"> Davos</entidade> gives her a wooden stag figurine he has been carving as a present.
-She asks why he has been so nice to her,and he explains that he felt bad that his son <entidade " Matthos"> Matthos</entidade> always insisted that his father learn to read and he never did.
-<entidade " Matthos"> Matthos</entidade> died in the war,and by teaching <entidade " Davos"> Davos</entidade> to read <entidade " Shireen Baratheon"> Shireen</entidade> helped him fulfill his son's wish.
-Some time after <entidade " Davos"> Davos</entidade> leaves,<entidade " Stannis Baratheon"> Stannis</entidade> himself visits <entidade " Shireen Baratheon"> Shireen</entidade>,visibly shaken but trying to speak to her kindly.
-He asks about her reading,and she explains that The <entidade " Dance of the Dragons"> Dance of the Dragons</entidade> was a great civil war between <entidade " Rhaenyra Targaryen"> Rhaenyra Targaryen</entidade> and her half-brother <entidade " Aegon"> Aegon</entidade>,each of whom thought they deserved to sit on the <entidade " Iron Throne"> Iron Throne</entidade>.
-The great lords of the <entidade " Seven Kingdoms"> Seven Kingdoms</entidade> each declared for one or the other,dividing the realm in half,and tearing <entidade " Westeros"> Westeros</entidade> apart.
-<entidade " Brother"> Brother</entidade> fought brother and dragon fought dragon in the devastating war.
-It was a disaster for <entidade " House Targaryen"> House Targaryen</entidade> as well,who never truly recovered.
-<entidade " Stannis Baratheon"> Stannis</entidade> asks who she would have chosen,<entidade " Rhaenyra Targaryen"> Rhaenyra</entidade> or <entidade " Aegon"> Aegon</entidade>,and she says she wouldn't have chosen either - it was all of the choosing sides that plunged <entidade " Westeros"> Westeros</entidade> into civil war.
-<entidade " Stannis Baratheon"> Stannis</entidade> gravely responds that sometimes the world forces a man to choose even if he doesn't want to,but if he stays true to himself he knows what he must do,and then it isn't really a choice at all - even if he hates doing it.
-<entidade " Shireen Baratheon"> Shireen</entidade> says it's all right and she wants to help him,though he responds that she doesn't even know what he wants.
+<entidade "Davos">Davos</entidade> notes that their situation is now dire : they don't have enough food to make the march back to <entidade "Castle Black">Castle Black</entidade> or to advance to <entidade "Winterfell">Winterfell</entidade>,and without their siege weapons they have little chance of storming the castle to take its food supplies anyway.
+<entidade "Stannis Baratheon">Stannis</entidade> asks how this could happen and <entidade "Davos">Davos</entidade> insists that the <entidade "Boltons">Boltons</entidade> know the <entidade "North">North</entidade>'s terrain better than they do so it was easy for a raiding party to sneak into camp.
+<entidade "Stannis Baratheon">Stannis</entidade> suggests that the watchmen were either collaborating with the enemy or simply not attentive enough at their posts to allow such a disaster - either way he orders them to be executed.
+<entidade "Stannis Baratheon">Stannis</entidade> says to slaughter the dead horses for their meat,which should at least buy them a little time.
+<entidade "Stannis Baratheon">Stannis</entidade>'s demeanor becomes grave and half-stunned,as he believes there is only one course of action to take.
+He starts by ordering <entidade "Davos">Davos</entidade> to return to <entidade "Castle Black">Castle Black</entidade> to ask for more supplies from <entidade "Jon Snow">Jon Snow</entidade>.
+<entidade "Davos">Davos</entidade> is confused given that even if <entidade "Jon Snow">Jon</entidade> did decide to resupply them the provisions probably wouldn't reach them in time,and wonders why <entidade "Stannis Baratheon">Stannis</entidade> would send him instead of just a messenger.
+<entidade "Stannis Baratheon">Stannis</entidade> insists that it is because he needs his Hand of the <entidade "King">King</entidade> to engage in diplomacy to win <entidade "Jon Snow">Jon</entidade> over - but in reality,<entidade "Stannis Baratheon">Stannis</entidade> sends <entidade "Davos">Davos</entidade> away so he wouldn't be around to stop what <entidade "Stannis Baratheon">Stannis</entidade> was planning on doing next.
+<entidade "Davos">Davos</entidade> visits the tent of <entidade "Stannis Baratheon">Stannis</entidade>'s daughter <entidade "Shireen Baratheon">Shireen Baratheon</entidade> to say goodbye.
+She is enjoying reading a book by Grand Maester Munkun about the Dance of the Dragons,a major civil war in the history of the <entidade "Seven Kingdoms">Seven Kingdoms</entidade>.
+They share a laugh about how a knight tried to kill the dragon <entidade "Vhagar">Vhagar</entidade> by sneaking up on it with a mirrored shield,but it didn't fool the dragon,who promptly roasted the knight.
+<entidade "Davos">Davos</entidade> gives her a wooden stag figurine he has been carving as a present.
+She asks why he has been so nice to her,and he explains that he felt bad that his son <entidade "Matthos">Matthos</entidade> always insisted that his father learn to read and he never did.
+<entidade "Matthos">Matthos</entidade> died in the war,and by teaching <entidade "Davos">Davos</entidade> to read <entidade "Shireen Baratheon">Shireen</entidade> helped him fulfill his son's wish.
+Some time after <entidade "Davos">Davos</entidade> leaves,<entidade "Stannis Baratheon">Stannis</entidade> himself visits <entidade "Shireen Baratheon">Shireen</entidade>,visibly shaken but trying to speak to her kindly.
+He asks about her reading,and she explains that The <entidade "Dance of the Dragons">Dance of the Dragons</entidade> was a great civil war between <entidade "Rhaenyra Targaryen">Rhaenyra Targaryen</entidade> and her half-brother <entidade "Aegon">Aegon</entidade>,each of whom thought they deserved to sit on the <entidade "Iron Throne">Iron Throne</entidade>.
+The great lords of the <entidade "Seven Kingdoms">Seven Kingdoms</entidade> each declared for one or the other,dividing the realm in half,and tearing <entidade "Westeros">Westeros</entidade> apart.
+<entidade "Brother">Brother</entidade> fought brother and dragon fought dragon in the devastating war.
+It was a disaster for <entidade "House Targaryen">House Targaryen</entidade> as well,who never truly recovered.
+<entidade "Stannis Baratheon">Stannis</entidade> asks who she would have chosen,<entidade "Rhaenyra Targaryen">Rhaenyra</entidade> or <entidade "Aegon">Aegon</entidade>,and she says she wouldn't have chosen either - it was all of the choosing sides that plunged <entidade "Westeros">Westeros</entidade> into civil war.
+<entidade "Stannis Baratheon">Stannis</entidade> gravely responds that sometimes the world forces a man to choose even if he doesn't want to,but if he stays true to himself he knows what he must do,and then it isn't really a choice at all - even if he hates doing it.
+<entidade "Shireen Baratheon">Shireen</entidade> says it's all right and she wants to help him,though he responds that she doesn't even know what he wants.
 She doesn't care and asks if there is any way she can help,and he says that there is.
-Shireen insists that she wants to,because she is <entidade " Princess Shireen of House Baratheon"> Princess Shireen of House Baratheon</entidade>,his daughter.
-They hug and he embraces her tightly and <entidade " Stannis Baratheon"> Stannis</entidade> whispers forgive me.
-Later,<entidade " Shireen Baratheon"> Shireen</entidade> exits her tent as well and sees all of the soldiers gathered around,and asks where her father is.
-Coming to the front of the assembly,she sees <entidade " Melisandre"> Melisandre</entidade> in front of a wooden pyre with a large stake in the middle.
+Shireen insists that she wants to,because she is <entidade "Princess Shireen of House Baratheon">Princess Shireen of House Baratheon</entidade>,his daughter.
+They hug and he embraces her tightly and <entidade "Stannis Baratheon">Stannis</entidade> whispers forgive me.
+Later,<entidade "Shireen Baratheon">Shireen</entidade> exits her tent as well and sees all of the soldiers gathered around,and asks where her father is.
+Coming to the front of the assembly,she sees <entidade "Melisandre">Melisandre</entidade> in front of a wooden pyre with a large stake in the middle.
 She starts shouting to see her father,but is grabbed by soldiers who drag her to the pyre and tie her to the stake.
-<entidade " Melisandre"> Melisandre</entidade> soothingly tries to calm her by saying that it will all be over soon.
-<entidade " Shireen Baratheon"> Shireen</entidade>'s cries ring out through the camp,but no one intervenes.
-<entidade " Stannis Baratheon"> Stannis</entidade> and <entidade " Shireen Baratheon"> Shireen</entidade>'s mother <entidade " Selyse"> Selyse</entidade> then appear in the crowd.
+<entidade "Melisandre">Melisandre</entidade> soothingly tries to calm her by saying that it will all be over soon.
+<entidade "Shireen Baratheon">Shireen</entidade>'s cries ring out through the camp,but no one intervenes.
+<entidade "Stannis Baratheon">Stannis</entidade> and <entidade "Shireen Baratheon">Shireen</entidade>'s mother <entidade "Selyse">Selyse</entidade> then appear in the crowd.
 Shireen sees them and begs her mother and father to help,but they do nothing.
-<entidade " Selyse"> Selyse</entidade> insists aloud to herself that the sacrifice is what the <entidade " Lord of Light"> Lord of Light</entidade> wants.
+<entidade "Selyse">Selyse</entidade> insists aloud to herself that the sacrifice is what the <entidade "Lord of Light">Lord of Light</entidade> wants.
 
-<entidade " Stannis Baratheon"> Stannis</entidade> watches as <entidade " Shireen Baratheon"> Shireen</entidade> is sacrificed.
-<entidade " Melisandre"> Melisandre</entidade> begins praying and announces that they offer up the life of this girl to the <entidade " Lord of Light"> Lord of Light</entidade>,and sets the pyre on fire.
-As she explained to <entidade " Stannis Baratheon"> Stannis</entidade> before,she believes that sacrificing <entidade " Shireen Baratheon"> Shireen</entidade>'s life - which contains the power of a king's blood - will gain the <entidade " Lord of Light"> Lord of Light</entidade>'s favor,who in return will aid them in their time of need by lifting the blizzard.
-<entidade " Stannis Baratheon"> Stannis</entidade> believes that if they do nothing,they will remain snowbound and all starve to death here.
-Shireen continues to repeatedly cry <entidade " Mother"> Mother</entidade>,please ! 
-and <entidade " Father"> Father</entidade>,please ! 
-- eventually even <entidade " Selyse"> Selyse</entidade>,who only had a cold and non-existent relationship with her daughter,suddenly breaks and rushes forward,begging that they can't go through with it.
+<entidade "Stannis Baratheon">Stannis</entidade> watches as <entidade "Shireen Baratheon">Shireen</entidade> is sacrificed.
+<entidade "Melisandre">Melisandre</entidade> begins praying and announces that they offer up the life of this girl to the <entidade "Lord of Light">Lord of Light</entidade>,and sets the pyre on fire.
+As she explained to <entidade "Stannis Baratheon">Stannis</entidade> before,she believes that sacrificing <entidade "Shireen Baratheon">Shireen</entidade>'s life - which contains the power of a king's blood - will gain the <entidade "Lord of Light">Lord of Light</entidade>'s favor,who in return will aid them in their time of need by lifting the blizzard.
+<entidade "Stannis Baratheon">Stannis</entidade> believes that if they do nothing,they will remain snowbound and all starve to death here.
+Shireen continues to repeatedly cry <entidade "Mother">Mother</entidade>,please ! 
+and <entidade "Father">Father</entidade>,please ! 
+- eventually even <entidade "Selyse">Selyse</entidade>,who only had a cold and non-existent relationship with her daughter,suddenly breaks and rushes forward,begging that they can't go through with it.
 Soldiers restrain her,however,and she sinks to the ground crying in despair.
-<entidade " Shireen Baratheon"> Shireen</entidade>'s cries become even more frightened,but <entidade " Stannis Baratheon"> Stannis</entidade> continues to watch even as <entidade " Selyse"> Selyse</entidade> sobs on the ground.
-As the flames begin to consume <entidade " Shireen Baratheon"> Shireen</entidade> she wordlessly screams in pain and fear,and eventually even <entidade " Stannis Baratheon"> Stannis</entidade> can not bear to look anymore as she burns to death.
+<entidade "Shireen Baratheon">Shireen</entidade>'s cries become even more frightened,but <entidade "Stannis Baratheon">Stannis</entidade> continues to watch even as <entidade "Selyse">Selyse</entidade> sobs on the ground.
+As the flames begin to consume <entidade "Shireen Baratheon">Shireen</entidade> she wordlessly screams in pain and fear,and eventually even <entidade "Stannis Baratheon">Stannis</entidade> can not bear to look anymore as she burns to death.
 
-In <entidade " Dorne"> Dorne</entidade> 
-<entidade " Jaime"> Jaime</entidade> sits and speaks with <entidade " Doran"> Doran</entidade>.
-<entidade " Jaime Lannister"> Jaime Lannister</entidade> is escorted into the main apartments of the <entidade " Water"> Water</entidade>  Gardens by Areo Hotah,to be received by <entidade " Prince Doran Martell"> Prince Doran Martell</entidade> in a luxurious solar,along with <entidade " Ellaria Sand"> Ellaria Sand</entidade>,<entidade " Doran"> Doran</entidade>'s son <entidade " Trystane Martell"> Trystane Martell</entidade>,and <entidade " Jaime Lannister"> Jaime</entidade>'s niece <entidade " Myrcella Baratheon"> Myrcella Baratheon</entidade>.
-They lounge on a circle of couches,<entidade " Myrcella Baratheon"> Myrcella</entidade> cuddling with <entidade " Trystane Martell"> Trystane</entidade>.
-<entidade " Jaime Lannister"> Jaime</entidade> notes that <entidade " Myrcella Baratheon"> Myrcella</entidade> is wearing a revealing Dornish-style dress now,and she says that the warm climate of <entidade " Dorne"> Dorne</entidade> agrees with her.
-Coming to the point,<entidade " Doran"> Doran</entidade> asks <entidade " Jaime Lannister"> Jaime</entidade> why he has snuck in to <entidade " Dorne"> Dorne</entidade> to abduct <entidade " Myrcella Baratheon"> Myrcella</entidade> back to <entidade " King's Landing"> King's Landing</entidade>.
-He says he feared for her safety,but when <entidade " Doran"> Doran</entidade> insists why he didn't just send a letter by messenger-raven,he explains that they received a threatening message : Myrcella's <entidade " Lannister"> Lannister</entidade> lion pendant jammed in the mouth of dead viper.
-<entidade " Doran"> Doran</entidade> glares at <entidade " Ellaria Sand"> Ellaria</entidade>,while a confused Myrcella explains that her pendant was simply stolen from her room.
-<entidade " Jaime Lannister"> Jaime</entidade> asks if <entidade " Doran"> Doran</entidade> intends to behead him,but ( acting more sympathetic now that <entidade " Jaime Lannister"> Jaime</entidade> revealed he was threatened first ) he says that he will not,because he wishes to avoid war.
+In <entidade "Dorne">Dorne</entidade> 
+<entidade "Jaime">Jaime</entidade> sits and speaks with <entidade "Doran">Doran</entidade>.
+<entidade "Jaime Lannister">Jaime Lannister</entidade> is escorted into the main apartments of the <entidade "Water">Water</entidade> Gardens by Areo Hotah,to be received by <entidade "Doran Martell">Prince Doran Martell</entidade> in a luxurious solar,along with <entidade "Ellaria Sand">Ellaria Sand</entidade>,<entidade "Doran Martell">Doran</entidade>'s son <entidade "Trystane Martell">Trystane Martell</entidade>,and <entidade "Jaime Lannister">Jaime</entidade>'s niece <entidade "Myrcella Baratheon">Myrcella Baratheon</entidade>.
+They lounge on a circle of couches,<entidade "Myrcella Baratheon">Myrcella</entidade> cuddling with <entidade "Trystane Martell">Trystane</entidade>.
+<entidade "Jaime Lannister">Jaime</entidade> notes that <entidade "Myrcella Baratheon">Myrcella</entidade> is wearing a revealing Dornish-style dress now,and she says that the warm climate of <entidade "Dorne">Dorne</entidade> agrees with her.
+Coming to the point,<entidade "Doran Martell">Doran</entidade> asks <entidade "Jaime Lannister">Jaime</entidade> why he has snuck in to <entidade "Dorne">Dorne</entidade> to abduct <entidade "Myrcella Baratheon">Myrcella</entidade> back to <entidade "King's Landing">King's Landing</entidade>.
+He says he feared for her safety,but when <entidade "Doran Martell">Doran</entidade> insists why he didn't just send a letter by messenger-raven,he explains that they received a threatening message : Myrcella's <entidade "Lannister">Lannister</entidade> lion pendant jammed in the mouth of dead viper.
+<entidade "Doran Martell">Doran</entidade> glares at <entidade "Ellaria Sand">Ellaria</entidade>,while a confused Myrcella explains that her pendant was simply stolen from her room.
+<entidade "Jaime Lannister">Jaime</entidade> asks if <entidade "Doran Martell">Doran</entidade> intends to behead him,but ( acting more sympathetic now that <entidade "Jaime Lannister">Jaime</entidade> revealed he was threatened first ) he says that he will not,because he wishes to avoid war.
 He has seen what war can do,bodies piled on the battlefield and orphans left starving in cities at home,and he will not lead his people into that.
-<entidade " Ellaria Sand"> Ellaria</entidade> bluntly asks what he will do,break bread with the Lannisters ? 
-However he says that is precisely what he will do,as wine is poured for <entidade " Jaime Lannister"> Jaime</entidade>,and he raises his own goblet and offers a toast to <entidade " King Tommen"> King Tommen</entidade>,<entidade " First"> First</entidade> of His Name,long may he reign.
-<entidade " Jaime Lannister"> Jaime</entidade> returns the toast but <entidade " Ellaria Sand"> Ellaria</entidade> deliberately pours out her wine onto the floor in disgust.
-<entidade " Doran"> Doran</entidade> asks if <entidade " Tommen"> Tommen</entidade> indeed commands that his sister be returned to the capital,and <entidade " Jaime Lannister"> Jaime</entidade> politely says he does,to which <entidade " Doran"> Doran</entidade> says he can not disobey his king - Myrcella will return to <entidade " King's Landing"> King's Landing</entidade>.
-She is upset for a moment,but then <entidade " Doran"> Doran</entidade> explains his solution : his son <entidade " Trystane Martell"> Trystane</entidade> will go along with them,to take over the seat on the <entidade " Small Council"> Small Council</entidade> which <entidade " Tywin"> Tywin</entidade> granted to <entidade " Oberyn"> Oberyn</entidade>,but which was vacated by his death.
-<entidade " Doran"> Doran</entidade> insists that for the alliance between the <entidade " Iron Throne"> Iron Throne</entidade> and <entidade " Dorne"> Dorne</entidade> to continue,the engagement of <entidade " Trystane Martell"> Trystane</entidade> and <entidade " Myrcella Baratheon"> Myrcella</entidade> must stand,and <entidade " Trystane Martell"> Trystane</entidade> will simply take his uncle <entidade " Oberyn"> Oberyn</entidade>'s place on the <entidade " Small Council"> Small Council</entidade>.
-<entidade " Jaime Lannister"> Jaime</entidade> finds <entidade " Doran"> Doran</entidade>'s request entirely reasonable,and <entidade " Myrcella Baratheon"> Myrcella</entidade> is ecstatic that she will not be separated from <entidade " Trystane Martell"> Trystane</entidade>,so Jaime agrees.
-<entidade " Ellaria Sand"> Ellaria</entidade> gets up to leave and snaps that it is no wonder that <entidade " Doran"> Doran</entidade> can not stand,because he has no spine.
+<entidade "Ellaria Sand">Ellaria</entidade> bluntly asks what he will do,break bread with the Lannisters ? 
+However he says that is precisely what he will do,as wine is poured for <entidade "Jaime Lannister">Jaime</entidade>,and he raises his own goblet and offers a toast to <entidade "King Tommen">King Tommen</entidade>,<entidade "First">First</entidade> of His Name,long may he reign.
+<entidade "Jaime Lannister">Jaime</entidade> returns the toast but <entidade "Ellaria Sand">Ellaria</entidade> deliberately pours out her wine onto the floor in disgust.
+<entidade "Doran Martell">Doran</entidade> asks if <entidade "Tommen">Tommen</entidade> indeed commands that his sister be returned to the capital,and <entidade "Jaime Lannister">Jaime</entidade> politely says he does,to which <entidade "Doran Martell">Doran</entidade> says he can not disobey his king - Myrcella will return to <entidade "King's Landing">King's Landing</entidade>.
+She is upset for a moment,but then <entidade "Doran Martell">Doran</entidade> explains his solution : his son <entidade "Trystane Martell">Trystane</entidade> will go along with them,to take over the seat on the <entidade "Small Council">Small Council</entidade> which <entidade "Tywin">Tywin</entidade> granted to <entidade "Oberyn">Oberyn</entidade>,but which was vacated by his death.
+<entidade "Doran Martell">Doran</entidade> insists that for the alliance between the <entidade "Iron Throne">Iron Throne</entidade> and <entidade "Dorne">Dorne</entidade> to continue,the engagement of <entidade "Trystane Martell">Trystane</entidade> and <entidade "Myrcella Baratheon">Myrcella</entidade> must stand,and <entidade "Trystane Martell">Trystane</entidade> will simply take his uncle <entidade "Oberyn">Oberyn</entidade>'s place on the <entidade "Small Council">Small Council</entidade>.
+<entidade "Jaime Lannister">Jaime</entidade> finds <entidade "Doran Martell">Doran</entidade>'s request entirely reasonable,and <entidade "Myrcella Baratheon">Myrcella</entidade> is ecstatic that she will not be separated from <entidade "Trystane Martell">Trystane</entidade>,so Jaime agrees.
+<entidade "Ellaria Sand">Ellaria</entidade> gets up to leave and snaps that it is no wonder that <entidade "Doran Martell">Doran</entidade> can not stand,because he has no spine.
 As she walks out he grabs her by the arm and lowers his voice,saying that she is the mother of four of his nieces and for their sake he hopes she has a long and happy life but if she talks to him that way again,she will not.
-<entidade " Jaime Lannister"> Jaime</entidade> then asks what fate will befall <entidade " Bronn"> Bronn</entidade>,who is still imprisoned.
-<entidade " Bronn"> Bronn</entidade> punched out <entidade " Trystane Martell"> Trystane</entidade> when they tried to take <entidade " Myrcella Baratheon"> Myrcella</entidade>,and <entidade " Jaime Lannister"> Jaime</entidade> is asked what the normal punishment is for striking a prince where he is from.
-<entidade " Jaime Lannister"> Jaime</entidade> politely insists that <entidade " Bronn"> Bronn</entidade> was only following orders and they can't punish him for simply following <entidade " Jaime Lannister"> Jaime</entidade>'s commands.
-<entidade " Trystane Martell"> Trystane</entidade> agrees,saying he has learned the value of mercy from his father,but that he has one condition.
-In the prison cells,<entidade " Nymeria"> Nymeria</entidade> and <entidade " Tyene Sand"> Tyene Sand</entidade> spar out of boredom,as <entidade " Obara"> Obara</entidade> tries to ignore them and get some sleep.
-The guards arrive and release <entidade " Bronn"> Bronn</entidade>,and <entidade " Tyene Sand"> Tyene</entidade> mocks him as he leaves.
-<entidade " Areo"> Areo</entidade> leads <entidade " Bronn"> Bronn</entidade> back to the solar where <entidade " Doran"> Doran</entidade>,<entidade " Jaime Lannister"> Jaime</entidade>,and the rest remain.
-<entidade " Bronn"> Bronn</entidade> apologizes to Trystane when he sees him and says he didn't mean anything by hitting him before.
-Jaime then gladly informs  Bronn that the Martells agreed to let <entidade " Bronn"> Bronn</entidade> go with <entidade " Jaime Lannister"> Jaime</entidade>,but on one condition : wordlessly,<entidade " Areo"> Areo</entidade> then delivers it by striking <entidade " Bronn"> Bronn</entidade> in the face with his elbow,the large guard captain hitting him so hard that he is knocked to the floor.
-Thus his debt to <entidade " Trystane Martell"> Trystane</entidade> is settled.
-Later,in the courtyard,<entidade " Areo"> Areo</entidade> brings <entidade " Ellaria Sand"> Ellaria</entidade> and the  Sand Snakes before Prince Doran in his wheelchair.
-<entidade " Doran"> Doran</entidade> gives <entidade " Ellaria Sand"> Ellaria</entidade> an ultimatum : she can either choose to swear allegiance to him ( and that she will not try something like this again ),or she can choose death.
+<entidade "Jaime Lannister">Jaime</entidade> then asks what fate will befall <entidade "Bronn">Bronn</entidade>,who is still imprisoned.
+<entidade "Bronn">Bronn</entidade> punched out <entidade "Trystane Martell">Trystane</entidade> when they tried to take <entidade "Myrcella Baratheon">Myrcella</entidade>,and <entidade "Jaime Lannister">Jaime</entidade> is asked what the normal punishment is for striking a prince where he is from.
+<entidade "Jaime Lannister">Jaime</entidade> politely insists that <entidade "Bronn">Bronn</entidade> was only following orders and they can't punish him for simply following <entidade "Jaime Lannister">Jaime</entidade>'s commands.
+<entidade "Trystane Martell">Trystane</entidade> agrees,saying he has learned the value of mercy from his father,but that he has one condition.
+In the prison cells,<entidade "Nymeria">Nymeria</entidade> and <entidade "Tyene Sand">Tyene Sand</entidade> spar out of boredom,as <entidade "Obara">Obara</entidade> tries to ignore them and get some sleep.
+The guards arrive and release <entidade "Bronn">Bronn</entidade>,and <entidade "Tyene Sand">Tyene</entidade> mocks him as he leaves.
+<entidade "Areo">Areo</entidade> leads <entidade "Bronn">Bronn</entidade> back to the solar where <entidade "Doran Martell">Doran</entidade>,<entidade "Jaime Lannister">Jaime</entidade>,and the rest remain.
+<entidade "Bronn">Bronn</entidade> apologizes to Trystane when he sees him and says he didn't mean anything by hitting him before.
+Jaime then gladly informs Bronn that the Martells agreed to let <entidade "Bronn">Bronn</entidade> go with <entidade "Jaime Lannister">Jaime</entidade>,but on one condition : wordlessly,<entidade "Areo">Areo</entidade> then delivers it by striking <entidade "Bronn">Bronn</entidade> in the face with his elbow,the large guard captain hitting him so hard that he is knocked to the floor.
+Thus his debt to <entidade "Trystane Martell">Trystane</entidade> is settled.
+Later,in the courtyard,<entidade "Areo">Areo</entidade> brings <entidade "Ellaria Sand">Ellaria</entidade> and the Sand Snakes before Prince Doran in his wheelchair.
+<entidade "Doran Martell">Doran</entidade> gives <entidade "Ellaria Sand">Ellaria</entidade> an ultimatum : she can either choose to swear allegiance to him ( and that she will not try something like this again ),or she can choose death.
 Restraining tears,she kneels and kisses his hand.
-<entidade " Doran"> Doran</entidade> says that he believes in second chances and she is forgiven - but sternly warns her that he does not believe in third chances.
-<entidade " Ellaria Sand"> Ellaria</entidade> then finds <entidade " Jaime Lannister"> Jaime</entidade> in a study writing a letter back to <entidade " King"> King</entidade>'s Landing informing of his return.
-He writes very poorly,given that he is using his non-dominant left hand,and <entidade " Ellaria Sand"> Ellaria</entidade> remarks that he writes like a seven year old.
-<entidade " Ellaria Sand"> Ellaria</entidade> notes how odd it is that she and <entidade " Oberyn"> Oberyn</entidade> were looked down on for their sexuality in <entidade " King's Landing"> King's Landing</entidade>,and <entidade " Jaime Lannister"> Jaime</entidade> is scorned for his incestuous love for <entidade " Cersei"> Cersei</entidade> - to which he remains silent and gives no acknowledgement - though a hundred years ago,if his name were <entidade " Targaryen"> Targaryen</entidade>,no one would have blinked an eye at such a relationship.
-<entidade " Cryptically"> Cryptically</entidade> ( perhaps spurred by <entidade " Doran"> Doran</entidade> ),she then says that she knows your daughter <entidade " Myrcella Baratheon"> Myrcella</entidade> had no part in what befell <entidade " Oberyn"> Oberyn</entidade>,and maybe even <entidade " Jaime Lannister"> Jaime</entidade> is innocent of that ( and indeed he is,as <entidade " Oberyn"> Oberyn</entidade> volunteered for the trial by combat ).
-She exits,and <entidade " Jaime Lannister"> Jaime</entidade> is left to ponder what seems to be her apology.
+<entidade "Doran Martell">Doran</entidade> says that he believes in second chances and she is forgiven - but sternly warns her that he does not believe in third chances.
+<entidade "Ellaria Sand">Ellaria</entidade> then finds <entidade "Jaime Lannister">Jaime</entidade> in a study writing a letter back to <entidade "King Tommen">King</entidade>'s Landing informing of his return.
+He writes very poorly,given that he is using his non-dominant left hand,and <entidade "Ellaria Sand">Ellaria</entidade> remarks that he writes like a seven year old.
+<entidade "Ellaria Sand">Ellaria</entidade> notes how odd it is that she and <entidade "Oberyn">Oberyn</entidade> were looked down on for their sexuality in <entidade "King's Landing">King's Landing</entidade>,and <entidade "Jaime Lannister">Jaime</entidade> is scorned for his incestuous love for <entidade "Cersei">Cersei</entidade> - to which he remains silent and gives no acknowledgement - though a hundred years ago,if his name were <entidade "Targaryen">Targaryen</entidade>,no one would have blinked an eye at such a relationship.
+<entidade "Cryptically">Cryptically</entidade> ( perhaps spurred by <entidade "Doran Martell">Doran</entidade> ),she then says that she knows your daughter <entidade "Myrcella Baratheon">Myrcella</entidade> had no part in what befell <entidade "Oberyn">Oberyn</entidade>,and maybe even <entidade "Jaime Lannister">Jaime</entidade> is innocent of that ( and indeed he is,as <entidade "Oberyn">Oberyn</entidade> volunteered for the trial by combat ).
+She exits,and <entidade "Jaime Lannister">Jaime</entidade> is left to ponder what seems to be her apology.
 
-In <entidade " Braavos"> Braavos</entidade> 
-<entidade " Arya"> Arya</entidade>,or <entidade " Lanna"> Lanna</entidade>,sells oysters,clams,and cockles on the canal streets.
-<entidade " Arya"> Arya</entidade>,in her <entidade " Lanna"> Lanna</entidade> persona,is once again pushing her cart through the canal streets of <entidade " Braavos"> Braavos</entidade> selling oysters,clams,and cockles.
-She passes the <entidade " Thin"> Thin</entidade> man who sells insurance to sailors,having been given a mission by the <entidade " Faceless Men"> Faceless Men</entidade> to assassinate him with poisoned oysters.
+In <entidade "Braavos">Braavos</entidade> 
+<entidade "Arya">Arya</entidade>,or <entidade "Lanna">Lanna</entidade>,sells oysters,clams,and cockles on the canal streets.
+<entidade "Arya">Arya</entidade>,in her <entidade "Lanna">Lanna</entidade> persona,is once again pushing her cart through the canal streets of <entidade "Braavos">Braavos</entidade> selling oysters,clams,and cockles.
+She passes the <entidade "Thin">Thin</entidade> man who sells insurance to sailors,having been given a mission by the <entidade "Faceless Men">Faceless Men</entidade> to assassinate him with poisoned oysters.
 Just as she reaches him,however,she stops in her tracks and stares fixedly on a boat at the dock which has caught her full attention.
-Stepping out of the boat is <entidade " Master of Coin Mace Tyrell"> Master of Coin Mace Tyrell</entidade> - and the commander of his guards is none other than <entidade " Ser Meryn Trant of the Kingsguard"> Ser Meryn Trant of the Kingsguard</entidade>,one of the names on <entidade " Arya"> Arya</entidade>'s kill list which she recites as a daily prayer.
-<entidade " Meryn"> Meryn</entidade> helped betray her father and killed her <entidade " Water Dancing"> Water Dancing</entidade> trainer <entidade " Syrio Forel"> Syrio Forel</entidade>.
-Mace was sent by <entidade " Cersei Lannister"> Cersei Lannister</entidade> to treat with the <entidade " Iron Bank of Braavos"> Iron Bank of Braavos</entidade>,which has started calling in the crown's massive debts,and at least try to gain a little more time to deal with the problem from the bankers.
-Mace is greeted at the dock by the bank's representative,<entidade " Tycho Nestoris"> Tycho Nestoris</entidade>.
-Mace addresses <entidade " Tycho Nestoris"> Tycho</entidade> politely and amiably,though he doesn't realize that his jokes aren't really funny.
-All the while <entidade " Arya"> Arya</entidade> remains frozen and staring at <entidade " Ser Meryn Trant of the Kingsguard"> Ser Meryn</entidade>,ignoring the thin man's requests for some of her oysters.
-<entidade " Arya"> Arya</entidade> abandons her mission to assassinate the <entidade " Thin Man"> Thin Man</entidade>,and instead follows <entidade " Ser Meryn Trant of the Kingsguard"> Ser Meryn</entidade> as he accompanies <entidade " Mace"> Mace</entidade>.
-After visiting the <entidade " Iron Bank of Braavos"> Iron Bank</entidade> building,<entidade " Meryn"> Meryn</entidade> and a few other <entidade " Lannister"> Lannister</entidade> guards depart from <entidade " Mace"> Mace</entidade> at night and go to visit a local brothel.
-<entidade " Arya"> Arya</entidade> sneaks into the brothel under the guise of simply selling her oysters and clams from a hand basket.
-The bouncer <entidade " Brusco"> Brusco</entidade> doesn't want her in at first but the prostitute <entidade " Lhara"> Lhara</entidade>,who is one of <entidade " Arya"> Arya</entidade>'s regular customers,tells him to let her stay,as oysters are held to be an aphrodisiac.
-<entidade " Arya"> Arya</entidade> sells a few and then makes her way to the back chambers where she spies on <entidade " Meryn"> Meryn</entidade> from behind some shutters.
-<entidade " Meryn"> Meryn</entidade> catches a brief look at her at one point,and she seems vaguely familiar,but he just shrugs it off ( it has been years since he last saw her,she is older and thus looks different,she has different <entidade " Braavosi-style"> Braavosi-style</entidade> hair and clothes,and he doesn't think that <entidade " Arya"> Arya</entidade> would logically be in <entidade " Braavosi-style"> Braavos</entidade> ).
-The brothel's madam presents several girls in succession to <entidade " Meryn"> Meryn</entidade>,but he passes on each as too old.
-She brings out her best and most expensive prostitute,a beautiful young woman named <entidade " Anara"> Anara</entidade>,but <entidade " Meryn"> Meryn</entidade> again dismisses her as too old.
-The madam slowly realizes that <entidade " Meryn"> Meryn</entidade> is perversely interested in young girls who are barely teenagers - around <entidade " Arya"> Arya</entidade>'s age - so she brings out a very young girl who <entidade " Meryn"> Meryn</entidade> accepts gruffly,bluntly saying he expects another fresh one tomorrow.
-After he leaves the madam runs into <entidade " Arya"> Arya</entidade> and shoos her out.
-Later,<entidade " Arya"> Arya</entidade> returns to the <entidade " House of Black"> House of Black</entidade> and <entidade " White"> White</entidade> empty-handed,having abandoned her first mission for the <entidade " Faceless Men"> Faceless Men</entidade>.
-When <entidade " Jaqen H'ghar"> Jaqen H'ghar</entidade> asks what happened,she lies to him and says that the <entidade " Thin Man"> Thin Man</entidade> simply wasn't hungry today and didn't order any of her oysters.
-<entidade " Jaqen H'ghar"> Jaqen</entidade> quips that perhaps this is why he is a thin man,and <entidade " Arya"> Arya</entidade> promises that she will follow through on the assassination tomorrow.
-She departs,and while <entidade " Jaqen H'ghar"> Jaqen</entidade> seems to suspect that she was lying,he makes no outward reaction to it.
+Stepping out of the boat is <entidade "Master of Coin Mace Tyrell">Master of Coin Mace Tyrell</entidade> - and the commander of his guards is none other than <entidade "Ser Meryn Trant of the Kingsguard">Ser Meryn Trant of the Kingsguard</entidade>,one of the names on <entidade "Arya">Arya</entidade>'s kill list which she recites as a daily prayer.
+<entidade "Meryn">Meryn</entidade> helped betray her father and killed her <entidade "Water Dancing">Water Dancing</entidade> trainer <entidade "Syrio Forel">Syrio Forel</entidade>.
+Mace was sent by <entidade "Cersei Lannister">Cersei Lannister</entidade> to treat with the <entidade "Iron Bank of Braavos">Iron Bank of Braavos</entidade>,which has started calling in the crown's massive debts,and at least try to gain a little more time to deal with the problem from the bankers.
+Mace is greeted at the dock by the bank's representative,<entidade "Tycho Nestoris">Tycho Nestoris</entidade>.
+Mace addresses <entidade "Tycho Nestoris">Tycho</entidade> politely and amiably,though he doesn't realize that his jokes aren't really funny.
+All the while <entidade "Arya">Arya</entidade> remains frozen and staring at <entidade "Meryn">Ser Meryn</entidade>,ignoring the thin man's requests for some of her oysters.
+<entidade "Arya">Arya</entidade> abandons her mission to assassinate the <entidade "Thin Man">Thin Man</entidade>,and instead follows <entidade "Meryn">Ser Meryn</entidade> as he accompanies <entidade "Mace">Mace</entidade>.
+After visiting the <entidade "Iron Bank of Braavos">Iron Bank</entidade> building,<entidade "Meryn">Meryn</entidade> and a few other <entidade "Lannister">Lannister</entidade> guards depart from <entidade "Mace">Mace</entidade> at night and go to visit a local brothel.
+<entidade "Arya">Arya</entidade> sneaks into the brothel under the guise of simply selling her oysters and clams from a hand basket.
+The bouncer <entidade "Brusco">Brusco</entidade> doesn't want her in at first but the prostitute <entidade "Lhara">Lhara</entidade>,who is one of <entidade "Arya">Arya</entidade>'s regular customers,tells him to let her stay,as oysters are held to be an aphrodisiac.
+<entidade "Arya">Arya</entidade> sells a few and then makes her way to the back chambers where she spies on <entidade "Meryn">Meryn</entidade> from behind some shutters.
+<entidade "Meryn">Meryn</entidade> catches a brief look at her at one point,and she seems vaguely familiar,but he just shrugs it off ( it has been years since he last saw her,she is older and thus looks different,she has different <entidade "Braavosi-style">Braavosi-style</entidade> hair and clothes,and he doesn't think that <entidade "Arya">Arya</entidade> would logically be in <entidade "Braavosi-style">Braavos</entidade> ).
+The brothel's madam presents several girls in succession to <entidade "Meryn">Meryn</entidade>,but he passes on each as too old.
+She brings out her best and most expensive prostitute,a beautiful young woman named <entidade "Anara">Anara</entidade>,but <entidade "Meryn">Meryn</entidade> again dismisses her as too old.
+The madam slowly realizes that <entidade "Meryn">Meryn</entidade> is perversely interested in young girls who are barely teenagers - around <entidade "Arya">Arya</entidade>'s age - so she brings out a very young girl who <entidade "Meryn">Meryn</entidade> accepts gruffly,bluntly saying he expects another fresh one tomorrow.
+After he leaves the madam runs into <entidade "Arya">Arya</entidade> and shoos her out.
+Later,<entidade "Arya">Arya</entidade> returns to the <entidade "House of Black">House of Black</entidade> and <entidade "White">White</entidade> empty-handed,having abandoned her first mission for the <entidade "Faceless Men">Faceless Men</entidade>.
+When <entidade "Jaqen H'ghar">Jaqen H'ghar</entidade> asks what happened,she lies to him and says that the <entidade "Thin Man">Thin Man</entidade> simply wasn't hungry today and didn't order any of her oysters.
+<entidade "Jaqen H'ghar">Jaqen</entidade> quips that perhaps this is why he is a thin man,and <entidade "Arya">Arya</entidade> promises that she will follow through on the assassination tomorrow.
+She departs,and while <entidade "Jaqen H'ghar">Jaqen</entidade> seems to suspect that she was lying,he makes no outward reaction to it.
 
-In <entidade " Meereen"> Meereen</entidade> 
-<entidade " Dany"> Dany</entidade> claps to start the fights.
-Attended by <entidade " Tyrion Lannister"> Tyrion Lannister</entidade>,<entidade " Missandei"> Missandei</entidade>,and <entidade " Daario Naharis"> Daario Naharis</entidade>,<entidade " Daenerys"> Daenerys</entidade> sits in the royal box at the <entidade " Daznak's Pit"> Daznak's Pit</entidade>.
-<entidade " Hizdahr zo Loraq"> Hizdahr zo Loraq</entidade> arrives late,claiming to have been putting the final touches on the arrangements for the event.
-When the first two combatants take the field,<entidade " Hizdahr zo Loraq"> Hizdahr</entidade> indicates that <entidade " Daenerys"> Daenerys</entidade> is to start the fight with a clap of her hands.
-<entidade " Daario Naharis"> Daario</entidade> verbally spars with <entidade " Hizdahr zo Loraq"> Hizdahr</entidade> for much of the first match,drawing <entidade " Daenerys"> Daenerys</entidade>'s attention from the spectacle in front of her.
-Her attention returns to the arena when <entidade " Jorah Mormont"> Jorah Mormont</entidade> gives the traditional dedication to her.
-In spite of <entidade " Jorah Mormont"> Jorah</entidade>'s previous successes,he has decidedly mixed results in the grand melee he finds himself in.
-The grand melee begins with six fighters,with <entidade " Jorah Mormont"> Jorah</entidade> pairing up against a <entidade " Norvosi"> Norvosi</entidade> long-axe fighter.
-The <entidade " Norvosi"> Norvosi</entidade> is able to land several blows against <entidade " Jorah Mormont"> Jorah</entidade>,eventually knocking him to the ground,however <entidade " Jorah Mormont"> Jorah</entidade> is able to bring out his dagger and eventually bury it into the <entidade " Norvosi"> Norvosi</entidade>'s chest after a brief melee.
+In <entidade "Meereen">Meereen</entidade> 
+<entidade "Dany">Dany</entidade> claps to start the fights.
+Attended by <entidade "Tyrion Lannister">Tyrion Lannister</entidade>,<entidade "Missandei">Missandei</entidade>,and <entidade "Daario Naharis">Daario Naharis</entidade>,<entidade "Daenerys">Daenerys</entidade> sits in the royal box at the <entidade "Daznak's Pit">Daznak's Pit</entidade>.
+<entidade "Hizdahr zo Loraq">Hizdahr zo Loraq</entidade> arrives late,claiming to have been putting the final touches on the arrangements for the event.
+When the first two combatants take the field,<entidade "Hizdahr zo Loraq">Hizdahr</entidade> indicates that <entidade "Daenerys">Daenerys</entidade> is to start the fight with a clap of her hands.
+<entidade "Daario Naharis">Daario</entidade> verbally spars with <entidade "Hizdahr zo Loraq">Hizdahr</entidade> for much of the first match,drawing <entidade "Daenerys">Daenerys</entidade>'s attention from the spectacle in front of her.
+Her attention returns to the arena when <entidade "Jorah Mormont">Jorah Mormont</entidade> gives the traditional dedication to her.
+In spite of <entidade "Jorah Mormont">Jorah</entidade>'s previous successes,he has decidedly mixed results in the grand melee he finds himself in.
+The grand melee begins with six fighters,with <entidade "Jorah Mormont">Jorah</entidade> pairing up against a <entidade "Norvosi">Norvosi</entidade> long-axe fighter.
+The <entidade "Norvosi">Norvosi</entidade> is able to land several blows against <entidade "Jorah Mormont">Jorah</entidade>,eventually knocking him to the ground,however <entidade "Jorah Mormont">Jorah</entidade> is able to bring out his dagger and eventually bury it into the <entidade "Norvosi">Norvosi</entidade>'s chest after a brief melee.
 
-<entidade " Dany"> Dany</entidade> and <entidade " Missandei"> Missandei</entidade> during the riots.
-Meanwhile,a <entidade " Braavosi Water Dancer"> Braavosi Water Dancer</entidade> easily dispatches his <entidade " Dothraki"> Dothraki</entidade> opponent,and then focuses his attention on <entidade " Jorah Mormont"> Jorah</entidade>.
-<entidade " Jorah Mormont"> Jorah</entidade> finds himself hopelessly outmatched by the <entidade " Water Dancer"> Water Dancer</entidade> and suffers many cuts from his opponent's rapier.
-During the fight,a Meerenese <entidade " Pit Fighter"> Pit Fighter</entidade> is able to lance his opponent in the chest.
-The <entidade " Water Dancer"> Water Dancer</entidade> eventually knocks <entidade " Jorah Mormont"> Jorah</entidade> to the ground,and is about to deliver a killing blow,but fails to notice the pit fighter who kills him from behind.
-<entidade " Jorah Mormont"> Jorah</entidade> then battles the pit fighter and kills him and is the last fighter standing.
-At this moment <entidade " Jorah Mormont"> Jorah</entidade> suddenly grabs and hurls a spear at the royal box embedding itself in a <entidade " Son of the Harpy"> Son of the Harpy</entidade> sneaking up behind <entidade " Daario Naharis"> Daario</entidade>.
-The <entidade " Sons of the Harpy"> Sons of the Harpy</entidade> reveal themselves on every level of the arena and begin slaughtering collaborating Masters and freedmen alike <entidade " Hizdahr zo Loraq"> Hizdahr</entidade> included.
-<entidade " Jorah Mormont"> Jorah</entidade> and <entidade " Daario Naharis"> Daario</entidade> evacuate <entidade " Daenerys"> Daenerys</entidade> from the royal box,while <entidade " Tyrion"> Tyrion</entidade> rescues <entidade " Missandei"> Missandei</entidade>.
-Finding the exits blocked,the group makes a stand in the center of the <entidade " Pit Fighter"> Pit</entidade> with remainder of the <entidade " Unsullied"> Unsullied</entidade> defenders.
-Seeing they are hopelessly outnumbered,<entidade " Daenerys"> Daenerys</entidade> takes <entidade " Missandei"> Missandei</entidade>'s hand and closes her eyes,ready to face her death.
+<entidade "Dany">Dany</entidade> and <entidade "Missandei">Missandei</entidade> during the riots.
+Meanwhile,a <entidade "Braavosi Water Dancer">Braavosi Water Dancer</entidade> easily dispatches his <entidade "Dothraki">Dothraki</entidade> opponent,and then focuses his attention on <entidade "Jorah Mormont">Jorah</entidade>.
+<entidade "Jorah Mormont">Jorah</entidade> finds himself hopelessly outmatched by the <entidade "Water Dancer">Water Dancer</entidade> and suffers many cuts from his opponent's rapier.
+During the fight,a Meerenese <entidade "Pit Fighter">Pit Fighter</entidade> is able to lance his opponent in the chest.
+The <entidade "Water Dancer">Water Dancer</entidade> eventually knocks <entidade "Jorah Mormont">Jorah</entidade> to the ground,and is about to deliver a killing blow,but fails to notice the pit fighter who kills him from behind.
+<entidade "Jorah Mormont">Jorah</entidade> then battles the pit fighter and kills him and is the last fighter standing.
+At this moment <entidade "Jorah Mormont">Jorah</entidade> suddenly grabs and hurls a spear at the royal box embedding itself in a <entidade "Son of the Harpy">Son of the Harpy</entidade> sneaking up behind <entidade "Daario Naharis">Daario</entidade>.
+The <entidade "Sons of the Harpy">Sons of the Harpy</entidade> reveal themselves on every level of the arena and begin slaughtering collaborating Masters and freedmen alike <entidade "Hizdahr zo Loraq">Hizdahr</entidade> included.
+<entidade "Jorah Mormont">Jorah</entidade> and <entidade "Daario Naharis">Daario</entidade> evacuate <entidade "Daenerys">Daenerys</entidade> from the royal box,while <entidade "Tyrion Lannister">Tyrion</entidade> rescues <entidade "Missandei">Missandei</entidade>.
+Finding the exits blocked,the group makes a stand in the center of the <entidade "Pit Fighter">Pit</entidade> with remainder of the <entidade "Unsullied">Unsullied</entidade> defenders.
+Seeing they are hopelessly outnumbered,<entidade "Daenerys">Daenerys</entidade> takes <entidade "Missandei">Missandei</entidade>'s hand and closes her eyes,ready to face her death.
 
-<entidade " Dany"> Dany</entidade> climbs on,and rides <entidade " Drogon"> Drogon</entidade>.
-At that moment,a draconic screech pierces the air,and <entidade " Drogon"> Drogon</entidade> descends upon the arena,flying out of a giant flame burst.
-Many of the <entidade " Sons of the Harpy"> Sons</entidade> scatter in terror as <entidade " Drogon"> Drogon</entidade> bites,crushes and mercilessly burns the nearest ones to death.
-The <entidade " Sons of the Harpy"> Sons</entidade> rally enough to attack <entidade " Drogon"> Drogon</entidade> with spears,which <entidade " Daenerys"> Daenerys</entidade> hastily makes an effort to remove.
-Trying to get <entidade " Drogon"> Drogon</entidade> out of the <entidade " Sons of the Harpy"> Sons</entidade>' range,<entidade " Daenerys"> Daenerys</entidade> climbs atop his back and bids him to fly ( <entidade " Valahd"> Valahd</entidade> ),becoming the first <entidade " Targaryen"> Targaryen</entidade> dragonrider in over a century.
-The <entidade " Sons of the Harpy"> Sons of the Harpy</entidade> routed for now,<entidade " Daario Naharis"> Daario</entidade>,<entidade " Jorah Mormont"> Jorah</entidade>,<entidade " Missandei"> Missandei</entidade> and <entidade " Tyrion"> Tyrion</entidade> look on in astonishment as <entidade " Drogon"> Drogon</entidade> soars away.
+<entidade "Dany">Dany</entidade> climbs on,and rides <entidade "Drogon">Drogon</entidade>.
+At that moment,a draconic screech pierces the air,and <entidade "Drogon">Drogon</entidade> descends upon the arena,flying out of a giant flame burst.
+Many of the <entidade "Sons of the Harpy">Sons</entidade> scatter in terror as <entidade "Drogon">Drogon</entidade> bites,crushes and mercilessly burns the nearest ones to death.
+The <entidade "Sons of the Harpy">Sons</entidade> rally enough to attack <entidade "Drogon">Drogon</entidade> with spears,which <entidade "Daenerys">Daenerys</entidade> hastily makes an effort to remove.
+Trying to get <entidade "Drogon">Drogon</entidade> out of the <entidade "Sons of the Harpy">Sons</entidade>' range,<entidade "Daenerys">Daenerys</entidade> climbs atop his back and bids him to fly ( <entidade "Valahd">Valahd</entidade> ),becoming the first <entidade "Targaryen">Targaryen</entidade> dragonrider in over a century.
+The <entidade "Sons of the Harpy">Sons of the Harpy</entidade> routed for now,<entidade "Daario Naharis">Daario</entidade>,<entidade "Jorah Mormont">Jorah</entidade>,<entidade "Missandei">Missandei</entidade> and <entidade "Tyrion Lannister">Tyrion</entidade> look on in astonishment as <entidade "Drogon">Drogon</entidade> soars away.
 

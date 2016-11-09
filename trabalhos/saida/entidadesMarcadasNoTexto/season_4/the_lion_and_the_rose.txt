@@ -1,129 +1,129 @@
-<entidade " George R.R"> George R.R</entidade>.
+<entidade "George R.R">George R.R</entidade>.
 Martin 
 
-<entidade " Alex"> Alex</entidade> Graves 
+<entidade "Alex">Alex</entidade> Graves 
 
 Two Swords 
-<entidade " Breaker of Chains"> Breaker of Chains</entidade> 
+<entidade "Breaker of Chains">Breaker of Chains</entidade> 
 
-The <entidade " Lion"> Lion</entidade> and the <entidade " Rose"> Rose</entidade> is the second episode of the fourth season of <entidade " Game of Thrones"> Game of Thrones</entidade> and the thirty-second episode of the series overall.
-It aired on <entidade " April 13, 2014"> April 13, 2014</entidade> and was written by <entidade " George R.R"> George R.R</entidade>.
-<entidade " Martin"> Martin</entidade>,the writer of the <entidade " A Song of Ice"> A Song of Ice</entidade> and <entidade " Fire"> Fire</entidade> novels on which the series is based.
-It was directed by <entidade " Alex Graves"> Alex Graves</entidade>.
+The <entidade "Lion">Lion</entidade> and the <entidade "Rose">Rose</entidade> is the second episode of the fourth season of <entidade "Game of Thrones">Game of Thrones</entidade> and the thirty-second episode of the series overall.
+It aired on <entidade "April 13, 2014">April 13, 2014</entidade> and was written by <entidade "George R.R">George R.R</entidade>.
+<entidade "Martin">Martin</entidade>,the writer of the <entidade "A Song of Ice">A Song of Ice</entidade> and <entidade "Fire">Fire</entidade> novels on which the series is based.
+It was directed by <entidade "Alex Graves">Alex Graves</entidade>.
 
-A who's who of honored guests turns out for <entidade " Joffrey"> Joffrey</entidade> and <entidade " Margaery"> Margaery</entidade>'s wedding in <entidade " King's Landing"> King's Landing</entidade>.
-Meanwhile,<entidade " Bronn"> Bronn</entidade> gives a lesson to an unlikely pupil ; <entidade " Bran"> Bran</entidade>'s vision helps map out his journey ; <entidade " Stannis"> Stannis</entidade> loses patience with <entidade " Davos"> Davos</entidade> ; and <entidade " Ramsay"> Ramsay</entidade> takes a perverse delight in his new pet.
+A who's who of honored guests turns out for <entidade "Joffrey">Joffrey</entidade> and <entidade "Margaery">Margaery</entidade>'s wedding in <entidade "King's Landing">King's Landing</entidade>.
+Meanwhile,<entidade "Bronn">Bronn</entidade> gives a lesson to an unlikely pupil ; <entidade "Bran">Bran</entidade>'s vision helps map out his journey ; <entidade "Stannis">Stannis</entidade> loses patience with <entidade "Davos">Davos</entidade> ; and <entidade "Ramsay">Ramsay</entidade> takes a perverse delight in his new pet.
 
-At <entidade " Dragonstone"> Dragonstone</entidade> 
-On the beach of <entidade " Dragonstone"> Dragonstone</entidade>,<entidade " Melisandre"> Melisandre</entidade> presides over a public burning ceremony,setting three people chained to stakes ablaze as an offering to the <entidade " Lord of Light"> Lord of Light</entidade>.
-One of the condemned is Queen <entidade " Selyse Baratheon"> Selyse Baratheon</entidade>'s own brother <entidade " Axell Florent"> Axell Florent</entidade>,condemned for his lack of faith in the <entidade " Lord of Light"> Lord</entidade>'s power.
-Watching the proceedings,<entidade " Ser Davos Seaworth"> Ser Davos Seaworth</entidade> holds his tongue,though his disgust both for the ritual and <entidade " Melisandre"> Melisandre</entidade> are plain.
-<entidade " Melisandre"> Melisandre</entidade> is surprisingly silent throughout the proceedings ; it is <entidade " Selyse Baratheon"> Selyse</entidade> who takes the greatest pleasure in the ritual.
-Afterwards,<entidade " Stannis"> Stannis</entidade> and <entidade " Selyse Baratheon"> Selyse</entidade> eat dinner,with <entidade " Melisandre"> Melisandre</entidade> as a guest at their table.
-The royal couple argue over their daughter,<entidade " Princess Shireen Baratheon"> Princess Shireen Baratheon</entidade> ; <entidade " Selyse Baratheon"> Selyse</entidade> believes the girl's disfigurement is a punishment from the <entidade " Lord of Light"> Lord of Light</entidade>,but <entidade " Stannis"> Stannis</entidade> angrily forbids his wife from trying to physically chastise their daughter for her perceived faults.
-<entidade " Selyse Baratheon"> Selyse</entidade> switches tactics and suggests that <entidade " Melisandre"> Melisandre</entidade> speak to <entidade " Shireen"> Shireen</entidade>.
-Stannis doesn't protest,but <entidade " Melisandre"> Melisandre</entidade> doesn't look particularly interested in the task.
-Nonetheless,<entidade " Melisandre"> Melisandre</entidade> does speak with <entidade " Shireen"> Shireen</entidade>,who heard the death of her uncle from her bedroom window,explaining in gentle yet matter-of-fact terms that the <entidade " Faith of the Seven"> Faith of the Seven</entidade> and its holy books are lies : Melisandre insists there are only two gods,the <entidade " Lord of Light"> Lord of Light</entidade> and the <entidade " Great"> Great</entidade> Other,constantly at war.
-When <entidade " Shireen"> Shireen</entidade> asks if there is any truth to the <entidade " Faith of the Seven"> Faith</entidade>'s belief in seven heavens and seven hells,<entidade " Melisandre"> Melisandre</entidade> replies There is only one hell ... the one we live in now.
+At <entidade "Dragonstone">Dragonstone</entidade> 
+On the beach of <entidade "Dragonstone">Dragonstone</entidade>,<entidade "Melisandre">Melisandre</entidade> presides over a public burning ceremony,setting three people chained to stakes ablaze as an offering to the <entidade "Lord of Light">Lord of Light</entidade>.
+One of the condemned is Queen <entidade "Selyse Baratheon">Selyse Baratheon</entidade>'s own brother <entidade "Axell Florent">Axell Florent</entidade>,condemned for his lack of faith in the <entidade "Lord of Light">Lord</entidade>'s power.
+Watching the proceedings,<entidade "Davos Seaworth">Ser Davos Seaworth</entidade> holds his tongue,though his disgust both for the ritual and <entidade "Melisandre">Melisandre</entidade> are plain.
+<entidade "Melisandre">Melisandre</entidade> is surprisingly silent throughout the proceedings ; it is <entidade "Selyse Baratheon">Selyse</entidade> who takes the greatest pleasure in the ritual.
+Afterwards,<entidade "Stannis">Stannis</entidade> and <entidade "Selyse Baratheon">Selyse</entidade> eat dinner,with <entidade "Melisandre">Melisandre</entidade> as a guest at their table.
+The royal couple argue over their daughter,<entidade "Shireen Baratheon">Princess Shireen Baratheon</entidade> ; <entidade "Selyse Baratheon">Selyse</entidade> believes the girl's disfigurement is a punishment from the <entidade "Lord of Light">Lord of Light</entidade>,but <entidade "Stannis">Stannis</entidade> angrily forbids his wife from trying to physically chastise their daughter for her perceived faults.
+<entidade "Selyse Baratheon">Selyse</entidade> switches tactics and suggests that <entidade "Melisandre">Melisandre</entidade> speak to <entidade "Shireen Baratheon">Shireen</entidade>.
+Stannis doesn't protest,but <entidade "Melisandre">Melisandre</entidade> doesn't look particularly interested in the task.
+Nonetheless,<entidade "Melisandre">Melisandre</entidade> does speak with <entidade "Shireen Baratheon">Shireen</entidade>,who heard the death of her uncle from her bedroom window,explaining in gentle yet matter-of-fact terms that the <entidade "Faith of the Seven">Faith of the Seven</entidade> and its holy books are lies : Melisandre insists there are only two gods,the <entidade "Lord of Light">Lord of Light</entidade> and the <entidade "Great">Great</entidade> Other,constantly at war.
+When <entidade "Shireen Baratheon">Shireen</entidade> asks if there is any truth to the <entidade "Faith of the Seven">Faith</entidade>'s belief in seven heavens and seven hells,<entidade "Melisandre">Melisandre</entidade> replies There is only one hell ... the one we live in now.
 
-At the <entidade " Dreadfort"> Dreadfort</entidade> 
-In the forests surrounding the <entidade " Dreadfort"> Dreadfort</entidade>,the seat of <entidade " House Bolton"> House Bolton</entidade>,<entidade " Ramsay Snow"> Ramsay Snow</entidade> hunts a peasant girl for his sport,accompanied by <entidade " Theon Greyjoy"> Theon Greyjoy</entidade> ( whom <entidade " Ramsay Snow"> Ramsay</entidade> now addresses by his new name,<entidade " Reek"> Reek</entidade> ) and <entidade " Myranda"> Myranda</entidade>,along with a pack of savage dogs.
-The girl is eventually brought down and torn to pieces by the dogs,much to <entidade " Reek"> Reek</entidade>'s horror.
-Soon after,<entidade " Roose Bolton"> Roose Bolton</entidade> arrives at the <entidade " Dreadfort"> Dreadfort</entidade> accompanied by a detachment of his army,including <entidade " Locke"> Locke</entidade> and <entidade " Roose Bolton"> Roose</entidade>'s new wife,<entidade " Walda Bolton"> Walda Bolton</entidade>.
-<entidade " Ramsay Snow"> Ramsay</entidade> greets his father and his new step-mother ( as well as privately congratulating <entidade " Locke"> Locke</entidade> for his maiming of the <entidade " Kingslayer"> Kingslayer</entidade> ).
-Roose wants to see <entidade " Ramsay Snow"> Ramsay</entidade>'s captive <entidade " Theon Greyjoy"> Theon Greyjoy</entidade>.
-Theon is brought to <entidade " Roose Bolton"> Roose</entidade>'s chambers,where <entidade " Roose Bolton"> Roose</entidade> is disgusted and angered to learn <entidade " Ramsay Snow"> Ramsay</entidade> has tortured and flayed <entidade " Theon Greyjoy"> Theon</entidade> ; as <entidade " Balon Greyjoy"> Balon Greyjoy</entidade>'s sole surviving male heir,<entidade " Theon Greyjoy"> Theon</entidade> was a valuable hostage.
-Roose notes that while he has been named <entidade " Warden of the North"> Warden of the North</entidade>,<entidade " Tywin Lannister"> Tywin Lannister</entidade> will not help him reclaim the north from the ironborn,and he had intended on trading Theon for <entidade " Moat Cailin"> Moat Cailin</entidade>,a strategically placed fortress on the border between the <entidade " North"> North</entidade> and the <entidade " Riverlands"> Riverlands</entidade> currently held by <entidade " Greyjoy"> Greyjoy</entidade> forces,preventing the main <entidade " Bolton"> Bolton</entidade> army from returning north.
-<entidade " Ramsay Snow"> Ramsay</entidade> retorts that he already sent terms and <entidade " Balon Greyjoy"> Balon</entidade> refused him.
-<entidade " Roose Bolton"> Roose</entidade> is furious that <entidade " Ramsay Snow"> Ramsay</entidade> did so without his consent,but <entidade " Ramsay Snow"> Ramsay</entidade> demonstrates that his actions have made <entidade " Reek"> Reek</entidade> docile and unable to betray them.
-After ordering <entidade " Reek"> Reek</entidade> to shave him,<entidade " Ramsay Snow"> Ramsay</entidade> cajoles him into admitting that <entidade " Bran"> Bran</entidade> and <entidade " Rickon Stark"> Rickon Stark</entidade> are still alive.
-<entidade " Ramsay Snow"> Ramsay</entidade> reminds his father that the boys are now heirs to <entidade " House Stark"> House Stark</entidade>'s rule of the <entidade " North"> North</entidade> following <entidade " Robb Stark"> Robb Stark</entidade>'s death,and nearly all the <entidade " Northerners"> Northerners</entidade>,who are furious at <entidade " House Bolton"> House Bolton</entidade> and <entidade " House Frey"> House Frey</entidade>'s treachery against the <entidade " Starks"> Starks</entidade>,will rally behind <entidade " Bran"> Bran</entidade> and <entidade " Rickon Stark"> Rickon</entidade> rather than Roose if they learn the boys are alive.
-<entidade " Ramsay Snow"> Ramsay</entidade>,knowing how close <entidade " Theon Greyjoy"> Theon</entidade> was to <entidade " Robb Stark"> Robb</entidade>,gleefully taunts him by revealing details of the <entidade " Red Wedding"> Red Wedding</entidade>,particularly relishing the fact that it was <entidade " Roose Bolton"> Roose</entidade> who personally murdered <entidade " Robb Stark"> Robb</entidade>.
-Despite being clearly shaken to know the man he considered a brother is dead at the hands of his new masters,<entidade " Theon Greyjoy"> Theon</entidade> does not openly react.
-Roose dispatches <entidade " Locke"> Locke</entidade> with orders to find and kill <entidade " Bran"> Bran</entidade> and <entidade " Rickon Stark"> Rickon</entidade> ; <entidade " Reek"> Reek</entidade> suggests that <entidade " Jon Snow"> Jon Snow</entidade> might either be sheltering the boys at <entidade " Castle Black"> Castle Black</entidade> or at least may know where they have gone,while <entidade " Ramsay Snow"> Ramsay</entidade> advocates killing <entidade " Jon Snow"> Jon</entidade> as well,given that the fact he has <entidade " Starks"> Stark</entidade> blood could lead to him becoming a threat,since the <entidade " Northeners"> Northeners</entidade> will rally behind him or he will simply seek revenge ( although harming <entidade " Jon Snow"> Jon</entidade> would constitute a grave crime since he is part of the <entidade " Night's Watch"> Night's Watch</entidade> and thus legally untouchable by the <entidade " Seven Kingdoms"> Seven Kingdoms</entidade> ).
-<entidade " Roose Bolton"> Roose</entidade> gives <entidade " Ramsay Snow"> Ramsay</entidade> orders as well ; to take <entidade " Theon Greyjoy"> Theon</entidade> and an army to <entidade " Moat Cailin"> Moat Cailin</entidade> and reclaim the fortress from the <entidade " Greyjoys"> Greyjoys</entidade>.
-If he succeeds,<entidade " Roose Bolton"> Roose</entidade> will give consideration to legitimizing <entidade " Ramsay Snow"> Ramsay</entidade> as a member of <entidade " House Bolton"> House Bolton</entidade>.
+At the <entidade "Dreadfort">Dreadfort</entidade> 
+In the forests surrounding the <entidade "Dreadfort">Dreadfort</entidade>,the seat of <entidade "House Bolton">House Bolton</entidade>,<entidade "Ramsay Snow">Ramsay Snow</entidade> hunts a peasant girl for his sport,accompanied by <entidade "Theon Greyjoy">Theon Greyjoy</entidade> ( whom <entidade "Ramsay Snow">Ramsay</entidade> now addresses by his new name,<entidade "Reek">Reek</entidade> ) and <entidade "Myranda">Myranda</entidade>,along with a pack of savage dogs.
+The girl is eventually brought down and torn to pieces by the dogs,much to <entidade "Reek">Reek</entidade>'s horror.
+Soon after,<entidade "Roose Bolton">Roose Bolton</entidade> arrives at the <entidade "Dreadfort">Dreadfort</entidade> accompanied by a detachment of his army,including <entidade "Locke">Locke</entidade> and <entidade "Roose Bolton">Roose</entidade>'s new wife,<entidade "Walda Bolton">Walda Bolton</entidade>.
+<entidade "Ramsay Snow">Ramsay</entidade> greets his father and his new step-mother ( as well as privately congratulating <entidade "Locke">Locke</entidade> for his maiming of the <entidade "Kingslayer">Kingslayer</entidade> ).
+Roose wants to see <entidade "Ramsay Snow">Ramsay</entidade>'s captive <entidade "Theon Greyjoy">Theon Greyjoy</entidade>.
+Theon is brought to <entidade "Roose Bolton">Roose</entidade>'s chambers,where <entidade "Roose Bolton">Roose</entidade> is disgusted and angered to learn <entidade "Ramsay Snow">Ramsay</entidade> has tortured and flayed <entidade "Theon Greyjoy">Theon</entidade> ; as <entidade "Balon Greyjoy">Balon Greyjoy</entidade>'s sole surviving male heir,<entidade "Theon Greyjoy">Theon</entidade> was a valuable hostage.
+Roose notes that while he has been named <entidade "Warden of the North">Warden of the North</entidade>,<entidade "Tywin Lannister">Tywin Lannister</entidade> will not help him reclaim the north from the ironborn,and he had intended on trading Theon for <entidade "Moat Cailin">Moat Cailin</entidade>,a strategically placed fortress on the border between the <entidade "North">North</entidade> and the <entidade "Riverlands">Riverlands</entidade> currently held by <entidade "Greyjoy">Greyjoy</entidade> forces,preventing the main <entidade "Bolton">Bolton</entidade> army from returning north.
+<entidade "Ramsay Snow">Ramsay</entidade> retorts that he already sent terms and <entidade "Balon Greyjoy">Balon</entidade> refused him.
+<entidade "Roose Bolton">Roose</entidade> is furious that <entidade "Ramsay Snow">Ramsay</entidade> did so without his consent,but <entidade "Ramsay Snow">Ramsay</entidade> demonstrates that his actions have made <entidade "Reek">Reek</entidade> docile and unable to betray them.
+After ordering <entidade "Reek">Reek</entidade> to shave him,<entidade "Ramsay Snow">Ramsay</entidade> cajoles him into admitting that <entidade "Bran">Bran</entidade> and <entidade "Rickon Stark">Rickon Stark</entidade> are still alive.
+<entidade "Ramsay Snow">Ramsay</entidade> reminds his father that the boys are now heirs to <entidade "House Stark">House Stark</entidade>'s rule of the <entidade "North">North</entidade> following <entidade "Robb Stark">Robb Stark</entidade>'s death,and nearly all the <entidade "Northerners">Northerners</entidade>,who are furious at <entidade "House Bolton">House Bolton</entidade> and <entidade "House Frey">House Frey</entidade>'s treachery against the <entidade "Starks">Starks</entidade>,will rally behind <entidade "Bran">Bran</entidade> and <entidade "Rickon Stark">Rickon</entidade> rather than Roose if they learn the boys are alive.
+<entidade "Ramsay Snow">Ramsay</entidade>,knowing how close <entidade "Theon Greyjoy">Theon</entidade> was to <entidade "Robb Stark">Robb</entidade>,gleefully taunts him by revealing details of the <entidade "Red Wedding">Red Wedding</entidade>,particularly relishing the fact that it was <entidade "Roose Bolton">Roose</entidade> who personally murdered <entidade "Robb Stark">Robb</entidade>.
+Despite being clearly shaken to know the man he considered a brother is dead at the hands of his new masters,<entidade "Theon Greyjoy">Theon</entidade> does not openly react.
+Roose dispatches <entidade "Locke">Locke</entidade> with orders to find and kill <entidade "Bran">Bran</entidade> and <entidade "Rickon Stark">Rickon</entidade> ; <entidade "Reek">Reek</entidade> suggests that <entidade "Jon Snow">Jon Snow</entidade> might either be sheltering the boys at <entidade "Castle Black">Castle Black</entidade> or at least may know where they have gone,while <entidade "Ramsay Snow">Ramsay</entidade> advocates killing <entidade "Jon Snow">Jon</entidade> as well,given that the fact he has <entidade "Starks">Stark</entidade> blood could lead to him becoming a threat,since the <entidade "Northeners">Northeners</entidade> will rally behind him or he will simply seek revenge ( although harming <entidade "Jon Snow">Jon</entidade> would constitute a grave crime since he is part of the <entidade "Night's Watch">Night's Watch</entidade> and thus legally untouchable by the <entidade "Seven Kingdoms">Seven Kingdoms</entidade> ).
+<entidade "Roose Bolton">Roose</entidade> gives <entidade "Ramsay Snow">Ramsay</entidade> orders as well ; to take <entidade "Theon Greyjoy">Theon</entidade> and an army to <entidade "Moat Cailin">Moat Cailin</entidade> and reclaim the fortress from the <entidade "Greyjoys">Greyjoys</entidade>.
+If he succeeds,<entidade "Roose Bolton">Roose</entidade> will give consideration to legitimizing <entidade "Ramsay Snow">Ramsay</entidade> as a member of <entidade "House Bolton">House Bolton</entidade>.
 
-Beyond the <entidade " Wall"> Wall</entidade> 
+Beyond the <entidade "Wall">Wall</entidade> 
 We follow the point of view of a panting figure traveling through a dark,snow-covered forest.
 It kills a deer.
-Just as the figure makes its kill,it is revealed that the figure is <entidade " Summer"> Summer</entidade> and that <entidade " Bran Stark"> Bran Stark</entidade> had been warging into <entidade " Summer"> Summer</entidade>.
-<entidade " Bran Stark"> Bran</entidade>'s warging is interrupted by <entidade " Meera Reed"> Meera Reed</entidade>,who says that <entidade " Bran Stark"> Bran</entidade> had been gone for hours.
-<entidade " Bran Stark"> Bran</entidade> is not happy about having been snapped out of his warging,saying that he was eating.
-<entidade " Jojen Reed"> Jojen Reed</entidade> clarifies that <entidade " Summer"> Summer</entidade> was eating and that what <entidade " Bran Stark"> Bran</entidade> can not gain sustenance from what <entidade " Summer"> Summer</entidade> eats.
-<entidade " Jojen Reed"> Jojen</entidade> and <entidade " Meera Reed"> Meera</entidade> also caution <entidade " Bran Stark"> Bran</entidade> that warging so long is dangerous for other reasons.
-Even though it allows <entidade " Bran Stark"> Bran</entidade> the mobility he lost when he was injured,<entidade " Bran Stark"> Bran</entidade> would become trapped,forgetting his friends,his family,his home,and even himself.
-And if <entidade " Bran Stark"> Bran</entidade> forgets himself,they all lose everything.
+Just as the figure makes its kill,it is revealed that the figure is <entidade "Summer">Summer</entidade> and that <entidade "Bran Stark">Bran Stark</entidade> had been warging into <entidade "Summer">Summer</entidade>.
+<entidade "Bran Stark">Bran</entidade>'s warging is interrupted by <entidade "Meera Reed">Meera Reed</entidade>,who says that <entidade "Bran Stark">Bran</entidade> had been gone for hours.
+<entidade "Bran Stark">Bran</entidade> is not happy about having been snapped out of his warging,saying that he was eating.
+<entidade "Jojen Reed">Jojen Reed</entidade> clarifies that <entidade "Summer">Summer</entidade> was eating and that what <entidade "Bran Stark">Bran</entidade> can not gain sustenance from what <entidade "Summer">Summer</entidade> eats.
+<entidade "Jojen Reed">Jojen</entidade> and <entidade "Meera Reed">Meera</entidade> also caution <entidade "Bran Stark">Bran</entidade> that warging so long is dangerous for other reasons.
+Even though it allows <entidade "Bran Stark">Bran</entidade> the mobility he lost when he was injured,<entidade "Bran Stark">Bran</entidade> would become trapped,forgetting his friends,his family,his home,and even himself.
+And if <entidade "Bran Stark">Bran</entidade> forgets himself,they all lose everything.
 The group breaks camp and continues traveling through the forest.
 They eventually come upon a weirwood tree.
-<entidade " Bran Stark"> Bran</entidade> has <entidade " Hodor"> Hodor</entidade> take him to the tree.
-<entidade " Bran Stark"> Bran</entidade> touches the tree just under the face carved into it and sees a vision.
-Several images rush to <entidade " Bran Stark"> Bran</entidade>'s mind,including swarms of crows,wights ( both human and horses ),and the fall that paralyzed him.
-He also sees the <entidade " Three-eyed"> Three-eyed</entidade> raven taking flight in a darkened corridor and later land on a tree.
-<entidade " Bran Stark"> Bran</entidade> sees his father sharpening <entidade " Ice"> Ice</entidade>,in the <entidade " Black Cells"> Black Cells</entidade>,and being led to his execution ; the <entidade " Red Keep"> Red Keep</entidade> abandoned and covered in snow ; and the shadow of a dragon flying over <entidade " King's Landing"> King's Landing</entidade>.
-<entidade " Bran Stark"> Bran</entidade> also sees several images of a different weirwood tree located on top of an otherwise barren mountain.
-During the vision,a gravely voice tells <entidade " Bran Stark"> Bran</entidade> to look for me beneath the tree ... <entidade " NORTH"> NORTH</entidade>.
-<entidade " Bran Stark"> Bran</entidade> snaps out of his vision out of breath,but then matter-of-factly states,I know where we have to go.
+<entidade "Bran Stark">Bran</entidade> has <entidade "Hodor">Hodor</entidade> take him to the tree.
+<entidade "Bran Stark">Bran</entidade> touches the tree just under the face carved into it and sees a vision.
+Several images rush to <entidade "Bran Stark">Bran</entidade>'s mind,including swarms of crows,wights ( both human and horses ),and the fall that paralyzed him.
+He also sees the <entidade "Three-eyed">Three-eyed</entidade> raven taking flight in a darkened corridor and later land on a tree.
+<entidade "Bran Stark">Bran</entidade> sees his father sharpening <entidade "Ice">Ice</entidade>,in the <entidade "Black Cells">Black Cells</entidade>,and being led to his execution ; the <entidade "Red Keep">Red Keep</entidade> abandoned and covered in snow ; and the shadow of a dragon flying over <entidade "King's Landing">King's Landing</entidade>.
+<entidade "Bran Stark">Bran</entidade> also sees several images of a different weirwood tree located on top of an otherwise barren mountain.
+During the vision,a gravely voice tells <entidade "Bran Stark">Bran</entidade> to look for me beneath the tree ... <entidade "NORTH">NORTH</entidade>.
+<entidade "Bran Stark">Bran</entidade> snaps out of his vision out of breath,but then matter-of-factly states,I know where we have to go.
 
-At <entidade " King's Landing"> King</entidade>'s Landing 
-Over a meal,<entidade " Jaime"> Jaime</entidade> and <entidade " Tyrion"> Tyrion</entidade> discuss <entidade " Jaime"> Jaime</entidade>'s gilded steel hand,and he discloses to Tyrion that he can no longer fight,as all of his instincts are wrong using his left hand.
-<entidade " Jaime"> Jaime</entidade> is perturbed that people will find out that he can not fight so <entidade " Tyrion"> Tyrion</entidade> tells him that he needs to train with his left hand with someone trustworthy in order to better protect the king,as the <entidade " Lord Commander of the Kingsguard"> Lord Commander of the Kingsguard</entidade>.
+At <entidade "King's Landing">King</entidade>'s Landing 
+Over a meal,<entidade "Jaime">Jaime</entidade> and <entidade "Tyrion">Tyrion</entidade> discuss <entidade "Jaime">Jaime</entidade>'s gilded steel hand,and he discloses to Tyrion that he can no longer fight,as all of his instincts are wrong using his left hand.
+<entidade "Jaime">Jaime</entidade> is perturbed that people will find out that he can not fight so <entidade "Tyrion">Tyrion</entidade> tells him that he needs to train with his left hand with someone trustworthy in order to better protect the king,as the <entidade "Lord Commander of the Kingsguard">Lord Commander of the Kingsguard</entidade>.
 
-<entidade " Brienne"> Brienne</entidade> presented before <entidade " King Joffrey"> King Joffrey</entidade> and <entidade " Queen Margaery"> Queen Margaery</entidade> at their wedding.
-Later,<entidade " Jaime"> Jaime</entidade> waits in a courtyard by the sea for his training partner that <entidade " Tyrion"> Tyrion</entidade> has arranged.
-<entidade " Bronn"> Bronn</entidade> emerges with two training swords.
-<entidade " Jaime"> Jaime</entidade> remarks that he hasn't wielded a sparring sword since he was nine.
-As they commence training,<entidade " Bronn"> Bronn</entidade> uses his usual dirty tactics and gets the better of <entidade " Jaime"> Jaime</entidade>,teaching him not only to use his offhand,but encouraging him to fight dirtier.
-<entidade " Tyrion"> Tyrion</entidade> finds <entidade " Varys"> Varys</entidade> on his way to a breakfast celebration on the day of <entidade " Joffrey"> Joffrey</entidade>'s wedding.
-<entidade " Varys"> Varys</entidade> divulges that <entidade " Shae"> Shae</entidade> has been spotted and that his sister,<entidade " Cersei"> Cersei</entidade>,has been notified.
-<entidade " Varys"> Varys</entidade> then says that there is nothing he can do to protect <entidade " Shae"> Shae</entidade> any longer in fear of <entidade " Tywin Lannister"> Tywin Lannister</entidade>,the <entidade " Hand of the King"> Hand of the King</entidade>,or <entidade " Cersei"> Cersei</entidade> finding out that he has been lying to them.
-Tyrion then says that <entidade " Shae"> Shae</entidade> will not leave <entidade " King's Landing"> King's Landing</entidade> and is warned that <entidade " Tywin Lannister"> Tywin</entidade> has threatened to hang the next whore Tyrion is seen with.
+<entidade "Brienne">Brienne</entidade> presented before <entidade "King Joffrey">King Joffrey</entidade> and <entidade "Margaery">Queen Margaery</entidade> at their wedding.
+Later,<entidade "Jaime">Jaime</entidade> waits in a courtyard by the sea for his training partner that <entidade "Tyrion">Tyrion</entidade> has arranged.
+<entidade "Bronn">Bronn</entidade> emerges with two training swords.
+<entidade "Jaime">Jaime</entidade> remarks that he hasn't wielded a sparring sword since he was nine.
+As they commence training,<entidade "Bronn">Bronn</entidade> uses his usual dirty tactics and gets the better of <entidade "Jaime">Jaime</entidade>,teaching him not only to use his offhand,but encouraging him to fight dirtier.
+<entidade "Tyrion">Tyrion</entidade> finds <entidade "Varys">Varys</entidade> on his way to a breakfast celebration on the day of <entidade "Joffrey">Joffrey</entidade>'s wedding.
+<entidade "Varys">Varys</entidade> divulges that <entidade "Shae">Shae</entidade> has been spotted and that his sister,<entidade "Cersei">Cersei</entidade>,has been notified.
+<entidade "Varys">Varys</entidade> then says that there is nothing he can do to protect <entidade "Shae">Shae</entidade> any longer in fear of <entidade "Tywin Lannister">Tywin Lannister</entidade>,the <entidade "Hand of the King">Hand of the King</entidade>,or <entidade "Cersei">Cersei</entidade> finding out that he has been lying to them.
+Tyrion then says that <entidade "Shae">Shae</entidade> will not leave <entidade "King's Landing">King's Landing</entidade> and is warned that <entidade "Tywin Lannister">Tywin</entidade> has threatened to hang the next whore Tyrion is seen with.
 
 The dais set up for the royal wedding.
-At the breakfast celebration,<entidade " Mace Tyrell"> Mace Tyrell</entidade> gifts <entidade " Joffrey"> Joffrey</entidade> a magnificent golden chalice with seven facets,one for each of the major houses in the <entidade " Seven Kingdoms"> Seven Kingdoms</entidade> and wishes he and his daughter,<entidade " Margaery Tyrell"> Margaery Tyrell</entidade>,a long and happy marriage.
-<entidade " Joffrey"> Joffrey</entidade> graciously accepts.
-<entidade " Cersei"> Cersei</entidade> spots <entidade " Shae"> Shae</entidade> and tells Tywin that she is <entidade " Tyrion"> Tyrion</entidade>'s whore,and he commands for her to be sent to the <entidade " Tower of the Hand"> Tower of the Hand</entidade> before the wedding.
-Tyrion overhears this and looks vexed,but proceeds to approach <entidade " Joffrey"> Joffrey</entidade> and <entidade " Podrick Payne"> Podrick Payne</entidade>,<entidade " Tyrion"> Tyrion</entidade>'s squire,presents him with the Lives of <entidade " Four Kings"> Four Kings</entidade>,a book detailing the reigns of four kings by <entidade " Grand Maester Kaeth"> Grand Maester Kaeth</entidade>.
-<entidade " Joffrey"> Joffrey</entidade> accepts the gift but his sincerity seems questionable.
-A member of the <entidade " Kingsguard"> Kingsguard</entidade> then presents a Valyrian steel sword and <entidade " Tywin Lannister"> Tywin</entidade> tells him that it is one of two swords of its kind in the capital,and <entidade " Joffrey"> Joffrey</entidade> rushes to wield it.
-He promptly begins to slash at <entidade " Tyrion"> Tyrion</entidade>'s gift despite its rarity,and then asks for suggestions on its name from guests in attendance.
-He settle on the name <entidade " Widow's Wail"> Widow's Wail</entidade>.
-After the breakfast,<entidade " Tyrion"> Tyrion</entidade> is visited in his chambers by <entidade " Shae"> Shae</entidade> and he informs her that there is a ship waiting for her bound for <entidade " Pentos"> Pentos</entidade> and that their friendship is at an end.
-<entidade " Shae"> Shae</entidade> pleads to stay,but <entidade " Tyrion"> Tyrion</entidade> says he is married and it is too dangerous for her to stay.
+At the breakfast celebration,<entidade "Mace Tyrell">Mace Tyrell</entidade> gifts <entidade "Joffrey">Joffrey</entidade> a magnificent golden chalice with seven facets,one for each of the major houses in the <entidade "Seven Kingdoms">Seven Kingdoms</entidade> and wishes he and his daughter,<entidade "Margaery Tyrell">Margaery Tyrell</entidade>,a long and happy marriage.
+<entidade "Joffrey">Joffrey</entidade> graciously accepts.
+<entidade "Cersei">Cersei</entidade> spots <entidade "Shae">Shae</entidade> and tells Tywin that she is <entidade "Tyrion">Tyrion</entidade>'s whore,and he commands for her to be sent to the <entidade "Tower of the Hand">Tower of the Hand</entidade> before the wedding.
+Tyrion overhears this and looks vexed,but proceeds to approach <entidade "Joffrey">Joffrey</entidade> and <entidade "Podrick Payne">Podrick Payne</entidade>,<entidade "Tyrion">Tyrion</entidade>'s squire,presents him with the Lives of <entidade "Four Kings">Four Kings</entidade>,a book detailing the reigns of four kings by <entidade "Kaeth">Grand Maester Kaeth</entidade>.
+<entidade "Joffrey">Joffrey</entidade> accepts the gift but his sincerity seems questionable.
+A member of the <entidade "Kingsguard">Kingsguard</entidade> then presents a Valyrian steel sword and <entidade "Tywin Lannister">Tywin</entidade> tells him that it is one of two swords of its kind in the capital,and <entidade "Joffrey">Joffrey</entidade> rushes to wield it.
+He promptly begins to slash at <entidade "Tyrion">Tyrion</entidade>'s gift despite its rarity,and then asks for suggestions on its name from guests in attendance.
+He settle on the name <entidade "Widow's Wail">Widow's Wail</entidade>.
+After the breakfast,<entidade "Tyrion">Tyrion</entidade> is visited in his chambers by <entidade "Shae">Shae</entidade> and he informs her that there is a ship waiting for her bound for <entidade "Pentos">Pentos</entidade> and that their friendship is at an end.
+<entidade "Shae">Shae</entidade> pleads to stay,but <entidade "Tyrion">Tyrion</entidade> says he is married and it is too dangerous for her to stay.
 
-<entidade " Joffrey"> Joffrey</entidade> is poisoned and killed.
-When <entidade " Bronn"> Bronn</entidade> enters and tries to escort her out,she slaps him and runs away.
-When Tyrion later asks <entidade " Bronn"> Bronn</entidade> if she is gone,he says that she boarded the ship.
-When <entidade " Tyrion"> Tyrion</entidade> asks if he saw it sail away,<entidade " Bronn"> Bronn</entidade> assures him that no one has been following him while escorting her,that she is gone and no one knows about it except the two of them and <entidade " Varys"> Varys</entidade>.
-He then advises <entidade " Tyrion"> Tyrion</entidade> to go and drink until it feels like he did the right thing.
-<entidade " Joffrey"> Joffrey</entidade> and <entidade " Margaery Tyrell"> Margaery</entidade>'s wedding ceremony takes place in the <entidade " Great Sept of Baelor"> Great Sept of Baelor</entidade> conducted by the <entidade " High Septon"> High Septon</entidade> and they are wed in front of gods and men.
-At his wedding feast,<entidade " King Joffrey"> King Joffrey</entidade> speaks to the crowd about contemplating history.
-Out of a large golden lion,five dwarves ride out,representing <entidade " Joffrey"> Joffrey</entidade>,<entidade " Renly Baratheon"> Renly Baratheon</entidade>,<entidade " Stannis Baratheon"> Stannis Baratheon</entidade>,<entidade " Robb Stark"> Robb Stark</entidade>,and <entidade " Balon Greyjoy"> Balon Greyjoy</entidade>,each of the five kings in the <entidade " War of the Five Kings"> War of the Five Kings</entidade>.
+<entidade "Joffrey">Joffrey</entidade> is poisoned and killed.
+When <entidade "Bronn">Bronn</entidade> enters and tries to escort her out,she slaps him and runs away.
+When Tyrion later asks <entidade "Bronn">Bronn</entidade> if she is gone,he says that she boarded the ship.
+When <entidade "Tyrion">Tyrion</entidade> asks if he saw it sail away,<entidade "Bronn">Bronn</entidade> assures him that no one has been following him while escorting her,that she is gone and no one knows about it except the two of them and <entidade "Varys">Varys</entidade>.
+He then advises <entidade "Tyrion">Tyrion</entidade> to go and drink until it feels like he did the right thing.
+<entidade "Joffrey">Joffrey</entidade> and <entidade "Margaery Tyrell">Margaery</entidade>'s wedding ceremony takes place in the <entidade "Great Sept of Baelor">Great Sept of Baelor</entidade> conducted by the <entidade "High Septon">High Septon</entidade> and they are wed in front of gods and men.
+At his wedding feast,<entidade "King Joffrey">King Joffrey</entidade> speaks to the crowd about contemplating history.
+Out of a large golden lion,five dwarves ride out,representing <entidade "Joffrey">Joffrey</entidade>,<entidade "Renly Baratheon">Renly Baratheon</entidade>,<entidade "Stannis Baratheon">Stannis Baratheon</entidade>,<entidade "Robb Stark">Robb Stark</entidade>,and <entidade "Balon Greyjoy">Balon Greyjoy</entidade>,each of the five kings in the <entidade "War of the Five Kings">War of the Five Kings</entidade>.
 The dwarves put on a performance,jousting,fighting,and making crude sexual acts.
-<entidade " Joffrey"> Joffrey</entidade>,his brother <entidade " Tommen"> Tommen</entidade>,and <entidade " Cersei"> Cersei</entidade> laugh at the performance.
-The <entidade " Tyrells"> Tyrells</entidade> ( <entidade " Margaery Tyrell"> Margaery</entidade>,<entidade " Olenna"> Olenna</entidade>,<entidade " Mace Tyrell"> Mace</entidade>,and <entidade " Loras"> Loras</entidade> ),as well as <entidade " Varys"> Varys</entidade>,<entidade " Prince Oberyn"> Prince Oberyn</entidade>,<entidade " Tywin Lannister"> Tywin</entidade>,<entidade " Tyrion"> Tyrion</entidade>,and <entidade " Sansa Stark"> Sansa Stark</entidade>,make little effort to hide their disgust.
-<entidade " Loras"> Loras</entidade> leaves in anger after watching the crude depiction of his deceased lover <entidade " Renly Baratheon"> Renly</entidade> ( riding a mount resembling <entidade " Loras"> Loras</entidade> ),and <entidade " Sansa Stark"> Sansa</entidade> looks on in obvious grief when the dwarf playing her brother <entidade " Robb Stark"> Robb</entidade> is killed after having his wolf's head knocked off.
-<entidade " Joffrey"> Joffrey</entidade> expresses his delight with the play and prepares to give the champion dwarf a purse but then mockingly suggests that <entidade " Tyrion"> Tyrion</entidade> fight him as well.
-Tyrion cleverly counters this jape by suggesting that <entidade " Joffrey"> Joffrey</entidade> should fight instead and show the same bravery he displayed at the <entidade " Battle of the Blackwater"> Battle of the Blackwater</entidade>,cautioning his nephew to be careful as the champion dwarf is clearly mad with lust and it would be a tragedy for the king to lose his virtue hours before his wedding night.
+<entidade "Joffrey">Joffrey</entidade>,his brother <entidade "Tommen">Tommen</entidade>,and <entidade "Cersei">Cersei</entidade> laugh at the performance.
+The <entidade "Tyrells">Tyrells</entidade> ( <entidade "Margaery Tyrell">Margaery</entidade>,<entidade "Olenna">Olenna</entidade>,<entidade "Mace Tyrell">Mace</entidade>,and <entidade "Loras">Loras</entidade> ),as well as <entidade "Varys">Varys</entidade>,<entidade "Oberyn">Prince Oberyn</entidade>,<entidade "Tywin Lannister">Tywin</entidade>,<entidade "Tyrion">Tyrion</entidade>,and <entidade "Sansa Stark">Sansa Stark</entidade>,make little effort to hide their disgust.
+<entidade "Loras">Loras</entidade> leaves in anger after watching the crude depiction of his deceased lover <entidade "Renly Baratheon">Renly</entidade> ( riding a mount resembling <entidade "Loras">Loras</entidade> ),and <entidade "Sansa Stark">Sansa</entidade> looks on in obvious grief when the dwarf playing her brother <entidade "Robb Stark">Robb</entidade> is killed after having his wolf's head knocked off.
+<entidade "Joffrey">Joffrey</entidade> expresses his delight with the play and prepares to give the champion dwarf a purse but then mockingly suggests that <entidade "Tyrion">Tyrion</entidade> fight him as well.
+Tyrion cleverly counters this jape by suggesting that <entidade "Joffrey">Joffrey</entidade> should fight instead and show the same bravery he displayed at the <entidade "Battle of the Blackwater">Battle of the Blackwater</entidade>,cautioning his nephew to be careful as the champion dwarf is clearly mad with lust and it would be a tragedy for the king to lose his virtue hours before his wedding night.
 This draws a few stifled chuckles from their guests.
-<entidade " Enraged"> Enraged</entidade> and humiliated that his uncle outwitted him in front of all his wedding guests,<entidade " Joffrey"> Joffrey</entidade> petulantly pours wine over <entidade " Tyrion"> Tyrion</entidade>'s head and orders him to serve him wine as his cupbearer.
-Tyrion approaches <entidade " Joffrey"> Joffrey</entidade>,who then purposely drops the goblet and kicks it under the table.
-<entidade " Sansa Stark"> Sansa</entidade> hands the goblet to <entidade " Tyrion"> Tyrion</entidade>,and he fills it with wine and hands it back to <entidade " Joffrey"> Joffrey</entidade>.
-The king demands that <entidade " Tyrion"> Tyrion</entidade> kneel before him but <entidade " Tyrion"> Tyrion</entidade> refuses.
-<entidade " Margaery Tyrell"> Margaery</entidade> interrupts the tense moment and says it is time to cut the pigeon pie.
-<entidade " Joffrey"> Joffrey</entidade> hands the goblet to <entidade " Margaery Tyrell"> Margaery</entidade>,who then places it at the edge of the table near her grandmother <entidade " Olenna"> Olenna</entidade>.
-<entidade " Joffrey"> Joffrey</entidade> draws his new sword,cuts the pie,and several white doves fly out.
+<entidade "Enraged">Enraged</entidade> and humiliated that his uncle outwitted him in front of all his wedding guests,<entidade "Joffrey">Joffrey</entidade> petulantly pours wine over <entidade "Tyrion">Tyrion</entidade>'s head and orders him to serve him wine as his cupbearer.
+Tyrion approaches <entidade "Joffrey">Joffrey</entidade>,who then purposely drops the goblet and kicks it under the table.
+<entidade "Sansa Stark">Sansa</entidade> hands the goblet to <entidade "Tyrion">Tyrion</entidade>,and he fills it with wine and hands it back to <entidade "Joffrey">Joffrey</entidade>.
+The king demands that <entidade "Tyrion">Tyrion</entidade> kneel before him but <entidade "Tyrion">Tyrion</entidade> refuses.
+<entidade "Margaery Tyrell">Margaery</entidade> interrupts the tense moment and says it is time to cut the pigeon pie.
+<entidade "Joffrey">Joffrey</entidade> hands the goblet to <entidade "Margaery Tyrell">Margaery</entidade>,who then places it at the edge of the table near her grandmother <entidade "Olenna">Olenna</entidade>.
+<entidade "Joffrey">Joffrey</entidade> draws his new sword,cuts the pie,and several white doves fly out.
 
-<entidade " Cersei"> Cersei</entidade> cries over her sons murder.
-<entidade " Sansa Stark"> Sansa</entidade> and <entidade " Tyrion"> Tyrion</entidade> attempt to leave the feast,while <entidade " Margaery Tyrell"> Margaery</entidade> serves <entidade " Joffrey"> Joffrey</entidade> a piece of pie.
-<entidade " Joffrey"> Joffrey</entidade> commands <entidade " Tyrion"> Tyrion</entidade> to serve him wine to wash down the pie.
-Tyrion hands the goblet to <entidade " Joffrey"> Joffrey</entidade> and he quickly drinks all of it.
-<entidade " Joffrey"> Joffrey</entidade> tries to speak,but begins coughing.
-He grabs his throat,and <entidade " Margaery Tyrell"> Margaery</entidade> and <entidade " Olenna"> Olenna</entidade> exclaim that he is choking and needs help.
-<entidade " Joffrey"> Joffrey</entidade> collapses face down and begins vomiting and convulsing.
-<entidade " Jaime"> Jaime</entidade> and <entidade " Cersei"> Cersei</entidade> rush in and turn <entidade " Joffrey"> Joffrey</entidade> over on his back.
-<entidade " Dontos Hollard"> Dontos Hollard</entidade> suddenly approaches <entidade " Sansa Stark"> Sansa</entidade> from behind and says she must come with him quickly,and she does.
-<entidade " Joffrey"> Joffrey</entidade> points an accusatory finger in <entidade " Tyrion"> Tyrion</entidade>'s direction,as he examines the wine goblet ( though it is not made clear if <entidade " Joffrey"> Joffrey</entidade> is accusing <entidade " Tyrion"> Tyrion</entidade> or merely the wine ).
-<entidade " Joffrey"> Joffrey</entidade>'s eyes turn red,blood runs from his nose,he stops convulsing,and dies.
-<entidade " Cersei"> Cersei</entidade> sobs with grief and orders the <entidade " Kingsguard"> Kingsguard</entidade> to seize <entidade " Tyrion"> Tyrion</entidade> for the poisoning of her son.
+<entidade "Cersei">Cersei</entidade> cries over her sons murder.
+<entidade "Sansa Stark">Sansa</entidade> and <entidade "Tyrion">Tyrion</entidade> attempt to leave the feast,while <entidade "Margaery Tyrell">Margaery</entidade> serves <entidade "Joffrey">Joffrey</entidade> a piece of pie.
+<entidade "Joffrey">Joffrey</entidade> commands <entidade "Tyrion">Tyrion</entidade> to serve him wine to wash down the pie.
+Tyrion hands the goblet to <entidade "Joffrey">Joffrey</entidade> and he quickly drinks all of it.
+<entidade "Joffrey">Joffrey</entidade> tries to speak,but begins coughing.
+He grabs his throat,and <entidade "Margaery Tyrell">Margaery</entidade> and <entidade "Olenna">Olenna</entidade> exclaim that he is choking and needs help.
+<entidade "Joffrey">Joffrey</entidade> collapses face down and begins vomiting and convulsing.
+<entidade "Jaime">Jaime</entidade> and <entidade "Cersei">Cersei</entidade> rush in and turn <entidade "Joffrey">Joffrey</entidade> over on his back.
+<entidade "Dontos Hollard">Dontos Hollard</entidade> suddenly approaches <entidade "Sansa Stark">Sansa</entidade> from behind and says she must come with him quickly,and she does.
+<entidade "Joffrey">Joffrey</entidade> points an accusatory finger in <entidade "Tyrion">Tyrion</entidade>'s direction,as he examines the wine goblet ( though it is not made clear if <entidade "Joffrey">Joffrey</entidade> is accusing <entidade "Tyrion">Tyrion</entidade> or merely the wine ).
+<entidade "Joffrey">Joffrey</entidade>'s eyes turn red,blood runs from his nose,he stops convulsing,and dies.
+<entidade "Cersei">Cersei</entidade> sobs with grief and orders the <entidade "Kingsguard">Kingsguard</entidade> to seize <entidade "Tyrion">Tyrion</entidade> for the poisoning of her son.
 

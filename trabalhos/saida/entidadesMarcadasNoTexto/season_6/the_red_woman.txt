@@ -1,126 +1,126 @@
-<entidade " David BenioffD.B"> David BenioffD.B</entidade>.
+<entidade "David BenioffD.B">David BenioffD.B</entidade>.
 Weiss 
 
-<entidade " Jeremy Podeswa"> Jeremy Podeswa</entidade> 
+<entidade "Jeremy Podeswa">Jeremy Podeswa</entidade> 
 
-<entidade " Mother's Mercy"> Mother's Mercy</entidade> 
+<entidade "Mother's Mercy">Mother's Mercy</entidade> 
 Home 
 
-The <entidade " Red Woman"> Red Woman</entidade> is the first episode of the sixth season of <entidade " Game of Thrones"> Game of Thrones</entidade>.
+The <entidade "Red Woman">Red Woman</entidade> is the first episode of the sixth season of <entidade "Game of Thrones">Game of Thrones</entidade>.
 It is the fifty-first episode of the series overall.
-It premiered on <entidade " April 24, 2016"> April 24, 2016</entidade>.
-It was written by <entidade " David BenioffD.B"> David Benioff</entidade> and <entidade " D.B"> D.B</entidade>.
-<entidade " Weiss"> Weiss</entidade>,and directed by <entidade " Jeremy Podeswa"> Jeremy Podeswa</entidade>.
+It premiered on <entidade "April 24, 2016">April 24, 2016</entidade>.
+It was written by <entidade "David BenioffD.B">David Benioff</entidade> and <entidade "D.B">D.B</entidade>.
+<entidade "Weiss">Weiss</entidade>,and directed by <entidade "Jeremy Podeswa">Jeremy Podeswa</entidade>.
 
-At <entidade " Castle Black"> Castle Black</entidade>,<entidade " Thorne"> Thorne</entidade> defends his treason while <entidade " Edd"> Edd</entidade> and <entidade " Davos"> Davos</entidade> defend themselves.
-<entidade " Sansa"> Sansa</entidade> and <entidade " Theon"> Theon</entidade> race the cold and the hounds.
+At <entidade "Castle Black">Castle Black</entidade>,<entidade "Thorne">Thorne</entidade> defends his treason while <entidade "Edd">Edd</entidade> and <entidade "Davos">Davos</entidade> defend themselves.
+<entidade "Sansa">Sansa</entidade> and <entidade "Theon">Theon</entidade> race the cold and the hounds.
 
 Summary 
-In the <entidade " North"> North</entidade> 
-<entidade " Brienne"> Brienne</entidade> and <entidade " Podrick meet Sansa"> Podrick meet Sansa</entidade> and <entidade " Theon"> Theon</entidade>.
-<entidade " Ramsay"> Ramsay</entidade> and <entidade " Maester Wolkan"> Maester Wolkan</entidade> attend to the dead body of <entidade " Myranda"> Myranda</entidade>.
-<entidade " Ramsay"> Ramsay</entidade> remembers the first time he met her,stating that while other people were afraid of him,she wasn't.
-The <entidade " Maester Wolkan"> Maester</entidade> asks if they should bury her or construct a funeral pyre.
-<entidade " Ramsay"> Ramsay</entidade> says she is good meat and they should feed her to the hounds.
-Theon and <entidade " Sansa"> Sansa</entidade>,having survived the fall from <entidade " Winterfell"> Winterfell</entidade>'s wall,run through the <entidade " Wolfswood"> Wolfswood</entidade> realizing there are already men with hounds chasing them.
-<entidade " Theon"> Theon</entidade> tries to hide their scent by crossing a river.
-Guiding a frightened <entidade " Sansa"> Sansa</entidade>,they make it across and hide by a fallen tree with <entidade " Theon"> Theon</entidade> hugging <entidade " Sansa"> Sansa</entidade> to try to keep her warm.
-Hearing the dogs still after them,<entidade " Theon"> Theon</entidade> tries to lead them away,telling <entidade " Sansa"> Sansa</entidade> to keep heading north for <entidade " Jon"> Jon</entidade> and <entidade " Castle Black"> Castle Black</entidade>.
-A group of <entidade " Bolton"> Bolton</entidade> men sent by <entidade " Ramsay"> Ramsay</entidade>,with the <entidade " Bastard's Girls"> Bastard's Girls</entidade>,find them.
-<entidade " Theon"> Theon</entidade> claims <entidade " Sansa"> Sansa</entidade> was hurt when they jumped and he left her to die,but the dogs find her.
-The leader mocks <entidade " Theon"> Theon</entidade> over what <entidade " Ramsay"> Ramsay</entidade> will do to him now and prepares to bring them back to <entidade " Winterfell"> Winterfell</entidade>.
-<entidade " Brienne"> Brienne</entidade> and <entidade " Podrick meet Sansa"> Podrick</entidade> arrive and a fight begins.
-<entidade " Brienne"> Brienne</entidade> kills most of them while <entidade " Podrick meet Sansa"> Podrick</entidade> displays the techniques she taught him,managing to kill one.
-He is then attacked by another and briefly holds his own before being knocked down but <entidade " Theon"> Theon</entidade> grabs a sword and kills the <entidade " Bolton"> Bolton</entidade> man.
-<entidade " Sansa"> Sansa</entidade> accepts <entidade " Brienne"> Brienne</entidade> into her service.
+In the <entidade "North">North</entidade> 
+<entidade "Brienne">Brienne</entidade> and <entidade "Podrick meet Sansa">Podrick meet Sansa</entidade> and <entidade "Theon">Theon</entidade>.
+<entidade "Ramsay">Ramsay</entidade> and <entidade "Wolkan">Maester Wolkan</entidade> attend to the dead body of <entidade "Myranda">Myranda</entidade>.
+<entidade "Ramsay">Ramsay</entidade> remembers the first time he met her,stating that while other people were afraid of him,she wasn't.
+The <entidade "Maester">Maester</entidade> asks if they should bury her or construct a funeral pyre.
+<entidade "Ramsay">Ramsay</entidade> says she is good meat and they should feed her to the hounds.
+Theon and <entidade "Sansa">Sansa</entidade>,having survived the fall from <entidade "Winterfell">Winterfell</entidade>'s wall,run through the <entidade "Wolfswood">Wolfswood</entidade> realizing there are already men with hounds chasing them.
+<entidade "Theon">Theon</entidade> tries to hide their scent by crossing a river.
+Guiding a frightened <entidade "Sansa">Sansa</entidade>,they make it across and hide by a fallen tree with <entidade "Theon">Theon</entidade> hugging <entidade "Sansa">Sansa</entidade> to try to keep her warm.
+Hearing the dogs still after them,<entidade "Theon">Theon</entidade> tries to lead them away,telling <entidade "Sansa">Sansa</entidade> to keep heading north for <entidade "Jon">Jon</entidade> and <entidade "Castle Black">Castle Black</entidade>.
+A group of <entidade "Bolton">Bolton</entidade> men sent by <entidade "Ramsay">Ramsay</entidade>,with the <entidade "Bastard's Girls">Bastard's Girls</entidade>,find them.
+<entidade "Theon">Theon</entidade> claims <entidade "Sansa">Sansa</entidade> was hurt when they jumped and he left her to die,but the dogs find her.
+The leader mocks <entidade "Theon">Theon</entidade> over what <entidade "Ramsay">Ramsay</entidade> will do to him now and prepares to bring them back to <entidade "Winterfell">Winterfell</entidade>.
+<entidade "Brienne">Brienne</entidade> and <entidade "Podrick meet Sansa">Podrick</entidade> arrive and a fight begins.
+<entidade "Brienne">Brienne</entidade> kills most of them while <entidade "Podrick meet Sansa">Podrick</entidade> displays the techniques she taught him,managing to kill one.
+He is then attacked by another and briefly holds his own before being knocked down but <entidade "Theon">Theon</entidade> grabs a sword and kills the <entidade "Bolton">Bolton</entidade> man.
+<entidade "Sansa">Sansa</entidade> accepts <entidade "Brienne">Brienne</entidade> into her service.
 Where they go next is uncertain.
-<entidade " Roose Bolton"> Roose Bolton</entidade> meets with <entidade " Ramsay"> Ramsay</entidade> afterwards and asks if preemptively assaulting the struggling army of <entidade " Stannis Baratheon"> Stannis Baratheon</entidade> makes him feel like a winner now that they've lost <entidade " Sansa"> Sansa</entidade>.
-A <entidade " Lannister"> Lannister</entidade> army marching north could easily overwhelm the <entidade " Bolton"> Bolton</entidade> troops at <entidade " Winterfell"> Winterfell</entidade> and the <entidade " Dreadfort"> Dreadfort</entidade>.
-<entidade " Ramsay"> Ramsay</entidade> assures his father they will recapture <entidade " Sansa"> Sansa</entidade> as he's sent his best men to find her.
-<entidade " Roose Bolton"> Roose</entidade> continues that they need her to rally the north against the <entidade " Lannisters"> Lannisters</entidade>,if need be,and subtly warns Ramsay that if he fails to recapture her,his unborn brother will become his heir.
+<entidade "Roose Bolton">Roose Bolton</entidade> meets with <entidade "Ramsay">Ramsay</entidade> afterwards and asks if preemptively assaulting the struggling army of <entidade "Stannis Baratheon">Stannis Baratheon</entidade> makes him feel like a winner now that they've lost <entidade "Sansa">Sansa</entidade>.
+A <entidade "Lannister">Lannister</entidade> army marching north could easily overwhelm the <entidade "Bolton">Bolton</entidade> troops at <entidade "Winterfell">Winterfell</entidade> and the <entidade "Dreadfort">Dreadfort</entidade>.
+<entidade "Ramsay">Ramsay</entidade> assures his father they will recapture <entidade "Sansa">Sansa</entidade> as he's sent his best men to find her.
+<entidade "Roose Bolton">Roose</entidade> continues that they need her to rally the north against the <entidade "Lannisters">Lannisters</entidade>,if need be,and subtly warns Ramsay that if he fails to recapture her,his unborn brother will become his heir.
 
-In <entidade " Braavos"> Braavos</entidade> 
-In <entidade " Braavos"> Braavos</entidade>,<entidade " Arya"> Arya</entidade> faces The <entidade " Waif"> Waif</entidade> 
-<entidade " Arya"> Arya</entidade> is blind and asks for money in the streets,when the <entidade " Waif"> Waif</entidade> approaches her with two fighting sticks,and gives her one.
-<entidade " Arya"> Arya</entidade> explains that she can't fight because she's blind,the <entidade " Waif"> Waif</entidade> answers that's not my problem and starts beating her.
-<entidade " Arya"> Arya</entidade> poorly tries to defend herself but fails miserably,until the <entidade " Waif"> Waif</entidade> stops and says that they'll meet tomorrow.
+In <entidade "Braavos">Braavos</entidade> 
+In <entidade "Braavos">Braavos</entidade>,<entidade "Arya">Arya</entidade> faces The <entidade "Waif">Waif</entidade> 
+<entidade "Arya">Arya</entidade> is blind and asks for money in the streets,when the <entidade "Waif">Waif</entidade> approaches her with two fighting sticks,and gives her one.
+<entidade "Arya">Arya</entidade> explains that she can't fight because she's blind,the <entidade "Waif">Waif</entidade> answers that's not my problem and starts beating her.
+<entidade "Arya">Arya</entidade> poorly tries to defend herself but fails miserably,until the <entidade "Waif">Waif</entidade> stops and says that they'll meet tomorrow.
 
-In <entidade " Meereen"> Meereen</entidade> 
-<entidade " Varys"> Varys</entidade> and <entidade " Tyrion"> Tyrion</entidade> walking through <entidade " Meereen"> Meereen</entidade>.
-<entidade " Varys"> Varys</entidade> and <entidade " Tyrion"> Tyrion</entidade> are seen walking through the city.
-After coming upon a woman and her baby,<entidade " Tyrion"> Tyrion</entidade> offers a coin,saying the money is for the baby,to eat.
+In <entidade "Meereen">Meereen</entidade> 
+<entidade "Varys">Varys</entidade> and <entidade "Tyrion">Tyrion</entidade> walking through <entidade "Meereen">Meereen</entidade>.
+<entidade "Varys">Varys</entidade> and <entidade "Tyrion">Tyrion</entidade> are seen walking through the city.
+After coming upon a woman and her baby,<entidade "Tyrion">Tyrion</entidade> offers a coin,saying the money is for the baby,to eat.
 His poor Valyrian frightens the woman who thinks that he wants to eat her baby.
-<entidade " Varys"> Varys</entidade> intercedes,explaining to the woman the money is so the baby can eat.
-The relieved woman accepts <entidade " Tyrion"> Tyrion</entidade>'s generosity.
-As they keep walking through the city,<entidade " Tyrion"> Tyrion</entidade> states that they need to find the leader of the <entidade " Sons of the Harpy"> Sons of the Harpy</entidade> in order to bring peace to <entidade " Meereen"> Meereen</entidade>.
-<entidade " Varys"> Varys</entidade> said that his spies have been sent all over the city,and that soon they will bring him information.
+<entidade "Varys">Varys</entidade> intercedes,explaining to the woman the money is so the baby can eat.
+The relieved woman accepts <entidade "Tyrion">Tyrion</entidade>'s generosity.
+As they keep walking through the city,<entidade "Tyrion">Tyrion</entidade> states that they need to find the leader of the <entidade "Sons of the Harpy">Sons of the Harpy</entidade> in order to bring peace to <entidade "Meereen">Meereen</entidade>.
+<entidade "Varys">Varys</entidade> said that his spies have been sent all over the city,and that soon they will bring him information.
 Their conversation is interrupted by a crowd of screaming people running from a huge cloud of smoke.
 The two make their way towards the origin of the smoke : all the ships in the harbor have been set aflame.
 
-In the <entidade " Dothraki Sea"> Dothraki Sea</entidade> 
-<entidade " Daenerys"> Daenerys</entidade> is captured and offered to <entidade " Khal Moro"> Khal Moro</entidade>.
-Daario and <entidade " Jorah"> Jorah</entidade> are looking for <entidade " Daenerys"> Daenerys</entidade>,and come upon the charred remains of a ram.
-They note numerous hoof prints on the ground,making <entidade " Jorah"> Jorah</entidade> realize that the <entidade " Dothraki Sea"> Dothraki</entidade> have been here.
-On the ground,he finds the ring that <entidade " Daenerys"> Daenerys</entidade> intentionally dropped.
-<entidade " Daenerys"> Daenerys</entidade> is shown walking with her hands bound,and two <entidade " Dothraki Sea"> Dothraki</entidade> take her to <entidade " Khal Moro"> Khal Moro</entidade> as a gift.
-The <entidade " Khal Moro"> Khal</entidade> wants to rape her,but she explains who she is,<entidade " Khal Drogo"> Khal Drogo</entidade>'s widow.
-The <entidade " Khal Moro"> Khal</entidade> unbinds her and promises her that she will not be harmed.
-When <entidade " Daenerys"> Daenerys</entidade> asks to be escorted back to <entidade " Meereen"> Meereen</entidade> in exchange for the promise of one thousand horses for her safe return,<entidade " Moro"> Moro</entidade>'s wife tells her that she has to remain in the temple of <entidade " Vaes Dothrak"> Vaes Dothrak</entidade> with the other <entidade " Khals"> Khals</entidade>' widows for the remainder of her days and become a <entidade " Dosh"> Dosh</entidade> khaleen.
+In the <entidade "Dothraki Sea">Dothraki Sea</entidade> 
+<entidade "Daenerys">Daenerys</entidade> is captured and offered to <entidade "Khal Moro">Khal Moro</entidade>.
+Daario and <entidade "Jorah">Jorah</entidade> are looking for <entidade "Daenerys">Daenerys</entidade>,and come upon the charred remains of a ram.
+They note numerous hoof prints on the ground,making <entidade "Jorah">Jorah</entidade> realize that the <entidade "Dothraki Sea">Dothraki</entidade> have been here.
+On the ground,he finds the ring that <entidade "Daenerys">Daenerys</entidade> intentionally dropped.
+<entidade "Daenerys">Daenerys</entidade> is shown walking with her hands bound,and two <entidade "Dothraki Sea">Dothraki</entidade> take her to <entidade "Khal Moro">Khal Moro</entidade> as a gift.
+The <entidade "Khal Moro">Khal</entidade> wants to rape her,but she explains who she is,<entidade "Khal Drogo">Khal Drogo</entidade>'s widow.
+The <entidade "Khal Moro">Khal</entidade> unbinds her and promises her that she will not be harmed.
+When <entidade "Daenerys">Daenerys</entidade> asks to be escorted back to <entidade "Meereen">Meereen</entidade> in exchange for the promise of one thousand horses for her safe return,<entidade "Moro">Moro</entidade>'s wife tells her that she has to remain in the temple of <entidade "Vaes Dothrak">Vaes Dothrak</entidade> with the other <entidade "Khals">Khals</entidade>' widows for the remainder of her days and become a <entidade "Dosh">Dosh</entidade> khaleen.
 
-In <entidade " Dorne"> Dorne</entidade> 
-<entidade " Doran"> Doran</entidade> dies after <entidade " Elliaria"> Elliaria</entidade>'s deception.
-<entidade " Ellaria"> Ellaria</entidade> helps <entidade " Doran"> Doran</entidade> get to his wheelchair,as they both reminisce about <entidade " Oberyn"> Oberyn</entidade>,with <entidade " Doran"> Doran</entidade> stating how he envied his late brother for the adventurous life he led.
-<entidade " Ellaria"> Ellaria</entidade> states that <entidade " Doran"> Doran</entidade> would have made a bad adventurer,while <entidade " Oberyn"> Oberyn</entidade> would have been a bad ruler.
-After settling into his chair,<entidade " Maester Caleotte"> Maester Caleotte</entidade> brings him a message that <entidade " Myrcella"> Myrcella</entidade> has died.
-Before he can give an order,<entidade " Tyene"> Tyene</entidade> stabs <entidade " Areo Hotah"> Areo Hotah</entidade> in the back,killing him,while <entidade " Ellaria"> Ellaria</entidade> stabs <entidade " Doran"> Doran</entidade> in the chest.
-As he lies on the floor,his guards do nothing,indicating they have sided with <entidade " Ellaria"> Ellaria</entidade>.
-As she twists her knife into <entidade " Doran"> Doran</entidade>,<entidade " Ellaria"> Ellaria</entidade> angrily says he remained passive despite the brutal deaths of both his sister and brother,and that the people of <entidade " Dorne"> Dorne</entidade> are with her,now.
-As he is gasping,<entidade " Doran"> Doran</entidade> begs <entidade " Ellaria"> Ellaria</entidade> to spare <entidade " Trystane"> Trystane</entidade>,but <entidade " Ellaria"> Ellaria</entidade> coldly scoffs at him.
-<entidade " Doran"> Doran</entidade> then dies in a pool of his own blood.
+In <entidade "Dorne">Dorne</entidade> 
+<entidade "Doran">Doran</entidade> dies after <entidade "Elliaria">Elliaria</entidade>'s deception.
+<entidade "Ellaria">Ellaria</entidade> helps <entidade "Doran">Doran</entidade> get to his wheelchair,as they both reminisce about <entidade "Oberyn">Oberyn</entidade>,with <entidade "Doran">Doran</entidade> stating how he envied his late brother for the adventurous life he led.
+<entidade "Ellaria">Ellaria</entidade> states that <entidade "Doran">Doran</entidade> would have made a bad adventurer,while <entidade "Oberyn">Oberyn</entidade> would have been a bad ruler.
+After settling into his chair,<entidade "Caleotte">Maester Caleotte</entidade> brings him a message that <entidade "Myrcella">Myrcella</entidade> has died.
+Before he can give an order,<entidade "Tyene">Tyene</entidade> stabs <entidade "Areo Hotah">Areo Hotah</entidade> in the back,killing him,while <entidade "Ellaria">Ellaria</entidade> stabs <entidade "Doran">Doran</entidade> in the chest.
+As he lies on the floor,his guards do nothing,indicating they have sided with <entidade "Ellaria">Ellaria</entidade>.
+As she twists her knife into <entidade "Doran">Doran</entidade>,<entidade "Ellaria">Ellaria</entidade> angrily says he remained passive despite the brutal deaths of both his sister and brother,and that the people of <entidade "Dorne">Dorne</entidade> are with her,now.
+As he is gasping,<entidade "Doran">Doran</entidade> begs <entidade "Ellaria">Ellaria</entidade> to spare <entidade "Trystane">Trystane</entidade>,but <entidade "Ellaria">Ellaria</entidade> coldly scoffs at him.
+<entidade "Doran">Doran</entidade> then dies in a pool of his own blood.
 
-In <entidade " King"> King</entidade>'s Landing 
-<entidade " Myrcella"> Myrcella</entidade>'s corpse arrives from <entidade " Dorne"> Dorne</entidade>.
-<entidade " Cersei"> Cersei</entidade> is sitting alone in her room,when a servant enters and announces that a ship from <entidade " Dorne"> Dorne</entidade> has arrived.
-Realizing that <entidade " Myrcella"> Myrcella</entidade> has come home,she joyfully runs down to the harbor,only to see a grim-faced <entidade " Jaime"> Jaime</entidade> alongside a shrouded body.
+In <entidade "King">King</entidade>'s Landing 
+<entidade "Myrcella">Myrcella</entidade>'s corpse arrives from <entidade "Dorne">Dorne</entidade>.
+<entidade "Cersei">Cersei</entidade> is sitting alone in her room,when a servant enters and announces that a ship from <entidade "Dorne">Dorne</entidade> has arrived.
+Realizing that <entidade "Myrcella">Myrcella</entidade> has come home,she joyfully runs down to the harbor,only to see a grim-faced <entidade "Jaime">Jaime</entidade> alongside a shrouded body.
 She tearfully realizes that her daughter has died.
-Later,in the <entidade " Red Keep"> Red Keep</entidade>,<entidade " Cersei"> Cersei</entidade> asks <entidade " Jaime"> Jaime</entidade> when was the first time he saw a dead body,to which <entidade " Jaime"> Jaime</entidade> replies their mother's.
-<entidade " Cersei"> Cersei</entidade> tells of her memory of the horror she felt after first seeing her mother's corpse,and wishes not to see it happen to <entidade " Myrcella"> Myrcella</entidade>.
-Meanwhile,<entidade " Margaery"> Margaery</entidade> is still imprisoned by the <entidade " Faith"> Faith</entidade>,and the <entidade " High Sparrow"> High Sparrow</entidade> comes to visit her.
-She asks about her brother,<entidade " Loras"> Loras</entidade>,but he tells her that she has to confess first.
+Later,in the <entidade "Red Keep">Red Keep</entidade>,<entidade "Cersei">Cersei</entidade> asks <entidade "Jaime">Jaime</entidade> when was the first time he saw a dead body,to which <entidade "Jaime">Jaime</entidade> replies their mother's.
+<entidade "Cersei">Cersei</entidade> tells of her memory of the horror she felt after first seeing her mother's corpse,and wishes not to see it happen to <entidade "Myrcella">Myrcella</entidade>.
+Meanwhile,<entidade "Margaery">Margaery</entidade> is still imprisoned by the <entidade "Faith">Faith</entidade>,and the <entidade "High Sparrow">High Sparrow</entidade> comes to visit her.
+She asks about her brother,<entidade "Loras">Loras</entidade>,but he tells her that she has to confess first.
 When she admits that nobody is perfect without sins,he tells her that she is on the right path but still has a long way to go.
-<entidade " Obara"> Obara</entidade> and <entidade " Nymeria"> Nymeria</entidade> arrive on <entidade " Prince Trystane"> Prince Trystane</entidade>'s ship,announcing their intention to kill him.
-<entidade " Nymeria"> Nymeria</entidade> offers <entidade " Trystane"> Trystane</entidade> the choice of which one of the <entidade " Sands"> Sands</entidade> he'd like to fight,and he chooses <entidade " Nymeria"> Nymeria</entidade>,only for <entidade " Obara"> Obara</entidade> to impale him through the back of his head with her spear as he turns his back on her.
+<entidade "Obara">Obara</entidade> and <entidade "Nymeria">Nymeria</entidade> arrive on <entidade "Trystane">Prince Trystane</entidade>'s ship,announcing their intention to kill him.
+<entidade "Nymeria">Nymeria</entidade> offers <entidade "Trystane">Trystane</entidade> the choice of which one of the <entidade "Sands">Sands</entidade> he'd like to fight,and he chooses <entidade "Nymeria">Nymeria</entidade>,only for <entidade "Obara">Obara</entidade> to impale him through the back of his head with her spear as he turns his back on her.
 
-At the <entidade " Wall"> Wall</entidade> 
-At the <entidade " Wall"> Wall</entidade>,the mutineers have left <entidade " Jon"> Jon</entidade>'s body where he fell.
-Ghost is scratching at the door in grief and howling,which gets the attention of several people,including <entidade " Davos"> Davos</entidade>,who leaves his room to investigate.
-<entidade " Ser Davos"> Ser Davos</entidade> finds <entidade " Jon"> Jon</entidade>'s dead body just before <entidade " Edd"> Edd</entidade> and some other brothers arrive.
-They take the body inside where <entidade " Edd"> Edd</entidade> clears a table and angrily curses Thorne after closing <entidade " Jon"> Jon</entidade>'s eyes.
-<entidade " Davos"> Davos</entidade> asks if <entidade " Edd"> Edd</entidade> trusts any of his brothers,and <entidade " Edd"> Edd</entidade> replies,The ones in this room.
-<entidade " Davos"> Davos</entidade> convinces <entidade " Edd"> Edd</entidade> to go bring <entidade " Ghost"> Ghost</entidade> in,deciding that they need all the help they can get.
-<entidade " Melisandre"> Melisandre</entidade> arrives,stating she saw <entidade " Jon"> Jon</entidade> fighting in <entidade " Winterfell"> Winterfell</entidade> in the flames.
-<entidade " Davos"> Davos</entidade> and the black brothers doubt the dead <entidade " Lord Commander"> Lord Commander</entidade> could do such a thing and she returns to her room.
-<entidade " Alliser Thorne"> Alliser Thorne</entidade>,<entidade " Othell Yarwyck"> Othell Yarwyck</entidade>,and <entidade " Bowen Marsh"> Bowen Marsh</entidade> hold a meeting with the remaining black brothers stationed at <entidade " Castle Black"> Castle Black</entidade> and explain their reasoning for killing the <entidade " Lord Commander"> Lord Commander</entidade>.
+At the <entidade "Wall">Wall</entidade> 
+At the <entidade "Wall">Wall</entidade>,the mutineers have left <entidade "Jon">Jon</entidade>'s body where he fell.
+Ghost is scratching at the door in grief and howling,which gets the attention of several people,including <entidade "Davos">Davos</entidade>,who leaves his room to investigate.
+<entidade "Davos">Ser Davos</entidade> finds <entidade "Jon">Jon</entidade>'s dead body just before <entidade "Edd">Edd</entidade> and some other brothers arrive.
+They take the body inside where <entidade "Edd">Edd</entidade> clears a table and angrily curses Thorne after closing <entidade "Jon">Jon</entidade>'s eyes.
+<entidade "Davos">Davos</entidade> asks if <entidade "Edd">Edd</entidade> trusts any of his brothers,and <entidade "Edd">Edd</entidade> replies,The ones in this room.
+<entidade "Davos">Davos</entidade> convinces <entidade "Edd">Edd</entidade> to go bring <entidade "Ghost">Ghost</entidade> in,deciding that they need all the help they can get.
+<entidade "Melisandre">Melisandre</entidade> arrives,stating she saw <entidade "Jon">Jon</entidade> fighting in <entidade "Winterfell">Winterfell</entidade> in the flames.
+<entidade "Davos">Davos</entidade> and the black brothers doubt the dead <entidade "Commander">Lord Commander</entidade> could do such a thing and she returns to her room.
+<entidade "Alliser Thorne">Alliser Thorne</entidade>,<entidade "Othell Yarwyck">Othell Yarwyck</entidade>,and <entidade "Bowen Marsh">Bowen Marsh</entidade> hold a meeting with the remaining black brothers stationed at <entidade "Castle Black">Castle Black</entidade> and explain their reasoning for killing the <entidade "Commander">Lord Commander</entidade>.
 Most of the brothers come to understand them and side with the mutineers.
-Back inside the room,<entidade " Davos"> Davos</entidade> notes <entidade " Thorne"> Thorne</entidade> is sure to have made his move by now.
-In response,<entidade " Edd"> Edd</entidade> states he doesn't care because <entidade " Jon"> Jon</entidade> was his friend and they butchered him,then he rallies the loyal brothers to try and take out <entidade " Thorne"> Thorne</entidade> in revenge.
-<entidade " Davos"> Davos</entidade> responds they are hopelessly outnumbered,stating <entidade " Ghost"> Ghost</entidade> isn't enough when <entidade " Edd"> Edd</entidade> brings him up,before reminding them there are others nearby who owe <entidade " Jon"> Jon</entidade> their lives.
-Realizing he means the <entidade " Wildlings"> Wildlings</entidade>,<entidade " Edd"> Edd</entidade> instructs them to bar the door and not let anyone in while he sneaks out to get help.
-All members of the <entidade " Watch"> Watch</entidade> are shown bearing arms toward the room where <entidade " Jon"> Jon</entidade>'s body is being guarded by <entidade " Ser Davos"> Ser Davos</entidade> and the men loyal to <entidade " Jon Snow"> Jon Snow</entidade>.
-Thorne and senior members of the <entidade " Watch"> Watch</entidade> approach the room and <entidade " Thorne"> Thorne</entidade> speaks to <entidade " Ser Davos"> Ser Davos</entidade> through the locked door.
-Thorne promises full amnesty for the members of the <entidade " Watch"> Watch</entidade>.
-To <entidade " Ser Davos"> Ser Davos</entidade> he offers a fresh horse and safe passage to ride south or in any direction he wishes,and that he can take <entidade " Melisandre"> Melisandre</entidade> with him.
-<entidade " Ser Davos"> Ser Davos</entidade> mocks what he knows to be an insincere offer by requesting mutton.
-<entidade " Ser Davos"> Ser Davos</entidade> tells <entidade " Thorne"> Thorne</entidade> he is a poor hunter and does not want to starve,so he needs some mutton for his trip.
+Back inside the room,<entidade "Davos">Davos</entidade> notes <entidade "Thorne">Thorne</entidade> is sure to have made his move by now.
+In response,<entidade "Edd">Edd</entidade> states he doesn't care because <entidade "Jon">Jon</entidade> was his friend and they butchered him,then he rallies the loyal brothers to try and take out <entidade "Thorne">Thorne</entidade> in revenge.
+<entidade "Davos">Davos</entidade> responds they are hopelessly outnumbered,stating <entidade "Ghost">Ghost</entidade> isn't enough when <entidade "Edd">Edd</entidade> brings him up,before reminding them there are others nearby who owe <entidade "Jon">Jon</entidade> their lives.
+Realizing he means the <entidade "Wildlings">Wildlings</entidade>,<entidade "Edd">Edd</entidade> instructs them to bar the door and not let anyone in while he sneaks out to get help.
+All members of the <entidade "Watch">Watch</entidade> are shown bearing arms toward the room where <entidade "Jon">Jon</entidade>'s body is being guarded by <entidade "Davos">Ser Davos</entidade> and the men loyal to <entidade "Jon Snow">Jon Snow</entidade>.
+Thorne and senior members of the <entidade "Watch">Watch</entidade> approach the room and <entidade "Thorne">Thorne</entidade> speaks to <entidade "Davos">Ser Davos</entidade> through the locked door.
+Thorne promises full amnesty for the members of the <entidade "Watch">Watch</entidade>.
+To <entidade "Davos">Ser Davos</entidade> he offers a fresh horse and safe passage to ride south or in any direction he wishes,and that he can take <entidade "Melisandre">Melisandre</entidade> with him.
+<entidade "Davos">Ser Davos</entidade> mocks what he knows to be an insincere offer by requesting mutton.
+<entidade "Davos">Ser Davos</entidade> tells <entidade "Thorne">Thorne</entidade> he is a poor hunter and does not want to starve,so he needs some mutton for his trip.
 Thorne promises him food will be provided.
-<entidade " Ser Thorne"> Ser Thorne</entidade> says the offer is available as long as everyone in the room surrenders,and does so by sundown.
+<entidade "Thorne">Ser Thorne</entidade> says the offer is available as long as everyone in the room surrenders,and does so by sundown.
 
 Melisandre without her magical glamor of youth.
-Alone in her bedroom,<entidade " Melisandre"> Melisandre</entidade> appears despondent and looking as if she has been betrayed or led astray by The <entidade " Lord of Light"> Lord of Light</entidade>.
+Alone in her bedroom,<entidade "Melisandre">Melisandre</entidade> appears despondent and looking as if she has been betrayed or led astray by The <entidade "Lord of Light">Lord of Light</entidade>.
 On a table next to her bed are various containers,some small that contain potions and other liquids.
 She unbuttons the front of her dress showing a young beautiful body.
 She then removes the dress completely and stands nude before a mirror.
 When she removes her large necklace the gem loses its glow.
-In the mirror,<entidade " Melisandre"> Melisandre</entidade>'s reflections shows she has transformed or morphed back to a 400-year-old woman she has been said to be,a frail old woman with sagging breasts,leathery skin and thin wispy white hair.
+In the mirror,<entidade "Melisandre">Melisandre</entidade>'s reflections shows she has transformed or morphed back to a 400-year-old woman she has been said to be,a frail old woman with sagging breasts,leathery skin and thin wispy white hair.
 Fully nude,with her head bowed down in a despondent manner,she slowly climbs into bed and pulls the fur blanket on top of her.
 

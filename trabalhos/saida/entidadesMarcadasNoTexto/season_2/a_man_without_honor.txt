@@ -1,90 +1,90 @@
-<entidade " David Benioff"> David Benioff</entidade> & <entidade " D.B"> D.B</entidade>.
+<entidade "David Benioff">David Benioff</entidade> & <entidade "D.B">D.B</entidade>.
 Weiss 
 
-<entidade " David Nutter"> David Nutter</entidade> 
+<entidade "David Nutter">David Nutter</entidade> 
 
-The <entidade " Old Gods"> Old Gods</entidade> and the <entidade " New"> New</entidade> 
-The <entidade " Prince of Winterfell"> Prince of Winterfell</entidade> 
+The <entidade "Old Gods">Old Gods</entidade> and the <entidade "New">New</entidade> 
+The <entidade "Prince of Winterfell">Prince of Winterfell</entidade> 
 
-A Man Without <entidade " Honor"> Honor</entidade> is the seventh episode of the second season of <entidade " Game of Thrones"> Game of Thrones</entidade>.
+A Man Without <entidade "Honor">Honor</entidade> is the seventh episode of the second season of <entidade "Game of Thrones">Game of Thrones</entidade>.
 It is the seventeenth episode of the series overall.
-It premiered on <entidade " May 13, 2012"> May 13, 2012</entidade>.
-It was written by executive producers <entidade " David Benioff"> David Benioff</entidade> & <entidade " D.B"> D.B</entidade>.
-<entidade " Weiss"> Weiss</entidade> and directed by <entidade " David Nutter"> David Nutter</entidade>.
+It premiered on <entidade "May 13, 2012">May 13, 2012</entidade>.
+It was written by executive producers <entidade "David Benioff">David Benioff</entidade> & <entidade "D.B">D.B</entidade>.
+<entidade "Weiss">Weiss</entidade> and directed by <entidade "David Nutter">David Nutter</entidade>.
 
-<entidade " Jaime"> Jaime</entidade> meets a relative ; <entidade " Theon"> Theon</entidade> hunts ; <entidade " Dany"> Dany</entidade> receives an invitation.
+<entidade "Jaime">Jaime</entidade> meets a relative ; <entidade "Theon">Theon</entidade> hunts ; <entidade "Dany">Dany</entidade> receives an invitation.
 
-In the <entidade " Seven Kingdoms"> Seven Kingdoms</entidade> 
-At <entidade " Winterfell"> Winterfell</entidade>,now held by the ironborn,<entidade " Theon Greyjoy"> Theon Greyjoy</entidade> awakens to find that <entidade " Osha"> Osha</entidade> is gone and she has escaped with <entidade " Hodor"> Hodor</entidade>,<entidade " Bran Stark"> Bran Stark</entidade>,<entidade " Rickon Stark"> Rickon Stark</entidade> and their direwolves.
-<entidade " Theon Greyjoy"> Theon</entidade> berates <entidade " Lorren"> Lorren</entidade> for allowing them to escape.
-When <entidade " Lorren"> Lorren</entidade> counters that <entidade " Theon Greyjoy"> Theon</entidade> is also to blame for sleeping with <entidade " Osha"> Osha</entidade> and letting his guard down,<entidade " Theon Greyjoy"> Theon</entidade> furiously beats him.
-<entidade " Theon Greyjoy"> Theon</entidade> leads the ironborn on horse to hunt down the boys with hounds to track them.
+In the <entidade "Seven Kingdoms">Seven Kingdoms</entidade> 
+At <entidade "Winterfell">Winterfell</entidade>,now held by the ironborn,<entidade "Theon Greyjoy">Theon Greyjoy</entidade> awakens to find that <entidade "Osha">Osha</entidade> is gone and she has escaped with <entidade "Hodor">Hodor</entidade>,<entidade "Bran Stark">Bran Stark</entidade>,<entidade "Rickon Stark">Rickon Stark</entidade> and their direwolves.
+<entidade "Theon Greyjoy">Theon</entidade> berates <entidade "Lorren">Lorren</entidade> for allowing them to escape.
+When <entidade "Lorren">Lorren</entidade> counters that <entidade "Theon Greyjoy">Theon</entidade> is also to blame for sleeping with <entidade "Osha">Osha</entidade> and letting his guard down,<entidade "Theon Greyjoy">Theon</entidade> furiously beats him.
+<entidade "Theon Greyjoy">Theon</entidade> leads the ironborn on horse to hunt down the boys with hounds to track them.
 The search leads them to a shepherd's farm,but the farmer says that he hasn't seen anyone.
-<entidade " Dagmer"> Dagmer</entidade> finds some walnut shells,so they know that <entidade " Bran Stark"> Bran</entidade> and <entidade " Rickon Stark"> Rickon</entidade> were there,but the hounds can't get the scent.
-<entidade " Theon Greyjoy"> Theon</entidade> tells them the hunt is over and to return <entidade " Maester Luwin"> Maester Luwin</entidade> to Winterfell : he knows where they are,and his mercy has been exhausted.
+<entidade "Dagmer">Dagmer</entidade> finds some walnut shells,so they know that <entidade "Bran Stark">Bran</entidade> and <entidade "Rickon Stark">Rickon</entidade> were there,but the hounds can't get the scent.
+<entidade "Theon Greyjoy">Theon</entidade> tells them the hunt is over and to return <entidade "Luwin">Maester Luwin</entidade> to Winterfell : he knows where they are,and his mercy has been exhausted.
 
-Theon has the burned bodies raised on the walls of <entidade " Winterfell"> Winterfell</entidade> 
-<entidade " Theon Greyjoy"> Theon</entidade> returns to Winterfell with two children's bodies burned beyond recognition,and he has them hoisted to either side of the main gate.
-<entidade " Maester Luwin"> Maester Luwin</entidade> cries out in grief when he sees them.
-At <entidade " Harrenhal"> Harrenhal</entidade>,<entidade " Tywin Lannister"> Tywin Lannister</entidade> is discussing the assassination of  Amory Lorch with Ser Gregor Clegane.
-<entidade " Tywin Lannister"> Tywin</entidade> is convinced that it was an assassination attempt on himself,unaware that <entidade " Jaqen H'ghar"> Jaqen H'ghar</entidade> actually killed <entidade " Lorch"> Lorch</entidade> on the request of <entidade " Arya Stark"> Arya Stark</entidade>.
-<entidade " Ser Gregor"> Ser Gregor</entidade> speculates that the  Brotherhood Without Banners may have been responsible.
-<entidade " Enraged"> Enraged</entidade>,<entidade " Tywin Lannister"> Tywin</entidade> orders <entidade " Gregor"> Gregor</entidade> to burn out villages and farms in reprisal for this assassination attempt.
-<entidade " Tywin Lannister"> Tywin</entidade> later suspects that <entidade " Arya Stark"> Arya</entidade> is highborn,because she doesn't pronounce <entidade " M'Lord"> M'Lord</entidade> the way commoners do,instead saying <entidade " My Lord"> My Lord</entidade>,and possesses an educated vocabulary.
-<entidade " Arya Stark"> Arya</entidade> makes the excuse that her <entidade " Mother"> Mother</entidade>,whom she said was a handmaiden for years to royalty,had taught her to speak properly like them.
-In <entidade " King's Landing"> King's Landing</entidade>,<entidade " Sansa Stark"> Sansa Stark</entidade> comes to thank <entidade " Sandor"> Sandor</entidade> The <entidade " Hound Clegane"> Hound Clegane</entidade> for saving her life during the recent riot in the city and says that he was very brave.
-<entidade " Sandor"> Sandor</entidade> simply says that a dog doesn't need courage to fight off rats.
-<entidade " Sansa Stark"> Sansa</entidade> is perturbed by his hateful speech,but <entidade " Sandor"> Sandor</entidade> cautions that a day will come when his penchant for violence is all that stands between her and her beloved <entidade " King Joffrey"> King Joffrey</entidade>.
+Theon has the burned bodies raised on the walls of <entidade "Winterfell">Winterfell</entidade> 
+<entidade "Theon Greyjoy">Theon</entidade> returns to Winterfell with two children's bodies burned beyond recognition,and he has them hoisted to either side of the main gate.
+<entidade "Luwin">Maester Luwin</entidade> cries out in grief when he sees them.
+At <entidade "Harrenhal">Harrenhal</entidade>,<entidade "Tywin Lannister">Tywin Lannister</entidade> is discussing the assassination of Amory Lorch with Ser Gregor Clegane.
+<entidade "Tywin Lannister">Tywin</entidade> is convinced that it was an assassination attempt on himself,unaware that <entidade "Jaqen H'ghar">Jaqen H'ghar</entidade> actually killed <entidade "Lorch">Lorch</entidade> on the request of <entidade "Arya Stark">Arya Stark</entidade>.
+<entidade "Gregor">Ser Gregor</entidade> speculates that the Brotherhood Without Banners may have been responsible.
+<entidade "Enraged">Enraged</entidade>,<entidade "Tywin Lannister">Tywin</entidade> orders <entidade "Gregor">Gregor</entidade> to burn out villages and farms in reprisal for this assassination attempt.
+<entidade "Tywin Lannister">Tywin</entidade> later suspects that <entidade "Arya Stark">Arya</entidade> is highborn,because she doesn't pronounce <entidade "M'Lord">M'Lord</entidade> the way commoners do,instead saying <entidade "My Lord">My Lord</entidade>,and possesses an educated vocabulary.
+<entidade "Arya Stark">Arya</entidade> makes the excuse that her <entidade "Mother">Mother</entidade>,whom she said was a handmaiden for years to royalty,had taught her to speak properly like them.
+In <entidade "King's Landing">King's Landing</entidade>,<entidade "Sansa Stark">Sansa Stark</entidade> comes to thank <entidade "Sandor">Sandor</entidade> The <entidade "Hound Clegane">Hound Clegane</entidade> for saving her life during the recent riot in the city and says that he was very brave.
+<entidade "Sandor">Sandor</entidade> simply says that a dog doesn't need courage to fight off rats.
+<entidade "Sansa Stark">Sansa</entidade> is perturbed by his hateful speech,but <entidade "Sandor">Sandor</entidade> cautions that a day will come when his penchant for violence is all that stands between her and her beloved <entidade "King Joffrey">King Joffrey</entidade>.
 
-<entidade " Sansa Stark"> Sansa</entidade> and <entidade " Shae"> Shae</entidade> trying to flip the mattress.
-<entidade " Sansa Stark"> Sansa</entidade> awakens in her bed from a nightmare,only to find the sheets covered in blood she has begun menstruating for the first time.
-Given that <entidade " Joffrey"> Joffrey</entidade> openly promised to rape <entidade " Sansa Stark"> Sansa</entidade> to put a son in you as soon as she had her blood,she then frantically tries to get rid of the bloody sheets to remove the evidence.
-<entidade " Shae"> Shae</entidade> tries to help <entidade " Sansa Stark"> Sansa</entidade> hide the sheets but <entidade " Sandor"> Sandor</entidade> finds them.
-<entidade " Terrified"> Terrified</entidade> of being brought to <entidade " Joffrey"> Joffrey</entidade>,<entidade " Sansa Stark"> Sansa</entidade> is instead brought before Queen <entidade " Regent Cersei Lannister"> Regent Cersei Lannister</entidade>,who awkwardly tries to comfort her.
-<entidade " Cersei"> Cersei</entidade> presents <entidade " Sansa Stark"> Sansa</entidade> with warped advice on <entidade " Joffrey"> Joffrey</entidade>,bizarre counseling based on her bitter marriage with <entidade " King Robert Baratheon"> King Robert Baratheon</entidade>.
-Blithely waving away her son's torment of <entidade " Sansa Stark"> Sansa</entidade> and homicidal outbursts she says that her brother <entidade " Jaime Lannister"> Jaime Lannister</entidade> stayed by her side the whole time she was giving birth to <entidade " Joffrey"> Joffrey</entidade>,but <entidade " Sansa Stark"> Sansa</entidade> should never expect such devotion from <entidade " Joffrey"> Joffrey</entidade>.
-<entidade " Cersei"> Cersei</entidade> firmly believes that <entidade " Sansa Stark"> Sansa</entidade> and <entidade " Joffrey"> Joffrey</entidade> not being in love is a good thing ; she advises <entidade " Sansa Stark"> Sansa</entidade> the more people you love,the weaker you are.
-<entidade " Cersei"> Cersei</entidade> says that no one expects her to love <entidade " Joffrey"> Joffrey</entidade>,though she may take comfort in her love for the children they will have.
-Privately,<entidade " Cersei"> Cersei</entidade> meets with <entidade " Tyrion"> Tyrion</entidade> and expresses regret at having children with her own brother <entidade " Jaime Lannister"> Jaime</entidade>.
-She wonders if <entidade " Joffrey"> Joffrey</entidade>'s violent personality is the price of her and <entidade " Jaime Lannister"> Jaime</entidade>'s sins.
-<entidade " Tyrion"> Tyrion</entidade> earnestly points out that her other two children,<entidade " Myrcella"> Myrcella</entidade> and <entidade " Tommen"> Tommen</entidade>,are not monsters,and they share an odd moment of sympathy.
+<entidade "Sansa Stark">Sansa</entidade> and <entidade "Shae">Shae</entidade> trying to flip the mattress.
+<entidade "Sansa Stark">Sansa</entidade> awakens in her bed from a nightmare,only to find the sheets covered in blood she has begun menstruating for the first time.
+Given that <entidade "Joffrey">Joffrey</entidade> openly promised to rape <entidade "Sansa Stark">Sansa</entidade> to put a son in you as soon as she had her blood,she then frantically tries to get rid of the bloody sheets to remove the evidence.
+<entidade "Shae">Shae</entidade> tries to help <entidade "Sansa Stark">Sansa</entidade> hide the sheets but <entidade "Sandor">Sandor</entidade> finds them.
+<entidade "Terrified">Terrified</entidade> of being brought to <entidade "Joffrey">Joffrey</entidade>,<entidade "Sansa Stark">Sansa</entidade> is instead brought before Queen <entidade "Regent Cersei Lannister">Regent Cersei Lannister</entidade>,who awkwardly tries to comfort her.
+<entidade "Cersei">Cersei</entidade> presents <entidade "Sansa Stark">Sansa</entidade> with warped advice on <entidade "Joffrey">Joffrey</entidade>,bizarre counseling based on her bitter marriage with <entidade "King Robert Baratheon">King Robert Baratheon</entidade>.
+Blithely waving away her son's torment of <entidade "Sansa Stark">Sansa</entidade> and homicidal outbursts she says that her brother <entidade "Jaime Lannister">Jaime Lannister</entidade> stayed by her side the whole time she was giving birth to <entidade "Joffrey">Joffrey</entidade>,but <entidade "Sansa Stark">Sansa</entidade> should never expect such devotion from <entidade "Joffrey">Joffrey</entidade>.
+<entidade "Cersei">Cersei</entidade> firmly believes that <entidade "Sansa Stark">Sansa</entidade> and <entidade "Joffrey">Joffrey</entidade> not being in love is a good thing ; she advises <entidade "Sansa Stark">Sansa</entidade> the more people you love,the weaker you are.
+<entidade "Cersei">Cersei</entidade> says that no one expects her to love <entidade "Joffrey">Joffrey</entidade>,though she may take comfort in her love for the children they will have.
+Privately,<entidade "Cersei">Cersei</entidade> meets with <entidade "Tyrion">Tyrion</entidade> and expresses regret at having children with her own brother <entidade "Jaime Lannister">Jaime</entidade>.
+She wonders if <entidade "Joffrey">Joffrey</entidade>'s violent personality is the price of her and <entidade "Jaime Lannister">Jaime</entidade>'s sins.
+<entidade "Tyrion">Tyrion</entidade> earnestly points out that her other two children,<entidade "Myrcella">Myrcella</entidade> and <entidade "Tommen">Tommen</entidade>,are not monsters,and they share an odd moment of sympathy.
 
-<entidade " Torrhen Karstark"> Torrhen Karstark</entidade> discovers the body of <entidade " Alton Lannister"> Alton Lannister</entidade>.
-At <entidade " King Robb Stark"> King Robb Stark</entidade>'s army camp in the <entidade " Westerlands"> Westerlands</entidade>,close to an unidentified keep,<entidade " Alton Lannister"> Alton Lannister</entidade> returns as an envoy giving <entidade " Queen Cersei"> Queen Cersei</entidade>'s response to <entidade " Robb"> Robb</entidade>'s peace terms.
-<entidade " Robb"> Robb</entidade> is unsurprised that she rejected them and imprisons <entidade " Alton Lannister"> Alton</entidade> with his cousin <entidade " Jaime Lannister"> Jaime Lannister</entidade>.
-The nurse <entidade " Talisa Maegyr"> Talisa Maegyr</entidade> discusses medical supplies she needs with <entidade " Robb"> Robb</entidade>.
-Robb suggests she accompany him to the <entidade " Crag"> Crag</entidade> to acquire the supplies she needs.
-That night,<entidade " Jaime Lannister"> Jaime</entidade> kills <entidade " Alton Lannister"> Alton</entidade> to lure the guard,<entidade " Torrhen Karstark"> Torrhen Karstark</entidade>,into his cell.
-<entidade " Jaime Lannister"> Jaime</entidade> strangles <entidade " Torrhen Karstark"> Torrhen</entidade> and escapes,but is soon recaptured.
-<entidade " Torrhen Karstark"> Torrhen</entidade> was the son of <entidade " Lord Rickard Karstark"> Lord Rickard Karstark</entidade>,one of the major nobles from the <entidade " North"> North</entidade>.
-<entidade " Lord Rickard Karstark"> Lord Rickard</entidade> demands <entidade " Jaime Lannister"> Jaime</entidade>'s execution in revenge,regardless of his protected status as both a prisoner of war and a valuable political hostage.
-<entidade " Catelyn"> Catelyn</entidade> is forced to argue for <entidade " Jaime Lannister"> Jaime</entidade>'s life.
-<entidade " Catelyn"> Catelyn</entidade> confronts <entidade " Jaime Lannister"> Jaime</entidade> and tells him that he has no honor.
+<entidade "Torrhen Karstark">Torrhen Karstark</entidade> discovers the body of <entidade "Alton Lannister">Alton Lannister</entidade>.
+At <entidade "King Robb Stark">King Robb Stark</entidade>'s army camp in the <entidade "Westerlands">Westerlands</entidade>,close to an unidentified keep,<entidade "Alton Lannister">Alton Lannister</entidade> returns as an envoy giving <entidade "Cersei">Queen Cersei</entidade>'s response to <entidade "Robb">Robb</entidade>'s peace terms.
+<entidade "Robb">Robb</entidade> is unsurprised that she rejected them and imprisons <entidade "Alton Lannister">Alton</entidade> with his cousin <entidade "Jaime Lannister">Jaime Lannister</entidade>.
+The nurse <entidade "Talisa Maegyr">Talisa Maegyr</entidade> discusses medical supplies she needs with <entidade "Robb">Robb</entidade>.
+Robb suggests she accompany him to the <entidade "Crag">Crag</entidade> to acquire the supplies she needs.
+That night,<entidade "Jaime Lannister">Jaime</entidade> kills <entidade "Alton Lannister">Alton</entidade> to lure the guard,<entidade "Torrhen Karstark">Torrhen Karstark</entidade>,into his cell.
+<entidade "Jaime Lannister">Jaime</entidade> strangles <entidade "Torrhen Karstark">Torrhen</entidade> and escapes,but is soon recaptured.
+<entidade "Torrhen Karstark">Torrhen</entidade> was the son of <entidade "Rickard Karstark">Lord Rickard Karstark</entidade>,one of the major nobles from the <entidade "North">North</entidade>.
+<entidade "Rickard Karstark">Lord Rickard</entidade> demands <entidade "Jaime Lannister">Jaime</entidade>'s execution in revenge,regardless of his protected status as both a prisoner of war and a valuable political hostage.
+<entidade "Catelyn">Catelyn</entidade> is forced to argue for <entidade "Jaime Lannister">Jaime</entidade>'s life.
+<entidade "Catelyn">Catelyn</entidade> confronts <entidade "Jaime Lannister">Jaime</entidade> and tells him that he has no honor.
 Jaime bitterly explains that his vows as a knight required him to defend the innocent and serve the king,but his king was slaughtering the innocent.
-<entidade " Jaime Lannister"> Jaime</entidade> considers concepts like honor and loyalty naïve at best and hypocritical at worst.
-<entidade " Jaime Lannister"> Jaime</entidade> asserts that he has only been with <entidade " Cersei"> Cersei</entidade> and begins to ridicule <entidade " Eddard Stark"> Eddard Stark</entidade>,<entidade " Catelyn"> Catelyn</entidade>'s late husband,by bringing up the shame of <entidade " Eddard Stark"> Eddard</entidade> fathering a bastard.
-This brings <entidade " Catelyn"> Catelyn</entidade> to breaking point and she asks for <entidade " Brienne"> Brienne</entidade>'s sword.
+<entidade "Jaime Lannister">Jaime</entidade> considers concepts like honor and loyalty naïve at best and hypocritical at worst.
+<entidade "Jaime Lannister">Jaime</entidade> asserts that he has only been with <entidade "Cersei">Cersei</entidade> and begins to ridicule <entidade "Eddard Stark">Eddard Stark</entidade>,<entidade "Catelyn">Catelyn</entidade>'s late husband,by bringing up the shame of <entidade "Eddard Stark">Eddard</entidade> fathering a bastard.
+This brings <entidade "Catelyn">Catelyn</entidade> to breaking point and she asks for <entidade "Brienne">Brienne</entidade>'s sword.
 
-Beyond the <entidade " Wall"> Wall</entidade> 
-<entidade " Jon Snow"> Jon Snow</entidade> is still separated from the <entidade " Night's Watch"> Night's Watch</entidade> scouting group led by <entidade " Qhorin Halfhand"> Qhorin Halfhand</entidade>.
-He attempts to locate them,traveling with his wildling prisoner <entidade " Ygritte"> Ygritte</entidade>.
-She argues with <entidade " Jon Snow"> Jon</entidade>,criticizing him for ignoring their common descent from the <entidade " First Men"> First Men</entidade>.
-She states that the animosity of the southerners to the <entidade " Wildlings"> Wildlings</entidade> is arbitrary,given that the Wildlings are only distinguished from them by living north of the <entidade " Wall"> Wall</entidade> when it was constructed.
-She mocks <entidade " Jon Snow"> Jon</entidade>'s sexual repression and surmises that he is a virgin.
+Beyond the <entidade "Wall">Wall</entidade> 
+<entidade "Jon Snow">Jon Snow</entidade> is still separated from the <entidade "Night's Watch">Night's Watch</entidade> scouting group led by <entidade "Qhorin Halfhand">Qhorin Halfhand</entidade>.
+He attempts to locate them,traveling with his wildling prisoner <entidade "Ygritte">Ygritte</entidade>.
+She argues with <entidade "Jon Snow">Jon</entidade>,criticizing him for ignoring their common descent from the <entidade "First Men">First Men</entidade>.
+She states that the animosity of the southerners to the <entidade "Wildlings">Wildlings</entidade> is arbitrary,given that the Wildlings are only distinguished from them by living north of the <entidade "Wall">Wall</entidade> when it was constructed.
+She mocks <entidade "Jon Snow">Jon</entidade>'s sexual repression and surmises that he is a virgin.
 She taunts him by offering to teach him how to have sex.
 She escapes and leads him into an ambush.
-<entidade " Ygritte"> Ygritte</entidade> says that <entidade " Jon Snow"> Jon</entidade> should have taken her when he had the chance.
+<entidade "Ygritte">Ygritte</entidade> says that <entidade "Jon Snow">Jon</entidade> should have taken her when he had the chance.
 
-In <entidade " Qarth"> Qarth</entidade> 
-<entidade " Daenerys Targaryen"> Daenerys Targaryen</entidade> is desperate to find her stolen dragons.
-<entidade " Ser Jorah Mormont"> Ser Jorah Mormont</entidade> returns and she orders him to find them.
-Xaro <entidade " Xhoan Daxos"> Xhoan Daxos</entidade> claims to be distressed at breaking his promise to protect her,fearing that his word will be publicly seen as worthless.
-<entidade " Jorah"> Jorah</entidade> questions <entidade " Quaithe of Asshai"> Quaithe of Asshai</entidade>.
-<entidade " Quaithe of Asshai"> Quaithe</entidade> knows that <entidade " Jorah"> Jorah</entidade> once betrayed <entidade " Daenerys Targaryen"> Daenerys</entidade> by spying on her.
-<entidade " Quaithe of Asshai"> Quaithe</entidade> warns <entidade " Jorah"> Jorah</entidade> that the man who stole the dragons is already with <entidade " Daenerys Targaryen"> Daenerys</entidade>.
-<entidade " Jorah"> Jorah</entidade> finds <entidade " Daenerys Targaryen"> Daenerys</entidade>,in the company of <entidade " Kovarro"> Kovarro</entidade>,pleading with the council of The <entidade " Thirteen"> Thirteen</entidade> to find her dragons.
-The warlock <entidade " Pyat Pree"> Pyat Pree</entidade> confesses to stealing the dragons and declares Xaro the <entidade " King of Qarth"> King of Qarth</entidade>.
-Doubles of the warlock then magically appear behind the other members of the <entidade " Thirteen"> Thirteen</entidade> and slit their throats,leaving only <entidade " Pyat Pree"> Pyat Pree</entidade> and <entidade " Xaro"> Xaro</entidade>.
-Xaro secretly entered into an alliance with <entidade " Pyat Pree"> Pyat Pree</entidade> to become king.
-<entidade " Pyat Pree"> Pyat Pree</entidade> urges <entidade " Daenerys Targaryen"> Daenerys</entidade> to find her dragons at the <entidade " House of the Undying"> House of the Undying</entidade> as the three flee.
+In <entidade "Qarth">Qarth</entidade> 
+<entidade "Daenerys Targaryen">Daenerys Targaryen</entidade> is desperate to find her stolen dragons.
+<entidade "Jorah Mormont">Ser Jorah Mormont</entidade> returns and she orders him to find them.
+Xaro <entidade "Xhoan Daxos">Xhoan Daxos</entidade> claims to be distressed at breaking his promise to protect her,fearing that his word will be publicly seen as worthless.
+<entidade "Jorah Mormont">Jorah</entidade> questions <entidade "Quaithe of Asshai">Quaithe of Asshai</entidade>.
+<entidade "Quaithe of Asshai">Quaithe</entidade> knows that <entidade "Jorah Mormont">Jorah</entidade> once betrayed <entidade "Daenerys Targaryen">Daenerys</entidade> by spying on her.
+<entidade "Quaithe of Asshai">Quaithe</entidade> warns <entidade "Jorah Mormont">Jorah</entidade> that the man who stole the dragons is already with <entidade "Daenerys Targaryen">Daenerys</entidade>.
+<entidade "Jorah Mormont">Jorah</entidade> finds <entidade "Daenerys Targaryen">Daenerys</entidade>,in the company of <entidade "Kovarro">Kovarro</entidade>,pleading with the council of The <entidade "Thirteen">Thirteen</entidade> to find her dragons.
+The warlock <entidade "Pyat Pree">Pyat Pree</entidade> confesses to stealing the dragons and declares Xaro the <entidade "King of Qarth">King of Qarth</entidade>.
+Doubles of the warlock then magically appear behind the other members of the <entidade "Thirteen">Thirteen</entidade> and slit their throats,leaving only <entidade "Pyat Pree">Pyat Pree</entidade> and <entidade "Xaro">Xaro</entidade>.
+Xaro secretly entered into an alliance with <entidade "Pyat Pree">Pyat Pree</entidade> to become king.
+<entidade "Pyat Pree">Pyat Pree</entidade> urges <entidade "Daenerys Targaryen">Daenerys</entidade> to find her dragons at the <entidade "House of the Undying">House of the Undying</entidade> as the three flee.
 
