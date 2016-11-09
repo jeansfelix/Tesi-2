@@ -15,7 +15,7 @@ ENTIDADES_NOMEADAS = []
 RELACOES = []
 MAPA_EPISODIOS_TEMPORADA = dict()
 
-def aplicarGramatica(sentencasTokenizadas):
+def aplicarGramatica(sentencasTokenizadas, nomeEpisodioFormatado):
     gramaticaEntidades = r"""DATA: {<NNP><CD><.><CD>}
                              NOMES: {<NNP>+|<NNPS>+}
                              NNPINDTNNP: {<NOMES>(<IN><DT><NOMES>)+}
@@ -134,27 +134,28 @@ def aplicarGramatica(sentencasTokenizadas):
                 if arvore.label() == 'ENTIDADERELACAOENTIDADE':
                     ehPrimeiraEntidade = True
                     for subarvore in arvore:
+                        tempRelacao = ''
                         if subarvore.label() == 'ENTIDADE':
                             for folha in subarvore.leaves():
                                 if folha[1] == 'IN' and folha[0] not in IN_Desejados:
                                     break;
-
-                                if len(relacao) > 2:
-                                    relacao += ' ' + folha[0]
+                                if tempRelacao != '':
+                                    tempRelacao += ' ' + folha[0]
                                 else:
-                                    relacao = folha[0]
+                                    tempRelacao = folha[0]
                             if ehPrimeiraEntidade:
-                                relacao += ','
+                                tempRelacao += ','
                                 ehPrimeiraEntidade = False
                         elif subarvore.label() == 'RELACAO':
                             for folha in subarvore.leaves():
-                                if len(relacao) > 2:
-                                    relacao += ' ' + folha[0]
+                                if tempRelacao != '':
+                                    tempRelacao += ' ' + folha[0]
                                 else:
-                                    relacao = folha[0]
-                            relacao += ','
+                                    tempRelacao = folha[0]
+                            tempRelacao += ','
+                        relacao+=tempRelacao
 
-                    RELACOES.append(relacao)
+                    RELACOES.append(nomeEpisodioFormatado + ',' + relacao)
 
     return textoEpisodio
 
@@ -178,7 +179,8 @@ def processarEpisodios(caminhoEpisodios, episodios):
         for sentenca in sentencas:
             sentencasTokenizadas.append(nltk.word_tokenize(sentenca))
 
-        mapaEpisodioTextoEpisodio[episodio] = aplicarGramatica(sentencasTokenizadas)
+        nomeEpisodioFormatado = 'S' + caminhoEpisodios.split('/')[1].split('_')[1] + '_' + episodio.split('.txt')[0]
+        mapaEpisodioTextoEpisodio[episodio] = aplicarGramatica(sentencasTokenizadas, nomeEpisodioFormatado)
 
     return mapaEpisodioTextoEpisodio
 
@@ -226,6 +228,7 @@ def gerarCSVEntidadesNomeadas(todasEntidadesNomeadas):
 def gerarCSVRelacoes(relacoes):
     csvRelacoes = open(join(DIRETORIO_DESTINO, 'relacoes.csv'), 'w+')
 
+    csvRelacoes.write('Episodio,Entidade1,Relação,Entidade2' + '\n')
     for relacao in sorted(relacoes):
         csvRelacoes.write(relacao + '\n')
     csvRelacoes.close()
