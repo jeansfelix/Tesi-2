@@ -66,10 +66,12 @@ def executarProcessamento(diretorioTemporadas):
     #calculando tfidf
     tfidf = dict(dict())
     for documento in vezesQueUmaPalavraApareceEmUmDocumento.iterkeys():
-        tf = dict()
+        tfidfPalavra = dict()
         for palavra in vezesQueUmaPalavraApareceEmUmDocumento[documento].iterkeys():
-            tf[palavra] = (vezesQueUmaPalavraApareceEmUmDocumento[documento][palavra] / quantidadePalavrasPorDocumento[documento]) * math.log( numeroDeDocumentos/numeroDeDocumentosEmQueAPalavraAparece[palavra])
-        tfidf[documento] = tf
+            tf = vezesQueUmaPalavraApareceEmUmDocumento[documento][palavra] / quantidadePalavrasPorDocumento[documento]
+            idf = math.log(numeroDeDocumentos/numeroDeDocumentosEmQueAPalavraAparece[palavra])
+            tfidfPalavra[palavra] = tf * idf
+        tfidf[documento] = tfidfPalavra
 
     return tfidf
 

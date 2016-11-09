@@ -226,7 +226,7 @@ def gerarCSVEntidadesNomeadas(todasEntidadesNomeadas):
 def gerarCSVRelacoes(relacoes):
     csvRelacoes = open(join(DIRETORIO_DESTINO, 'relacoes.csv'), 'w+')
 
-    for relacao in relacoes:
+    for relacao in sorted(relacoes):
         csvRelacoes.write(relacao + '\n')
     csvRelacoes.close()
 
