@@ -28,7 +28,10 @@ def aplicarGramatica(sentencasTokenizadas):
                             NNPINNNP: {<NOMES><IN><NOMES>}
                             NNPOSTROFE: {<NOMES><POS><NOMES>}
                             ENTIDADE: {<DATA>|<NOMES>|<NNPINDTNNP>|<NNPINNNP>|<NNPOSTROFE>}
-                            ENTIDADEVERBOENTIDADE: {(<ENTIDADE>)<RB>*<VB.*>+<IN>*(<ENTIDADE>)}"""
+                            ADVERBIO: {<RB>|<RBR>|<RBS>}
+                            VERBO: {<VB.*>|<TO><VB.*>}
+                            RELACAO: {<ADVERBIO>*<VERBO>+<IN>*}
+                            ENTIDADERELACAOENTIDADE: {<ENTIDADE><RELACAO><ENTIDADE>}"""
 
     textoEpisodio = ''
     cacheReferenciados = []
@@ -57,7 +60,7 @@ def aplicarGramatica(sentencasTokenizadas):
                 ehEntidade = True
                 entidadeNomeada = ''
                 for folha in arvore.leaves():
-                    if len(entidadeNomeada) > 2:
+                    if len(entidadeNomeada) != '':
                         if folha[1] == 'IN' and folha[0] not in IN_Desejados:
                             ehEntidade = False
 
@@ -70,7 +73,7 @@ def aplicarGramatica(sentencasTokenizadas):
                     else:
                         entidadeNomeada = folha[0]
 
-                if len(entidadeNomeada) > 2:
+                if len(entidadeNomeada) != '':
                     if ehEntidade:
                         ENTIDADES_NOMEADAS.append(entidadeNomeada)
 
@@ -128,16 +131,30 @@ def aplicarGramatica(sentencasTokenizadas):
         for arvore in sentencaRelacoesParseada:
             if type(arvore) is nltk.Tree:
                 relacao = ''
-                if arvore.label() == 'ENTIDADEVERBOENTIDADE':
-                    for folha in arvore.leaves():
-                        if len(relacao) > 2:
-                            relacao += ' ' + folha[0]
-                        else:
-                            relacao = folha[0]
+                if arvore.label() == 'ENTIDADERELACAOENTIDADE':
+                    ehPrimeiraEntidade = True
+                    for subarvore in arvore:
+                        if subarvore.label() == 'ENTIDADE':
+                            for folha in subarvore.leaves():
+                                if folha[1] == 'IN' and folha[0] not in IN_Desejados:
+                                    break;
+
+                                if len(relacao) > 2:
+                                    relacao += ' ' + folha[0]
+                                else:
+                                    relacao = folha[0]
+                            if ehPrimeiraEntidade:
+                                relacao += ','
+                                ehPrimeiraEntidade = False
+                        elif subarvore.label() == 'RELACAO':
+                            for folha in subarvore.leaves():
+                                if len(relacao) > 2:
+                                    relacao += ' ' + folha[0]
+                                else:
+                                    relacao = folha[0]
+                            relacao += ','
 
                     RELACOES.append(relacao)
-
-
 
     return textoEpisodio
 
