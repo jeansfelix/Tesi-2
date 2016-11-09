@@ -19,8 +19,15 @@ def main():
 
     resultado = ordenar(tfidf, consulta)
 
+def truncate(f, n):
+    s = '{}'.format(f)
+    if 'e' in s or 'E' in s:
+        return '{0:.{1}f}'.format(f, n)
+    i, p, d = s.partition('.')
+    return '.'.join([i, (d+'0'*n)[:n]])
+
 def ordenar(tfidf, consulta):
-    palavrasConsulta = consulta.split()
+    palavrasConsulta = consulta.lower().split()
 
     episodioValor = dict()
     for documento in tfidf.iterkeys():
@@ -29,9 +36,12 @@ def ordenar(tfidf, consulta):
             if palavraConsulta in tfidf[documento]:
                 episodioValor[documento] += tfidf[documento][palavraConsulta]
 
-    lista = sorted([str(episodioValor[a]) + ' - ' + a for a in episodioValor.iterkeys()],  reverse=True)
+    lista = sorted([str(truncate(episodioValor[a], 20)) + ' - ' + a for a in episodioValor.iterkeys()],  reverse=True)
 
-    print lista[:5]
+    for cont in range(0,5):
+        print lista[cont]
+
+
 
 def executarProcessamento(diretorioTemporadas):
     temporadas = [t for t in listdir(diretorioTemporadas)]
@@ -39,7 +49,6 @@ def executarProcessamento(diretorioTemporadas):
     vezesQueUmaPalavraApareceEmUmDocumento = dict(dict())
     quantidadePalavrasPorDocumento = dict()
     for temporada in sorted(temporadas):
-        print 'Processando temporada: ' + temporada
         caminhoTemporada = join(diretorioTemporadas, temporada)
 
         caminhoEpisodios = join(caminhoTemporada, 'episodios')
