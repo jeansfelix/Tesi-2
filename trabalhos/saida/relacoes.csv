@@ -31,24 +31,24 @@ S1_baelor,Varys,insinuates that,Sansa
 S1_baelor,Varys,tells,Eddard
 S1_baelor,Varys,urges,Eddard
 S1_baelor,Varys,visits,Eddard Stark
-S1_cripples,_bastards_and_broken_things,Arya,asks whether,Bran
-S1_cripples,_bastards_and_broken_things,Cersei,visits,Eddard
-S1_cripples,_bastards_and_broken_things,Daenerys,arrives at,Vaes Dothrak
-S1_cripples,_bastards_and_broken_things,Daenerys,confides in,Mormont
-S1_cripples,_bastards_and_broken_things,Daenerys,sends,Doreah
-S1_cripples,_bastards_and_broken_things,Eddard,comes across,Arya
-S1_cripples,_bastards_and_broken_things,Eddard,decides that,Littlefinger
-S1_cripples,_bastards_and_broken_things,Eddard,realizes that,Gendry
-S1_cripples,_bastards_and_broken_things,Eddard,sends,Jory
-S1_cripples,_bastards_and_broken_things,Eddard,sends,Jory Cassel
-S1_cripples,_bastards_and_broken_things,Ghost,to intimidate,Rast
-S1_cripples,_bastards_and_broken_things,Lannister,stops at,Winterfell
-S1_cripples,_bastards_and_broken_things,Littlefinger,recommends that,Sansa
-S1_cripples,_bastards_and_broken_things,Sam,joins,Jon on the Wall
-S1_cripples,_bastards_and_broken_things,Sam,tells,Jon
-S1_cripples,_bastards_and_broken_things,Ser Alliser,scolds,Jon
-S1_cripples,_bastards_and_broken_things,Tyrion,sympathizes with,Bran
-S1_cripples,_bastards_and_broken_things,Viserys,is annoyed that,Drogo
+S1_cripples_bastards_and_broken_things,Arya,asks whether,Bran
+S1_cripples_bastards_and_broken_things,Cersei,visits,Eddard
+S1_cripples_bastards_and_broken_things,Daenerys,arrives at,Vaes Dothrak
+S1_cripples_bastards_and_broken_things,Daenerys,confides in,Mormont
+S1_cripples_bastards_and_broken_things,Daenerys,sends,Doreah
+S1_cripples_bastards_and_broken_things,Eddard,comes across,Arya
+S1_cripples_bastards_and_broken_things,Eddard,decides that,Littlefinger
+S1_cripples_bastards_and_broken_things,Eddard,realizes that,Gendry
+S1_cripples_bastards_and_broken_things,Eddard,sends,Jory
+S1_cripples_bastards_and_broken_things,Eddard,sends,Jory Cassel
+S1_cripples_bastards_and_broken_things,Ghost,to intimidate,Rast
+S1_cripples_bastards_and_broken_things,Lannister,stops at,Winterfell
+S1_cripples_bastards_and_broken_things,Littlefinger,recommends that,Sansa
+S1_cripples_bastards_and_broken_things,Sam,joins,Jon on the Wall
+S1_cripples_bastards_and_broken_things,Sam,tells,Jon
+S1_cripples_bastards_and_broken_things,Ser Alliser,scolds,Jon
+S1_cripples_bastards_and_broken_things,Tyrion,sympathizes with,Bran
+S1_cripples_bastards_and_broken_things,Viserys,is annoyed that,Drogo
 S1_fire_and_blood,Catelyn,interrogates,Jaime
 S1_fire_and_blood,Duur,agrees that,Daenerys
 S1_fire_and_blood,Joffrey,asks,Marillion
@@ -292,37 +292,37 @@ S3_and_now_his_watch_is_ended,Varys,arrives to meet with,Olenna
 S3_and_now_his_watch_is_ended,Varys,is surprised that,Ros
 S3_and_now_his_watch_is_ended,Varys,realizes,Littlefinger
 S3_and_now_his_watch_is_ended,Varys,thus urges,Tyrion
-S3_dark_wings,_dark_words,Baelish,has offered to help,Sansa
-S3_dark_wings,_dark_words,Bran,says that,Howland
-S3_dark_wings,_dark_words,Brienne,gives,Jaime
-S3_dark_wings,_dark_words,Catelyn,really hated was,Jon
-S3_dark_wings,_dark_words,Cersei,begins to criticize,Margaery
-S3_dark_wings,_dark_words,Eddard,to have,Jon
-S3_dark_wings,_dark_words,Gendry,loudly criticizes,Arya
-S3_dark_wings,_dark_words,Jaime Lannister,provokes,Brienne
-S3_dark_wings,_dark_words,Jaime,deduces that,Brienne
-S3_dark_wings,_dark_words,Jaime,tells,Brienne
-S3_dark_wings,_dark_words,Jojen,explains that,Bran
-S3_dark_wings,_dark_words,Jojen,says that,Howland
-S3_dark_wings,_dark_words,Karstark,maintains that unless,Edmure
-S3_dark_wings,_dark_words,Mance,brings,Jon
-S3_dark_wings,_dark_words,Mormont,assigns,Rast
-S3_dark_wings,_dark_words,Mormont,tells,Sam
-S3_dark_wings,_dark_words,Olenna,continues to prod,Sansa
-S3_dark_wings,_dark_words,Olenna,insists that,Sansa
-S3_dark_wings,_dark_words,Rast,is annoyed that,Sam
-S3_dark_wings,_dark_words,Rast,to keep,Sam
-S3_dark_wings,_dark_words,Robb,asks if,Karstark
-S3_dark_wings,_dark_words,Robb,leaves,Roose
-S3_dark_wings,_dark_words,Sam,is upset that,Grenn
-S3_dark_wings,_dark_words,Sansa,reminds,Loras
-S3_dark_wings,_dark_words,Shae,asks,Tyrion Lannister
-S3_dark_wings,_dark_words,Shae,continues to warn,Sansa
-S3_dark_wings,_dark_words,Shae,dresses,Sansa Stark
-S3_dark_wings,_dark_words,Shae,sneaks into,Tyrion Lannister
-S3_dark_wings,_dark_words,Shae,starts undressing,Tyrion
-S3_dark_wings,_dark_words,Shae,suggests that,Baelish
-S3_dark_wings,_dark_words,Ygritte,is surprised that,Jon
+S3_dark_wings_dark_words,Baelish,has offered to help,Sansa
+S3_dark_wings_dark_words,Bran,says that,Howland
+S3_dark_wings_dark_words,Brienne,gives,Jaime
+S3_dark_wings_dark_words,Catelyn,really hated was,Jon
+S3_dark_wings_dark_words,Cersei,begins to criticize,Margaery
+S3_dark_wings_dark_words,Eddard,to have,Jon
+S3_dark_wings_dark_words,Gendry,loudly criticizes,Arya
+S3_dark_wings_dark_words,Jaime Lannister,provokes,Brienne
+S3_dark_wings_dark_words,Jaime,deduces that,Brienne
+S3_dark_wings_dark_words,Jaime,tells,Brienne
+S3_dark_wings_dark_words,Jojen,explains that,Bran
+S3_dark_wings_dark_words,Jojen,says that,Howland
+S3_dark_wings_dark_words,Karstark,maintains that unless,Edmure
+S3_dark_wings_dark_words,Mance,brings,Jon
+S3_dark_wings_dark_words,Mormont,assigns,Rast
+S3_dark_wings_dark_words,Mormont,tells,Sam
+S3_dark_wings_dark_words,Olenna,continues to prod,Sansa
+S3_dark_wings_dark_words,Olenna,insists that,Sansa
+S3_dark_wings_dark_words,Rast,is annoyed that,Sam
+S3_dark_wings_dark_words,Rast,to keep,Sam
+S3_dark_wings_dark_words,Robb,asks if,Karstark
+S3_dark_wings_dark_words,Robb,leaves,Roose
+S3_dark_wings_dark_words,Sam,is upset that,Grenn
+S3_dark_wings_dark_words,Sansa,reminds,Loras
+S3_dark_wings_dark_words,Shae,asks,Tyrion Lannister
+S3_dark_wings_dark_words,Shae,continues to warn,Sansa
+S3_dark_wings_dark_words,Shae,dresses,Sansa Stark
+S3_dark_wings_dark_words,Shae,sneaks into,Tyrion Lannister
+S3_dark_wings_dark_words,Shae,starts undressing,Tyrion
+S3_dark_wings_dark_words,Shae,suggests that,Baelish
+S3_dark_wings_dark_words,Ygritte,is surprised that,Jon
 S3_kissed_by_fire,Arya,earnestly asks,Thoros
 S3_kissed_by_fire,Barristan,admits that,Robert
 S3_kissed_by_fire,Barristan,knew that,Jorah
@@ -772,28 +772,28 @@ S5_the_wars_to_come,Sansa,witnesses,Baelish
 S5_the_wars_to_come,Varys,offers,Tyrion
 S5_the_wars_to_come,Varys,states that,Westeros
 S5_the_wars_to_come,Wise Masters,have asked that,Daenerys
-S5_unbowed,_unbent,_unbroken,Doran,asks if,Areo
-S5_unbowed,_unbent,_unbroken,Faceless Man,then asks,Arya
-S5_unbowed,_unbent,_unbroken,High Sparrow,interrogates,Loras
-S5_unbowed,_unbent,_unbroken,High Sparrow,then calls in,Olyvar
-S5_unbowed,_unbent,_unbroken,Jaime,tries to convince,Myrcella
-S5_unbowed,_unbent,_unbroken,Jaqen H'ghar,comes to test,Arya
-S5_unbowed,_unbent,_unbroken,Jorah,pulls,Tyrion
-S5_unbowed,_unbent,_unbroken,Lancel,warns,Baelish
-S5_unbowed,_unbent,_unbroken,Myrcella,kissing,Trystane
-S5_unbowed,_unbent,_unbroken,Olenna,sadly regards,Cersei
-S5_unbowed,_unbent,_unbroken,Olenna,tries to talks,Cersei
-S5_unbowed,_unbent,_unbroken,Olenna,warns,Cersei
-S5_unbowed,_unbent,_unbroken,Olyvar,also admits that,Margaery
-S5_unbowed,_unbent,_unbroken,Petyr Baelish,arrives in,King 's Landing
-S5_unbowed,_unbent,_unbroken,Reek,comes to fetch,Sansa
-S5_unbowed,_unbent,_unbroken,Reek,gives,Sansa
-S5_unbowed,_unbent,_unbroken,Sansa,is joined by,Myranda
-S5_unbowed,_unbent,_unbroken,Sansa,startles,Myranda
-S5_unbowed,_unbent,_unbroken,Tyrion,is surprised that,Jorah
-S5_unbowed,_unbent,_unbroken,Waif,simply tells,Arya
-S5_unbowed,_unbent,_unbroken,Waif,tells,Arya
-S5_unbowed,_unbent,_unbroken,Waif,then asks,Arya
+S5_unbowed_unbent_unbroken,Doran,asks if,Areo
+S5_unbowed_unbent_unbroken,Faceless Man,then asks,Arya
+S5_unbowed_unbent_unbroken,High Sparrow,interrogates,Loras
+S5_unbowed_unbent_unbroken,High Sparrow,then calls in,Olyvar
+S5_unbowed_unbent_unbroken,Jaime,tries to convince,Myrcella
+S5_unbowed_unbent_unbroken,Jaqen H'ghar,comes to test,Arya
+S5_unbowed_unbent_unbroken,Jorah,pulls,Tyrion
+S5_unbowed_unbent_unbroken,Lancel,warns,Baelish
+S5_unbowed_unbent_unbroken,Myrcella,kissing,Trystane
+S5_unbowed_unbent_unbroken,Olenna,sadly regards,Cersei
+S5_unbowed_unbent_unbroken,Olenna,tries to talks,Cersei
+S5_unbowed_unbent_unbroken,Olenna,warns,Cersei
+S5_unbowed_unbent_unbroken,Olyvar,also admits that,Margaery
+S5_unbowed_unbent_unbroken,Petyr Baelish,arrives in,King 's Landing
+S5_unbowed_unbent_unbroken,Reek,comes to fetch,Sansa
+S5_unbowed_unbent_unbroken,Reek,gives,Sansa
+S5_unbowed_unbent_unbroken,Sansa,is joined by,Myranda
+S5_unbowed_unbent_unbroken,Sansa,startles,Myranda
+S5_unbowed_unbent_unbroken,Tyrion,is surprised that,Jorah
+S5_unbowed_unbent_unbroken,Waif,simply tells,Arya
+S5_unbowed_unbent_unbroken,Waif,tells,Arya
+S5_unbowed_unbent_unbroken,Waif,then asks,Arya
 S6_book_of_the_stranger,Brienne,warns,Melisandre
 S6_book_of_the_stranger,Council,has planned to make,Margaery
 S6_book_of_the_stranger,Daario,smashes,Aggo

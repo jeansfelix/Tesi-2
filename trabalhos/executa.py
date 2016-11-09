@@ -180,6 +180,7 @@ def processarEpisodios(caminhoEpisodios, episodios):
             sentencasTokenizadas.append(nltk.word_tokenize(sentenca))
 
         nomeEpisodioFormatado = 'S' + caminhoEpisodios.split('/')[1].split('_')[1] + '_' + episodio.split('.txt')[0]
+        nomeEpisodioFormatado = re.sub(',','' ,nomeEpisodioFormatado)
         mapaEpisodioTextoEpisodio[episodio] = aplicarGramatica(sentencasTokenizadas, nomeEpisodioFormatado)
 
     return mapaEpisodioTextoEpisodio
