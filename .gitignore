@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Pasta imagens
+ProcessamentoImagem/img
+
+# Arquivos Gerados
+ProcessamentoImagem/hist_feature_test.py
