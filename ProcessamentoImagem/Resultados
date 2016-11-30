@@ -1,0 +1,97 @@
+------- Resultados ----------
+
+Para imagens em cinza com dois layers 1000 testes, 9000 batch_trainning,
+temos:
+
+0 :  0.096
+100 :  0.126
+200 :  0.179
+300 :  0.187
+400 :  0.203
+500 :  0.158
+600 :  0.199
+700 :  0.186
+800 :  0.2
+900 :  0.192
+
+TEST RESULT:  0.198
+
+
+
+Para imagens coloridas com dois layers 1000 testes, 9000 batch_trainning,
+utilizando ProximalGradientDescentOptimizer e taxa de aprendizado igual a 0.5,
+temos:
+
+0 :  0.084
+100 :  0.121
+200 :  0.137
+300 :  0.144
+400 :  0.15
+500 :  0.174
+600 :  0.18
+700 :  0.181
+800 :  0.186
+900 :  0.184
+
+
+TEST RESULT:  0.151
+
+
+Para imagens coloridas com dois layers 1000 testes, 9000 batch_trainning,
+utilizando ProximalGradientDescentOptimizer e taxa de aprendizado igual a 0.8,
+temos:
+
+0 :  0.107
+100 :  0.125
+200 :  0.151
+300 :  0.166
+400 :  0.174
+500 :  0.172
+600 :  0.18
+700 :  0.18
+800 :  0.184
+900 :  0.184
+
+TEST RESULT:  0.167
+
+
+Para imagens coloridas com dois layers 1000 testes, 9000 batch_trainning,
+utilizando GradientDescentOptimizer e taxa de aprendizado igual a 0.8,
+temos:
+
+0 :  0.091
+100 :  0.137
+200 :  0.148
+300 :  0.164
+400 :  0.179
+500 :  0.173
+600 :  0.173
+700 :  0.175
+800 :  0.175
+900 :  0.186
+
+
+
+
+TEST RESULT:  0.162
+
+
+Para imagens coloridas com dois layers 1000 testes, 1000 batch_trainning,
+utilizando GradientDescentOptimizer e taxa de aprendizado igual a 0.8,
+temos:
+
+0 :  0.091
+100 :  0.148
+200 :  0.153
+300 :  0.172
+400 :  0.171
+500 :  0.176
+600 :  0.181
+700 :  0.192
+800 :  0.193
+900 :  0.193
+
+TEST RESULT:  0.19
+
+
+
