@@ -4,50 +4,94 @@ import sys, nltk, codecs, re, math
 from os import listdir, makedirs, pardir
 from os.path import isfile, isdir, join, basename, exists, abspath
 
+nltk.download('punkt')
+
 reload(sys)
 sys.setdefaultencoding("utf-8")
+limitante = 0.001
 
+class Sentenca:
+    sentencaOriginal = ''
+    sentencaMinuscula = ''
+    score = 0.0
+
+    def __init__(self, sentencaOriginal):
+        self.sentencaOriginal = sentencaOriginal
+        self.sentencaMinuscula = sentencaOriginal.lower()
+    
+    def __str__(self):
+        return self.sentencaOriginal + ' ' + str(self.score)
+        
+    def __repr__(self):
+        return self.sentencaOriginal + ' ' + str(self.score)
+        
 def main():
     diretorioDocumentos = sys.argv[1]
     executarProcessamento(diretorioDocumentos)
 
 def executarProcessamento(diretorioDocumentos):
+    tokenizador = nltk.data.load('tokenizers/punkt/english.pickle')
+
     documentos = [t for t in listdir(diretorioDocumentos)]
 
-    numDocumentos = len(documentos)
-   
-    palavrasPresentesEmDocumento = dict()
+    mapaPalavrasPorDocumento = dict()
 
+    sentencasPorDocumento = dict()
+    
     for documento in documentos:
+        arquivo = open(join(diretorioDocumentos, documento))
+
+        #Separando texto em sentenças
+        sentencas = list()
+        for linha in arquivo:
+            sentencas += (tokenizador.tokenize(linha.decode('utf8')))
+        arquivo.close()
+
+        listaSentencas = list()
+        for sentenca in sentencas:
+            listaSentencas.append(Sentenca(sentenca.strip()))
+
         arquivo = open(join(diretorioDocumentos, documento))
         textoDocumento = arquivo.read().decode('utf8');
         arquivo.close()
-      
-        #Removendo pontuação
-        textoDocumento = re.sub(r'''[.,;:!?'"()&]''', r' ', textoDocumento)
+
+        sentencasPorDocumento[documento] = listaSentencas
         
+        textoDocumento = re.sub(r'''[.,;:!?'"()&]''', r' ', textoDocumento)
         #Extraindo palavras do documento e transformando em minúsculas        
         palavrasDoDocumento = textoDocumento.lower().split()
 
-        palavrasPresentesEmDocumento[documento] = palavrasDoDocumento
-        
-    palavrasEmTodosDocumentos = list()
-    for documento in palavrasPresentesEmDocumento.iterkeys():
-        palavrasEmTodosDocumentos += palavrasPresentesEmDocumento[documento]
+        mapaPalavrasPorDocumento[documento] = palavrasDoDocumento
         
     #Calculando TF
+    tfidf = criarTFIDF(mapaPalavrasPorDocumento)
+    centroid = criarCentroid(tfidf)
+    
+    for sentenca in listaSentencas:
+        sentenca.score = 0.0
+
+        sentencaProcessada = re.sub(r'''[.,;:!?'"()&]''', r' ', sentenca.sentencaMinuscula)
+
+        for palavra in nltk.word_tokenize(sentencaProcessada):
+            sentenca.score += centroid[palavra]
+    
+
+def criarTFIDF(mapaPalavrasPorDocumento):
+    numDocumentos = len(mapaPalavrasPorDocumento.keys())
+
+    palavrasEmTodosDocumentos = list()
+    for documento in mapaPalavrasPorDocumento.iterkeys():
+        palavrasEmTodosDocumentos += mapaPalavrasPorDocumento[documento]
+
     tf = dict(dict())
-    for documento in documentos:
+    for documento in mapaPalavrasPorDocumento.iterkeys():
         tfDocumento = dict()
-        for palavra in palavrasPresentesEmDocumento[documento]:
+        for palavra in mapaPalavrasPorDocumento[documento]:
             if palavra in tfDocumento:
                 tfDocumento[palavra] += 1.0
             else:
                 tfDocumento[palavra] = 1.0
         
-        for palavra in palavrasPresentesEmDocumento[documento]:
-            tfDocumento[palavra] = tfDocumento[palavra]
-                
         tf[documento] = tfDocumento
     
     #Calculando IDF de cada palavra
@@ -57,8 +101,8 @@ def executarProcessamento(diretorioDocumentos):
     
     numeroDeDocumentosEmQuePalavraAparece = dict()
     for palavra in palavrasEmTodosDocumentos:
-        for documento in palavrasPresentesEmDocumento.iterkeys(): 
-            if palavra in palavrasPresentesEmDocumento[documento]:
+        for documento in mapaPalavrasPorDocumento.iterkeys(): 
+            if palavra in mapaPalavrasPorDocumento[documento]:
                 if palavra in numeroDeDocumentosEmQuePalavraAparece:
                     numeroDeDocumentosEmQuePalavraAparece[palavra] += 1.0
                 else:
@@ -67,21 +111,39 @@ def executarProcessamento(diretorioDocumentos):
     idf = dict()
     for palavra in palavrasEmTodosDocumentos:
         idf[palavra] = math.log(numDocumentos / numeroDeDocumentosEmQuePalavraAparece[palavra])
-    
+
+    tfCluster = dict()
+    for documento in tf.iterkeys():
+        for palavra in tf[documento]:
+            if palavra in tfCluster:
+                tfCluster[palavra] += tf[documento][palavra]
+            else:
+                tfCluster[palavra] = tf[documento][palavra]
+
+    for palavra in tfCluster.iterkeys():
+        tfCluster[palavra] = tfCluster[palavra] / len(palavrasEmTodosDocumentos)
 
     #Calculando TF-IDF
-    tfidf = dict(dict())
-    for documento in documentos:
-        tfidfDocumento = dict()
+    tfidf = dict()
+    for documento in mapaPalavrasPorDocumento.iterkeys():
         for palavra in palavrasEmTodosDocumentos:
-            if palavra not in tf[documento]:
-                tfidfDocumento[palavra] = 0
+            if palavra not in tfCluster:
+                tfidf[palavra] = 0.0
             else:
-                tfidfDocumento[palavra] = tf[documento][palavra] * idf[palavra]
-        tfidf[documento] = tfidfDocumento
-        
-    print tfidf['the_wolf_and_the_lion.txt']['princess']
-            
+                tfidf[palavra] = tfCluster[palavra] * idf[palavra]
+
+    return tfidf
+
+def criarCentroid(tfidf):
+
+    centroid = dict()
+    for palavra in tfidf.iterkeys():
+        if tfidf[palavra] > limitante:
+            centroid[palavra] = tfidf[palavra]
+        else:
+            centroid[palavra] = 0.0
+    return centroid
+    
 if __name__ == "__main__":
     main()
 
