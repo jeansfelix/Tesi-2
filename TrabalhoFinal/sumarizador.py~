@@ -75,14 +75,13 @@ def executarProcessamento(diretorioDocumentos):
     listaSentencas = list()
     for documento in sentencasPorDocumento.iterkeys():
         for sentenca in sentencasPorDocumento[documento]:
+            listaSentencas.append(sentenca)
             sentenca.score = 0.0
 
             sentencaProcessada = re.sub(r'''[.,;:!?'"()&]''', r' ', sentenca.sentencaMinuscula)
 
             for palavra in nltk.word_tokenize(sentencaProcessada):
                 sentenca.score += centroid[palavra]
-
-            listaSentencas.append(sentenca)
     
     sentencasPorScore = sorted(listaSentencas, key=operator.attrgetter('score'))
     

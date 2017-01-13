@@ -22,7 +22,7 @@ def main():
     textoLivro = open(os.path.join(caminhoLivro, nomeLivro + '.txt')).read()
 
     textoLivro = re.sub(r'\n', r' ', textoLivro)
-    textoCapitulos = re.split('Chapter [0-9]+[ ]+', textoLivro)
+    textoCapitulos = re.split('Chapter [0-9]+', textoLivro)
     
     count = 0
     for textoCapitulo in textoCapitulos:
