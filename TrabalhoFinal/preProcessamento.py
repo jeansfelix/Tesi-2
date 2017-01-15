@@ -13,9 +13,13 @@ def preProcessar(caminhoLivro):
 
     textoLivro = open(caminhoLivro).read()
 
+    # Removendo enter no fim de cada linha
     textoLivro = re.sub(r'\n', r' ', textoLivro)
+
+    # Removendo linha com numero do capitulo
     textoCapitulos = re.split('Chapter [0-9]+[ ]+', textoLivro)
 
+    # Separando texto capitulos em arquivos
     count = 0
     for textoCapitulo in textoCapitulos:
         if count != 0:
@@ -26,7 +30,3 @@ def salvarArquivo(texto, caminho):
     saida = open(caminho, 'w+')
     saida.write(texto)
     saida.close()
-
-def criarPasta(caminho):
-    if not (os.path.isdir(caminho)):
-        os.mkdir(caminho)

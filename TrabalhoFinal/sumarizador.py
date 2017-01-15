@@ -5,10 +5,11 @@ import sys, nltk, math, re, operator
 from os import listdir
 from os.path import join
 
-#nltk.download('punkt')
-
 reload(sys)
 sys.setdefaultencoding("utf-8")
+
+# Importando biblioteca do nltk
+nltk.download('punkt')
 
 class Sentenca:
     sentencaOriginal = ''
@@ -29,6 +30,8 @@ class Sentenca:
     def __repr__(self):
         return self.sentencaOriginal + ' ' + str(self.score)
 
+
+
 def main():
     if len(sys.argv) < 3:
         print 'Por favor, digite os argumentos desta forma: python sumarizador.py <caminhoLivro> <percentualResumo>'
@@ -43,6 +46,7 @@ def main():
 def executarProcessamento(diretorioDocumentos, percentualResumo):
     tokenizador = nltk.data.load('tokenizers/punkt/english.pickle')
 
+    # recuperando arquivos com texto dos capitulos
     documentos = [t for t in listdir(diretorioDocumentos)]
     documentos.sort(key=int)
 
@@ -56,6 +60,7 @@ def executarProcessamento(diretorioDocumentos, percentualResumo):
         sentencas = (tokenizador.tokenize(arquivo.read().decode('utf8')))
         arquivo.close()
 
+        # Criando objetos Sentenca com o valor da sentença, ordem e numero do capitulo
         listaSentencas = list()
         for sentenca in sentencas:
             listaSentencas.append(Sentenca(sentenca.strip(), ordem, documento))
@@ -65,10 +70,11 @@ def executarProcessamento(diretorioDocumentos, percentualResumo):
         textoDocumento = arquivo.read().decode('utf8');
         arquivo.close()
 
+        # Guardando as sentenças de cada capitulo
         sentencasPorDocumento[documento] = listaSentencas
 
-        textoDocumento = re.sub(r'''[.,;:!?'"()&]''', r' ', textoDocumento)
         #Extraindo palavras do documento e transformando em minúsculas
+        textoDocumento = re.sub(r'''[.,;:!?'"()&]''', r' ', textoDocumento)
         palavrasDoDocumento = nltk.word_tokenize(textoDocumento.lower())
 
         mapaPalavrasPorDocumento[documento] = palavrasDoDocumento
@@ -76,6 +82,8 @@ def executarProcessamento(diretorioDocumentos, percentualResumo):
     #Calculando TF
     tfidf = criarTFIDF(mapaPalavrasPorDocumento)
 
+
+    # Calculando totais de palavras e palavras desprezadas
     total = 0.0
     count = 0
     totalPalavras = 0
@@ -86,28 +94,31 @@ def executarProcessamento(diretorioDocumentos, percentualResumo):
             count += 1
 
     global limitante
-
     limitante = total / count
 
     print 'Limitante:' + str(limitante)
     print 'Total Palavras:' + str(count)
 
-    centroid = criarCentroid(tfidf)
+    # Gerando centroide da
+    centroide = criarCentroide(tfidf)
 
+
+    # Calculando o score de cada sentença
     listaSentencas = list()
     for documento in sentencasPorDocumento.iterkeys():
         for sentenca in sentencasPorDocumento[documento]:
             sentenca.score = 0.0
-
             sentencaProcessada = re.sub(r'''[.,;:!?'"()&]''', r' ', sentenca.sentencaMinuscula)
 
             for palavra in nltk.word_tokenize(sentencaProcessada):
-                sentenca.score += centroid[palavra]
+                sentenca.score += centroide[palavra]
 
             listaSentencas.append(sentenca)
 
+    # Ordenando sentencas por score
     sentencasPorScore = sorted(listaSentencas, key=operator.attrgetter('score'))
 
+    # Extraindo o percentual de sentencas requisitado
     tam = len(sentencasPorScore)
     numeroSentencasDesprezadas = tam - int(tam * float(percentualResumo))
     sentencasComMaiorScore = sentencasPorScore[numeroSentencasDesprezadas:]
@@ -136,6 +147,7 @@ def criarTFIDF(mapaPalavrasPorDocumento):
     for documento in mapaPalavrasPorDocumento.iterkeys():
         palavrasEmTodosDocumentos += mapaPalavrasPorDocumento[documento]
 
+    # Calculando tf de cada palavra
     tf = dict()
     for documento in mapaPalavrasPorDocumento.iterkeys():
         for palavra in mapaPalavrasPorDocumento[documento]:
@@ -176,7 +188,7 @@ def criarTFIDF(mapaPalavrasPorDocumento):
 
     return tfidf
 
-def criarCentroid(tfidf):
+def criarCentroide(tfidf):
     centroid = dict()
     count = 0
     for palavra in tfidf.iterkeys():
