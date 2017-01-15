@@ -1,8 +1,9 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-import sys, nltk, codecs, re, math, operator
-from os import listdir, makedirs, pardir
-from os.path import isfile, isdir, join, basename, exists, abspath
+import preProcessamento
+import sys, nltk, math, re, operator
+from os import listdir
+from os.path import join
 
 #nltk.download('punkt')
 
@@ -13,47 +14,50 @@ limitante = 0.001
 class Sentenca:
     sentencaOriginal = ''
     sentencaMinuscula = ''
+    capitulo = ''
     ordem = 0
     score = 0.0
 
-    def __init__(self, sentencaOriginal, ordem):
+    def __init__(self, sentencaOriginal, ordem, capitulo):
         self.sentencaOriginal = sentencaOriginal
         self.sentencaMinuscula = sentencaOriginal.lower()
         self.ordem = ordem
-    
+        self.capitulo = capitulo
+
     def __str__(self):
         return self.sentencaOriginal + ' ' + str(self.score)
-        
+
     def __repr__(self):
         return self.sentencaOriginal + ' ' + str(self.score)
-        
-    def __lt__(self, other):
-         return self.ordem < other.ordem
-        
-def main():
-    diretorioDocumentos = sys.argv[1]
-    executarProcessamento(diretorioDocumentos)
 
-def executarProcessamento(diretorioDocumentos):
+def main():
+    if len(sys.argv) < 3:
+        print 'Por favor, digite os argumentos desta forma: python sumarizador.py <caminhoLivro> <percentualResumo>'
+        exit(1)
+
+    preProcessamento.preProcessar(sys.argv[1])
+    diretorioDocumentos = 'PreProcessado'
+    executarProcessamento(diretorioDocumentos, sys.argv[2])
+
+def executarProcessamento(diretorioDocumentos, percentualResumo):
     tokenizador = nltk.data.load('tokenizers/punkt/english.pickle')
 
     documentos = [t for t in listdir(diretorioDocumentos)]
+    documentos.sort(key=int)
 
     mapaPalavrasPorDocumento = dict()
-
     sentencasPorDocumento = dict()
-    
+    ordem = 0
     for documento in documentos:
         arquivo = open(join(diretorioDocumentos, documento))
-        
+
         #Separando texto em sentenças
         sentencas = (tokenizador.tokenize(arquivo.read().decode('utf8')))
         arquivo.close()
 
         listaSentencas = list()
-        ordem = 0
         for sentenca in sentencas:
-            listaSentencas.append(Sentenca(sentenca.strip(), ordem))
+            listaSentencas.append(Sentenca(sentenca.strip(), ordem, documento))
             ordem = ordem + 1
 
         arquivo = open(join(diretorioDocumentos, documento))
@@ -61,17 +65,17 @@ def executarProcessamento(diretorioDocumentos):
         arquivo.close()
 
         sentencasPorDocumento[documento] = listaSentencas
-        
+
         textoDocumento = re.sub(r'''[.,;:!?'"()&]''', r' ', textoDocumento)
-        #Extraindo palavras do documento e transformando em minúsculas        
+        #Extraindo palavras do documento e transformando em minúsculas
         palavrasDoDocumento = nltk.word_tokenize(textoDocumento.lower())
 
         mapaPalavrasPorDocumento[documento] = palavrasDoDocumento
-        
+
     #Calculando TF
     tfidf = criarTFIDF(mapaPalavrasPorDocumento)
     centroid = criarCentroid(tfidf)
-    
+
     listaSentencas = list()
     for documento in sentencasPorDocumento.iterkeys():
         for sentenca in sentencasPorDocumento[documento]:
@@ -83,24 +87,29 @@ def executarProcessamento(diretorioDocumentos):
                 sentenca.score += centroid[palavra]
 
             listaSentencas.append(sentenca)
-    
-    sentencasPorScore = sorted(listaSentencas, key=operator.attrgetter('score'))
-    
-    tam = len(sentencasPorScore)
-    porcentagemResumo = 0.2
-    numeroSentencasDesprezadas = tam - int(tam * porcentagemResumo)
-    sentencasComMaiorScore = sentencasPorScore[numeroSentencasDesprezadas:]
-    sentencasComMaiorScore.sort()
-    
-    arquivoResumo = open('resumo.csv', 'w+')
-    
-    print str(tam) + ' ' + str(numeroSentencasDesprezadas)
-    
-    for sentenca in sentencasComMaiorScore:
-        arquivoResumo.write(sentenca.sentencaOriginal + '\n')
 
+    sentencasPorScore = sorted(listaSentencas, key=operator.attrgetter('score'))
+
+    tam = len(sentencasPorScore)
+    numeroSentencasDesprezadas = tam - int(tam * float(percentualResumo))
+    sentencasComMaiorScore = sentencasPorScore[numeroSentencasDesprezadas:]
+
+    arquivoResumo = open('resumo.txt', 'w+')
+
+    print 'Quantidade de sentenças no livro: ' + str(tam)
+    print 'Quantidade de sentenças extraídas: ' + str(tam - numeroSentencasDesprezadas)
+
+    capitulo = ''
+    resumo = ''
+    for sentenca in sorted(sentencasComMaiorScore, key=operator.attrgetter('ordem')):
+        if str(capitulo) != str(sentenca.capitulo):
+            resumo += '\nCapitulo ' + sentenca.capitulo + '\n'
+            capitulo = sentenca.capitulo
+        resumo += sentenca.sentencaOriginal + '\n'
+
+    arquivoResumo.write(resumo)
     arquivoResumo.close()
-    
+
 
 def criarTFIDF(mapaPalavrasPorDocumento):
     numDocumentos = len(mapaPalavrasPorDocumento.keys())
@@ -109,59 +118,47 @@ def criarTFIDF(mapaPalavrasPorDocumento):
     for documento in mapaPalavrasPorDocumento.iterkeys():
         palavrasEmTodosDocumentos += mapaPalavrasPorDocumento[documento]
 
-    tf = dict(dict())
+    tf = dict()
     for documento in mapaPalavrasPorDocumento.iterkeys():
-        tfDocumento = dict()
         for palavra in mapaPalavrasPorDocumento[documento]:
-            if palavra in tfDocumento:
-                tfDocumento[palavra] += 1.0
+            if palavra in tf:
+                tf[palavra] += 1.0
             else:
-                tfDocumento[palavra] = 1.0
-        
-        tf[documento] = tfDocumento
-    
+                tf[palavra] = 1.0
+
     #Calculando IDF de cada palavra
-    
+
     #Removendo duplicações.
     palavrasEmTodosDocumentos = list(set(palavrasEmTodosDocumentos))
-    
+
     numeroDeDocumentosEmQuePalavraAparece = dict()
     for palavra in palavrasEmTodosDocumentos:
-        for documento in mapaPalavrasPorDocumento.iterkeys(): 
+        for documento in mapaPalavrasPorDocumento.iterkeys():
             if palavra in mapaPalavrasPorDocumento[documento]:
                 if palavra in numeroDeDocumentosEmQuePalavraAparece:
                     numeroDeDocumentosEmQuePalavraAparece[palavra] += 1.0
                 else:
                     numeroDeDocumentosEmQuePalavraAparece[palavra] = 1.0
-    
+
     idf = dict()
     for palavra in palavrasEmTodosDocumentos:
         idf[palavra] = math.log(numDocumentos / numeroDeDocumentosEmQuePalavraAparece[palavra])
 
-    tfCluster = dict()
-    for documento in tf.iterkeys():
-        for palavra in tf[documento]:
-            if palavra in tfCluster:
-                tfCluster[palavra] += tf[documento][palavra]
-            else:
-                tfCluster[palavra] = tf[documento][palavra]
-
-    for palavra in tfCluster.iterkeys():
-        tfCluster[palavra] = tfCluster[palavra] / len(palavrasEmTodosDocumentos)
+    for palavra in tf.iterkeys():
+        tf[palavra] = tf[palavra] / len(palavrasEmTodosDocumentos)
 
     #Calculando TF-IDF
     tfidf = dict()
     for documento in mapaPalavrasPorDocumento.iterkeys():
         for palavra in palavrasEmTodosDocumentos:
-            if palavra not in tfCluster:
+            if palavra not in tf:
                 tfidf[palavra] = 0.0
             else:
-                tfidf[palavra] = tfCluster[palavra] * idf[palavra]
+                tfidf[palavra] = tf[palavra] * idf[palavra]
 
     return tfidf
 
 def criarCentroid(tfidf):
-
     centroid = dict()
     for palavra in tfidf.iterkeys():
         if tfidf[palavra] > limitante:
@@ -169,13 +166,12 @@ def criarCentroid(tfidf):
         else:
             centroid[palavra] = 0.0
     return centroid
-    
+
 
 def salvarArquivo(texto, caminho):
     saida = open(caminho, 'w+')
     saida.write(texto)
     saida.close()
-        
+
 if __name__ == "__main__":
     main()
-
