@@ -9,7 +9,6 @@ from os.path import join
 
 reload(sys)
 sys.setdefaultencoding("utf-8")
-limitante = 0.001
 
 class Sentenca:
     sentencaOriginal = ''
@@ -36,6 +35,8 @@ def main():
         exit(1)
 
     preProcessamento.preProcessar(sys.argv[1])
+
+    print 'Extraindo Sentenças...'
     diretorioDocumentos = 'PreProcessado'
     executarProcessamento(diretorioDocumentos, sys.argv[2])
 
@@ -74,6 +75,23 @@ def executarProcessamento(diretorioDocumentos, percentualResumo):
 
     #Calculando TF
     tfidf = criarTFIDF(mapaPalavrasPorDocumento)
+
+    total = 0.0
+    count = 0
+    totalPalavras = 0
+    for palavra in tfidf.iterkeys():
+        totalPalavras += 1
+        if tfidf[palavra] > 0.001:
+            total += tfidf[palavra]
+            count += 1
+
+    global limitante
+
+    limitante = total / count
+
+    print 'Limitante:' + str(limitante)
+    print 'Total Palavras:' + str(count)
+
     centroid = criarCentroid(tfidf)
 
     listaSentencas = list()
@@ -145,7 +163,7 @@ def criarTFIDF(mapaPalavrasPorDocumento):
         idf[palavra] = math.log(numDocumentos / numeroDeDocumentosEmQuePalavraAparece[palavra])
 
     for palavra in tf.iterkeys():
-        tf[palavra] = tf[palavra] / len(palavrasEmTodosDocumentos)
+        tf[palavra] = tf[palavra] / float(len(palavrasEmTodosDocumentos))
 
     #Calculando TF-IDF
     tfidf = dict()
@@ -160,11 +178,16 @@ def criarTFIDF(mapaPalavrasPorDocumento):
 
 def criarCentroid(tfidf):
     centroid = dict()
+    count = 0
     for palavra in tfidf.iterkeys():
         if tfidf[palavra] > limitante:
             centroid[palavra] = tfidf[palavra]
+            count +=1
         else:
             centroid[palavra] = 0.0
+
+    print 'Palavras > limitante: ' + str(count)
+
     return centroid
 
 
