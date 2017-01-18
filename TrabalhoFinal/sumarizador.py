@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 import preProcessamento
-import sys, nltk, math, re, operator
+import sys, nltk, math, re, operator, collections
 from os import listdir
 from os.path import join
 
@@ -105,7 +105,9 @@ def executarProcessamento(diretorioDocumentos, percentualResumo):
 
     # Calculando o score de cada sentença
     listaSentencas = list()
+    numeroSentencasCapitulo = dict()
     for documento in sentencasPorDocumento.iterkeys():
+        numeroSentencas = 0
         for sentenca in sentencasPorDocumento[documento]:
             sentenca.score = 0.0
             sentencaProcessada = re.sub(r'''[.,;:!?'"()&]''', r' ', sentenca.sentencaMinuscula)
@@ -114,6 +116,8 @@ def executarProcessamento(diretorioDocumentos, percentualResumo):
                 sentenca.score += centroide[palavra]
 
             listaSentencas.append(sentenca)
+            numeroSentencas += 1
+        numeroSentencasCapitulo[documento] = numeroSentencas
 
     # Ordenando sentencas por score
     sentencasPorScore = sorted(listaSentencas, key=operator.attrgetter('score'))
@@ -130,14 +134,26 @@ def executarProcessamento(diretorioDocumentos, percentualResumo):
 
     capitulo = ''
     resumo = ''
+    mapaNumeroSentencasResumoCapitulo = dict()
     for sentenca in sorted(sentencasComMaiorScore, key=operator.attrgetter('ordem')):
         if str(capitulo) != str(sentenca.capitulo):
+	    if capitulo != '':
+                mapaNumeroSentencasResumoCapitulo[capitulo] = numeroSentencas
+            numeroSentencas = 0
             resumo += '\nCapitulo ' + sentenca.capitulo + '\n'
             capitulo = sentenca.capitulo
         resumo += sentenca.sentencaOriginal + '\n'
+        numeroSentencas += 1
+
+    mapaNumeroSentencasResumoCapitulo[capitulo] = numeroSentencas
 
     arquivoResumo.write(resumo)
     arquivoResumo.close()
+    print 'Percentual de resumo dos capítulos'
+    listaChaves = mapaNumeroSentencasResumoCapitulo.keys()
+    listaChaves.sort(key=int)
+    for capitulo in listaChaves:
+        print 'Capitulo ' + str(capitulo) + ' ' + str(float(mapaNumeroSentencasResumoCapitulo[capitulo]) / float(numeroSentencasCapitulo[capitulo]))
 
 
 def criarTFIDF(mapaPalavrasPorDocumento):
